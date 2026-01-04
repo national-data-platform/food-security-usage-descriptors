@@ -1,0 +1,19 @@
+file,field_name,type,description
+fileA,publication_id,String,Unique identifier assigned to each publication within the Dimensions corpus
+fileA,publication_title,String,Full title of the publication
+fileA,publication_doi,String,Digital Object Identifier (DOI) for the publication
+fileA,validated_dataset_id,String,Internal identifier for the validated dataset entity
+fileA,validated_dataset_name,String,Canonical name of the dataset referenced in the publication
+fileA,confidence_score_mention,Float,"Confidence score for dataset mentioned within the publication (0-10 scale)"
+fileA,confidence_score_use,Float,"Confidence score that the dataset was used in the study's analysis rather than only mentioned (0-10 scale)"
+fileA,validation_reasoning,String,Short rationale summarizing how the dataset was validated
+fileC,publication_id,String,Unique identifier assigned to each publication within the Dimensions corpus
+fileC,publication_title,String,Full title of the publication
+fileC,publication_doi,String,Digital Object Identifier (DOI) for the publication
+fileC,join_dataset1,String,Name of the first dataset in the join
+fileC,join_dataset2,String,Name of the second dataset in the join
+fileC,join_join_type,String,"General category of data integration (e.g., integration, linkage, merge)"
+fileC,join_confidence_score,Float,Model-generated confidence score (0-10 scale) for correct identification of a dataset join
+fileC,join_methodology,String,"Description of the procedure used to integrate the datasets, as described in the publication"
+fileC,join_join_keys,Array,"List of key variables used to link datasets (e.g., tract_geoid, firm_id, year)"
+fileC,join_context,String,Narrative summary of how the dataset join contributes to the study's objectives
