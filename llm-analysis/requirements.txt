@@ -1,0 +1,46 @@
+# Core workflow orchestration
+langgraph==0.5.3
+langchain-core>=0.3.21
+langchain-community>=0.3.8
+
+# Data processing
+pandas>=2.2.0
+numpy>=1.26.0
+pyarrow>=15.0.0
+
+# Database connections
+pymongo==4.6.1
+elasticsearch==8.12.0
+
+# LLM and AI
+openai>=1.7.2
+anthropic>=0.7.8
+transformers>=4.36.2
+torch>=2.6.0
+
+# HTTP clients for local LLM services
+httpx==0.26.0
+aiohttp==3.9.1
+
+# Configuration and environment
+pydantic>=2.7.4
+pydantic-settings>=2.10.0
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Logging and monitoring
+structlog==23.2.0
+rich==13.7.0
+
+# Template engine for prompts
+jinja2==3.1.3
+
+# Utilities
+click==8.1.7
+tenacity==8.2.3
+psutil==5.9.6
+
+# Text processing and fuzzy matching
+rapidfuzz==3.13.0 
+
+pip-system-certs

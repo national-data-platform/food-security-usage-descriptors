@@ -1,0 +1,167 @@
+# Configuration Template for pub-analysis-agent
+# Copy this file to config.yaml and customize for your deployment
+
+# =============================================================================
+# DATABASE CONFIGURATION
+# =============================================================================
+database:
+  # MongoDB connection settings
+  connection_string: "mongodb://localhost:27016/"
+  
+  # Database names
+  general_database: "general"
+  dimensions_database: "dimensions"
+  
+  # Collections in general database
+  datasets_collection: "datasets"
+  
+  # Collections in dimensions database  
+  authors_collection: "authors"
+  institutions_collection: "institutions"
+  publications_collection: "publications"
+  
+  # Collections in analysis database
+  results_collection: "llm_analyses"
+  
+  # Connection pool settings
+  max_pool_size: 50
+  min_pool_size: 5
+  
+  # Timeout settings (milliseconds)
+  connect_timeout_ms: 5000
+  server_selection_timeout_ms: 5000
+  
+  # SSL configuration
+  ssl_enabled: false
+
+# =============================================================================
+# ELASTICSEARCH CONFIGURATION
+# =============================================================================
+elasticsearch:
+  # Connection settings
+  url: "http://localhost:9200"
+  index: "publications"
+  
+  # Authentication (optional)
+  username: null
+  password: null
+  
+  # SSL settings
+  ssl_enabled: false
+  verify_certs: false
+  
+  # Performance settings
+  request_timeout: 30
+  max_retries: 3
+
+# =============================================================================
+# LLM SERVICE CONFIGURATION
+# =============================================================================
+llm:
+  # Service endpoints (local by default)
+  ollama_base_url: "http://localhost:11434/api"
+  lmstudio_base_url: "http://localhost:1234/v1/"
+  
+  # Model configuration
+  default_model: "gpt-oss:120b"
+  temperature: 0.1
+  max_tokens: 2048
+  top_p: 0.9
+  
+  # Request settings
+  request_timeout: 60
+  max_retries: 3
+  retry_delay: 1.0
+  
+  # API Keys (optional - for cloud services)
+  openai_api_key: null
+  anthropic_api_key: null
+
+# =============================================================================
+# PROCESSING CONFIGURATION
+# =============================================================================
+processing:
+  # Batch processing
+  batch_size: 10
+  max_concurrent: 5
+  chunk_size: 1000
+  
+  # Memory management
+  max_memory_usage_mb: 2048
+  enable_memory_monitoring: true
+  
+  # Workflow settings
+  workflow_max_retries: 3
+  workflow_timeout_minutes: 30
+  workflow_checkpoint_enabled: true
+  
+  # Agent confidence thresholds (0.0 - 1.0)
+  triage_confidence_threshold: 0.7
+  dataset_validation_confidence_threshold: 0.6
+  code_extraction_confidence_threshold: 0.5
+
+# =============================================================================
+# LOGGING CONFIGURATION
+# =============================================================================
+logging:
+  # Basic settings
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "json"  # json or text
+  
+  # File logging
+  file_path: "logs/pub_analysis.log"
+  max_file_size_mb: 100
+  backup_count: 5
+  
+  # Component-specific logging
+  log_llm_requests: true
+  log_database_queries: false
+  log_workflow_state: true
+
+# =============================================================================
+# SECURITY SETTINGS
+# =============================================================================
+security:
+  # Rate limiting
+  enable_rate_limiting: true
+  requests_per_minute: 60
+
+# =============================================================================
+# DEVELOPMENT SETTINGS
+# =============================================================================
+development:
+  # Development mode
+  development_mode: true
+  
+  # Profiling
+  enable_performance_profiling: false
+  enable_memory_profiling: false
+  
+  # Test settings
+  test_mongodb_database: "test_dimensions"
+  test_elasticsearch_index: "test_publications"
+
+# =============================================================================
+# GLOBAL SETTINGS
+# =============================================================================
+# Note: Global settings like project_name, version, and custom paths
+# are not part of the Settings model and should be managed separately
+# if needed for your application.
+
+# =============================================================================
+# NETWORK DEPLOYMENT EXAMPLE
+# =============================================================================
+# For network-based deployment, modify the following:
+#
+# database:
+#   connection_string: "mongodb://mongodb-server:27017/"
+#   # ... other settings
+#
+# elasticsearch:
+#   url: "http://elasticsearch-server:9200"
+#   # ... other settings
+#
+# llm:
+#   ollama_base_url: "http://ollama-server:11434/api"
+#   lmstudio_base_url: "http://lmstudio-server:1234/v1/"
+#   # ... other settings 

@@ -1,0 +1,38 @@
+# Include base requirements
+-r requirements.txt
+
+# Testing frameworks and tools
+pytest>=8.0.0
+pytest-asyncio>=0.24.0
+pytest-cov>=6.0.0
+pytest-mock>=3.12.0
+factory-boy>=3.3.0
+
+# Code quality and linting
+ruff>=0.8.0
+mypy>=1.13.0
+pre-commit>=4.0.0
+black>=24.0.0
+isort>=5.13.2
+
+# Documentation
+sphinx>=8.0.0
+sphinx-rtd-theme>=3.0.0
+myst-parser>=4.0.0
+
+# Development tools
+ipython>=8.30.0
+jupyter>=1.1.0
+notebook>=7.3.0
+
+# Test utilities and mocking
+responses>=0.25.0
+httpretty>=1.1.4
+
+# Performance profiling - EXCLUDE line-profiler due to Python 3.12+ compatibility issues
+memory-profiler>=0.61.0
+# line-profiler>=4.2.0  # DISABLED: Has C API compatibility issues with Python 3.12+
+
+# Security scanning
+bandit>=1.8.0
+safety>=3.0.0  # Fixed: Available version is 3.6.0, not 4.0.0 

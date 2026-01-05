@@ -1,0 +1,169 @@
+services:
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    networks:
+      - dd
+
+  rabbitmq:
+    image: rabbitmq:4.1-management-alpine
+    container_name: rabbitmq_management
+    restart: always
+    ports:
+      - "5672:5672"
+      - "25672:25672"
+      - "15672:15672"
+    volumes:
+      - /tmp/rabbitmq/data/:/var/lib/rabbitmq/
+      - ./rabbitmq/rabbitmq.conf:/etc/rabbitmq/rabbitmq.conf:ro
+      - ./rabbitmq/definitions.json:/etc/rabbitmq/definitions.json:ro
+      - ./rabbitmq/enabled_plugins:/etc/rabbitmq/enabled_plugins:rw
+      - ./rabbitmq/plugins:/usr/lib/rabbitmq/plugins
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+      - RABBITMQ_PLUGINS_DIR=/opt/rabbitmq/plugins:/usr/lib/rabbitmq/plugins
+    networks:
+      - dd
+
+  elastic:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.13.2
+    container_name: elastic
+    restart: always
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - "/mnt/volume/elastic/data:/usr/share/elasticsearch/data"
+      - "/mnt/volume/elastic/plugins:/usr/share/elasticsearch/plugins"
+      - "/mnt/volume/elastic/logs:/usr/share/elasticsearch/logs"
+      - "/mnt/volume/elastic/config:/usr/share/elasticsearch/config"
+    networks:
+      - dd
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.13.2
+    container_name: elastic
+    restart: always
+    ports:
+      - "5601:5601"
+    volumes:
+      - "/mnt/volume/kibana/data:/usr/share/kibana/data"
+      - "/mnt/volume/kibana/logs:/usr/share/kibana/logs"
+      - "/mnt/volume/kibana/plugins:/usr/share/kibana/plugins"
+      - "/mnt/volume/kibana/config:/usr/share/kibana/config"
+    networks:
+      - dd
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    ports:
+      - "80:80"
+    volumes:
+      - type: bind
+        source: .env
+        target: /app/.env
+    networks:
+      - dd
+    command:
+      - python
+      - api.py
+    depends_on:
+      - mongo
+      - rabbitmq
+
+  process_dataset:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    deploy:
+      replicas: 1
+    working_dir: /app
+    networks:
+      - dd
+    volumes:
+      - type: bind
+        source: .env
+        target: /app/.env
+    command:
+      - python
+      - process_dataset.py
+    depends_on:
+      - mongo
+      - rabbitmq
+  
+  process_publication:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    deploy:
+      replicas: 1
+    working_dir: /app
+    networks:
+      - dd
+    volumes:
+      - type: bind
+        source: .env
+        target: /app/.env
+    command:
+      - python
+      - process_publication.py
+    depends_on:
+      - mongo
+      - rabbitmq
+
+  process_institution:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    deploy:
+      replicas: 10
+    networks:
+      - dd
+    volumes:
+      - type: bind
+        source: .env
+        target: /app/.env
+    command:
+      - python
+      - process_institution.py
+    depends_on:
+      - mongo
+      - rabbitmq
+
+  flatten_publication:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    deploy:
+      replicas: 10
+    networks:
+      - dd
+    volumes:
+      - type: bind
+        source: .env
+        target: /app/.env
+    command:
+      - python
+      - flatten_publication.py
+    depends_on:
+      - mongo
+      - rabbitmq
+
+networks:
+  dd:
+    driver: bridge
+
+volumes:
+  logs-folder:
+    name: ${log_rabbitmq_management}
+    driver: local
+
+

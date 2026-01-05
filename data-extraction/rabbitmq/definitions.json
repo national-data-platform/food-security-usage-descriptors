@@ -1,0 +1,192 @@
+{
+  "queues": [
+    {
+      "name": "pipeline_start_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {
+        "x-queue-type": "classic",
+        "x-message-ttl": 2000000
+      }
+    },
+    {
+      "name": "process_publication_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {
+        "x-queue-type": "classic"
+      }
+    },
+    {
+      "name": "publication_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {
+        "x-queue-type": "classic"
+      }
+    },
+    {
+      "name": "dataset_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {
+        "x-queue-type": "classic"
+      }
+    },
+    {
+      "name": "institution_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {
+        "x-queue-type": "classic"
+      }
+    },
+    {
+      "name": "publication_error_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {
+        "x-queue-type": "classic"
+      }
+    }
+  ],
+  "exchanges": [
+    {
+      "name": "pipeline_start_exchange",
+      "vhost": "/",
+      "type": "x-delayed-message",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {
+        "x-delayed-type": "direct"
+      }
+    },
+    {
+      "name": "publication_exchange",
+      "vhost": "/",
+      "type": "direct",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {}
+    },
+    {
+      "name": "process_publication_exchange",
+      "vhost": "/",
+      "type": "direct",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {}
+    },
+    {
+      "name": "dataset_exchange",
+      "vhost": "/",
+      "type": "direct",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {}
+    },
+    {
+      "name": "institution_exchange",
+      "vhost": "/",
+      "type": "direct",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {}
+    },
+    {
+      "name": "publications_error_exchange",
+      "vhost": "/",
+      "type": "direct",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {}
+    }
+  ],
+  "bindings": [
+    {
+      "source": "pipeline_start_exchange",
+      "vhost": "/",
+      "destination": "pipeline_start_queue",
+      "destination_type": "queue",
+      "routing_key": "pipeline_start_queue",
+      "arguments": {}
+    },
+    {
+      "source": "publication_exchange",
+      "vhost": "/",
+      "destination": "publication_queue",
+      "destination_type": "queue",
+      "routing_key": "publication_queue",
+      "arguments": {}
+    },
+    {
+      "source": "process_publication_exchange",
+      "vhost": "/",
+      "destination": "process_publication_queue",
+      "destination_type": "queue",
+      "routing_key": "process_publication_queue",
+      "arguments": {}
+    },
+    {
+      "source": "dataset_exchange",
+      "vhost": "/",
+      "destination": "dataset_queue",
+      "destination_type": "queue",
+      "routing_key": "dataset_queue",
+      "arguments": {}
+    },
+    {
+      "source": "institution_exchange",
+      "vhost": "/",
+      "destination": "institution_queue",
+      "destination_type": "queue",
+      "routing_key": "institution_queue",
+      "arguments": {}
+    },
+    {
+      "source": "publications_error_exchange",
+      "vhost": "/",
+      "destination": "publication_error_queue",
+      "destination_type": "queue",
+      "routing_key": "publication_error_queue",
+      "arguments": {}
+    }
+  ],
+  "users": [
+    {
+      "name": "guest",
+      "password_hash": "BMfxN8drrYcIqXZMr+pWTpDT0nMcOagMduLX0bjr4jwud/pN",
+      "hashing_algorithm": "rabbit_password_hashing_sha256",
+      "tags": [
+        "administrator"
+      ],
+      "limits": {}
+    }
+  ],
+  "vhosts": [
+    {
+      "name": "/"
+    }
+  ],
+  "permissions": [
+    {
+      "user": "guest",
+      "vhost": "/",
+      "configure": ".*",
+      "write": ".*",
+      "read": ".*"
+    }
+  ]
+}
