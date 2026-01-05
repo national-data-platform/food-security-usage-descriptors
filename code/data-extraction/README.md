@@ -2,6 +2,31 @@
 
 A service for extracting and processing metadata from OpenAlex API, focusing on dataset usage and related information in scientific publications.
 
+> **Part of the Food Security Usage Descriptors study.** This code was used to collect publication metadata for the research article analyzing USDA dataset usage in scientific literature.
+
+## Quick Start
+
+```bash
+# 1. Clone and enter directory
+git clone <repository-url>
+cd code/data-extraction
+
+# 2. Copy environment template
+cp .env.sample .env
+# Edit .env with your configuration (see Environment Setup below)
+
+# 3. Start all services with Docker
+docker-compose up -d
+
+# 4. Access the API documentation
+open http://localhost/docs
+
+# 5. Test with sample data
+curl -X POST http://localhost/pipelines/start \
+  -H "Content-Type: application/json" \
+  -d @samples/sample_dataset_input.json
+```
+
 ## Overview
 
 This system collects, processes, and indexes academic publications from OpenAlex, with a focus on data normalization and citation analysis. It uses an event-driven architecture with RabbitMQ for asynchronous processing and stores data in MongoDB with Elasticsearch for search capabilities.
@@ -44,6 +69,9 @@ data-extraction/
 ├── Dockerfile               # Container build configuration
 ├── requirements.txt         # Python dependencies
 ├── .env.sample              # Environment variables template
+├── samples/                 # Sample input data for testing
+│   ├── sample_dataset_input.json  # Example API input
+│   └── README.md            # Sample data documentation
 ├── rabbitmq/                # RabbitMQ configuration
 │   ├── definitions.json     # Queue and exchange definitions
 │   ├── rabbitmq.conf        # RabbitMQ settings
@@ -137,6 +165,18 @@ docker-compose logs -f
 # Stop services
 docker-compose down
 ```
+
+### Entrypoints
+
+The system has multiple entrypoints for different purposes:
+
+| Script | Purpose | When to Use |
+|--------|---------|-------------|
+| `api.py` | REST API server | Main entry point - start this to trigger pipelines via HTTP |
+| `process_publication.py` | Publication worker | Automatically started by Docker; processes publications from queue |
+| `process_institution.py` | Institution worker | Automatically started by Docker; enriches institution data |
+| `flatten_publication.py` | Flattening worker | Automatically started by Docker; prepares data for Elasticsearch |
+| `finish_process_notification.py` | Completion handler | Automatically started by Docker; handles pipeline completion |
 
 ### Services Endpoints
 

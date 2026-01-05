@@ -1,0 +1,12 @@
+{
+  "publication_id": "sample_pub_001",
+  "title": "Agricultural Land Use Patterns in the United States: A Comprehensive Analysis",
+  "doi": "10.1234/sample.2024.001",
+  "year": 2024,
+  "fulltext": "This study examines agricultural land use patterns across the United States using data from the Census of Agriculture and the National Resources Inventory (NRI). We combined these datasets to analyze temporal trends in cropland conversion.\n\nMethods: We obtained county-level data from the 2017 and 2022 Census of Agriculture, supplemented with land cover classifications from the NRI. The datasets were joined using FIPS county codes as the common identifier.\n\nResults: Our analysis reveals significant shifts in agricultural land use, with a 3.2% decrease in total cropland between 2017 and 2022. The integration of Census of Agriculture production data with NRI land cover data enabled us to identify regions where cropland conversion correlated with urban expansion.\n\nConclusion: The combined use of USDA Census data and NRI provides a comprehensive framework for understanding land use dynamics. Code for this analysis is available at https://github.com/example/ag-land-analysis.",
+  "abstract": "We analyze agricultural land use patterns using Census of Agriculture and NRI data.",
+  "authors": [
+    {"name": "Jane Smith", "affiliation": "University of Agriculture"},
+    {"name": "John Doe", "affiliation": "USDA Economic Research Service"}
+  ]
+}

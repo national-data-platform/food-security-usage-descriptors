@@ -1,0 +1,23 @@
+[
+  {
+    "dataset_id": "usda_census_ag",
+    "name": "Census of Agriculture",
+    "aliases": ["NASS Census of Agriculture", "Agricultural Census", "USDA Census", "AG Census"],
+    "source": "USDA NASS",
+    "description": "Comprehensive data about U.S. farms and ranches"
+  },
+  {
+    "dataset_id": "usda_nri",
+    "name": "National Resources Inventory",
+    "aliases": ["NRI", "USDA NRI", "Natural Resources Inventory"],
+    "source": "USDA NRCS",
+    "description": "Statistical survey of land use and natural resource conditions"
+  },
+  {
+    "dataset_id": "usda_cropscape",
+    "name": "CropScape",
+    "aliases": ["Cropland Data Layer", "CDL", "NASS CDL"],
+    "source": "USDA NASS",
+    "description": "Crop-specific land cover data layer"
+  }
+]

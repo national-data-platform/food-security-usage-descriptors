@@ -6,10 +6,26 @@ This repository contains data files and code supporting the article:
 
 Published in: Nature Scientific Data
 
+---
+
+## Quick Start
+
+### View the Data
+The `data/` folder contains all output CSV files from the study. See [Data Files](#data-files) below for descriptions.
+
+### Run the Code
+Each code component has its own Quick Start guide:
+- **Data Extraction**: See [`code/data-extraction/README.md`](code/data-extraction/README.md)
+- **LLM Analysis**: See [`code/llm-analysis/README.md`](code/llm-analysis/README.md)
+
+Both components include sample data files in their `samples/` folders for testing without a full database setup.
+
+---
+
 ## Repository Structure
 
 ```
-├── data/                          # Output data files
+├── data/                              # Output data files from the study
 │   ├── fileA_usda_publication_dataset_pairs.csv
 │   ├── fileB_additional_datasets_publication_pairs.csv
 │   ├── fileC_dataset_joins.csv
@@ -18,18 +34,21 @@ Published in: Nature Scientific Data
 │   ├── usda_seed_datasets.csv
 │   ├── additional_discovered_datasets.csv
 │   └── data_dictionary.csv
-├── data-extraction/               # Publication metadata extraction service
-│   ├── api.py                     # FastAPI REST API
-│   ├── process_publication.py     # Publication processing worker
-│   ├── process_institution.py     # Institution enrichment worker
-│   └── src/                       # Source modules
-├── llm-analysis/                  # LLM-powered publication analysis
-│   ├── src/pub_analysis_agent/    # Main analysis package
-│   │   ├── agents/                # LLM analysis agents
-│   │   ├── services/              # Business logic services
-│   │   └── workflows/             # LangGraph workflows
-│   └── tests/                     # Unit and integration tests
-└── README.md                      # This file
+│
+├── code/                              # Source code for data collection & analysis
+│   ├── data-extraction/               # Publication metadata extraction service
+│   │   ├── api.py                     # FastAPI REST API (main entrypoint)
+│   │   ├── samples/                   # Sample input data for testing
+│   │   ├── docker-compose.yml         # Docker configuration
+│   │   └── README.md                  # Setup and usage instructions
+│   │
+│   └── llm-analysis/                  # LLM-powered publication analysis
+│       ├── src/pub_analysis_agent/    # Main analysis package
+│       ├── samples/                   # Sample input data for testing
+│       ├── tests/                     # Unit and integration tests
+│       └── README.md                  # Setup and usage instructions
+│
+└── README.md                          # This file
 ```
 
 ---
@@ -58,7 +77,7 @@ Published in: Nature Scientific Data
 
 ## Code Components
 
-### Data Extraction (`data-extraction/`)
+### Data Extraction (`code/data-extraction/`)
 
 A service for extracting and processing metadata from OpenAlex API, focusing on dataset usage in scientific publications.
 
@@ -70,9 +89,17 @@ A service for extracting and processing metadata from OpenAlex API, focusing on 
 
 **Tech Stack:** Python, FastAPI, RabbitMQ, MongoDB, Elasticsearch, Docker
 
-See [`data-extraction/README.md`](data-extraction/README.md) for detailed documentation.
+**Getting Started:**
+```bash
+cd code/data-extraction
+cp .env.sample .env
+docker-compose up -d
+open http://localhost/docs
+```
 
-### LLM Analysis (`llm-analysis/`)
+See [`code/data-extraction/README.md`](code/data-extraction/README.md) for detailed documentation.
+
+### LLM Analysis (`code/llm-analysis/`)
 
 An AI-powered pipeline for analyzing full-text scientific publications to extract structured information about dataset usage.
 
@@ -87,7 +114,16 @@ An AI-powered pipeline for analyzing full-text scientific publications to extrac
 
 **Tech Stack:** Python 3.12+, LangGraph, Ollama/LM Studio, MongoDB, Elasticsearch
 
-See [`llm-analysis/README.md`](llm-analysis/README.md) for detailed documentation.
+**Getting Started:**
+```bash
+cd code/llm-analysis
+python3.12 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt && pip install -e .
+cp .env.example .env
+python -m pub_analysis_agent.config.cli validate
+```
+
+See [`code/llm-analysis/README.md`](code/llm-analysis/README.md) for detailed documentation.
 
 ---
 

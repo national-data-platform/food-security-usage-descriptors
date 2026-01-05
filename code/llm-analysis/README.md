@@ -2,6 +2,36 @@
 
 An AI-powered pipeline for analyzing scientific publications to extract structured information about dataset usage, discover new datasets, and analyze how datasets are combined in research.
 
+> **Part of the Food Security Usage Descriptors study.** This code was used to analyze publications and validate dataset mentions for the research article studying USDA dataset usage in scientific literature.
+
+## Quick Start
+
+```bash
+# 1. Clone and enter directory
+git clone <repository-url>
+cd code/llm-analysis
+
+# 2. Create virtual environment
+python3.12 -m venv venv
+source venv/bin/activate  # Linux/macOS
+
+# 3. Install dependencies
+pip install -r requirements.txt
+pip install -e .
+
+# 4. Copy and configure environment
+cp .env.example .env
+# Edit .env with your MongoDB and LLM configuration
+
+# 5. Start Ollama (for local LLM)
+ollama serve &
+ollama pull llama3.2
+
+# 6. Test with sample data
+python -m pub_analysis_agent.config.cli validate
+python -m pub_analysis_agent.config.cli test-connections
+```
+
 ## Overview
 
 This system uses LangGraph to orchestrate a multi-agent workflow that processes full-text scientific publications. Each agent performs a specific analysis task, and the results are aggregated into a structured output stored in MongoDB and indexed in Elasticsearch.
@@ -100,8 +130,12 @@ llm-analysis/
 │   │   └── workflows/             # Workflow tests
 │   └── integration/               # Integration tests
 ├── config/                        # Configuration files
+├── samples/                       # Sample input data for testing
+│   ├── sample_publication.json   # Example publication document
+│   ├── sample_known_datasets.json # Example dataset definitions
+│   └── README.md                  # Sample data documentation
 ├── requirements.txt               # Production dependencies
-├── requirements-dev.txt           # Development dependencies
+├── requirements-dev.txt           # Development dependencies (testing, linting)
 └── setup.py                       # Package setup
 ```
 
@@ -197,7 +231,15 @@ print(f"Discovered datasets: {len(result.newly_discovered_datasets)}")
 print(f"Dataset joins: {len(result.dataset_joins)}")
 ```
 
-### CLI Usage
+### CLI Usage (Entrypoints)
+
+The CLI provides several commands for different purposes:
+
+| Command | Purpose |
+|---------|--------|
+| `validate` | Validate configuration files and environment |
+| `test-connections` | Test MongoDB and Elasticsearch connections |
+| `analyze-publication` | Analyze a single publication file |
 
 ```bash
 # Validate configuration
@@ -209,6 +251,19 @@ python -m pub_analysis_agent.config.cli test-connections
 # Analyze publication
 python -m pub_analysis_agent.config.cli analyze-publication -p /path/to/file.parquet
 ```
+
+### Programmatic Entrypoints
+
+For batch processing or integration, use the Python API:
+
+| Class/Function | Purpose |
+|----------------|--------|
+| `WorkflowOrchestrator` | Main orchestrator for running the full analysis pipeline |
+| `triage_agent_step` | Classify if publication is data analysis |
+| `dataset_validation_agent_step` | Validate known dataset mentions |
+| `dataset_discovery_agent_step` | Discover new/unknown datasets |
+| `dataset_join_analysis_agent_step` | Analyze dataset combinations |
+| `code_extraction_agent_step` | Extract code snippets and links |
 
 ## Running Tests
 

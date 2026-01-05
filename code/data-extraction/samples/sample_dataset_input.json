@@ -1,0 +1,25 @@
+{
+  "group": {
+    "name": "Sample Dataset Group",
+    "description": "Example input for testing the data extraction pipeline",
+    "datasets": [
+      {
+        "name": "Census of Agriculture",
+        "aliases": [
+          "NASS Census of Agriculture",
+          "Agricultural Census",
+          "USDA Census",
+          "AG Census"
+        ]
+      },
+      {
+        "name": "National Resources Inventory",
+        "aliases": [
+          "NRI",
+          "USDA NRI",
+          "Natural Resources Inventory"
+        ]
+      }
+    ]
+  }
+}
