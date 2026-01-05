@@ -167,10 +167,10 @@ config/config.yaml
 config/production.yaml
 *.secret
 
-# Data files
-data/
+# Data files (keep data/ folder for repository output)
+# data/  # Commented out - we want to track the data folder
 *.parquet
-*.csv
+# *.csv  # Commented out - we want to track CSV output files
 *.json.gz
 *.pkl
 *.pickle
