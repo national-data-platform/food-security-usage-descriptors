@@ -20,8 +20,8 @@ Published in: Nature Scientific Data
 
 | File | Description | Records |
 |------|-------------|---------|
-| `supporting_file1_summary_by_dataset_year.csv` | Publication counts by dataset and year | 68 rows |
-| `supporting_file2_data_dyads.csv` | Dataset names and aliases used for string search | 46 rows |
+| `summary_by_dataset_year.csv` | Publication counts by dataset and year | 68 rows |
+| `data_dyads.csv` | Dataset names and aliases used for string search | 46 rows |
 | `usda_seed_datasets.csv` | List of 11 USDA seed datasets (Stage 1) | 12 rows |
 | `additional_discovered_datasets.csv` | List of 18 additional datasets (Stage 2) | 18 rows |
 | `data_dictionary.csv` | Field definitions and data types for all files | - |
