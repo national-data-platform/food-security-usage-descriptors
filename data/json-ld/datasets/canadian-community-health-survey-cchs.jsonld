@@ -18,8 +18,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food assistance programs and food insecurity: implications for Canada in light of the mixing problem",
-        "dud:publication_id": "pub.1027113243",
-        "identifier": "10.1007/s00181-016-1191-4"
+        "identifier": "10.1007/s00181-016-1191-4",
+        "url": "https://app.dimensions.ai/details/publication/pub.1027113243"
       },
       "reviewRating": [
         {
@@ -34,8 +34,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Health/Public Health Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Health/Public Health Survey"
     },
     {
       "@type": "Review",
@@ -44,8 +47,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Are residency and type of refugee settlement program associated with food (in)security among Syrian refugees who have resettled in Canada since 2015?",
-        "dud:publication_id": "pub.1174975830",
-        "identifier": "10.1007/s12571-024-01477-6"
+        "identifier": "10.1007/s12571-024-01477-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174975830"
       },
       "reviewRating": [
         {
@@ -60,8 +63,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / Social survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / Social survey"
     },
     {
       "@type": "Review",
@@ -70,8 +76,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations between food insecurity and common mental health problems: a systematic review and meta-analyses of observational studies",
-        "dud:publication_id": "pub.1181191690",
-        "identifier": "10.1007/s12571-024-01496-3"
+        "identifier": "10.1007/s12571-024-01496-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181191690"
       },
       "reviewRating": [
         {
@@ -86,8 +92,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited as a data source in the reviewed primary literature.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited as a data source in the reviewed primary literature."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -96,8 +105,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Effect of Canada Child Benefit on Food Insecurity: A Propensity Score−Matched Analysis",
-        "dud:publication_id": "pub.1155521462",
-        "identifier": "10.1016/j.amepre.2023.01.027"
+        "identifier": "10.1016/j.amepre.2023.01.027",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155521462"
       },
       "reviewRating": [
         {
@@ -112,8 +121,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Health / Nutrition"
     },
     {
       "@type": "Review",
@@ -122,8 +134,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, chronic pain, and use of prescription opioids",
-        "dud:publication_id": "pub.1136230797",
-        "identifier": "10.1016/j.ssmph.2021.100768"
+        "identifier": "10.1016/j.ssmph.2021.100768",
+        "url": "https://app.dimensions.ai/details/publication/pub.1136230797"
       },
       "reviewRating": [
         {
@@ -138,8 +150,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -148,8 +163,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Money speaks: Reductions in severe food insecurity follow the Canada Child Benefit",
-        "dud:publication_id": "pub.1121997691",
-        "identifier": "10.1016/j.ypmed.2019.105876"
+        "identifier": "10.1016/j.ypmed.2019.105876",
+        "url": "https://app.dimensions.ai/details/publication/pub.1121997691"
       },
       "reviewRating": [
         {
@@ -164,8 +179,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -174,8 +192,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The role of provincial social policies and economic environments in shaping food insecurity among Canadian families with children",
-        "dud:publication_id": "pub.1137256185",
-        "identifier": "10.1016/j.ypmed.2021.106558"
+        "identifier": "10.1016/j.ypmed.2021.106558",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137256185"
       },
       "reviewRating": [
         {
@@ -190,8 +208,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public Health / Social Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public Health / Social Survey"
     },
     {
       "@type": "Review",
@@ -200,8 +221,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and psychological distress in Inuit adolescents of Nunavik",
-        "dud:publication_id": "pub.1127907098",
-        "identifier": "10.1017/s1368980020000117"
+        "identifier": "10.1017/s1368980020000117",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127907098"
       },
       "reviewRating": [
         {
@@ -216,8 +237,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -226,8 +250,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity is associated with chronic pain and high-impact chronic pain in the USA",
-        "dud:publication_id": "pub.1166986948",
-        "identifier": "10.1017/s1368980023002732"
+        "identifier": "10.1017/s1368980023002732",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166986948"
       },
       "reviewRating": [
         {
@@ -242,8 +266,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -252,8 +279,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Examining Reciprocal Effects of Cigarette Smoking, Food Insecurity, and Psychological Distress in the U.S.",
-        "dud:publication_id": "pub.1132290589",
-        "identifier": "10.1080/02791072.2020.1845419"
+        "identifier": "10.1080/02791072.2020.1845419",
+        "url": "https://app.dimensions.ai/details/publication/pub.1132290589"
       },
       "reviewRating": [
         {
@@ -268,8 +295,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / health services research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / health services research"
     },
     {
       "@type": "Review",
@@ -278,8 +308,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Comparison of Mental Health, Food Insecurity, and Diet Quality Indicators between Foreign-Born Immigrants of Canada and Native-Born Canadians",
-        "dud:publication_id": "pub.1121580493",
-        "identifier": "10.1080/19320248.2019.1672601"
+        "identifier": "10.1080/19320248.2019.1672601",
+        "url": "https://app.dimensions.ai/details/publication/pub.1121580493"
       },
       "reviewRating": [
         {
@@ -294,8 +324,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada; conducted in 2004 with a sample of 35,107 respondents.",
-      "dud:domain": "Public health / epidemiology / nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada; conducted in 2004 with a sample of 35,107 respondents."
+      },
+      "about": "Public health / epidemiology / nutrition"
     },
     {
       "@type": "Review",
@@ -304,8 +337,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relation Between Household Food Insecurity and Children's Height in Canada and the United States: A Scoping Review",
-        "dud:publication_id": "pub.1112862224",
-        "identifier": "10.1093/advances/nmz034"
+        "identifier": "10.1093/advances/nmz034",
+        "url": "https://app.dimensions.ai/details/publication/pub.1112862224"
       },
       "reviewRating": [
         {
@@ -320,8 +353,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -330,8 +366,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity during pregnancy and associated perinatal outcomes: a scoping review",
-        "dud:publication_id": "pub.1185664057",
-        "identifier": "10.1093/epirev/mxaf001"
+        "identifier": "10.1093/epirev/mxaf001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185664057"
       },
       "reviewRating": [
         {
@@ -346,8 +382,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health, epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health, epidemiology"
     },
     {
       "@type": "Review",
@@ -356,8 +395,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
-        "dud:publication_id": "pub.1129456405",
-        "identifier": "10.1093/jn/nxaa240"
+        "identifier": "10.1093/jn/nxaa240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129456405"
       },
       "reviewRating": [
         {
@@ -372,8 +411,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -382,8 +424,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
-        "dud:publication_id": "pub.1144171482",
-        "identifier": "10.1093/jn/nxab447"
+        "identifier": "10.1093/jn/nxab447",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144171482"
       },
       "reviewRating": [
         {
@@ -398,8 +440,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada; accessed via Research Data Centres.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada; accessed via Research Data Centres."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -408,8 +453,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Everyday discrimination and physical health: Exploring mental health processes",
-        "dud:publication_id": "pub.1063994041",
-        "identifier": "10.1177/1359105315572456"
+        "identifier": "10.1177/1359105315572456",
+        "url": "https://app.dimensions.ai/details/publication/pub.1063994041"
       },
       "reviewRating": [
         {
@@ -424,8 +469,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Locally hired and trained residents administered the survey; funded by community research partners.",
-      "dud:domain": "Public health / social epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Locally hired and trained residents administered the survey; funded by community research partners."
+      },
+      "about": "Public health / social epidemiology"
     },
     {
       "@type": "Review",
@@ -434,8 +482,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Insecurity With Multiple Forms of Interpersonal and Self-Directed Violence: A Systematic Review",
-        "dud:publication_id": "pub.1156905867",
-        "identifier": "10.1177/15248380231165689"
+        "identifier": "10.1177/15248380231165689",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156905867"
       },
       "reviewRating": [
         {
@@ -450,8 +498,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health"
     },
     {
       "@type": "Review",
@@ -460,8 +511,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Intersection of Food Insecurity and Tobacco Use: A Scoping Review",
-        "dud:publication_id": "pub.1123925653",
-        "identifier": "10.1177/1524839919874054"
+        "identifier": "10.1177/1524839919874054",
+        "url": "https://app.dimensions.ai/details/publication/pub.1123925653"
       },
       "reviewRating": [
         {
@@ -476,8 +527,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / epidemiology (Canada)"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / epidemiology (Canada)"
     },
     {
       "@type": "Review",
@@ -486,8 +540,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
-        "dud:publication_id": "pub.1129850895",
-        "identifier": "10.1377/hlthaff.2019.01637"
+        "identifier": "10.1377/hlthaff.2019.01637",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129850895"
       },
       "reviewRating": [
         {
@@ -502,8 +556,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -512,8 +569,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Changes in household food insecurity rates in Canadian metropolitan areas from 2007 to 2012",
-        "dud:publication_id": "pub.1068323704",
-        "identifier": "10.17269/cjph.106.4893"
+        "identifier": "10.17269/cjph.106.4893",
+        "url": "https://app.dimensions.ai/details/publication/pub.1068323704"
       },
       "reviewRating": [
         {
@@ -528,8 +585,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -538,8 +598,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Subsidized Healthy Food Prescription Program for Adults with type 2 Diabetes who are Experiencing Food Insecurity: Protocol for a Randomized Controlled Trial, Modelling and Implementation Studies",
-        "dud:publication_id": "pub.1135308270",
-        "identifier": "10.21203/rs.3.rs-180761/v1"
+        "identifier": "10.21203/rs.3.rs-180761/v1",
+        "url": "https://app.dimensions.ai/details/publication/pub.1135308270"
       },
       "reviewRating": [
         {
@@ -554,8 +614,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Population health, epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Population health, epidemiology"
     },
     {
       "@type": "Review",
@@ -564,8 +627,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity amid the COVID-19 Pandemic: Food Charity, Government Assistance, and Employment",
-        "dud:publication_id": "pub.1135932839",
-        "identifier": "10.3138/cpp.2021-001"
+        "identifier": "10.3138/cpp.2021-001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1135932839"
       },
       "reviewRating": [
         {
@@ -580,8 +643,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health"
     },
     {
       "@type": "Review",
@@ -590,8 +656,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
-        "dud:publication_id": "pub.1039844976",
-        "identifier": "10.3945/jn.114.208579"
+        "identifier": "10.3945/jn.114.208579",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039844976"
       },
       "reviewRating": [
         {
@@ -606,8 +672,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Statistics Canada",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Statistics Canada"
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -616,8 +685,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Are residency and type of refugee settlement program associated with food (in)security among Syrian refugees who have resettled in Canada since 2015?",
-        "dud:publication_id": "pub.1174975830",
-        "identifier": "10.1007/s12571-024-01477-6"
+        "identifier": "10.1007/s12571-024-01477-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174975830"
       },
       "dud:joinDetail": {
         "partnerDataset": "Canadian Community Health Survey (CCHS) – Household Food Security Survey Module (HFSSM)",
@@ -640,8 +709,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Are residency and type of refugee settlement program associated with food (in)security among Syrian refugees who have resettled in Canada since 2015?",
-        "dud:publication_id": "pub.1174975830",
-        "identifier": "10.1007/s12571-024-01477-6"
+        "identifier": "10.1007/s12571-024-01477-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174975830"
       },
       "dud:joinDetail": {
         "partnerDataset": "Administrative immigration data from Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -664,8 +733,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Comparison of Mental Health, Food Insecurity, and Diet Quality Indicators between Foreign-Born Immigrants of Canada and Native-Born Canadians",
-        "dud:publication_id": "pub.1121580493",
-        "identifier": "10.1080/19320248.2019.1672601"
+        "identifier": "10.1080/19320248.2019.1672601",
+        "url": "https://app.dimensions.ai/details/publication/pub.1121580493"
       },
       "dud:joinDetail": {
         "partnerDataset": "Canadian Nutrient File (2001b) – Food composition database",
@@ -688,8 +757,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Comparison of Mental Health, Food Insecurity, and Diet Quality Indicators between Foreign-Born Immigrants of Canada and Native-Born Canadians",
-        "dud:publication_id": "pub.1121580493",
-        "identifier": "10.1080/19320248.2019.1672601"
+        "identifier": "10.1080/19320248.2019.1672601",
+        "url": "https://app.dimensions.ai/details/publication/pub.1121580493"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Food Security Survey Module (HFSSM)",
@@ -712,8 +781,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
-        "dud:publication_id": "pub.1129456405",
-        "identifier": "10.1093/jn/nxaa240"
+        "identifier": "10.1093/jn/nxaa240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129456405"
       },
       "dud:joinDetail": {
         "partnerDataset": "Ontario health administrative databases (OHIP claims, CIHI Discharge Abstract Database, Ontario Mental Health Reporting System, National Ambulatory Care Reporting System)",
@@ -736,8 +805,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
-        "dud:publication_id": "pub.1129456405",
-        "identifier": "10.1093/jn/nxaa240"
+        "identifier": "10.1093/jn/nxaa240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129456405"
       },
       "dud:joinDetail": {
         "partnerDataset": "Ontario Health Insurance Plan (OHIP) claims database",
@@ -760,8 +829,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
-        "dud:publication_id": "pub.1129456405",
-        "identifier": "10.1093/jn/nxaa240"
+        "identifier": "10.1093/jn/nxaa240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129456405"
       },
       "dud:joinDetail": {
         "partnerDataset": "CIHI Discharge Abstract Database (DAD)",
@@ -784,8 +853,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
-        "dud:publication_id": "pub.1129456405",
-        "identifier": "10.1093/jn/nxaa240"
+        "identifier": "10.1093/jn/nxaa240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129456405"
       },
       "dud:joinDetail": {
         "partnerDataset": "Ontario Mental Health Reporting System",
@@ -808,8 +877,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
-        "dud:publication_id": "pub.1129456405",
-        "identifier": "10.1093/jn/nxaa240"
+        "identifier": "10.1093/jn/nxaa240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129456405"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Ambulatory Care Reporting System (NACRS)",
@@ -832,8 +901,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
-        "dud:publication_id": "pub.1144171482",
-        "identifier": "10.1093/jn/nxab447"
+        "identifier": "10.1093/jn/nxab447",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144171482"
       },
       "dud:joinDetail": {
         "partnerDataset": "Discharge Abstract Database (DAD)",
@@ -856,8 +925,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
-        "dud:publication_id": "pub.1144171482",
-        "identifier": "10.1093/jn/nxab447"
+        "identifier": "10.1093/jn/nxab447",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144171482"
       },
       "dud:joinDetail": {
         "partnerDataset": "Canadian Vital Statistics Death Database (CVSD)",
@@ -880,8 +949,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
-        "dud:publication_id": "pub.1144171482",
-        "identifier": "10.1093/jn/nxab447"
+        "identifier": "10.1093/jn/nxab447",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144171482"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Food Security Survey Module (HFSSM) data within CCHS",
@@ -904,8 +973,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
-        "dud:publication_id": "pub.1129850895",
-        "identifier": "10.1377/hlthaff.2019.01637"
+        "identifier": "10.1377/hlthaff.2019.01637",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129850895"
       },
       "dud:joinDetail": {
         "partnerDataset": "Discharge Abstract Database (DAD) 1996‑2017",
@@ -928,8 +997,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
-        "dud:publication_id": "pub.1129850895",
-        "identifier": "10.1377/hlthaff.2019.01637"
+        "identifier": "10.1377/hlthaff.2019.01637",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129850895"
       },
       "dud:joinDetail": {
         "partnerDataset": "Patient Cost Estimator (PCE) 2010‑17",
@@ -952,8 +1021,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
-        "dud:publication_id": "pub.1129850895",
-        "identifier": "10.1377/hlthaff.2019.01637"
+        "identifier": "10.1377/hlthaff.2019.01637",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129850895"
       },
       "dud:joinDetail": {
         "partnerDataset": "Discharge Abstract Database (DAD) 1996‑2017 & Patient Cost Estimator (PCE) 2010‑17",
@@ -976,8 +1045,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
-        "dud:publication_id": "pub.1039844976",
-        "identifier": "10.3945/jn.114.208579"
+        "identifier": "10.3945/jn.114.208579",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039844976"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) 2003‑2006 cycles",
@@ -1000,8 +1069,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
-        "dud:publication_id": "pub.1039844976",
-        "identifier": "10.3945/jn.114.208579"
+        "identifier": "10.3945/jn.114.208579",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039844976"
       },
       "dud:joinDetail": {
         "partnerDataset": "Canadian Nutrient File (food composition database)",
@@ -1024,8 +1093,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
-        "dud:publication_id": "pub.1039844976",
-        "identifier": "10.3945/jn.114.208579"
+        "identifier": "10.3945/jn.114.208579",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039844976"
       },
       "dud:joinDetail": {
         "partnerDataset": "NHANES household demographic variables (education of reference person & spouse, number of persons, presence of children)",

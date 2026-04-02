@@ -14,8 +14,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association Between Material Hardship in Families With Young Children and Federal Relief Program Participation by Race and Ethnicity and Maternal Nativity",
-        "dud:publication_id": "pub.1157394218",
-        "identifier": "10.1001/jamahealthforum.2023.0508"
+        "identifier": "10.1001/jamahealthforum.2023.0508",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157394218"
       },
       "reviewRating": [
         {
@@ -38,8 +38,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Expanded Child Tax Credit, Family Health, and Material Hardships",
-        "dud:publication_id": "pub.1190132481",
-        "identifier": "10.1001/jamanetworkopen.2025.18335"
+        "identifier": "10.1001/jamanetworkopen.2025.18335",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190132481"
       },
       "reviewRating": [
         {
@@ -62,8 +62,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material Hardships and Health Care Utilization Among Low-Income Children with Special Health Care Needs",
-        "dud:publication_id": "pub.1112635462",
-        "identifier": "10.1016/j.acap.2019.01.009"
+        "identifier": "10.1016/j.acap.2019.01.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1112635462"
       },
       "reviewRating": [
         {
@@ -86,8 +86,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities",
-        "dud:publication_id": "pub.1167510317",
-        "identifier": "10.1016/j.ajcnut.2023.12.019"
+        "identifier": "10.1016/j.ajcnut.2023.12.019",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167510317"
       },
       "reviewRating": [
         {
@@ -110,8 +110,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "College students with disabilities report higher rates of food insecurity",
-        "dud:publication_id": "pub.1158539195",
-        "identifier": "10.1016/j.dhjo.2023.101485"
+        "identifier": "10.1016/j.dhjo.2023.101485",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158539195"
       },
       "reviewRating": [
         {
@@ -134,8 +134,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and adverse childhood experiences: a systematic review",
-        "dud:publication_id": "pub.1147119725",
-        "identifier": "10.1093/nutrit/nuac029"
+        "identifier": "10.1093/nutrit/nuac029",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147119725"
       },
       "reviewRating": [
         {
@@ -158,8 +158,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Insecurity Status with Resolution of Mental Health Conditions in Children and Adolescents",
-        "dud:publication_id": "pub.1164726171",
-        "identifier": "10.1097/dbp.0000000000001212"
+        "identifier": "10.1097/dbp.0000000000001212",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164726171"
       },
       "reviewRating": [
         {
@@ -182,8 +182,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity and childhood obesity/overweight among children with special healthcare needs: Results from a nationally representative sample of 10–17 years old U.S. children",
-        "dud:publication_id": "pub.1155710178",
-        "identifier": "10.1111/ijpo.13015"
+        "identifier": "10.1111/ijpo.13015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155710178"
       },
       "reviewRating": [
         {
@@ -206,8 +206,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Mental Well-Being Among Low-Income Families During COVID-19 Pandemic",
-        "dud:publication_id": "pub.1147033339",
-        "identifier": "10.1177/08901171221089627"
+        "identifier": "10.1177/08901171221089627",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147033339"
       },
       "reviewRating": [
         {
@@ -230,8 +230,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Urban–Rural Disparities in Food Insecurity and Weight Status among Children in the United States",
-        "dud:publication_id": "pub.1173563168",
-        "identifier": "10.3390/nu16132132"
+        "identifier": "10.3390/nu16132132",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173563168"
       },
       "reviewRating": [
         {
@@ -254,8 +254,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association Between Material Hardship in Families With Young Children and Federal Relief Program Participation by Race and Ethnicity and Maternal Nativity",
-        "dud:publication_id": "pub.1157394218",
-        "identifier": "10.1001/jamahealthforum.2023.0508"
+        "identifier": "10.1001/jamahealthforum.2023.0508",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157394218"
       },
       "reviewRating": [
         {
@@ -270,8 +270,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "HRSA/CDC.",
-      "dud:domain": "Child health epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "HRSA/CDC."
+      },
+      "about": "Child health epidemiology"
     },
     {
       "@type": "Review",
@@ -280,8 +283,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Expanded Child Tax Credit, Family Health, and Material Hardships",
-        "dud:publication_id": "pub.1190132481",
-        "identifier": "10.1001/jamanetworkopen.2025.18335"
+        "identifier": "10.1001/jamanetworkopen.2025.18335",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190132481"
       },
       "reviewRating": [
         {
@@ -296,8 +299,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reference to published NSCH data.",
-      "dud:domain": "Child health / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reference to published NSCH data."
+      },
+      "about": "Child health / Public health"
     },
     {
       "@type": "Review",
@@ -306,8 +312,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food security status in seniors over their life course",
-        "dud:publication_id": "pub.1152543822",
-        "identifier": "10.1002/aepp.13334"
+        "identifier": "10.1002/aepp.13334",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152543822"
       },
       "reviewRating": [
         {
@@ -322,8 +328,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Health Resources & Services Administration (HRSA)",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Health Resources & Services Administration (HRSA)"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -332,8 +341,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Differences in Mealtime Behaviors, Food Security, and Weight Concerns Between Neurotypical Youth and Youth with Autism Spectrum Disorder",
-        "dud:publication_id": "pub.1156709717",
-        "identifier": "10.1007/s41252-023-00329-2"
+        "identifier": "10.1007/s41252-023-00329-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156709717"
       },
       "reviewRating": [
         {
@@ -348,8 +357,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau / HRSA Maternal and Child Health Bureau",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau / HRSA Maternal and Child Health Bureau"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -358,8 +370,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities",
-        "dud:publication_id": "pub.1167510317",
-        "identifier": "10.1016/j.ajcnut.2023.12.019"
+        "identifier": "10.1016/j.ajcnut.2023.12.019",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167510317"
       },
       "reviewRating": [
         {
@@ -374,8 +386,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health Resources and Services Administration (HRSA) and CDC",
-      "dud:domain": "Pediatrics / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health Resources and Services Administration (HRSA) and CDC"
+      },
+      "about": "Pediatrics / public health"
     },
     {
       "@type": "Review",
@@ -384,8 +399,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity in households of children with ASD in COVID-19 pandemic: A comparative analysis with the Household Pulse Survey data using stabilized inverse probability treatment weights",
-        "dud:publication_id": "pub.1146589346",
-        "identifier": "10.1016/j.dhjo.2022.101323"
+        "identifier": "10.1016/j.dhjo.2022.101323",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146589346"
       },
       "reviewRating": [
         {
@@ -400,8 +415,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC/NIH",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC/NIH"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -410,8 +428,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "College students with disabilities report higher rates of food insecurity",
-        "dud:publication_id": "pub.1158539195",
-        "identifier": "10.1016/j.dhjo.2023.101485"
+        "identifier": "10.1016/j.dhjo.2023.101485",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158539195"
       },
       "reviewRating": [
         {
@@ -426,8 +444,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Health and Human Services",
-      "dud:domain": "Child health / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Health and Human Services"
+      },
+      "about": "Child health / Public health"
     },
     {
       "@type": "Review",
@@ -436,8 +457,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Health equity in pediatrics: Current concepts for the care of children in the 21st century (Dis Mon)",
-        "dud:publication_id": "pub.1164230672",
-        "identifier": "10.1016/j.disamonth.2023.101631"
+        "identifier": "10.1016/j.disamonth.2023.101631",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164230672"
       },
       "reviewRating": [
         {
@@ -452,8 +473,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -462,8 +486,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Financial Well-being and Health-Related Quality of Life are Associated with Transitions in Food Insecurity Status among Recipients of Charitable Food Assistance in Atlanta, GA and Houston, TX",
-        "dud:publication_id": "pub.1190134271",
-        "identifier": "10.1016/j.jand.2025.06.030"
+        "identifier": "10.1016/j.jand.2025.06.030",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190134271"
       },
       "reviewRating": [
         {
@@ -478,8 +502,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau / Health Resources and Services Administration",
-      "dud:domain": "Child health / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau / Health Resources and Services Administration"
+      },
+      "about": "Child health / Public health"
     },
     {
       "@type": "Review",
@@ -488,8 +515,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity and preschool suspension/expulsion in the United States",
-        "dud:publication_id": "pub.1131439917",
-        "identifier": "10.1016/j.ypmed.2020.106283"
+        "identifier": "10.1016/j.ypmed.2020.106283",
+        "url": "https://app.dimensions.ai/details/publication/pub.1131439917"
       },
       "reviewRating": [
         {
@@ -504,8 +531,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau; HRSA Maternal and Child Health Bureau",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau; HRSA Maternal and Child Health Bureau"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -514,8 +544,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "4437 The Prevalence of Food Insecurity Among University of Utah Medical Students: Documenting the Need for Supportive Programs",
-        "dud:publication_id": "pub.1129717378",
-        "identifier": "10.1017/cts.2020.282"
+        "identifier": "10.1017/cts.2020.282",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129717378"
       },
       "reviewRating": [
         {
@@ -530,8 +560,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National Survey of Children's Health (NSCH) 2016-2017 dataset",
-      "dud:domain": "Public health / Pediatrics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National Survey of Children's Health (NSCH) 2016-2017 dataset"
+      },
+      "about": "Public health / Pediatrics"
     },
     {
       "@type": "Review",
@@ -540,8 +573,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social Determinants of Health Associated with Mental Health Among U.S. Mothers with Children Aged 0–5 Years",
-        "dud:publication_id": "pub.1127889005",
-        "identifier": "10.1089/jwh.2019.8111"
+        "identifier": "10.1089/jwh.2019.8111",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127889005"
       },
       "reviewRating": [
         {
@@ -556,8 +589,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health Resources and Services Administration's Maternal and Child Health Bureau; data collected by the U.S. Census Bureau.",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health Resources and Services Administration's Maternal and Child Health Bureau; data collected by the U.S. Census Bureau."
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -566,8 +602,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Insecurity Status with Resolution of Mental Health Conditions in Children and Adolescents",
-        "dud:publication_id": "pub.1164726171",
-        "identifier": "10.1097/dbp.0000000000001212"
+        "identifier": "10.1097/dbp.0000000000001212",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164726171"
       },
       "reviewRating": [
         {
@@ -582,8 +618,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau / Health Resources and Services Administration",
-      "dud:domain": "Public health / child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau / Health Resources and Services Administration"
+      },
+      "about": "Public health / child health"
     },
     {
       "@type": "Review",
@@ -592,8 +631,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association Between Food Insecurity and Developmental Delay and Behavioral Problems in US Children 2 to 5 Years of Age",
-        "dud:publication_id": "pub.1174737561",
-        "identifier": "10.1097/dbp.0000000000001307"
+        "identifier": "10.1097/dbp.0000000000001307",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174737561"
       },
       "reviewRating": [
         {
@@ -608,8 +647,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau / National Center for Health Statistics; sponsored by the Maternal and Child Health Bureau (HRSA).",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau / National Center for Health Statistics; sponsored by the Maternal and Child Health Bureau (HRSA)."
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -618,8 +660,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Pediatrics leading the way: co-enrollment as the next step in health-related social needs screening and referral",
-        "dud:publication_id": "pub.1182618405",
-        "identifier": "10.1097/mop.0000000000001416"
+        "identifier": "10.1097/mop.0000000000001416",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182618405"
       },
       "reviewRating": [
         {
@@ -634,8 +676,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau / National Center for Health Statistics",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau / National Center for Health Statistics"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -644,8 +689,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Net worth poverty and food insecurity",
-        "dud:publication_id": "pub.1186487065",
-        "identifier": "10.1111/ajae.12537"
+        "identifier": "10.1111/ajae.12537",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186487065"
       },
       "reviewRating": [
         {
@@ -660,8 +705,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Health & Human Services, CDC’s National Center for Health Statistics",
-      "dud:domain": "Child health / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Health & Human Services, CDC’s National Center for Health Statistics"
+      },
+      "about": "Child health / public health"
     },
     {
       "@type": "Review",
@@ -670,8 +718,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Identifying Unmet Needs of Families With Children and Youth With Special Health Care Needs in a Preparedness Intervention Connected to the Medical Home",
-        "dud:publication_id": "pub.1191288170",
-        "identifier": "10.1111/cch.70118"
+        "identifier": "10.1111/cch.70118",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191288170"
       },
       "reviewRating": [
         {
@@ -686,8 +734,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC / Child and Adolescent Health Measurement Initiative",
-      "dud:domain": "Public health / Child health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC / Child and Adolescent Health Measurement Initiative"
+      },
+      "about": "Public health / Child health surveillance"
     },
     {
       "@type": "Review",
@@ -696,8 +747,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity and childhood obesity/overweight among children with special healthcare needs: Results from a nationally representative sample of 10–17 years old U.S. children",
-        "dud:publication_id": "pub.1155710178",
-        "identifier": "10.1111/ijpo.13015"
+        "identifier": "10.1111/ijpo.13015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155710178"
       },
       "reviewRating": [
         {
@@ -712,8 +763,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Health & Human Services, Health Resources and Services Administration",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Health & Human Services, Health Resources and Services Administration"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -722,8 +776,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity and children's oral health: Findings from the 2016–2018 National Survey of Children's Health",
-        "dud:publication_id": "pub.1132981094",
-        "identifier": "10.1111/jphd.12431"
+        "identifier": "10.1111/jphd.12431",
+        "url": "https://app.dimensions.ai/details/publication/pub.1132981094"
       },
       "reviewRating": [
         {
@@ -738,8 +792,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau / National Center for Health Statistics",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau / National Center for Health Statistics"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -748,8 +805,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity in the households of children with autism spectrum disorders and intellectual disabilities in the United States: Analysis of the National Survey of Children’s Health Data 2016–2018",
-        "dud:publication_id": "pub.1138524885",
-        "identifier": "10.1177/13623613211019159"
+        "identifier": "10.1177/13623613211019159",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138524885"
       },
       "reviewRating": [
         {
@@ -764,8 +821,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau / Health Resources and Services Administration (HRSA)",
-      "dud:domain": "Public Health / Child Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau / Health Resources and Services Administration (HRSA)"
+      },
+      "about": "Public Health / Child Health"
     },
     {
       "@type": "Review",
@@ -774,8 +834,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material hardship and sources of support for autistic adolescents and their families",
-        "dud:publication_id": "pub.1183676585",
-        "identifier": "10.1177/13623613241304503"
+        "identifier": "10.1177/13623613241304503",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183676585"
       },
       "reviewRating": [
         {
@@ -790,8 +850,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health Resources and Services Administration (HRSA)",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health Resources and Services Administration (HRSA)"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -800,8 +863,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations between the social environment and early childhood developmental outcomes of Puerto Rican children with prenatal Zika virus exposure: a cross-sectional study",
-        "dud:publication_id": "pub.1171716388",
-        "identifier": "10.1186/s12887-024-04806-y"
+        "identifier": "10.1186/s12887-024-04806-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171716388"
       },
       "reviewRating": [
         {
@@ -816,8 +879,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau / Health Resources and Services Administration",
-      "dud:domain": "Public health / Child health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau / Health Resources and Services Administration"
+      },
+      "about": "Public health / Child health surveillance"
     },
     {
       "@type": "Review",
@@ -826,8 +892,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Health Outcomes of Children With Intellectual and Developmental Disabilities in the United States",
-        "dud:publication_id": "pub.1165186753",
-        "identifier": "10.1352/1944-7558-128.6.462"
+        "identifier": "10.1352/1944-7558-128.6.462",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165186753"
       },
       "reviewRating": [
         {
@@ -842,8 +908,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Child and Adolescent Health Measurement Initiative (2019); US Census Bureau/CDC",
-      "dud:domain": "Public health / child health epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Child and Adolescent Health Measurement Initiative (2019); US Census Bureau/CDC"
+      },
+      "about": "Public health / child health epidemiology"
     },
     {
       "@type": "Review",
@@ -852,8 +921,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Unpacking determinants and consequences of food insecurity for insulin resistance among people living with HIV: Conceptual framework and protocol for the NOURISH-OK study",
-        "dud:publication_id": "pub.1150265156",
-        "identifier": "10.3389/fcdhc.2022.947552"
+        "identifier": "10.3389/fcdhc.2022.947552",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150265156"
       },
       "reviewRating": [
         {
@@ -868,8 +937,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Health & Human Services",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Health & Human Services"
+      },
+      "about": "Public health / Child health"
     },
     {
       "@type": "Review",
@@ -878,8 +950,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and oral health in older adults",
-        "dud:publication_id": "pub.1181621877",
-        "identifier": "10.3389/froh.2024.1400591"
+        "identifier": "10.3389/froh.2024.1400591",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181621877"
       },
       "reviewRating": [
         {
@@ -894,8 +966,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Health and Human Services, Maternal and Child Health Bureau.",
-      "dud:domain": "Pediatrics/Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Health and Human Services, Maternal and Child Health Bureau."
+      },
+      "about": "Pediatrics/Public Health"
     },
     {
       "@type": "Review",
@@ -904,8 +979,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Unmet Medical Needs and Food Insecurity in Children with Neurodevelopmental Disorders: Findings from the 2019 National Health Interview Survey (NHIS)",
-        "dud:publication_id": "pub.1153114231",
-        "identifier": "10.3390/children9121798"
+        "identifier": "10.3390/children9121798",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153114231"
       },
       "reviewRating": [
         {
@@ -920,8 +995,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Health and Human Services, HRSA, Maternal and Child Health Bureau",
-      "dud:domain": "Public health / child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Health and Human Services, HRSA, Maternal and Child Health Bureau"
+      },
+      "about": "Public health / child health"
     },
     {
       "@type": "Review",
@@ -930,8 +1008,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "And Then, There Were None: The Nexus of Agricultural Labor, Migration, and Food Insecurity in Rural and Urban Settings in the United States",
-        "dud:publication_id": "pub.1192570915",
-        "identifier": "10.3390/su17177906"
+        "identifier": "10.3390/su17177906",
+        "url": "https://app.dimensions.ai/details/publication/pub.1192570915"
       },
       "reviewRating": [
         {
@@ -946,8 +1024,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited reference (doi:10.1093/milmed/usae424)",
-      "dud:domain": "Public health / Child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited reference (doi:10.1093/milmed/usae424)"
+      },
+      "about": "Public health / Child health"
     }
   ]
 }

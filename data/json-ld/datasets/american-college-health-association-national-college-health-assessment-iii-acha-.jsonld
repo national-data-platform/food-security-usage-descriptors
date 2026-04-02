@@ -23,8 +23,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Institutional Determinants of Food Insecurity and Dietary Behaviors Among Postsecondary Students in the United States: A Multilevel Analysis",
-        "dud:publication_id": "pub.1185305379",
-        "identifier": "10.1016/j.jand.2025.02.001"
+        "identifier": "10.1016/j.jand.2025.02.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185305379"
       },
       "reviewRating": [
         {
@@ -39,8 +39,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "Higher‑education health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "Higher‑education health surveillance"
     },
     {
       "@type": "Review",
@@ -49,8 +52,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Socio-demographic risk factors for food insecurity among students at five North Carolina colleges: The influence on fruit and vegetable intake and perceived health and well-being",
-        "dud:publication_id": "pub.1193374741",
-        "identifier": "10.1016/j.pmedr.2025.103243"
+        "identifier": "10.1016/j.pmedr.2025.103243",
+        "url": "https://app.dimensions.ai/details/publication/pub.1193374741"
       },
       "reviewRating": [
         {
@@ -65,8 +68,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation to the ACHA‑NCHA III executive summary.",
-      "dud:domain": "Higher‑education health assessment"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation to the ACHA‑NCHA III executive summary."
+      },
+      "about": "Higher‑education health assessment"
     },
     {
       "@type": "Review",
@@ -75,8 +81,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Evaluation of food security status, psychological well-being, and stress on BMI and diet-related behaviors among a sample of college students",
-        "dud:publication_id": "pub.1164039784",
-        "identifier": "10.1016/j.puhe.2023.08.015"
+        "identifier": "10.1016/j.puhe.2023.08.015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164039784"
       },
       "reviewRating": [
         {
@@ -91,8 +97,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "College health / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "College health / Public health"
     },
     {
       "@type": "Review",
@@ -101,8 +110,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1173392453",
-        "identifier": "10.1016/j.tjnut.2024.06.009"
+        "identifier": "10.1016/j.tjnut.2024.06.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173392453"
       },
       "reviewRating": [
         {
@@ -117,8 +126,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association",
-      "dud:domain": "Higher Education Health Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association"
+      },
+      "about": "Higher Education Health Survey"
     },
     {
       "@type": "Review",
@@ -127,8 +139,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Mental Health Advantages of Privilege: How Whiteness and Parents’ Education Protect Students From Food Insecurity and Psychological Strain",
-        "dud:publication_id": "pub.1186523059",
-        "identifier": "10.1037/dhe0000657"
+        "identifier": "10.1037/dhe0000657",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186523059"
       },
       "reviewRating": [
         {
@@ -143,8 +155,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA) website; codebook available at https://acha.org",
-      "dud:domain": "Higher education health and wellbeing"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA) website; codebook available at https://acha.org"
+      },
+      "about": "Higher education health and wellbeing"
     },
     {
       "@type": "Review",
@@ -153,8 +168,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Well-being, and Academic Success among College Students: Implications for Post COVID-19 Pandemic Programming",
-        "dud:publication_id": "pub.1141694596",
-        "identifier": "10.1080/03670244.2021.1954511"
+        "identifier": "10.1080/03670244.2021.1954511",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141694596"
       },
       "reviewRating": [
         {
@@ -169,8 +184,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association",
-      "dud:domain": "Higher Education / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association"
+      },
+      "about": "Higher Education / Public Health"
     },
     {
       "@type": "Review",
@@ -179,8 +197,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations between campus climate perceptions and food insecurity among undergraduates at a public university",
-        "dud:publication_id": "pub.1140004996",
-        "identifier": "10.1080/07448481.2021.1947830"
+        "identifier": "10.1080/07448481.2021.1947830",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140004996"
       },
       "reviewRating": [
         {
@@ -195,8 +213,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association",
-      "dud:domain": "Higher education health / student wellbeing"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association"
+      },
+      "about": "Higher education health / student wellbeing"
     },
     {
       "@type": "Review",
@@ -205,8 +226,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Examining the association of student mental health and food security with college GPA",
-        "dud:publication_id": "pub.1147083523",
-        "identifier": "10.1080/07448481.2022.2058327"
+        "identifier": "10.1080/07448481.2022.2058327",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147083523"
       },
       "reviewRating": [
         {
@@ -221,8 +242,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "Higher‑Education Health / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "Higher‑Education Health / Public Health"
     },
     {
       "@type": "Review",
@@ -231,8 +255,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Negative impact of chronic pandemic-specific financial stress on food security among college students",
-        "dud:publication_id": "pub.1163426837",
-        "identifier": "10.1080/07448481.2023.2237589"
+        "identifier": "10.1080/07448481.2023.2237589",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163426837"
       },
       "reviewRating": [
         {
@@ -247,8 +271,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "Higher‑education health / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "Higher‑education health / public health"
     },
     {
       "@type": "Review",
@@ -257,8 +284,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Examining the association of food insecurity with mental health and academic performance among Latinx immigration-impacted students",
-        "dud:publication_id": "pub.1185872543",
-        "identifier": "10.1080/07448481.2025.2468305"
+        "identifier": "10.1080/07448481.2025.2468305",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185872543"
       },
       "reviewRating": [
         {
@@ -273,8 +300,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "Student health, public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "Student health, public health"
     },
     {
       "@type": "Review",
@@ -283,8 +313,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Discrimination and microaggressions as mediators of food insecurity among transgender college students",
-        "dud:publication_id": "pub.1190123813",
-        "identifier": "10.1080/07448481.2025.2523959"
+        "identifier": "10.1080/07448481.2025.2523959",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190123813"
       },
       "reviewRating": [
         {
@@ -299,8 +329,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "Higher Education / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "Higher Education / Public Health"
     },
     {
       "@type": "Review",
@@ -309,8 +342,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the Connection Between Food Insecurity and Sexual Victimization Among College Students",
-        "dud:publication_id": "pub.1164356490",
-        "identifier": "10.1080/15388220.2023.2261361"
+        "identifier": "10.1080/15388220.2023.2261361",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164356490"
       },
       "reviewRating": [
         {
@@ -325,8 +358,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association",
-      "dud:domain": "Higher‑education health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association"
+      },
+      "about": "Higher‑education health surveillance"
     },
     {
       "@type": "Review",
@@ -335,8 +371,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "No food for thought: Food insecurity is related to poor mental health and lower academic performance among students in California’s public university system",
-        "dud:publication_id": "pub.1105104643",
-        "identifier": "10.1177/1359105318783028"
+        "identifier": "10.1177/1359105318783028",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105104643"
       },
       "reviewRating": [
         {
@@ -351,8 +387,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association (ACHA)",
-      "dud:domain": "Higher education health/behavioral survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association (ACHA)"
+      },
+      "about": "Higher education health/behavioral survey"
     },
     {
       "@type": "Review",
@@ -361,8 +400,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A cross sectional assessment of basic needs insecurity prevalence and associated factors among college students enrolled at a large, public university in the Southeastern U.S",
-        "dud:publication_id": "pub.1145988751",
-        "identifier": "10.1186/s12889-022-12817-6"
+        "identifier": "10.1186/s12889-022-12817-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145988751"
       },
       "reviewRating": [
         {
@@ -377,8 +416,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National College Health Association",
-      "dud:domain": "Public Health / Higher Education"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National College Health Association"
+      },
+      "about": "Public Health / Higher Education"
     },
     {
       "@type": "Review",
@@ -387,8 +429,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Among College Students with and without Medical Disorders at a University in Appalachia",
-        "dud:publication_id": "pub.1149003521",
-        "identifier": "10.13023/jah.0202.04"
+        "identifier": "10.13023/jah.0202.04",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003521"
       },
       "reviewRating": [
         {
@@ -403,8 +445,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "American College Health Association",
-      "dud:domain": "College health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "American College Health Association"
+      },
+      "about": "College health"
     },
     {
       "@type": "Review",
@@ -413,8 +458,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1173392453",
-        "identifier": "10.1016/j.tjnut.2024.06.009"
+        "identifier": "10.1016/j.tjnut.2024.06.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173392453"
       },
       "dud:joinDetail": {
         "partnerDataset": "Institutional characteristics dataset supplied by ACHA (anonymized indices of institution type, public‑vs‑private status, Carnegie classification, U.S. region, etc.)",
@@ -437,8 +482,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1173392453",
-        "identifier": "10.1016/j.tjnut.2024.06.009"
+        "identifier": "10.1016/j.tjnut.2024.06.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173392453"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA national food‑insecurity prevalence statistics (e.g., 10 % prevalence in 2021, regional trends)",

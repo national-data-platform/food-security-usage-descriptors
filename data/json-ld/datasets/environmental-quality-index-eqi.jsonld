@@ -14,8 +14,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Scoping Review and Assessment of the Area-Level Composite Measures That Estimate Social Determinants of Health Across the United States",
-        "dud:publication_id": "pub.1173044621",
-        "identifier": "10.1177/00333549241252582"
+        "identifier": "10.1177/00333549241252582",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173044621"
       },
       "reviewRating": [
         {
@@ -38,8 +38,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Scoping Review and Assessment of the Area-Level Composite Measures That Estimate Social Determinants of Health Across the United States",
-        "dud:publication_id": "pub.1173044621",
-        "identifier": "10.1177/00333549241252582"
+        "identifier": "10.1177/00333549241252582",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173044621"
       },
       "reviewRating": [
         {
@@ -54,8 +54,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited study within the scoping review",
-      "dud:domain": "Environmental health / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited study within the scoping review"
+      },
+      "about": "Environmental health / Public health"
     },
     {
       "@type": "Review",
@@ -64,8 +67,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "reviewRating": [
         {
@@ -80,8 +83,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. EPA",
-      "dud:domain": "Environmental health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. EPA"
+      },
+      "about": "Environmental health"
     }
   ]
 }

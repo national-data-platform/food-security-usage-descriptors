@@ -19,8 +19,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations of Race/Ethnicity and Food Insecurity With COVID-19 Infection Rates Across US Counties",
-        "dud:publication_id": "pub.1138606529",
-        "identifier": "10.1001/jamanetworkopen.2021.12852"
+        "identifier": "10.1001/jamanetworkopen.2021.12852",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138606529"
       },
       "reviewRating": [
         {
@@ -35,8 +35,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Demographics / Socioeconomics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Demographics / Socioeconomics"
     },
     {
       "@type": "Review",
@@ -45,8 +48,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social Risks and Nonadherence to Recommended Cancer Screening Among US Adults",
-        "dud:publication_id": "pub.1184077126",
-        "identifier": "10.1001/jamanetworkopen.2024.49556"
+        "identifier": "10.1001/jamanetworkopen.2024.49556",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184077126"
       },
       "reviewRating": [
         {
@@ -61,8 +64,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -71,8 +77,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Amputation Rates and Associated Social Determinants of Health in the Most Populous US Counties",
-        "dud:publication_id": "pub.1165400226",
-        "identifier": "10.1001/jamasurg.2023.5517"
+        "identifier": "10.1001/jamasurg.2023.5517",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165400226"
       },
       "reviewRating": [
         {
@@ -87,8 +93,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Sociodemographics / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Sociodemographics / Economics"
     },
     {
       "@type": "Review",
@@ -97,8 +106,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "reviewRating": [
         {
@@ -113,8 +122,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic characteristics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic characteristics"
     },
     {
       "@type": "Review",
@@ -123,8 +135,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Age at diagnosis and social risks among Black cancer survivors: Results from the Detroit Research on Cancer Survivors cohort",
-        "dud:publication_id": "pub.1168308433",
-        "identifier": "10.1002/cncr.35212"
+        "identifier": "10.1002/cncr.35212",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168308433"
       },
       "reviewRating": [
         {
@@ -139,8 +151,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -149,8 +164,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Medicaid generosity and food hardship among children",
-        "dud:publication_id": "pub.1166624456",
-        "identifier": "10.1002/pam.22557"
+        "identifier": "10.1002/pam.22557",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166624456"
       },
       "reviewRating": [
         {
@@ -165,8 +180,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -175,8 +193,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "LGBTQ-Parent Families in the United States and Economic Well-Being",
-        "dud:publication_id": "pub.1126108422",
-        "identifier": "10.1007/978-3-030-35610-1_6"
+        "identifier": "10.1007/978-3-030-35610-1_6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1126108422"
       },
       "reviewRating": [
         {
@@ -191,8 +209,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Economics"
     },
     {
       "@type": "Review",
@@ -201,8 +222,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "“Where’s the need?” Charitable food assistance resources – placement and access challenges – Lessons from the field",
-        "dud:publication_id": "pub.1163193581",
-        "identifier": "10.1007/s10389-023-02048-3"
+        "identifier": "10.1007/s10389-023-02048-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163193581"
       },
       "reviewRating": [
         {
@@ -217,8 +238,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -227,8 +251,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
-        "dud:publication_id": "pub.1084740529",
-        "identifier": "10.1007/s10460-017-9783-y"
+        "identifier": "10.1007/s10460-017-9783-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084740529"
       },
       "reviewRating": [
         {
@@ -243,8 +267,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -253,8 +280,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing changes in food pantry access after extreme events",
-        "dud:publication_id": "pub.1152303372",
-        "identifier": "10.1007/s10460-022-10373-8"
+        "identifier": "10.1007/s10460-022-10373-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152303372"
       },
       "reviewRating": [
         {
@@ -269,8 +296,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – American Community Survey",
-      "dud:domain": "Social demographics / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – American Community Survey"
+      },
+      "about": "Social demographics / Public health"
     },
     {
       "@type": "Review",
@@ -279,8 +309,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Longitudinal Relationship Between Food Insecurity, Engagement in Care, and ART Adherence Among US Women Living with HIV",
-        "dud:publication_id": "pub.1157294994",
-        "identifier": "10.1007/s10461-023-04053-9"
+        "identifier": "10.1007/s10461-023-04053-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157294994"
       },
       "reviewRating": [
         {
@@ -295,8 +325,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National HIV cohort studies (MACS and WIHS) coordinated by multiple academic sites.",
-      "dud:domain": "HIV epidemiology / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National HIV cohort studies (MACS and WIHS) coordinated by multiple academic sites."
+      },
+      "about": "HIV epidemiology / public health"
     },
     {
       "@type": "Review",
@@ -305,8 +338,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Economic well-being for households with children with disabilities: evidence from the SIPP",
-        "dud:publication_id": "pub.1183170417",
-        "identifier": "10.1007/s10826-024-02948-2"
+        "identifier": "10.1007/s10826-024-02948-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183170417"
       },
       "reviewRating": [
         {
@@ -321,8 +354,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "ACS 2019 public release (cited indirectly).",
-      "dud:domain": "Demography and socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "ACS 2019 public release (cited indirectly)."
+      },
+      "about": "Demography and socioeconomic research"
     },
     {
       "@type": "Review",
@@ -331,8 +367,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Spending Patterns and Hardships during COVID-19: A Comparative Study of the U.S. and Israel",
-        "dud:publication_id": "pub.1145011422",
-        "identifier": "10.1007/s10834-021-09814-z"
+        "identifier": "10.1007/s10834-021-09814-z",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145011422"
       },
       "reviewRating": [
         {
@@ -347,8 +383,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau (2019)",
-      "dud:domain": "Demographics / population statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau (2019)"
+      },
+      "about": "Demographics / population statistics"
     },
     {
       "@type": "Review",
@@ -357,8 +396,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations Between Food Insufficiency and Health Conditions Among New York City Adults, 2017–2018",
-        "dud:publication_id": "pub.1169192078",
-        "identifier": "10.1007/s10900-023-01296-4"
+        "identifier": "10.1007/s10900-023-01296-4",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169192078"
       },
       "reviewRating": [
         {
@@ -373,8 +412,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic data"
     },
     {
       "@type": "Review",
@@ -383,8 +425,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Rapid Deployment of a Mobile Medical Clinic During the COVID-19 Pandemic: Assessment of Dyadic Maternal-Child Care",
-        "dud:publication_id": "pub.1149813941",
-        "identifier": "10.1007/s10995-022-03483-6"
+        "identifier": "10.1007/s10995-022-03483-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149813941"
       },
       "reviewRating": [
         {
@@ -399,8 +441,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / sociology"
     },
     {
       "@type": "Review",
@@ -409,8 +454,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "How Does Transportation Insecurity Compare and Relate to Other Indicators of Material Hardship in the U.S.?",
-        "dud:publication_id": "pub.1187539495",
-        "identifier": "10.1007/s11205-025-03585-y"
+        "identifier": "10.1007/s11205-025-03585-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187539495"
       },
       "reviewRating": [
         {
@@ -425,8 +470,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic characteristics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic characteristics"
     },
     {
       "@type": "Review",
@@ -435,8 +483,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing Food Insecurity through a Health Equity Lens: a Case Study of Large Urban School Districts during the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1131073060",
-        "identifier": "10.1007/s11524-020-00476-0"
+        "identifier": "10.1007/s11524-020-00476-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1131073060"
       },
       "reviewRating": [
         {
@@ -451,8 +499,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Social sciences"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Social sciences"
     },
     {
       "@type": "Review",
@@ -461,8 +512,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Environment Quality and Cardiovascular Disease Mortality in the United States: a County-Level Analysis from 2017 to 2019",
-        "dud:publication_id": "pub.1162837488",
-        "identifier": "10.1007/s11606-023-08335-9"
+        "identifier": "10.1007/s11606-023-08335-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162837488"
       },
       "reviewRating": [
         {
@@ -477,8 +528,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / social statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / social statistics"
     },
     {
       "@type": "Review",
@@ -487,8 +541,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Moving Diabetes Upstream: the Social Determinants of Diabetes Management and Control Among Immigrants in the US",
-        "dud:publication_id": "pub.1130397358",
-        "identifier": "10.1007/s11892-020-01332-w"
+        "identifier": "10.1007/s11892-020-01332-w",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130397358"
       },
       "reviewRating": [
         {
@@ -503,8 +557,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / sociology"
     },
     {
       "@type": "Review",
@@ -513,8 +570,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing the Relationship Between Emergency Food Assistance and Social Vulnerability During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1150553810",
-        "identifier": "10.1007/s12061-022-09478-8"
+        "identifier": "10.1007/s12061-022-09478-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150553810"
       },
       "reviewRating": [
         {
@@ -529,8 +586,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau, 2018 ACS 5‑Year Public Use Microdata Sample.",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau, 2018 ACS 5‑Year Public Use Microdata Sample."
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -539,8 +599,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Spatial characteristics of food insecurity and food access in Los Angeles County during the COVID-19 pandemic",
-        "dud:publication_id": "pub.1162266972",
-        "identifier": "10.1007/s12571-023-01381-5"
+        "identifier": "10.1007/s12571-023-01381-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162266972"
       },
       "reviewRating": [
         {
@@ -555,8 +615,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -565,8 +628,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "dud:publication_id": "pub.1181289696",
-        "identifier": "10.1007/s12571-024-01494-5"
+        "identifier": "10.1007/s12571-024-01494-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
       },
       "reviewRating": [
         {
@@ -581,8 +644,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -591,8 +657,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "dud:publication_id": "pub.1181289696",
-        "identifier": "10.1007/s12571-024-01494-5"
+        "identifier": "10.1007/s12571-024-01494-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
       },
       "reviewRating": [
         {
@@ -607,8 +673,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Income"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Income"
     },
     {
       "@type": "Review",
@@ -617,8 +686,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "dud:publication_id": "pub.1149272027",
-        "identifier": "10.1007/s12603-022-1816-6"
+        "identifier": "10.1007/s12603-022-1816-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
       },
       "reviewRating": [
         {
@@ -633,8 +702,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / public health"
     },
     {
       "@type": "Review",
@@ -643,8 +715,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing Syndemic Health Disparities Among Latin Immigrants Using Peer Support",
-        "dud:publication_id": "pub.1110286472",
-        "identifier": "10.1007/s40615-018-00535-y"
+        "identifier": "10.1007/s40615-018-00535-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1110286472"
       },
       "reviewRating": [
         {
@@ -659,8 +731,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography / public health"
     },
     {
       "@type": "Review",
@@ -669,8 +744,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1152755048",
-        "identifier": "10.1007/s40615-022-01447-8"
+        "identifier": "10.1007/s40615-022-01447-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
       },
       "reviewRating": [
         {
@@ -685,8 +760,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography, economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography, economics"
     },
     {
       "@type": "Review",
@@ -695,8 +773,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Beyond Income Poverty: Measuring Disadvantage in Terms of Material Hardship and Health",
-        "dud:publication_id": "pub.1016886086",
-        "identifier": "10.1016/j.acap.2016.01.015"
+        "identifier": "10.1016/j.acap.2016.01.015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1016886086"
       },
       "reviewRating": [
         {
@@ -711,8 +789,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography / public statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography / public statistics"
     },
     {
       "@type": "Review",
@@ -721,8 +802,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social Risks Among Primary Care Patients in a Large Urban Health System",
-        "dud:publication_id": "pub.1125707721",
-        "identifier": "10.1016/j.amepre.2019.11.011"
+        "identifier": "10.1016/j.amepre.2019.11.011",
+        "url": "https://app.dimensions.ai/details/publication/pub.1125707721"
       },
       "reviewRating": [
         {
@@ -737,8 +818,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socio‑economic data"
     },
     {
       "@type": "Review",
@@ -747,8 +831,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "State-Level Socioeconomic Racial Inequity and Food Insecurity in the U.S.",
-        "dud:publication_id": "pub.1150128589",
-        "identifier": "10.1016/j.amepre.2022.06.019"
+        "identifier": "10.1016/j.amepre.2022.06.019",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150128589"
       },
       "reviewRating": [
         {
@@ -763,8 +847,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographic/Economic Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographic/Economic Survey"
     },
     {
       "@type": "Review",
@@ -773,8 +860,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Investments and Diet-Related Outcomes: A Longitudinal Study of Residents of Two Urban Neighborhoods",
-        "dud:publication_id": "pub.1165945997",
-        "identifier": "10.1016/j.amepre.2023.11.005"
+        "identifier": "10.1016/j.amepre.2023.11.005",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165945997"
       },
       "reviewRating": [
         {
@@ -789,8 +876,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic characteristics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic characteristics"
     },
     {
       "@type": "Review",
@@ -799,8 +889,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "reviewRating": [
         {
@@ -815,8 +905,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -825,8 +918,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1154510004",
-        "identifier": "10.1016/j.annepidem.2023.01.008"
+        "identifier": "10.1016/j.annepidem.2023.01.008",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
       },
       "reviewRating": [
         {
@@ -841,8 +934,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -851,8 +947,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Life course influences on food provisioning among low-income, Mexican-born mothers with young children at risk of food insecurity",
-        "dud:publication_id": "pub.1107175478",
-        "identifier": "10.1016/j.appet.2018.09.014"
+        "identifier": "10.1016/j.appet.2018.09.014",
+        "url": "https://app.dimensions.ai/details/publication/pub.1107175478"
       },
       "reviewRating": [
         {
@@ -867,7 +963,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Demographics / Socio‑economic"
+      "about": "Demographics / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -876,8 +972,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material Hardship, Labor Market Characteristics and Substantiated Child Maltreatment: A Bayesian Spatiotemporal Analysis",
-        "dud:publication_id": "pub.1166678729",
-        "identifier": "10.1016/j.childyouth.2023.107371"
+        "identifier": "10.1016/j.childyouth.2023.107371",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166678729"
       },
       "reviewRating": [
         {
@@ -892,8 +988,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -902,8 +1001,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "reviewRating": [
         {
@@ -918,8 +1017,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – American Community Survey 2019 public‑use micro‑data.",
-      "dud:domain": "Demography / Housing Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – American Community Survey 2019 public‑use micro‑data."
+      },
+      "about": "Demography / Housing Economics"
     },
     {
       "@type": "Review",
@@ -928,8 +1030,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Developing a healthy food access index (HFAI): Web-based mapping and future directions for AI integrations",
-        "dud:publication_id": "pub.1186890755",
-        "identifier": "10.1016/j.cities.2025.105908"
+        "identifier": "10.1016/j.cities.2025.105908",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186890755"
       },
       "reviewRating": [
         {
@@ -944,8 +1046,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic indicators"
     },
     {
       "@type": "Review",
@@ -954,8 +1059,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring Health Implications of Disparities Associated with Food Insecurity Among Low-Income Populations",
-        "dud:publication_id": "pub.1014857274",
-        "identifier": "10.1016/j.cnur.2015.05.003"
+        "identifier": "10.1016/j.cnur.2015.05.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1014857274"
       },
       "reviewRating": [
         {
@@ -970,8 +1075,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau website referenced in the paper.",
-      "dud:domain": "Demography / Population studies"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau website referenced in the paper."
+      },
+      "about": "Demography / Population studies"
     },
     {
       "@type": "Review",
@@ -980,8 +1088,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Unhealthy dietary patterns in the American Nations: A crisis with cultural distinctions",
-        "dud:publication_id": "pub.1170209148",
-        "identifier": "10.1016/j.cpcardiol.2024.102558"
+        "identifier": "10.1016/j.cpcardiol.2024.102558",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170209148"
       },
       "reviewRating": [
         {
@@ -996,8 +1104,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau (American Community Survey)",
-      "dud:domain": "Demography / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau (American Community Survey)"
+      },
+      "about": "Demography / public health"
     },
     {
       "@type": "Review",
@@ -1006,8 +1117,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food security among young adults with disabilities in the United States: Findings from the National Health Interview Survey",
-        "dud:publication_id": "pub.1023565273",
-        "identifier": "10.1016/j.dhjo.2015.10.003"
+        "identifier": "10.1016/j.dhjo.2015.10.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1023565273"
       },
       "reviewRating": [
         {
@@ -1022,7 +1133,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Demographic Survey"
+      "about": "Demographic Survey"
     },
     {
       "@type": "Review",
@@ -1031,8 +1142,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Proximity to SNAP-authorized retailers and child maltreatment reports",
-        "dud:publication_id": "pub.1137858175",
-        "identifier": "10.1016/j.ehb.2021.101015"
+        "identifier": "10.1016/j.ehb.2021.101015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137858175"
       },
       "reviewRating": [
         {
@@ -1047,8 +1158,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic statistics"
     },
     {
       "@type": "Review",
@@ -1057,8 +1171,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial Disparities in Neighborhood and Household Socioeconomic Disadvantage Predict Postpartum Weight Retention",
-        "dud:publication_id": "pub.1150883003",
-        "identifier": "10.1016/j.focus.2022.100029"
+        "identifier": "10.1016/j.focus.2022.100029",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150883003"
       },
       "reviewRating": [
         {
@@ -1073,8 +1187,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Socioeconomic / Demographic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Socioeconomic / Demographic"
     },
     {
       "@type": "Review",
@@ -1083,8 +1200,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity during the COVID-19 pandemic is associated with anxiety and depression among US- and foreign-born adults: Findings from a nationwide survey",
-        "dud:publication_id": "pub.1158340707",
-        "identifier": "10.1016/j.jad.2023.05.081"
+        "identifier": "10.1016/j.jad.2023.05.081",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158340707"
       },
       "reviewRating": [
         {
@@ -1099,8 +1216,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -1109,8 +1229,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and mental health among US adults during the COVID-19 pandemic: Results from National Health Interview Survey, 2020–2021",
-        "dud:publication_id": "pub.1170563033",
-        "identifier": "10.1016/j.jad.2024.04.043"
+        "identifier": "10.1016/j.jad.2024.04.043",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170563033"
       },
       "reviewRating": [
         {
@@ -1125,8 +1245,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic statistics"
     },
     {
       "@type": "Review",
@@ -1135,8 +1258,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Born on the wrong side of the tracks: Exploring the causal effects of segregation on infant health",
-        "dud:publication_id": "pub.1169910762",
-        "identifier": "10.1016/j.jhealeco.2024.102876"
+        "identifier": "10.1016/j.jhealeco.2024.102876",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169910762"
       },
       "reviewRating": [
         {
@@ -1151,8 +1274,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Social Science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Social Science"
     },
     {
       "@type": "Review",
@@ -1161,8 +1287,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Born on the wrong side of the tracks: Exploring the causal effects of segregation on infant health",
-        "dud:publication_id": "pub.1169910762",
-        "identifier": "10.1016/j.jhealeco.2024.102876"
+        "identifier": "10.1016/j.jhealeco.2024.102876",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169910762"
       },
       "reviewRating": [
         {
@@ -1177,8 +1303,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "IPUMS, University of Minnesota",
-      "dud:domain": "Demography / Social Science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "IPUMS, University of Minnesota"
+      },
+      "about": "Demography / Social Science"
     },
     {
       "@type": "Review",
@@ -1187,8 +1316,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Predictors of Food Insecurity in Selected Chicago Community Areas",
-        "dud:publication_id": "pub.1107538404",
-        "identifier": "10.1016/j.jneb.2018.08.005"
+        "identifier": "10.1016/j.jneb.2018.08.005",
+        "url": "https://app.dimensions.ai/details/publication/pub.1107538404"
       },
       "reviewRating": [
         {
@@ -1203,8 +1332,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic statistics"
     },
     {
       "@type": "Review",
@@ -1213,8 +1345,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A livelihoods assessment of new entrants within the US fisheries agriculture continuum",
-        "dud:publication_id": "pub.1150152055",
-        "identifier": "10.1016/j.jrurstud.2022.07.024"
+        "identifier": "10.1016/j.jrurstud.2022.07.024",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150152055"
       },
       "reviewRating": [
         {
@@ -1229,8 +1361,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Rural Studies"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Rural Studies"
     },
     {
       "@type": "Review",
@@ -1239,8 +1374,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
-        "dud:publication_id": "pub.1169898660",
-        "identifier": "10.1016/j.jrurstud.2024.103256"
+        "identifier": "10.1016/j.jrurstud.2024.103256",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169898660"
       },
       "reviewRating": [
         {
@@ -1255,8 +1390,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -1265,8 +1403,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Looking to the past: Investigating 10-year place histories as a determinant of home food environments in the Healthy Communities Study",
-        "dud:publication_id": "pub.1182064944",
-        "identifier": "10.1016/j.socscimed.2024.117478"
+        "identifier": "10.1016/j.socscimed.2024.117478",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182064944"
       },
       "reviewRating": [
         {
@@ -1281,8 +1419,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Sociodemographics / Geography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Sociodemographics / Geography"
     },
     {
       "@type": "Review",
@@ -1291,8 +1432,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "dud:publication_id": "pub.1105225625",
-        "identifier": "10.1016/j.ssmph.2018.06.006"
+        "identifier": "10.1016/j.ssmph.2018.06.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
       },
       "reviewRating": [
         {
@@ -1307,8 +1448,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics/Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics/Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -1317,8 +1461,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disability, food insecurity by nativity, citizenship, and duration",
-        "dud:publication_id": "pub.1124455215",
-        "identifier": "10.1016/j.ssmph.2020.100550"
+        "identifier": "10.1016/j.ssmph.2020.100550",
+        "url": "https://app.dimensions.ai/details/publication/pub.1124455215"
       },
       "reviewRating": [
         {
@@ -1333,8 +1477,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographic & Socio‑economic Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographic & Socio‑economic Survey"
     },
     {
       "@type": "Review",
@@ -1343,8 +1490,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
-        "dud:publication_id": "pub.1183405145",
-        "identifier": "10.1016/j.ygyno.2024.12.001"
+        "identifier": "10.1016/j.ygyno.2024.12.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183405145"
       },
       "reviewRating": [
         {
@@ -1359,8 +1506,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -1369,8 +1519,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity in Detroit: exploring the relationship between patient-reported food insecurity and proximity to healthful grocery stores",
-        "dud:publication_id": "pub.1140053352",
-        "identifier": "10.1017/s1368980021003128"
+        "identifier": "10.1017/s1368980021003128",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140053352"
       },
       "reviewRating": [
         {
@@ -1385,8 +1535,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -1395,8 +1548,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the associations between neighbourhood food environment, household food insecurity and child weight-related outcomes in socio-economically and racially/ethnically diverse families",
-        "dud:publication_id": "pub.1151738664",
-        "identifier": "10.1017/s1368980022002130"
+        "identifier": "10.1017/s1368980022002130",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151738664"
       },
       "reviewRating": [
         {
@@ -1411,8 +1564,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Sociodemographics / Geography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Sociodemographics / Geography"
     },
     {
       "@type": "Review",
@@ -1421,8 +1577,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Patients with diabetes struggling to afford food and control their HbA1c in food-insecure areas in Bronx, NY",
-        "dud:publication_id": "pub.1176144307",
-        "identifier": "10.1017/s1368980024001666"
+        "identifier": "10.1017/s1368980024001666",
+        "url": "https://app.dimensions.ai/details/publication/pub.1176144307"
       },
       "reviewRating": [
         {
@@ -1437,8 +1593,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic statistics"
     },
     {
       "@type": "Review",
@@ -1447,8 +1606,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "US state-level containment policies not associated with food insecurity changes during the early COVID-19 pandemic: a multilevel analysis",
-        "dud:publication_id": "pub.1184839172",
-        "identifier": "10.1017/s1368980024002696"
+        "identifier": "10.1017/s1368980024002696",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184839172"
       },
       "reviewRating": [
         {
@@ -1463,8 +1622,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – American Community Survey (ACS)",
-      "dud:domain": "Demographics / population statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – American Community Survey (ACS)"
+      },
+      "about": "Demographics / population statistics"
     },
     {
       "@type": "Review",
@@ -1473,8 +1635,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Food Insecurity and Adverse Human Health Outcomes in the United States",
-        "dud:publication_id": "pub.1185433555",
-        "identifier": "10.1029/2024gh001198"
+        "identifier": "10.1029/2024gh001198",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185433555"
       },
       "reviewRating": [
         {
@@ -1489,8 +1651,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "United States Census Bureau – American Community Survey",
-      "dud:domain": "Demographics / socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "United States Census Bureau – American Community Survey"
+      },
+      "about": "Demographics / socio‑economics"
     },
     {
       "@type": "Review",
@@ -1499,8 +1664,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home and wild food procurement were associated with improved food security during the COVID-19 pandemic in two rural US states",
-        "dud:publication_id": "pub.1168445558",
-        "identifier": "10.1038/s41598-024-52320-z"
+        "identifier": "10.1038/s41598-024-52320-z",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168445558"
       },
       "reviewRating": [
         {
@@ -1515,8 +1680,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Survey statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Survey statistics"
     },
     {
       "@type": "Review",
@@ -1525,8 +1693,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Suburbanization of Food Insecurity: An Analysis of Projected Trends in the Atlanta Metropolitan Area",
-        "dud:publication_id": "pub.1090547009",
-        "identifier": "10.1080/00330124.2017.1325751"
+        "identifier": "10.1080/00330124.2017.1325751",
+        "url": "https://app.dimensions.ai/details/publication/pub.1090547009"
       },
       "reviewRating": [
         {
@@ -1541,8 +1709,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socioeconomic Indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socioeconomic Indicators"
     },
     {
       "@type": "Review",
@@ -1551,8 +1722,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The influence of cultural food security on cultural identity and well-being: a qualitative comparison between second-generation American and international students in the United States",
-        "dud:publication_id": "pub.1135742049",
-        "identifier": "10.1080/03670244.2021.1875455"
+        "identifier": "10.1080/03670244.2021.1875455",
+        "url": "https://app.dimensions.ai/details/publication/pub.1135742049"
       },
       "reviewRating": [
         {
@@ -1567,8 +1738,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Social Sciences"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Social Sciences"
     },
     {
       "@type": "Review",
@@ -1577,8 +1751,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Healthy Options: A Community-Based Program to Address Food Insecurity",
-        "dud:publication_id": "pub.1020498179",
-        "identifier": "10.1080/10852352.2015.973248"
+        "identifier": "10.1080/10852352.2015.973248",
+        "url": "https://app.dimensions.ai/details/publication/pub.1020498179"
       },
       "reviewRating": [
         {
@@ -1593,8 +1767,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Public Health"
     },
     {
       "@type": "Review",
@@ -1603,8 +1780,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
-        "dud:publication_id": "pub.1125693172",
-        "identifier": "10.1080/10875549.2020.1740908"
+        "identifier": "10.1080/10875549.2020.1740908",
+        "url": "https://app.dimensions.ai/details/publication/pub.1125693172"
       },
       "reviewRating": [
         {
@@ -1619,8 +1796,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau, 2019",
-      "dud:domain": "Demography / Socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau, 2019"
+      },
+      "about": "Demography / Socio‑economics"
     },
     {
       "@type": "Review",
@@ -1629,8 +1809,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A spatial analyses of food insecurity and disability in the Southeast region of the United States",
-        "dud:publication_id": "pub.1149656458",
-        "identifier": "10.1080/17445647.2022.2092909"
+        "identifier": "10.1080/17445647.2022.2092909",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149656458"
       },
       "reviewRating": [
         {
@@ -1645,8 +1825,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -1655,8 +1838,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Evaluating a Nutrition Education Program in an Era of Food Insecurity",
-        "dud:publication_id": "pub.1017133558",
-        "identifier": "10.1080/19320248.2016.1227748"
+        "identifier": "10.1080/19320248.2016.1227748",
+        "url": "https://app.dimensions.ai/details/publication/pub.1017133558"
       },
       "reviewRating": [
         {
@@ -1671,8 +1854,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau ACS (2005).",
-      "dud:domain": "Demography / Sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau ACS (2005)."
+      },
+      "about": "Demography / Sociology"
     },
     {
       "@type": "Review",
@@ -1681,8 +1867,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food security and use of community food sources and food assistance programs among food shoppers in neighborhoods of low income and low food access",
-        "dud:publication_id": "pub.1092382198",
-        "identifier": "10.1080/19320248.2017.1364188"
+        "identifier": "10.1080/19320248.2017.1364188",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092382198"
       },
       "reviewRating": [
         {
@@ -1697,8 +1883,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socioeconomic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socioeconomic data"
     },
     {
       "@type": "Review",
@@ -1707,8 +1896,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Offering More Than Food: Outcomes and Lessons Learned from a Fresh Start food pantry in Texas",
-        "dud:publication_id": "pub.1106711124",
-        "identifier": "10.1080/19320248.2018.1512925"
+        "identifier": "10.1080/19320248.2018.1512925",
+        "url": "https://app.dimensions.ai/details/publication/pub.1106711124"
       },
       "reviewRating": [
         {
@@ -1723,8 +1912,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation in literature/background section.",
-      "dud:domain": "Demographics/Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation in literature/background section."
+      },
+      "about": "Demographics/Economics"
     },
     {
       "@type": "Review",
@@ -1733,8 +1925,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Measuring Social Cohesion and Social Capital within the Context of Community Food Security: A Confirmatory Factor Analysis",
-        "dud:publication_id": "pub.1118093754",
-        "identifier": "10.1080/19320248.2019.1640161"
+        "identifier": "10.1080/19320248.2019.1640161",
+        "url": "https://app.dimensions.ai/details/publication/pub.1118093754"
       },
       "reviewRating": [
         {
@@ -1749,8 +1941,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic profiling"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic profiling"
     },
     {
       "@type": "Review",
@@ -1759,8 +1954,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
-        "dud:publication_id": "pub.1134009679",
-        "identifier": "10.1080/19320248.2020.1860848"
+        "identifier": "10.1080/19320248.2020.1860848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134009679"
       },
       "reviewRating": [
         {
@@ -1775,8 +1970,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -1785,8 +1983,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing community needs through a participatory food security assessment",
-        "dud:publication_id": "pub.1137146941",
-        "identifier": "10.1080/19320248.2021.1903643"
+        "identifier": "10.1080/19320248.2021.1903643",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137146941"
       },
       "reviewRating": [
         {
@@ -1801,8 +1999,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography/Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography/Economics"
     },
     {
       "@type": "Review",
@@ -1811,8 +2012,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the Relationship Between SNAP Enrollment and Food Insecurity in Rural Appalachia",
-        "dud:publication_id": "pub.1153730181",
-        "identifier": "10.1080/19320248.2022.2157231"
+        "identifier": "10.1080/19320248.2022.2157231",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153730181"
       },
       "reviewRating": [
         {
@@ -1827,8 +2028,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -1837,8 +2041,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Reconsidering Household Food Insecurity: Assessing the Impact of Neighborhood and Household Characteristics",
-        "dud:publication_id": "pub.1171830752",
-        "identifier": "10.1080/19320248.2024.2355938"
+        "identifier": "10.1080/19320248.2024.2355938",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171830752"
       },
       "reviewRating": [
         {
@@ -1853,8 +2057,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau public release (5‑year estimates).",
-      "dud:domain": "Demographic and socioeconomic survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau public release (5‑year estimates)."
+      },
+      "about": "Demographic and socioeconomic survey"
     },
     {
       "@type": "Review",
@@ -1863,8 +2070,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploratory spatial analysis of food insecurity and diabetes: an application of multiscale geographically weighted regression",
-        "dud:publication_id": "pub.1158054298",
-        "identifier": "10.1080/19475683.2023.2208199"
+        "identifier": "10.1080/19475683.2023.2208199",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158054298"
       },
       "reviewRating": [
         {
@@ -1879,8 +2086,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic"
     },
     {
       "@type": "Review",
@@ -1889,8 +2099,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Influences of Chemical and Nonchemical Stressors on Health and Quality of Life in Fenceline Communities: A Community-Based Participatory Research Survey in Southeastern Pennsylvania",
-        "dud:publication_id": "pub.1188583680",
-        "identifier": "10.1089/env.2024.0078"
+        "identifier": "10.1089/env.2024.0078",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188583680"
       },
       "reviewRating": [
         {
@@ -1905,8 +2115,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic indicators"
     },
     {
       "@type": "Review",
@@ -1915,8 +2128,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "An Evaluation of Food Insecurity and Its Correlates in a Filipino American Study Sample Residing in Clark County, Nevada",
-        "dud:publication_id": "pub.1122014966",
-        "identifier": "10.1089/heq.2019.0074"
+        "identifier": "10.1089/heq.2019.0074",
+        "url": "https://app.dimensions.ai/details/publication/pub.1122014966"
       },
       "reviewRating": [
         {
@@ -1931,8 +2144,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -1941,8 +2157,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Improving Health while Alleviating Hunger: Best Practices of a Successful Hunger Relief Organization",
-        "dud:publication_id": "pub.1104998972",
-        "identifier": "10.1093/cdn/nzy057"
+        "identifier": "10.1093/cdn/nzy057",
+        "url": "https://app.dimensions.ai/details/publication/pub.1104998972"
       },
       "reviewRating": [
         {
@@ -1957,8 +2173,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited as a data source for describing population characteristics of Washington and Benton Counties.",
-      "dud:domain": "Demographics / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited as a data source for describing population characteristics of Washington and Benton Counties."
+      },
+      "about": "Demographics / Social science"
     },
     {
       "@type": "Review",
@@ -1967,8 +2186,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Neighborhood Gentrification and Food Insecurity Among Urban Older Adults: Evidence From New York City",
-        "dud:publication_id": "pub.1171757045",
-        "identifier": "10.1093/geront/gnae048"
+        "identifier": "10.1093/geront/gnae048",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171757045"
       },
       "reviewRating": [
         {
@@ -1983,8 +2202,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -1993,8 +2215,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity is Directly Associated with the Use of Health Services for Adverse Health Events among Older Adults",
-        "dud:publication_id": "pub.1130550214",
-        "identifier": "10.1093/jn/nxaa286"
+        "identifier": "10.1093/jn/nxaa286",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130550214"
       },
       "reviewRating": [
         {
@@ -2009,8 +2231,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -2019,8 +2244,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association between Food Insecurity, Mental Health, and Intentions to Leave the US Army in a Cross-Sectional Sample of US Soldiers",
-        "dud:publication_id": "pub.1136273490",
-        "identifier": "10.1093/jn/nxab089"
+        "identifier": "10.1093/jn/nxab089",
+        "url": "https://app.dimensions.ai/details/publication/pub.1136273490"
       },
       "reviewRating": [
         {
@@ -2035,8 +2260,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics, economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics, economics"
     },
     {
       "@type": "Review",
@@ -2045,8 +2273,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "County-Level Associations Between Pregnancy-Related Mortality Ratios and Contextual Sociospatial Indicators",
-        "dud:publication_id": "pub.1147246557",
-        "identifier": "10.1097/aog.0000000000004749"
+        "identifier": "10.1097/aog.0000000000004749",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147246557"
       },
       "reviewRating": [
         {
@@ -2061,8 +2289,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Sociodemographic / Economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Sociodemographic / Economic"
     },
     {
       "@type": "Review",
@@ -2071,8 +2302,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Families in Context",
-        "dud:publication_id": "pub.1120291211",
-        "identifier": "10.1097/fch.0000000000000236"
+        "identifier": "10.1097/fch.0000000000000236",
+        "url": "https://app.dimensions.ai/details/publication/pub.1120291211"
       },
       "reviewRating": [
         {
@@ -2087,8 +2318,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau (American Community Survey)",
-      "dud:domain": "Demography / Population Studies"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau (American Community Survey)"
+      },
+      "about": "Demography / Population Studies"
     },
     {
       "@type": "Review",
@@ -2097,8 +2331,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Medical Mistrust Among Food Insecure Individuals in Appalachia",
-        "dud:publication_id": "pub.1157363921",
-        "identifier": "10.1097/fch.0000000000000362"
+        "identifier": "10.1097/fch.0000000000000362",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157363921"
       },
       "reviewRating": [
         {
@@ -2113,8 +2347,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economics"
     },
     {
       "@type": "Review",
@@ -2123,8 +2360,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Cost-related Nonadherence to Medication Treatment Plans",
-        "dud:publication_id": "pub.1100953647",
-        "identifier": "10.1097/mlr.0000000000000887"
+        "identifier": "10.1097/mlr.0000000000000887",
+        "url": "https://app.dimensions.ai/details/publication/pub.1100953647"
       },
       "reviewRating": [
         {
@@ -2139,8 +2376,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Socioeconomic demographics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Socioeconomic demographics"
     },
     {
       "@type": "Review",
@@ -2149,8 +2389,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racialized Experiences Differentiate Food Security Among African American Adults",
-        "dud:publication_id": "pub.1139175178",
-        "identifier": "10.1097/nnr.0000000000000533"
+        "identifier": "10.1097/nnr.0000000000000533",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139175178"
       },
       "reviewRating": [
         {
@@ -2165,8 +2405,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -2175,8 +2418,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Neighborhood Disadvantage, and Hospital Readmission in Health System Adults",
-        "dud:publication_id": "pub.1166767548",
-        "identifier": "10.1097/nur.0000000000000794"
+        "identifier": "10.1097/nur.0000000000000794",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166767548"
       },
       "reviewRating": [
         {
@@ -2191,8 +2434,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -2201,8 +2447,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Diabetes Prevention for Pacific People in the United States: A Mixed-Methods Feasibility Study to Adapt the Diabetes Prevention Program With Samoan/Tongan Church Communities",
-        "dud:publication_id": "pub.1128171602",
-        "identifier": "10.1097/phh.0000000000001181"
+        "identifier": "10.1097/phh.0000000000001181",
+        "url": "https://app.dimensions.ai/details/publication/pub.1128171602"
       },
       "reviewRating": [
         {
@@ -2217,8 +2463,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Demographics / Socioeconomic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Demographics / Socioeconomic"
     },
     {
       "@type": "Review",
@@ -2227,8 +2476,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Mental Health Mediates the Association Between Gender-Based Violence and HIV Treatment Engagement in US Women",
-        "dud:publication_id": "pub.1142332479",
-        "identifier": "10.1097/qai.0000000000002848"
+        "identifier": "10.1097/qai.0000000000002848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142332479"
       },
       "reviewRating": [
         {
@@ -2243,8 +2492,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National Institutes of Health (NIH) funded cohort; data collected by WIHS investigators.",
-      "dud:domain": "Epidemiology / HIV research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National Institutes of Health (NIH) funded cohort; data collected by WIHS investigators."
+      },
+      "about": "Epidemiology / HIV research"
     },
     {
       "@type": "Review",
@@ -2253,8 +2505,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Effectiveness of implementation strategies to improve nutrition education interventions in adults living in rural and/or low-income communities",
-        "dud:publication_id": "pub.1157733010",
-        "identifier": "10.1097/xeb.0000000000000371"
+        "identifier": "10.1097/xeb.0000000000000371",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157733010"
       },
       "reviewRating": [
         {
@@ -2269,8 +2521,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -2279,8 +2534,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security Impacts of the COVID-19 Pandemic: Following a Cohort of Vermonters During the First Year",
-        "dud:publication_id": "pub.1142164663",
-        "identifier": "10.1101/2021.10.20.21265283"
+        "identifier": "10.1101/2021.10.20.21265283",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142164663"
       },
       "reviewRating": [
         {
@@ -2295,8 +2550,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -2305,8 +2563,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home food procurement associated with improved food security during the COVID-19 pandemic",
-        "dud:publication_id": "pub.1158635493",
-        "identifier": "10.1101/2023.06.01.23290848"
+        "identifier": "10.1101/2023.06.01.23290848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158635493"
       },
       "reviewRating": [
         {
@@ -2321,8 +2579,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Survey Statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Survey Statistics"
     },
     {
       "@type": "Review",
@@ -2331,8 +2592,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material hardship and use of social safety net programs among LGBT adults and their families",
-        "dud:publication_id": "pub.1181082564",
-        "identifier": "10.1111/asap.12432"
+        "identifier": "10.1111/asap.12432",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181082564"
       },
       "reviewRating": [
         {
@@ -2347,8 +2608,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography / Socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography / Socio‑economics"
     },
     {
       "@type": "Review",
@@ -2357,8 +2621,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Identifying Unmet Needs of Families With Children and Youth With Special Health Care Needs in a Preparedness Intervention Connected to the Medical Home",
-        "dud:publication_id": "pub.1191288170",
-        "identifier": "10.1111/cch.70118"
+        "identifier": "10.1111/cch.70118",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191288170"
       },
       "reviewRating": [
         {
@@ -2373,8 +2637,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic indicators"
     },
     {
       "@type": "Review",
@@ -2383,8 +2650,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of household food insecurity and childhood weight status in a low‐income population",
-        "dud:publication_id": "pub.1130753128",
-        "identifier": "10.1111/cob.12401"
+        "identifier": "10.1111/cob.12401",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130753128"
       },
       "reviewRating": [
         {
@@ -2399,8 +2666,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic"
     },
     {
       "@type": "Review",
@@ -2409,8 +2679,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and loneliness amongst older urban subsidised housing residents: The importance of social connectedness",
-        "dud:publication_id": "pub.1151152379",
-        "identifier": "10.1111/hsc.14027"
+        "identifier": "10.1111/hsc.14027",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151152379"
       },
       "reviewRating": [
         {
@@ -2425,8 +2695,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -2435,8 +2708,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing the Extreme Loneliness of Immigrant Farmworkers",
-        "dud:publication_id": "pub.1137617651",
-        "identifier": "10.1111/soin.12428"
+        "identifier": "10.1111/soin.12428",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137617651"
       },
       "reviewRating": [
         {
@@ -2451,8 +2724,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography / economics"
     },
     {
       "@type": "Review",
@@ -2461,8 +2737,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Relationship between food insecurity and smoking status among women living with and at risk for HIV in the USA: a cohort study",
-        "dud:publication_id": "pub.1140917760",
-        "identifier": "10.1136/bmjopen-2021-054903"
+        "identifier": "10.1136/bmjopen-2021-054903",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140917760"
       },
       "reviewRating": [
         {
@@ -2477,8 +2753,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National Heart, Lung, and Blood Institute (NHLBI) and co‑funding institutes; coordinated by the MWCCS Data Analysis and Coordination Centre.",
-      "dud:domain": "HIV/AIDS epidemiology, chronic disease research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National Heart, Lung, and Blood Institute (NHLBI) and co‑funding institutes; coordinated by the MWCCS Data Analysis and Coordination Centre."
+      },
+      "about": "HIV/AIDS epidemiology, chronic disease research"
     },
     {
       "@type": "Review",
@@ -2487,8 +2766,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Key sociodemographic factors and food packaging attributes associated with poor diet quality among rural Americans: a cross-sectional survey study",
-        "dud:publication_id": "pub.1191325979",
-        "identifier": "10.1136/bmjopen-2025-099774"
+        "identifier": "10.1136/bmjopen-2025-099774",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191325979"
       },
       "reviewRating": [
         {
@@ -2503,8 +2782,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic characteristics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic characteristics"
     },
     {
       "@type": "Review",
@@ -2513,8 +2795,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overall and race-specific associations between state-level minimum wage policy and food insecurity in the United States",
-        "dud:publication_id": "pub.1176147894",
-        "identifier": "10.1136/jech-2024-222350"
+        "identifier": "10.1136/jech-2024-222350",
+        "url": "https://app.dimensions.ai/details/publication/pub.1176147894"
       },
       "reviewRating": [
         {
@@ -2529,8 +2811,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -2539,8 +2824,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using participatory and mixed-methods approaches in GIS to develop a Place-Based Food Insecurity and Vulnerability Index",
-        "dud:publication_id": "pub.1039947645",
-        "identifier": "10.1177/0308518x16686352"
+        "identifier": "10.1177/0308518x16686352",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039947645"
       },
       "reviewRating": [
         {
@@ -2555,8 +2840,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – 2012 ACS 5‑year estimates.",
-      "dud:domain": "Demographics / socio‑economic analysis"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – 2012 ACS 5‑year estimates."
+      },
+      "about": "Demographics / socio‑economic analysis"
     },
     {
       "@type": "Review",
@@ -2565,8 +2853,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in US Military Veterans",
-        "dud:publication_id": "pub.1134039215",
-        "identifier": "10.1177/0379572120963952"
+        "identifier": "10.1177/0379572120963952",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134039215"
       },
       "reviewRating": [
         {
@@ -2581,8 +2869,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographic and socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographic and socioeconomic research"
     },
     {
       "@type": "Review",
@@ -2591,8 +2882,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "reviewRating": [
         {
@@ -2607,8 +2898,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -2617,8 +2911,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Supporting wellness at pantries (SWAP) nutrition stoplight system aids rural food pantry clients living with chronic disease in selecting nutritious options",
-        "dud:publication_id": "pub.1138839230",
-        "identifier": "10.1177/17423953211023976"
+        "identifier": "10.1177/17423953211023976",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138839230"
       },
       "reviewRating": [
         {
@@ -2633,8 +2927,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation in the background section (Census Bureau, 2013‑2017).",
-      "dud:domain": "Demography / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation in the background section (Census Bureau, 2013‑2017)."
+      },
+      "about": "Demography / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -2643,8 +2940,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
-        "dud:publication_id": "pub.1182665748",
-        "identifier": "10.1177/21501319241277411"
+        "identifier": "10.1177/21501319241277411",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182665748"
       },
       "reviewRating": [
         {
@@ -2659,8 +2956,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Veteran population estimation"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Veteran population estimation"
     },
     {
       "@type": "Review",
@@ -2669,8 +2969,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Toward Understanding Social Needs Among Primary Care Patients With Uncontrolled Diabetes",
-        "dud:publication_id": "pub.1134713665",
-        "identifier": "10.1177/2150132720985044"
+        "identifier": "10.1177/2150132720985044",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134713665"
       },
       "reviewRating": [
         {
@@ -2685,8 +2985,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -2695,8 +2998,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing Dietary-Related Health Disparities in Underserved Communities: Outcomes From a 24-Month Pilot, Subsidized Food Prescription Program in the Mississippi Delta",
-        "dud:publication_id": "pub.1182432412",
-        "identifier": "10.1177/2752535x241301847"
+        "identifier": "10.1177/2752535x241301847",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182432412"
       },
       "reviewRating": [
         {
@@ -2711,8 +3014,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Referenced for state‑level ranking information.",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Referenced for state‑level ranking information."
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -2721,8 +3027,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home food procurement impacts food security and diet quality during COVID-19",
-        "dud:publication_id": "pub.1138157290",
-        "identifier": "10.1186/s12889-021-10960-0"
+        "identifier": "10.1186/s12889-021-10960-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138157290"
       },
       "reviewRating": [
         {
@@ -2737,8 +3043,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Social Sciences"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Social Sciences"
     },
     {
       "@type": "Review",
@@ -2747,8 +3056,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community supported agriculture plus nutrition education improves skills, self-efficacy, and eating behaviors among low-income caregivers but not their children: a randomized controlled trial",
-        "dud:publication_id": "pub.1140750223",
-        "identifier": "10.1186/s12966-021-01168-x"
+        "identifier": "10.1186/s12966-021-01168-x",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140750223"
       },
       "reviewRating": [
         {
@@ -2763,8 +3072,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -2773,8 +3085,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A community-based health assessment among residents of affordable housing in San Francisco’s Hunters Point",
-        "dud:publication_id": "pub.1186194186",
-        "identifier": "10.1186/s12982-025-00466-0"
+        "identifier": "10.1186/s12982-025-00466-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186194186"
       },
       "reviewRating": [
         {
@@ -2789,8 +3101,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -2799,8 +3114,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A community partnership to evaluate the feasibility of addressing food insecurity among adult patients in an urban healthcare system",
-        "dud:publication_id": "pub.1146163504",
-        "identifier": "10.1186/s40814-022-01013-3"
+        "identifier": "10.1186/s40814-022-01013-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146163504"
       },
       "reviewRating": [
         {
@@ -2815,8 +3130,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited in references/background.",
-      "dud:domain": "Demography / sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited in references/background."
+      },
+      "about": "Demography / sociology"
     },
     {
       "@type": "Review",
@@ -2825,8 +3143,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Correlation of Patient-Reported Social Determinants of Health With Census Tract Measures of Socioeconomic Disadvantage in Patients With GI Cancers in Eastern North Carolina",
-        "dud:publication_id": "pub.1171760268",
-        "identifier": "10.1200/op.23.00703"
+        "identifier": "10.1200/op.23.00703",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171760268"
       },
       "reviewRating": [
         {
@@ -2841,8 +3159,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau.",
-      "dud:domain": "Demographics / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau."
+      },
+      "about": "Demographics / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -2851,8 +3172,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "reviewRating": [
         {
@@ -2867,8 +3188,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -2877,8 +3201,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Examining neighborhood-level hot and cold spots of food insecurity in relation to social vulnerability in Houston, Texas",
-        "dud:publication_id": "pub.1156176400",
-        "identifier": "10.1371/journal.pone.0280620"
+        "identifier": "10.1371/journal.pone.0280620",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156176400"
       },
       "reviewRating": [
         {
@@ -2893,8 +3217,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic indicators"
     },
     {
       "@type": "Review",
@@ -2903,8 +3230,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Low-Income Asian Americans: High Levels Of Food Insecurity And Low Participation In The CalFresh Nutrition Program",
-        "dud:publication_id": "pub.1164235716",
-        "identifier": "10.1377/hlthaff.2023.00116"
+        "identifier": "10.1377/hlthaff.2023.00116",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164235716"
       },
       "reviewRating": [
         {
@@ -2919,8 +3246,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -2929,8 +3259,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
-        "dud:publication_id": "pub.1143615191",
-        "identifier": "10.14283/jarlife.2020.7"
+        "identifier": "10.14283/jarlife.2020.7",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143615191"
       },
       "reviewRating": [
         {
@@ -2945,8 +3275,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socioeconomic Indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socioeconomic Indicators"
     },
     {
       "@type": "Review",
@@ -2955,8 +3288,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "SNAP and WIC Participation During Childhood and Food Security in Adulthood, 1984–2019",
-        "dud:publication_id": "pub.1150333586",
-        "identifier": "10.2105/ajph.2022.306967"
+        "identifier": "10.2105/ajph.2022.306967",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150333586"
       },
       "reviewRating": [
         {
@@ -2971,8 +3304,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / economics"
     },
     {
       "@type": "Review",
@@ -2981,8 +3317,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
-        "dud:publication_id": "pub.1135477069",
-        "identifier": "10.2139/ssrn.3778325"
+        "identifier": "10.2139/ssrn.3778325",
+        "url": "https://app.dimensions.ai/details/publication/pub.1135477069"
       },
       "reviewRating": [
         {
@@ -2997,8 +3333,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography / Socio‑economic description"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography / Socio‑economic description"
     },
     {
       "@type": "Review",
@@ -3007,8 +3346,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "reviewRating": [
         {
@@ -3023,8 +3362,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / economics"
     },
     {
       "@type": "Review",
@@ -3033,8 +3375,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
-        "dud:publication_id": "pub.1149237728",
-        "identifier": "10.2196/34285"
+        "identifier": "10.2196/34285",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149237728"
       },
       "reviewRating": [
         {
@@ -3049,8 +3391,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -3059,8 +3404,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The indirect effects of food insecurity on obesogenic environments",
-        "dud:publication_id": "pub.1154285080",
-        "identifier": "10.3389/fpubh.2022.1052957"
+        "identifier": "10.3389/fpubh.2022.1052957",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154285080"
       },
       "reviewRating": [
         {
@@ -3075,8 +3420,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / economics"
     },
     {
       "@type": "Review",
@@ -3085,8 +3433,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Predictors of food insecurity among older adults before and during COVID-19 in the United States",
-        "dud:publication_id": "pub.1157984123",
-        "identifier": "10.3389/fpubh.2023.1112575"
+        "identifier": "10.3389/fpubh.2023.1112575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157984123"
       },
       "reviewRating": [
         {
@@ -3101,8 +3449,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economic data"
     },
     {
       "@type": "Review",
@@ -3111,8 +3462,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A new approach to a wicked problem: development of a cross-sector community-centered learning network to tackle childhood food inequity",
-        "dud:publication_id": "pub.1175853758",
-        "identifier": "10.3389/fpubh.2024.1436760"
+        "identifier": "10.3389/fpubh.2024.1436760",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175853758"
       },
       "reviewRating": [
         {
@@ -3127,8 +3478,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics/Public Policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics/Public Policy"
     },
     {
       "@type": "Review",
@@ -3137,8 +3491,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of a statewide network hub for screening, referral, and enrollment into food as medicine programs across Kentucky",
-        "dud:publication_id": "pub.1184169793",
-        "identifier": "10.3389/fpubh.2024.1502858"
+        "identifier": "10.3389/fpubh.2024.1502858",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184169793"
       },
       "reviewRating": [
         {
@@ -3153,8 +3507,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – American Community Survey (ACS) 5‑year estimates (cited in references 29‑32).",
-      "dud:domain": "Sociodemographic / public‑health context"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – American Community Survey (ACS) 5‑year estimates (cited in references 29‑32)."
+      },
+      "about": "Sociodemographic / public‑health context"
     },
     {
       "@type": "Review",
@@ -3163,8 +3520,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Climate Change: Differences in Impacts and Adaptation Strategies for Rural Communities in the Global South and North",
-        "dud:publication_id": "pub.1144464200",
-        "identifier": "10.3389/fsufs.2021.691191"
+        "identifier": "10.3389/fsufs.2021.691191",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144464200"
       },
       "reviewRating": [
         {
@@ -3179,8 +3536,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau, ACS 2021",
-      "dud:domain": "Social safety nets / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau, ACS 2021"
+      },
+      "about": "Social safety nets / public health"
     },
     {
       "@type": "Review",
@@ -3189,8 +3549,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "An Analysis of Socioeconomic Determinants of the Black–White Disparity in Food Insecurity Rates in the US",
-        "dud:publication_id": "pub.1158592870",
-        "identifier": "10.3390/foods12112228"
+        "identifier": "10.3390/foods12112228",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158592870"
       },
       "reviewRating": [
         {
@@ -3205,8 +3565,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -3215,8 +3578,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Overlooked Burden of Food Insecurity among Asian Americans: Results from the California Health Interview Survey",
-        "dud:publication_id": "pub.1106051072",
-        "identifier": "10.3390/ijerph15081684"
+        "identifier": "10.3390/ijerph15081684",
+        "url": "https://app.dimensions.ai/details/publication/pub.1106051072"
       },
       "reviewRating": [
         {
@@ -3231,8 +3594,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -3241,8 +3607,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Rural SNAP Participants and Food Insecurity: How Can Communities Leverage Resources to Meet the Growing Food Insecurity Status of Rural and Low-Income Residents?",
-        "dud:publication_id": "pub.1130225825",
-        "identifier": "10.3390/ijerph17176037"
+        "identifier": "10.3390/ijerph17176037",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130225825"
       },
       "reviewRating": [
         {
@@ -3257,8 +3623,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socioeconomics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socioeconomics"
     },
     {
       "@type": "Review",
@@ -3267,8 +3636,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Multi-Pronged Evaluation of a Healthy Food Access Initiative in Central Texas: Study Design, Methods, and Baseline Findings of the FRESH-Austin Evaluation Study",
-        "dud:publication_id": "pub.1141928693",
-        "identifier": "10.3390/ijerph182010834"
+        "identifier": "10.3390/ijerph182010834",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141928693"
       },
       "reviewRating": [
         {
@@ -3283,8 +3652,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Used as secondary data for sampling and for area‑level covariates in the agent‑based model.",
-      "dud:domain": "Demography / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Used as secondary data for sampling and for area‑level covariates in the agent‑based model."
+      },
+      "about": "Demography / public health"
     },
     {
       "@type": "Review",
@@ -3293,8 +3665,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Built Environment and Gender-Based Vulnerability as Key Drivers of Food Insecurity in Allegheny County",
-        "dud:publication_id": "pub.1173791096",
-        "identifier": "10.3390/ijerph21070906"
+        "identifier": "10.3390/ijerph21070906",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173791096"
       },
       "reviewRating": [
         {
@@ -3309,8 +3681,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "https://www.census.gov/",
-      "dud:domain": "Demography / Socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "https://www.census.gov/"
+      },
+      "about": "Demography / Socio‑economics"
     },
     {
       "@type": "Review",
@@ -3319,8 +3694,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Association between Food Insecurity and Insomnia Symptoms among Young Adults in Puerto Rico and the Mediating Role of Psychological Distress Symptoms",
-        "dud:publication_id": "pub.1176174389",
-        "identifier": "10.3390/ijerph21101296"
+        "identifier": "10.3390/ijerph21101296",
+        "url": "https://app.dimensions.ai/details/publication/pub.1176174389"
       },
       "reviewRating": [
         {
@@ -3335,8 +3710,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / sociology"
     },
     {
       "@type": "Review",
@@ -3345,8 +3723,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security Impacts of the COVID-19 Pandemic: Longitudinal Evidence from a Cohort of Adults in Vermont during the First Year",
-        "dud:publication_id": "pub.1146580763",
-        "identifier": "10.3390/nu14071358"
+        "identifier": "10.3390/nu14071358",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146580763"
       },
       "reviewRating": [
         {
@@ -3361,8 +3739,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economics"
     },
     {
       "@type": "Review",
@@ -3371,8 +3752,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding the Relationship between Food Security and Mental Health for Food-Insecure Mothers in Virginia",
-        "dud:publication_id": "pub.1146850840",
-        "identifier": "10.3390/nu14071491"
+        "identifier": "10.3390/nu14071491",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146850840"
       },
       "reviewRating": [
         {
@@ -3387,8 +3768,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socio‑economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socio‑economics"
     },
     {
       "@type": "Review",
@@ -3397,8 +3781,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial/Ethnic Disparities in Food Pantry Use and Barriers in Massachusetts during the First Year of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1148799508",
-        "identifier": "10.3390/nu14122531"
+        "identifier": "10.3390/nu14122531",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148799508"
       },
       "reviewRating": [
         {
@@ -3413,8 +3797,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Census data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Census data"
     },
     {
       "@type": "Review",
@@ -3423,8 +3810,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association between Fresh Fruit and Vegetable Consumption and Purchasing Behaviors, Food Insecurity Status and Geographic Food Access among a Lower-Income, Racially/Ethnically Diverse Cohort in Central Texas",
-        "dud:publication_id": "pub.1153393917",
-        "identifier": "10.3390/nu14235149"
+        "identifier": "10.3390/nu14235149",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153393917"
       },
       "reviewRating": [
         {
@@ -3439,8 +3826,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -3449,8 +3839,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Characteristics Associated with Being a High Consumer of Sweet Foods and Sugar-Sweetened Beverages among US Adults during the COVID-19 Pandemic, 2021",
-        "dud:publication_id": "pub.1158180357",
-        "identifier": "10.3390/nu15102363"
+        "identifier": "10.3390/nu15102363",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158180357"
       },
       "reviewRating": [
         {
@@ -3465,8 +3855,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -3475,8 +3868,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "“I Shouldn’t Have to Drive to the Suburbs”: Grocery Store Access, Transportation, and Food Security in Detroit During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1191240515",
-        "identifier": "10.3390/nu17152441"
+        "identifier": "10.3390/nu17152441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191240515"
       },
       "reviewRating": [
         {
@@ -3491,8 +3884,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic statistics"
     },
     {
       "@type": "Review",
@@ -3501,8 +3897,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "And Then, There Were None: The Nexus of Agricultural Labor, Migration, and Food Insecurity in Rural and Urban Settings in the United States",
-        "dud:publication_id": "pub.1192570915",
-        "identifier": "10.3390/su17177906"
+        "identifier": "10.3390/su17177906",
+        "url": "https://app.dimensions.ai/details/publication/pub.1192570915"
       },
       "reviewRating": [
         {
@@ -3517,8 +3913,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Census Bureau publication",
-      "dud:domain": "Demography / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Census Bureau publication"
+      },
+      "about": "Demography / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -3527,8 +3926,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material Need Insecurities among People on Hemodialysis: Burden, Sociodemographic Risk Factors, and Associations with Substance Use",
-        "dud:publication_id": "pub.1165809146",
-        "identifier": "10.34067/kid.0000000000000279"
+        "identifier": "10.34067/kid.0000000000000279",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165809146"
       },
       "reviewRating": [
         {
@@ -3543,8 +3942,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demographics / Socioeconomic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demographics / Socioeconomic"
     },
     {
       "@type": "Review",
@@ -3553,8 +3955,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
-        "dud:publication_id": "pub.1145837617",
-        "identifier": "10.5304/jafscd.2022.112.013"
+        "identifier": "10.5304/jafscd.2022.112.013",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145837617"
       },
       "reviewRating": [
         {
@@ -3569,8 +3971,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / Socio‑economic geography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / Socio‑economic geography"
     },
     {
       "@type": "Review",
@@ -3579,8 +3984,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A decade of the Missouri Hunger Atlas: Information for action",
-        "dud:publication_id": "pub.1151845578",
-        "identifier": "10.5304/jafscd.2022.121.003"
+        "identifier": "10.5304/jafscd.2022.121.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151845578"
       },
       "reviewRating": [
         {
@@ -3595,8 +4000,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Socioeconomic / Demographic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Socioeconomic / Demographic"
     },
     {
       "@type": "Review",
@@ -3605,8 +4013,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Cardiovascular Health in Pregnant Women: Results From the Food for Families Program, Chelsea, Massachusetts, 2013–2015",
-        "dud:publication_id": "pub.1073476619",
-        "identifier": "10.5888/pcd13.160212"
+        "identifier": "10.5888/pcd13.160212",
+        "url": "https://app.dimensions.ai/details/publication/pub.1073476619"
       },
       "reviewRating": [
         {
@@ -3621,8 +4029,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / public health"
     },
     {
       "@type": "Review",
@@ -3631,8 +4042,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "State-Level and County-Level Estimates of Health Care Costs Associated with Food Insecurity",
-        "dud:publication_id": "pub.1117964494",
-        "identifier": "10.5888/pcd16.180549"
+        "identifier": "10.5888/pcd16.180549",
+        "url": "https://app.dimensions.ai/details/publication/pub.1117964494"
       },
       "reviewRating": [
         {
@@ -3647,8 +4058,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau; referenced as part of MMG methodology.",
-      "dud:domain": "Demographics / Socioeconomic Data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau; referenced as part of MMG methodology."
+      },
+      "about": "Demographics / Socioeconomic Data"
     },
     {
       "@type": "Review",
@@ -3657,8 +4071,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Employment Loss and Food Insecurity — Race and Sex Disparities in the Context of COVID-19",
-        "dud:publication_id": "pub.1150263504",
-        "identifier": "10.5888/pcd19.220024"
+        "identifier": "10.5888/pcd19.220024",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150263504"
       },
       "reviewRating": [
         {
@@ -3673,8 +4087,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socioeconomic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socioeconomic data"
     },
     {
       "@type": "Review",
@@ -3683,8 +4100,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social and Environmental Factors Related to Smoking Cessation among Mothers: Findings from the Geographic Research on Wellbeing (GROW) Study",
-        "dud:publication_id": "pub.1044868336",
-        "identifier": "10.5993/ajhb.39.6.9"
+        "identifier": "10.5993/ajhb.39.6.9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1044868336"
       },
       "reviewRating": [
         {
@@ -3699,8 +4116,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Demography / socio‑economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Demography / socio‑economic data"
     },
     {
       "@type": "Review",
@@ -3709,8 +4129,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Older adults and the food security infrastructure",
-        "dud:publication_id": "pub.1145693854",
-        "identifier": "10.1002/aepp.13238"
+        "identifier": "10.1002/aepp.13238",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145693854"
       },
       "dud:joinDetail": {
         "partnerDataset": "Administration for Community Living Aging Integrated Database (AGID)",
@@ -3733,8 +4153,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Older adults and the food security infrastructure",
-        "dud:publication_id": "pub.1145693854",
-        "identifier": "10.1002/aepp.13238"
+        "identifier": "10.1002/aepp.13238",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145693854"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA SNAP participation reports (Cronquist, Cunnyngham, Eslami, Vigil)",
@@ -3757,8 +4177,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Older adults and the food security infrastructure",
-        "dud:publication_id": "pub.1145693854",
-        "identifier": "10.1002/aepp.13238"
+        "identifier": "10.1002/aepp.13238",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145693854"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Commodity Supplemental Food Program (CSFP) yearly profiles",
@@ -3781,8 +4201,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Older adults and the food security infrastructure",
-        "dud:publication_id": "pub.1145693854",
-        "identifier": "10.1002/aepp.13238"
+        "identifier": "10.1002/aepp.13238",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145693854"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Senior Farmers’ Market Nutrition Program (SFMNP) yearly profiles",
@@ -3805,8 +4225,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS) 2016‑2019",
@@ -3829,8 +4249,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "dud:joinDetail": {
         "partnerDataset": "ACS 2018 microdata",
@@ -3853,8 +4273,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "dud:joinDetail": {
         "partnerDataset": "ACS 2017 microdata",
@@ -3877,8 +4297,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "dud:joinDetail": {
         "partnerDataset": "County boundaries (used to create county‑level aggregates)",
@@ -3901,8 +4321,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "dud:joinDetail": {
         "partnerDataset": "Map the Meal Gap (MMG) county‑level food‑security estimates",
@@ -3925,8 +4345,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "“Where’s the need?” Charitable food assistance resources – placement and access challenges – Lessons from the field",
-        "dud:publication_id": "pub.1163193581",
-        "identifier": "10.1007/s10389-023-02048-3"
+        "identifier": "10.1007/s10389-023-02048-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163193581"
       },
       "dud:joinDetail": {
         "partnerDataset": "Community‑level survey responses (including respondent addresses)",
@@ -3949,8 +4369,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "“Where’s the need?” Charitable food assistance resources – placement and access challenges – Lessons from the field",
-        "dud:publication_id": "pub.1163193581",
-        "identifier": "10.1007/s10389-023-02048-3"
+        "identifier": "10.1007/s10389-023-02048-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163193581"
       },
       "dud:joinDetail": {
         "partnerDataset": "CDC Social Vulnerability Index (SVI)",
@@ -3973,8 +4393,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
-        "dud:publication_id": "pub.1084740529",
-        "identifier": "10.1007/s10460-017-9783-y"
+        "identifier": "10.1007/s10460-017-9783-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084740529"
       },
       "dud:joinDetail": {
         "partnerDataset": "Second Harvest Food Bank geocoded locations of food pantries and soup kitchens",
@@ -3997,8 +4417,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
-        "dud:publication_id": "pub.1084740529",
-        "identifier": "10.1007/s10460-017-9783-y"
+        "identifier": "10.1007/s10460-017-9783-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084740529"
       },
       "dud:joinDetail": {
         "partnerDataset": "Food Insecurity Index (FII) derived from the Gundersen model and Feeding America estimates",
@@ -4021,8 +4441,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
-        "dud:publication_id": "pub.1084740529",
-        "identifier": "10.1007/s10460-017-9783-y"
+        "identifier": "10.1007/s10460-017-9783-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084740529"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Food Access Research Atlas (FARA) supermarket location data",
@@ -4045,8 +4465,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing changes in food pantry access after extreme events",
-        "dud:publication_id": "pub.1152303372",
-        "identifier": "10.1007/s10460-022-10373-8"
+        "identifier": "10.1007/s10460-022-10373-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152303372"
       },
       "dud:joinDetail": {
         "partnerDataset": "Census block group geographic boundaries and population‑weighted centroids",
@@ -4069,8 +4489,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Analyzing the Role of Community and Individual Factors in Food Insecurity: Identifying Diverse Barriers Across Clustered Community Members",
-        "dud:publication_id": "pub.1044764715",
-        "identifier": "10.1007/s10900-016-0171-0"
+        "identifier": "10.1007/s10900-016-0171-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1044764715"
       },
       "dud:joinDetail": {
         "partnerDataset": "Community Food Security Assessment Survey (684 residents)",
@@ -4093,8 +4513,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Mapping Food Insecurity-Related 2-1-1 Calls in a 10-County Area of Central Texas by Zip Code: Exploring the Role of Geographic Food Access, Urbanicity and Demographic Indicators",
-        "dud:publication_id": "pub.1127858524",
-        "identifier": "10.1007/s10900-020-00847-3"
+        "identifier": "10.1007/s10900-020-00847-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127858524"
       },
       "dud:joinDetail": {
         "partnerDataset": "United Way 2-1-1 call data (2018)",
@@ -4117,8 +4537,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing Patient and Community-Level Social Factors; The Synergistic Effect of Social Needs and Social Determinants of Health on Healthcare Utilization at a Multilevel Academic Healthcare System",
-        "dud:publication_id": "pub.1163756568",
-        "identifier": "10.1007/s10916-023-01990-9"
+        "identifier": "10.1007/s10916-023-01990-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163756568"
       },
       "dud:joinDetail": {
         "partnerDataset": "Johns Hopkins Health System Electronic Health Records (JHHS‑EHR) – patient‑level data",
@@ -4141,8 +4561,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing Patient and Community-Level Social Factors; The Synergistic Effect of Social Needs and Social Determinants of Health on Healthcare Utilization at a Multilevel Academic Healthcare System",
-        "dud:publication_id": "pub.1163756568",
-        "identifier": "10.1007/s10916-023-01990-9"
+        "identifier": "10.1007/s10916-023-01990-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163756568"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Department of Agriculture Food Access Research Atlas – food‑access indicators",
@@ -4165,8 +4585,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Historic Residential Redlining and Present-Day Social Determinants of Health, Home Evictions, and Food Insecurity within US Neighborhoods",
-        "dud:publication_id": "pub.1159412279",
-        "identifier": "10.1007/s11606-023-08258-5"
+        "identifier": "10.1007/s11606-023-08258-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1159412279"
       },
       "dud:joinDetail": {
         "partnerDataset": "HOLC grade‑augmented census tract dataset",
@@ -4189,8 +4609,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing the Relationship Between Emergency Food Assistance and Social Vulnerability During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1150553810",
-        "identifier": "10.1007/s12061-022-09478-8"
+        "identifier": "10.1007/s12061-022-09478-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150553810"
       },
       "dud:joinDetail": {
         "partnerDataset": "Emergency Food Transfer counts (aggregated to census tracts)",
@@ -4213,8 +4633,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Assessing the Relationship Between Emergency Food Assistance and Social Vulnerability During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1150553810",
-        "identifier": "10.1007/s12061-022-09478-8"
+        "identifier": "10.1007/s12061-022-09478-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150553810"
       },
       "dud:joinDetail": {
         "partnerDataset": "CDC/ASTDR Social Vulnerability Index (SVI) tract‑level scores (2018 version)",
@@ -4237,8 +4657,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "dud:publication_id": "pub.1181289696",
-        "identifier": "10.1007/s12571-024-01494-5"
+        "identifier": "10.1007/s12571-024-01494-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
       },
       "dud:joinDetail": {
         "partnerDataset": "Bureau of Economic Analysis Regional Price Parity (RPP) data",
@@ -4261,8 +4681,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "dud:publication_id": "pub.1149272027",
-        "identifier": "10.1007/s12603-022-1816-6"
+        "identifier": "10.1007/s12603-022-1816-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
       },
       "dud:joinDetail": {
         "partnerDataset": "Food Access Research Atlas (FARA)",
@@ -4285,8 +4705,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "dud:publication_id": "pub.1149272027",
-        "identifier": "10.1007/s12603-022-1816-6"
+        "identifier": "10.1007/s12603-022-1816-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey (CPS) – HFSSM based food‑insecurity rates",
@@ -4309,8 +4729,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "dud:publication_id": "pub.1149272027",
-        "identifier": "10.1007/s12603-022-1816-6"
+        "identifier": "10.1007/s12603-022-1816-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
       },
       "dud:joinDetail": {
         "partnerDataset": "Literature‑derived odds ratios (meta‑analysis of 9 studies)",
@@ -4333,8 +4753,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "dud:publication_id": "pub.1149272027",
-        "identifier": "10.1007/s12603-022-1816-6"
+        "identifier": "10.1007/s12603-022-1816-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
       },
       "dud:joinDetail": {
         "partnerDataset": "National non‑financial impact estimate (Wolfe et al., 2020) – derived from NHANES/other national surveys",
@@ -4357,8 +4777,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "dud:publication_id": "pub.1149272027",
-        "identifier": "10.1007/s12603-022-1816-6"
+        "identifier": "10.1007/s12603-022-1816-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey (CPS) – national food‑insecurity baseline",
@@ -4381,8 +4801,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1152755048",
-        "identifier": "10.1007/s40615-022-01447-8"
+        "identifier": "10.1007/s40615-022-01447-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey (HPS)",
@@ -4405,8 +4825,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Investments and Diet-Related Outcomes: A Longitudinal Study of Residents of Two Urban Neighborhoods",
-        "dud:publication_id": "pub.1165945997",
-        "identifier": "10.1016/j.amepre.2023.11.005"
+        "identifier": "10.1016/j.amepre.2023.11.005",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165945997"
       },
       "dud:joinDetail": {
         "partnerDataset": "PHRESH cohort survey data (household‑level questionnaires, 24‑hr dietary recalls, anthropometry, etc.)",
@@ -4429,8 +4849,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "dud:joinDetail": {
         "partnerDataset": "DCFS child maltreatment records",
@@ -4453,8 +4873,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "dud:joinDetail": {
         "partnerDataset": "Map the Meal Gap (MMG) food‑insecurity estimates",
@@ -4477,8 +4897,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1154510004",
-        "identifier": "10.1016/j.annepidem.2023.01.008"
+        "identifier": "10.1016/j.annepidem.2023.01.008",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
       },
       "dud:joinDetail": {
         "partnerDataset": "Illinois DCFS child maltreatment records",
@@ -4501,8 +4921,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1154510004",
-        "identifier": "10.1016/j.annepidem.2023.01.008"
+        "identifier": "10.1016/j.annepidem.2023.01.008",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey (CPS) official food‑insecurity measures and determinants",
@@ -4525,8 +4945,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Integrating transit data and travel time into food security analysis: A case study of San Diego, California",
-        "dud:publication_id": "pub.1138086506",
-        "identifier": "10.1016/j.apgeog.2021.102461"
+        "identifier": "10.1016/j.apgeog.2021.102461",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138086506"
       },
       "dud:joinDetail": {
         "partnerDataset": "Grocery‑store location dataset (255 stores identified via web search, chain lists and exported as KML)",
@@ -4549,8 +4969,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Integrating transit data and travel time into food security analysis: A case study of San Diego, California",
-        "dud:publication_id": "pub.1138086506",
-        "identifier": "10.1016/j.apgeog.2021.102461"
+        "identifier": "10.1016/j.apgeog.2021.102461",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138086506"
       },
       "dud:joinDetail": {
         "partnerDataset": "Google Distance Matrix API output (travel time and distance for car and transit)",
@@ -4573,8 +4993,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Integrating transit data and travel time into food security analysis: A case study of San Diego, California",
-        "dud:publication_id": "pub.1138086506",
-        "identifier": "10.1016/j.apgeog.2021.102461"
+        "identifier": "10.1016/j.apgeog.2021.102461",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138086506"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Department of Housing and Urban Development (HUD) low‑income definition (≤50 % of MSA median income)",
@@ -4597,8 +5017,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey (HPS) microdata",
@@ -4621,8 +5041,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Developing a healthy food access index (HFAI): Web-based mapping and future directions for AI integrations",
-        "dud:publication_id": "pub.1186890755",
-        "identifier": "10.1016/j.cities.2025.105908"
+        "identifier": "10.1016/j.cities.2025.105908",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186890755"
       },
       "dud:joinDetail": {
         "partnerDataset": "Census tract polygon layer (derived from US Census geography)",
@@ -4645,8 +5065,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity during the COVID-19 pandemic is associated with anxiety and depression among US- and foreign-born adults: Findings from a nationwide survey",
-        "dud:publication_id": "pub.1158340707",
-        "identifier": "10.1016/j.jad.2023.05.081"
+        "identifier": "10.1016/j.jad.2023.05.081",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158340707"
       },
       "dud:joinDetail": {
         "partnerDataset": "Qualtrics panel survey data (Understanding the Impact of the Novel Coronavirus and Social Distancing on Physical and Psychosocial (Mental) Health and Chronic Diseases national survey)",
@@ -4669,8 +5089,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "dud:publication_id": "pub.1105225625",
-        "identifier": "10.1016/j.ssmph.2018.06.006"
+        "identifier": "10.1016/j.ssmph.2018.06.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
       },
       "dud:joinDetail": {
         "partnerDataset": "Combined food insecurity (MMG) and health constructs (CHRs)",
@@ -4693,8 +5113,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "dud:publication_id": "pub.1105225625",
-        "identifier": "10.1016/j.ssmph.2018.06.006"
+        "identifier": "10.1016/j.ssmph.2018.06.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Economic Research Service Rural‑Urban Continuum Codes (Beale codes) 2013",
@@ -4717,8 +5137,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
-        "dud:publication_id": "pub.1183405145",
-        "identifier": "10.1016/j.ygyno.2024.12.001"
+        "identifier": "10.1016/j.ygyno.2024.12.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183405145"
       },
       "dud:joinDetail": {
         "partnerDataset": "2010 U.S. Census of Population and Housing (census‑tract boundaries & population counts)",
@@ -4741,8 +5161,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity and children’s physical activity and sedentary behaviour in the United States: the Healthy Communities Study",
-        "dud:publication_id": "pub.1138768779",
-        "identifier": "10.1017/s1368980021002536"
+        "identifier": "10.1017/s1368980021002536",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138768779"
       },
       "dud:joinDetail": {
         "partnerDataset": "Healthy Communities Study (participant‑level data)",
@@ -4765,8 +5185,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the associations between neighbourhood food environment, household food insecurity and child weight-related outcomes in socio-economically and racially/ethnically diverse families",
-        "dud:publication_id": "pub.1151738664",
-        "identifier": "10.1017/s1368980022002130"
+        "identifier": "10.1017/s1368980022002130",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151738664"
       },
       "dud:joinDetail": {
         "partnerDataset": "Family Matters household survey data (baseline Phase II)",
@@ -4789,8 +5209,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "US state-level containment policies not associated with food insecurity changes during the early COVID-19 pandemic: a multilevel analysis",
-        "dud:publication_id": "pub.1184839172",
-        "identifier": "10.1017/s1368980024002696"
+        "identifier": "10.1017/s1368980024002696",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184839172"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Food Access and COVID research Team (NFACT) Survey",
@@ -4813,8 +5233,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home and wild food procurement were associated with improved food security during the COVID-19 pandemic in two rural US states",
-        "dud:publication_id": "pub.1168445558",
-        "identifier": "10.1038/s41598-024-52320-z"
+        "identifier": "10.1038/s41598-024-52320-z",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168445558"
       },
       "dud:joinDetail": {
         "partnerDataset": "Online HWFP/food‑security survey (primary data collected Spring‑Summer 2021)",
@@ -4837,8 +5257,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
-        "dud:publication_id": "pub.1125693172",
-        "identifier": "10.1080/10875549.2020.1740908"
+        "identifier": "10.1080/10875549.2020.1740908",
+        "url": "https://app.dimensions.ai/details/publication/pub.1125693172"
       },
       "dud:joinDetail": {
         "partnerDataset": "CDC Social Vulnerability Index (SVI) dataset",
@@ -4861,8 +5281,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
-        "dud:publication_id": "pub.1125693172",
-        "identifier": "10.1080/10875549.2020.1740908"
+        "identifier": "10.1080/10875549.2020.1740908",
+        "url": "https://app.dimensions.ai/details/publication/pub.1125693172"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Food Access Research Atlas (food desert, SNAP benefit, distance to grocery)",
@@ -4885,8 +5305,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
-        "dud:publication_id": "pub.1125693172",
-        "identifier": "10.1080/10875549.2020.1740908"
+        "identifier": "10.1080/10875549.2020.1740908",
+        "url": "https://app.dimensions.ai/details/publication/pub.1125693172"
       },
       "dud:joinDetail": {
         "partnerDataset": "CDC Social Vulnerability Index (SVI)",
@@ -4909,8 +5329,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food security and use of community food sources and food assistance programs among food shoppers in neighborhoods of low income and low food access",
-        "dud:publication_id": "pub.1092382198",
-        "identifier": "10.1080/19320248.2017.1364188"
+        "identifier": "10.1080/19320248.2017.1364188",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092382198"
       },
       "dud:joinDetail": {
         "partnerDataset": "Primary household survey data (in‑person interviews of food shoppers)",
@@ -4933,8 +5353,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
-        "dud:publication_id": "pub.1134009679",
-        "identifier": "10.1080/19320248.2020.1860848"
+        "identifier": "10.1080/19320248.2020.1860848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134009679"
       },
       "dud:joinDetail": {
         "partnerDataset": "Health Resources and Services Administration (HRSA) Medically Underserved Area (MUA) designations",
@@ -4957,8 +5377,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
-        "dud:publication_id": "pub.1134009679",
-        "identifier": "10.1080/19320248.2020.1860848"
+        "identifier": "10.1080/19320248.2020.1860848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134009679"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -4981,8 +5401,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
-        "dud:publication_id": "pub.1134009679",
-        "identifier": "10.1080/19320248.2020.1860848"
+        "identifier": "10.1080/19320248.2020.1860848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134009679"
       },
       "dud:joinDetail": {
         "partnerDataset": "Local Food Marketing Practices Survey",
@@ -5005,8 +5425,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Insecurity in an Urban Food Desert: A Descriptive Analysis of an African American Community",
-        "dud:publication_id": "pub.1138858115",
-        "identifier": "10.1080/19320248.2021.1926390"
+        "identifier": "10.1080/19320248.2021.1926390",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138858115"
       },
       "dud:joinDetail": {
         "partnerDataset": "Mail survey of Five Points residents",
@@ -5029,8 +5449,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "dud:publication_id": "pub.1175815611",
-        "identifier": "10.1080/19320248.2022.2101414"
+        "identifier": "10.1080/19320248.2022.2101414",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Food Environment Atlas (food‑access variables such as % of all residents with low access to grocery stores, SNAP/WIC store counts, FDPIR sites)",
@@ -5053,8 +5473,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Reconsidering Household Food Insecurity: Assessing the Impact of Neighborhood and Household Characteristics",
-        "dud:publication_id": "pub.1171830752",
-        "identifier": "10.1080/19320248.2024.2355938"
+        "identifier": "10.1080/19320248.2024.2355938",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171830752"
       },
       "dud:joinDetail": {
         "partnerDataset": "Panel Study of Income Dynamics (PSID) – restricted family file (household food‑security and demographic variables)",
@@ -5077,8 +5497,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "An Evaluation of Food Insecurity and Its Correlates in a Filipino American Study Sample Residing in Clark County, Nevada",
-        "dud:publication_id": "pub.1122014966",
-        "identifier": "10.1089/heq.2019.0074"
+        "identifier": "10.1089/heq.2019.0074",
+        "url": "https://app.dimensions.ai/details/publication/pub.1122014966"
       },
       "dud:joinDetail": {
         "partnerDataset": "Filipino American survey data (demographic, income, health insurance variables collected from participants)",
@@ -5101,8 +5521,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Effect of Food Environment on Pregnancy Outcomes [ID 2683379]",
-        "dud:publication_id": "pub.1171671873",
-        "identifier": "10.1097/01.aog.0001013444.40305.a0"
+        "identifier": "10.1097/01.aog.0001013444.40305.a0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171671873"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Center for Health Statistics (county‑level live‑birth counts for teens)",
@@ -5125,8 +5545,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Medical Mistrust Among Food Insecure Individuals in Appalachia",
-        "dud:publication_id": "pub.1157363921",
-        "identifier": "10.1097/fch.0000000000000362"
+        "identifier": "10.1097/fch.0000000000000362",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157363921"
       },
       "dud:joinDetail": {
         "partnerDataset": "Primary Survey Data (individual‑level responses)",
@@ -5149,8 +5569,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Neighborhood Disadvantage, and Hospital Readmission in Health System Adults",
-        "dud:publication_id": "pub.1166767548",
-        "identifier": "10.1097/nur.0000000000000794"
+        "identifier": "10.1097/nur.0000000000000794",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166767548"
       },
       "dud:joinDetail": {
         "partnerDataset": "Patient address geocodes (derived from health system records)",
@@ -5173,8 +5593,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home food procurement associated with improved food security during the COVID-19 pandemic",
-        "dud:publication_id": "pub.1158635493",
-        "identifier": "10.1101/2023.06.01.23290848"
+        "identifier": "10.1101/2023.06.01.23290848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158635493"
       },
       "dud:joinDetail": {
         "partnerDataset": "Primary COVID‑19 Home Food Procurement Survey (representative sample of Vermont & Maine residents, n=988)",
@@ -5197,8 +5617,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material hardship and use of social safety net programs among LGBT adults and their families",
-        "dud:publication_id": "pub.1181082564",
-        "identifier": "10.1111/asap.12432"
+        "identifier": "10.1111/asap.12432",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181082564"
       },
       "dud:joinDetail": {
         "partnerDataset": "WBNS respondent data (pooled 2018‑2020)",
@@ -5221,8 +5641,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and loneliness amongst older urban subsidised housing residents: The importance of social connectedness",
-        "dud:publication_id": "pub.1151152379",
-        "identifier": "10.1111/hsc.14027"
+        "identifier": "10.1111/hsc.14027",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151152379"
       },
       "dud:joinDetail": {
         "partnerDataset": "Study sample data (individual‑level characteristics)",
@@ -5245,8 +5665,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Individual‐ and environmental‐level determinants of fruit and vegetable intakes in rural Georgia",
-        "dud:publication_id": "pub.1176114932",
-        "identifier": "10.1111/jrh.12880"
+        "identifier": "10.1111/jrh.12880",
+        "url": "https://app.dimensions.ai/details/publication/pub.1176114932"
       },
       "dud:joinDetail": {
         "partnerDataset": "TGI survey dataset (individual‑level demographic items)",
@@ -5269,8 +5689,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farm to Food Bank: Exploring the Ties between Local Food Producers and Charitable Food Assistance☆",
-        "dud:publication_id": "pub.1157545443",
-        "identifier": "10.1111/ruso.12489"
+        "identifier": "10.1111/ruso.12489",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157545443"
       },
       "dud:joinDetail": {
         "partnerDataset": "Yolo Food Bank donation records (local producer donors)",
@@ -5293,8 +5713,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using participatory and mixed-methods approaches in GIS to develop a Place-Based Food Insecurity and Vulnerability Index",
-        "dud:publication_id": "pub.1039947645",
-        "identifier": "10.1177/0308518x16686352"
+        "identifier": "10.1177/0308518x16686352",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039947645"
       },
       "dud:joinDetail": {
         "partnerDataset": "Food outlet location data (e.g., supermarket, grocery store points)",
@@ -5317,8 +5737,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Ethnic markets and community food security in an urban “food desert”",
-        "dud:publication_id": "pub.1084243942",
-        "identifier": "10.1177/0308518x17700394"
+        "identifier": "10.1177/0308518x17700394",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084243942"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Food Access Research Atlas (food desert classification)",
@@ -5341,8 +5761,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Ethnic markets and community food security in an urban “food desert”",
-        "dud:publication_id": "pub.1084243942",
-        "identifier": "10.1177/0308518x17700394"
+        "identifier": "10.1177/0308518x17700394",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084243942"
       },
       "dud:joinDetail": {
         "partnerDataset": "Local Food Marketing Practices Survey (store type and ethnic market identification)",
@@ -5365,8 +5785,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Child Abuse and Neglect Data System (NCANDS) Child Files",
@@ -5389,8 +5809,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "dud:joinDetail": {
         "partnerDataset": "Map the Meal Gap (MMG) food‑insecurity estimates",
@@ -5413,8 +5833,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
-        "dud:publication_id": "pub.1182665748",
-        "identifier": "10.1177/21501319241277411"
+        "identifier": "10.1177/21501319241277411",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182665748"
       },
       "dud:joinDetail": {
         "partnerDataset": "Rural‑Urban Continuum Codes (USDA ERS)",
@@ -5437,8 +5857,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home food procurement impacts food security and diet quality during COVID-19",
-        "dud:publication_id": "pub.1138157290",
-        "identifier": "10.1186/s12889-021-10960-0"
+        "identifier": "10.1186/s12889-021-10960-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138157290"
       },
       "dud:joinDetail": {
         "partnerDataset": "Vermont COVID‑19 Household Survey (n=600)",
@@ -5461,8 +5881,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "dud:joinDetail": {
         "partnerDataset": "Foodbank service data (number of food pantries & soup kitchens per county collected from Ohio Association of Foodbanks websites)",
@@ -5485,8 +5905,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "dud:joinDetail": {
         "partnerDataset": "Map the Meal Gap county‑level food‑insecurity estimates (USDA)",
@@ -5509,8 +5929,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Food Environment Atlas (percentage of population with limited access to healthy food)",
@@ -5533,8 +5953,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "dud:joinDetail": {
         "partnerDataset": "County Health Rankings (percent of children eligible for free or reduced‑price school lunch)",
@@ -5557,8 +5977,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, fruit and vegetable consumption, and use of the Supplemental Nutrition Assistance Program (SNAP) in Appalachian Ohio",
-        "dud:publication_id": "pub.1168658937",
-        "identifier": "10.1371/journal.pone.0295171"
+        "identifier": "10.1371/journal.pone.0295171",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168658937"
       },
       "dud:joinDetail": {
         "partnerDataset": "Consumer household survey data collected in Southeast Ohio",
@@ -5581,8 +6001,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Low-Income Asian Americans: High Levels Of Food Insecurity And Low Participation In The CalFresh Nutrition Program",
-        "dud:publication_id": "pub.1164235716",
-        "identifier": "10.1377/hlthaff.2023.00116"
+        "identifier": "10.1377/hlthaff.2023.00116",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164235716"
       },
       "dud:joinDetail": {
         "partnerDataset": "California Health Interview Survey (CHIS)",
@@ -5605,8 +6025,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
-        "dud:publication_id": "pub.1143615191",
-        "identifier": "10.14283/jarlife.2020.7"
+        "identifier": "10.14283/jarlife.2020.7",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143615191"
       },
       "dud:joinDetail": {
         "partnerDataset": "NSP participant data (geocoded residential addresses)",
@@ -5629,8 +6049,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Integrating geo-linked electronic health records with neighborhood data to identify place-based barriers for diabetes management in a public healthcare system",
-        "dud:publication_id": "pub.1141733356",
-        "identifier": "10.21203/rs.3.rs-913499/v1"
+        "identifier": "10.21203/rs.3.rs-913499/v1",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141733356"
       },
       "dud:joinDetail": {
         "partnerDataset": "Electronic Health Records (EHR) – patient-level addresses and diabetes outcomes",
@@ -5653,8 +6073,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "InfoGroup Business Data (IBD)",
@@ -5677,8 +6097,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "Feeding America Map the Meal Gap project",
@@ -5701,8 +6121,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "Local Area Unemployment Statistics (LAUS)",
@@ -5725,8 +6145,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Center for Health Statistics (NCHS) urban‑rural classification scheme",
@@ -5749,8 +6169,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "Census Bureau land area data",
@@ -5773,8 +6193,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
-        "dud:publication_id": "pub.1149237728",
-        "identifier": "10.2196/34285"
+        "identifier": "10.2196/34285",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149237728"
       },
       "dud:joinDetail": {
         "partnerDataset": "Census‑tract‑level Twitter‑derived features",
@@ -5797,8 +6217,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Predictors of food insecurity among older adults before and during COVID-19 in the United States",
-        "dud:publication_id": "pub.1157984123",
-        "identifier": "10.3389/fpubh.2023.1112575"
+        "identifier": "10.3389/fpubh.2023.1112575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157984123"
       },
       "dud:joinDetail": {
         "partnerDataset": "Health and Retirement Study (HRS) respondent data",
@@ -5821,8 +6241,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of a statewide network hub for screening, referral, and enrollment into food as medicine programs across Kentucky",
-        "dud:publication_id": "pub.1184169793",
-        "identifier": "10.3389/fpubh.2024.1502858"
+        "identifier": "10.3389/fpubh.2024.1502858",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184169793"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Economic Research Service food‑insecurity estimates (county‑level food‑insecurity rates)",
@@ -5845,8 +6265,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Food Deserts and Their Impact on Health Outcomes in Children with Cystic Fibrosis",
-        "dud:publication_id": "pub.1143151520",
-        "identifier": "10.3390/nu13113996"
+        "identifier": "10.3390/nu13113996",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143151520"
       },
       "dud:joinDetail": {
         "partnerDataset": "2015 Food Access Research Atlas (food desert definitions)",
@@ -5869,8 +6289,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security Impacts of the COVID-19 Pandemic: Longitudinal Evidence from a Cohort of Adults in Vermont during the First Year",
-        "dud:publication_id": "pub.1146580763",
-        "identifier": "10.3390/nu14071358"
+        "identifier": "10.3390/nu14071358",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146580763"
       },
       "dud:joinDetail": {
         "partnerDataset": "Vermont COVID‑19 longitudinal household survey (primary data)",
@@ -5893,8 +6313,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial/Ethnic Disparities in Food Pantry Use and Barriers in Massachusetts during the First Year of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1148799508",
-        "identifier": "10.3390/nu14122531"
+        "identifier": "10.3390/nu14122531",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148799508"
       },
       "dud:joinDetail": {
         "partnerDataset": "Massachusetts Statewide Food Access Survey (primary survey data collected via Qualtrics)",
@@ -5917,8 +6337,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding Food Insecurity and Participation in Food Assistance Programs among Hispanic/Latino Residents of Hialeah, Florida, before and during the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1175405067",
-        "identifier": "10.3390/su16177612"
+        "identifier": "10.3390/su16177612",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175405067"
       },
       "dud:joinDetail": {
         "partnerDataset": "Feeding America food‑insecurity statistics (2020‑2022) and USDA food‑insecurity estimates",
@@ -5941,8 +6361,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Cardiovascular Health in Pregnant Women: Results From the Food for Families Program, Chelsea, Massachusetts, 2013–2015",
-        "dud:publication_id": "pub.1073476619",
-        "identifier": "10.5888/pcd13.160212"
+        "identifier": "10.5888/pcd13.160212",
+        "url": "https://app.dimensions.ai/details/publication/pub.1073476619"
       },
       "dud:joinDetail": {
         "partnerDataset": "Electronic Health Record (EHR) data from obstetric clinic",

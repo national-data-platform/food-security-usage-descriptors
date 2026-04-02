@@ -19,8 +19,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "dud:publication_id": "pub.1188621823",
-        "identifier": "10.1001/jamacardio.2025.1062"
+        "identifier": "10.1001/jamacardio.2025.1062",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
       },
       "reviewRating": [
         {
@@ -35,8 +35,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Princeton University (Future of Families and Child Well‑Being Study)",
-      "dud:domain": "Sociology / Public health / Child development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Princeton University (Future of Families and Child Well‑Being Study)"
+      },
+      "about": "Sociology / Public health / Child development"
     },
     {
       "@type": "Review",
@@ -45,8 +48,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "SLC6A4 gene variants moderate associations between childhood food insecurity and adolescent mental health",
-        "dud:publication_id": "pub.1168906051",
-        "identifier": "10.1002/brb3.3426"
+        "identifier": "10.1002/brb3.3426",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168906051"
       },
       "reviewRating": [
         {
@@ -61,8 +64,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Future of Families and Child Wellbeing Study (princeton.edu)",
-      "dud:domain": "Social science / Child development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Future of Families and Child Wellbeing Study (princeton.edu)"
+      },
+      "about": "Social science / Child development"
     },
     {
       "@type": "Review",
@@ -71,8 +77,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Rasch Analyses of Very Low Food Security among Households and Children in the Three City Study",
-        "dud:publication_id": "pub.1027657425",
-        "identifier": "10.1002/soej.12081"
+        "identifier": "10.1002/soej.12081",
+        "url": "https://app.dimensions.ai/details/publication/pub.1027657425"
       },
       "reviewRating": [
         {
@@ -87,8 +93,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Various academic institutions; not detailed in paper.",
-      "dud:domain": "Child development, sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Various academic institutions; not detailed in paper."
+      },
+      "about": "Child development, sociology"
     },
     {
       "@type": "Review",
@@ -97,8 +106,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "How Does Transportation Insecurity Compare and Relate to Other Indicators of Material Hardship in the U.S.?",
-        "dud:publication_id": "pub.1187539495",
-        "identifier": "10.1007/s11205-025-03585-y"
+        "identifier": "10.1007/s11205-025-03585-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187539495"
       },
       "reviewRating": [
         {
@@ -113,8 +122,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Family and child development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Family and child development"
     },
     {
       "@type": "Review",
@@ -123,8 +135,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Determinants and Consequences of Food and Nutrition Insecurity in Justice-Impacted Populations",
-        "dud:publication_id": "pub.1148086928",
-        "identifier": "10.1007/s13668-022-00421-4"
+        "identifier": "10.1007/s13668-022-00421-4",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148086928"
       },
       "reviewRating": [
         {
@@ -139,8 +151,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Sociology / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Sociology / Public health"
     },
     {
       "@type": "Review",
@@ -149,8 +164,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Childhood Food Insecurity Trajectories and Adult Weight and Self-Reported Health",
-        "dud:publication_id": "pub.1188402564",
-        "identifier": "10.1016/j.amepre.2025.107647"
+        "identifier": "10.1016/j.amepre.2025.107647",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188402564"
       },
       "reviewRating": [
         {
@@ -165,8 +180,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Future of Families and Child Wellbeing Study website / data repository",
-      "dud:domain": "Public health / social epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Future of Families and Child Wellbeing Study website / data repository"
+      },
+      "about": "Public health / social epidemiology"
     },
     {
       "@type": "Review",
@@ -175,8 +193,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity across the first five years: Triggers of onset and exit",
-        "dud:publication_id": "pub.1027400323",
-        "identifier": "10.1016/j.childyouth.2015.03.012"
+        "identifier": "10.1016/j.childyouth.2015.03.012",
+        "url": "https://app.dimensions.ai/details/publication/pub.1027400323"
       },
       "reviewRating": [
         {
@@ -191,8 +209,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Pennsylvania / Johns Hopkins University",
-      "dud:domain": "Child Development/Sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Pennsylvania / Johns Hopkins University"
+      },
+      "about": "Child Development/Sociology"
     },
     {
       "@type": "Review",
@@ -201,8 +222,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Effects of maternal depression on family food insecurity",
-        "dud:publication_id": "pub.1031434075",
-        "identifier": "10.1016/j.ehb.2016.04.004"
+        "identifier": "10.1016/j.ehb.2016.04.004",
+        "url": "https://app.dimensions.ai/details/publication/pub.1031434075"
       },
       "reviewRating": [
         {
@@ -217,8 +238,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Pennsylvania / Princeton University",
-      "dud:domain": "Sociology / Child Development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Pennsylvania / Princeton University"
+      },
+      "about": "Sociology / Child Development"
     },
     {
       "@type": "Review",
@@ -227,8 +251,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Independent and combined associations of intimate partner violence and food insecurity on maternal depression and generalized anxiety disorder",
-        "dud:publication_id": "pub.1137490164",
-        "identifier": "10.1016/j.janxdis.2021.102409"
+        "identifier": "10.1016/j.janxdis.2021.102409",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137490164"
       },
       "reviewRating": [
         {
@@ -243,8 +267,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reichman, Teitler, Garfinkel, & McLanahan (2001)",
-      "dud:domain": "Social/Health Sciences, Family and Child Development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reichman, Teitler, Garfinkel, & McLanahan (2001)"
+      },
+      "about": "Social/Health Sciences, Family and Child Development"
     },
     {
       "@type": "Review",
@@ -253,8 +280,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Independent and combined associations of intimate partner violence and food insecurity on maternal depression and generalized anxiety disorder",
-        "dud:publication_id": "pub.1145120061",
-        "identifier": "10.1016/j.janxdis.2022.102540"
+        "identifier": "10.1016/j.janxdis.2022.102540",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145120061"
       },
       "reviewRating": [
         {
@@ -269,8 +296,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reichman, Teitler, Garfinkel, & McLanahan (2001)",
-      "dud:domain": "Sociology/Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reichman, Teitler, Garfinkel, & McLanahan (2001)"
+      },
+      "about": "Sociology/Public Health"
     },
     {
       "@type": "Review",
@@ -279,8 +309,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Unequal Impact of Food Insecurity on Cognitive and Behavioral Outcomes Among 5-Year-Old Urban Children",
-        "dud:publication_id": "pub.1103886603",
-        "identifier": "10.1016/j.jneb.2018.04.003"
+        "identifier": "10.1016/j.jneb.2018.04.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1103886603"
       },
       "reviewRating": [
         {
@@ -295,8 +325,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Fragile Families and Child Wellbeing Study (FFCWS)",
-      "dud:domain": "Social/Health Sciences – Family and Child Development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Fragile Families and Child Wellbeing Study (FFCWS)"
+      },
+      "about": "Social/Health Sciences – Family and Child Development"
     },
     {
       "@type": "Review",
@@ -305,8 +338,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "dud:publication_id": "pub.1126148180",
-        "identifier": "10.1016/j.ssmph.2020.100575"
+        "identifier": "10.1016/j.ssmph.2020.100575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
       },
       "reviewRating": [
         {
@@ -321,8 +354,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National Institute of Child Health and Human Development (NICHD) funded; data available via Princeton University's Office of Population Research archive.",
-      "dud:domain": "Social epidemiology / child health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National Institute of Child Health and Human Development (NICHD) funded; data available via Princeton University's Office of Population Research archive."
+      },
+      "about": "Social epidemiology / child health"
     },
     {
       "@type": "Review",
@@ -331,8 +367,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Soft drinks consumption and child behaviour problems: the role of food insecurity and sleep patterns",
-        "dud:publication_id": "pub.1019383409",
-        "identifier": "10.1017/s1368980016002093"
+        "identifier": "10.1017/s1368980016002093",
+        "url": "https://app.dimensions.ai/details/publication/pub.1019383409"
       },
       "reviewRating": [
         {
@@ -347,8 +383,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Publicly available dataset; referenced as \"Fragile Families\" data set is publicly available, institutional review board approval was not needed.",
-      "dud:domain": "Social science / public health / child development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Publicly available dataset; referenced as \"Fragile Families\" data set is publicly available, institutional review board approval was not needed."
+      },
+      "about": "Social science / public health / child development"
     },
     {
       "@type": "Review",
@@ -357,8 +396,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and emotional health in the USA: a systematic narrative review of longitudinal research",
-        "dud:publication_id": "pub.1091756824",
-        "identifier": "10.1017/s1368980017002221"
+        "identifier": "10.1017/s1368980017002221",
+        "url": "https://app.dimensions.ai/details/publication/pub.1091756824"
       },
       "reviewRating": [
         {
@@ -373,8 +412,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Pennsylvania, etc.",
-      "dud:domain": "Family / Child development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Pennsylvania, etc."
+      },
+      "about": "Family / Child development"
     },
     {
       "@type": "Review",
@@ -383,8 +425,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity transitions and housing hardships: Are immigrant families more vulnerable?",
-        "dud:publication_id": "pub.1104157999",
-        "identifier": "10.1080/07352166.2018.1468222"
+        "identifier": "10.1080/07352166.2018.1468222",
+        "url": "https://app.dimensions.ai/details/publication/pub.1104157999"
       },
       "reviewRating": [
         {
@@ -399,8 +441,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Bendheim‑Thoman Center for Research on Child Wellbeing at Princeton University; funded by NICHD grant R01 HD36916.",
-      "dud:domain": "Social science / family well‑being / health and housing outcomes"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Bendheim‑Thoman Center for Research on Child Wellbeing at Princeton University; funded by NICHD grant R01 HD36916."
+      },
+      "about": "Social science / family well‑being / health and housing outcomes"
     },
     {
       "@type": "Review",
@@ -409,8 +454,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Factors associated with food insecurity among Latinx/Hispanics in the U.S.: evidence from the Fragile Families & Childhood Wellbeing Study",
-        "dud:publication_id": "pub.1155395494",
-        "identifier": "10.1080/13557858.2023.2176828"
+        "identifier": "10.1080/13557858.2023.2176828",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155395494"
       },
       "reviewRating": [
         {
@@ -425,8 +470,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Publicly available through Princeton University's Office of Population Research (OPR) data archive (http://opr.princeton.edu/archive/ff/)",
-      "dud:domain": "Social science / Demography / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Publicly available through Princeton University's Office of Population Research (OPR) data archive (http://opr.princeton.edu/archive/ff/)"
+      },
+      "about": "Social science / Demography / Public health"
     },
     {
       "@type": "Review",
@@ -435,8 +483,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Role of the Supplemental Nutrition Assistance Program in the Relationship Between Food Insecurity and Probability of Maternal Depression",
-        "dud:publication_id": "pub.1045618665",
-        "identifier": "10.1080/19320248.2015.1045672"
+        "identifier": "10.1080/19320248.2015.1045672",
+        "url": "https://app.dimensions.ai/details/publication/pub.1045618665"
       },
       "reviewRating": [
         {
@@ -451,8 +499,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reichman et al., Fragile Families and Child Wellbeing Study dataset.",
-      "dud:domain": "Social Science / Family Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reichman et al., Fragile Families and Child Wellbeing Study dataset."
+      },
+      "about": "Social Science / Family Health"
     },
     {
       "@type": "Review",
@@ -461,8 +512,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Children's Problem Behaviors: The Mediating Role of Parental Relationship Quality and Parenting Stress",
-        "dud:publication_id": "pub.1173042319",
-        "identifier": "10.1097/dbp.0000000000001281"
+        "identifier": "10.1097/dbp.0000000000001281",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173042319"
       },
       "reviewRating": [
         {
@@ -477,8 +528,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Princeton University",
-      "dud:domain": "Family and Child Development / Social Sciences"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Princeton University"
+      },
+      "about": "Family and Child Development / Social Sciences"
     },
     {
       "@type": "Review",
@@ -487,8 +541,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "dud:publication_id": "pub.1168965162",
-        "identifier": "10.1097/fch.0000000000000399"
+        "identifier": "10.1097/fch.0000000000000399",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
       },
       "reviewRating": [
         {
@@ -503,8 +557,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Research team of the Fragile Families and Child Wellbeing Study",
-      "dud:domain": "Sociology / Family Studies"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Research team of the Fragile Families and Child Wellbeing Study"
+      },
+      "about": "Sociology / Family Studies"
     },
     {
       "@type": "Review",
@@ -513,8 +570,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Family Dynamics",
-        "dud:publication_id": "pub.1171711382",
-        "identifier": "10.1097/fch.0000000000000401"
+        "identifier": "10.1097/fch.0000000000000401",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171711382"
       },
       "reviewRating": [
         {
@@ -529,8 +586,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Sociology / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Sociology / Public Health"
     },
     {
       "@type": "Review",
@@ -539,8 +599,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The structural roots of food insecurity: How racism is a fundamental cause of food insecurity",
-        "dud:publication_id": "pub.1137704654",
-        "identifier": "10.1111/soc4.12846"
+        "identifier": "10.1111/soc4.12846",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137704654"
       },
       "reviewRating": [
         {
@@ -555,8 +615,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Various academic institutions, funded by NSF and other agencies",
-      "dud:domain": "Sociology / Child Development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Various academic institutions, funded by NSF and other agencies"
+      },
+      "about": "Sociology / Child Development"
     },
     {
       "@type": "Review",
@@ -565,8 +628,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material hardship and sources of support for autistic adolescents and their families",
-        "dud:publication_id": "pub.1183676585",
-        "identifier": "10.1177/13623613241304503"
+        "identifier": "10.1177/13623613241304503",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183676585"
       },
       "reviewRating": [
         {
@@ -581,8 +644,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Office of Population Research, Princeton University",
-      "dud:domain": "Social science / Family wellbeing / Child development"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Office of Population Research, Princeton University"
+      },
+      "about": "Social science / Family wellbeing / Child development"
     },
     {
       "@type": "Review",
@@ -591,8 +657,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Insecurity With Multiple Forms of Interpersonal and Self-Directed Violence: A Systematic Review",
-        "dud:publication_id": "pub.1156905867",
-        "identifier": "10.1177/15248380231165689"
+        "identifier": "10.1177/15248380231165689",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156905867"
       },
       "reviewRating": [
         {
@@ -607,8 +673,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Harvard University",
-      "dud:domain": "Child development and family studies"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Harvard University"
+      },
+      "about": "Child development and family studies"
     },
     {
       "@type": "Review",
@@ -617,8 +686,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity And Health Outcomes",
-        "dud:publication_id": "pub.1067171610",
-        "identifier": "10.1377/hlthaff.2015.0645"
+        "identifier": "10.1377/hlthaff.2015.0645",
+        "url": "https://app.dimensions.ai/details/publication/pub.1067171610"
       },
       "reviewRating": [
         {
@@ -633,8 +702,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan",
-      "dud:domain": "Health/Social Science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan"
+      },
+      "about": "Health/Social Science"
     },
     {
       "@type": "Review",
@@ -643,8 +715,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "dud:publication_id": "pub.1188621823",
-        "identifier": "10.1001/jamacardio.2025.1062"
+        "identifier": "10.1001/jamacardio.2025.1062",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA 18‑item Food Insecurity Survey Module (administered to caregivers at ages 3‑5)",
@@ -667,8 +739,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "dud:publication_id": "pub.1188621823",
-        "identifier": "10.1001/jamacardio.2025.1062"
+        "identifier": "10.1001/jamacardio.2025.1062",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
       },
       "dud:joinDetail": {
         "partnerDataset": "Clinical laboratory results from the Laboratory for Clinical Biochemistry Research at the University of Vermont",
@@ -691,8 +763,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "dud:publication_id": "pub.1188621823",
-        "identifier": "10.1001/jamacardio.2025.1062"
+        "identifier": "10.1001/jamacardio.2025.1062",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) 2013‑2018 dataset",
@@ -715,8 +787,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Childhood Food Insecurity Trajectories and Adult Weight and Self-Reported Health",
-        "dud:publication_id": "pub.1188402564",
-        "identifier": "10.1016/j.amepre.2025.107647"
+        "identifier": "10.1016/j.amepre.2025.107647",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188402564"
       },
       "dud:joinDetail": {
         "partnerDataset": "Future of Families and Child Wellbeing Study – child‑report wave (self‑reported weight, height, and health at age 22)",
@@ -739,8 +811,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Childhood Food Insecurity Trajectories and Adult Weight and Self-Reported Health",
-        "dud:publication_id": "pub.1188402564",
-        "identifier": "10.1016/j.amepre.2025.107647"
+        "identifier": "10.1016/j.amepre.2025.107647",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188402564"
       },
       "dud:joinDetail": {
         "partnerDataset": "Future of Families and Child Wellbeing Study – parent‑report wave (food‑insecurity questionnaires at ages 3, 5, 9, 15)",
@@ -763,8 +835,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "dud:publication_id": "pub.1126148180",
-        "identifier": "10.1016/j.ssmph.2020.100575"
+        "identifier": "10.1016/j.ssmph.2020.100575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Census tract poverty data",
@@ -787,8 +859,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "dud:publication_id": "pub.1126148180",
-        "identifier": "10.1016/j.ssmph.2020.100575"
+        "identifier": "10.1016/j.ssmph.2020.100575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
       },
       "dud:joinDetail": {
         "partnerDataset": "CDC growth chart reference tables",
@@ -811,8 +883,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "dud:publication_id": "pub.1126148180",
-        "identifier": "10.1016/j.ssmph.2020.100575"
+        "identifier": "10.1016/j.ssmph.2020.100575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
       },
       "dud:joinDetail": {
         "partnerDataset": "Medical records (maternal health, pregnancy outcomes)",
@@ -835,8 +907,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "dud:publication_id": "pub.1168965162",
-        "identifier": "10.1097/fch.0000000000000399"
+        "identifier": "10.1097/fch.0000000000000399",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
       },
       "dud:joinDetail": {
         "partnerDataset": "FFCWS – Wave 3 (Y3) and Wave 5 (Y5) phone‑survey data",
@@ -859,8 +931,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "dud:publication_id": "pub.1168965162",
-        "identifier": "10.1097/fch.0000000000000399"
+        "identifier": "10.1097/fch.0000000000000399",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
       },
       "dud:joinDetail": {
         "partnerDataset": "Future of Families and Child Wellbeing Study (FFCWS) – baseline survey data (collected at childbirth)",
@@ -883,8 +955,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "dud:publication_id": "pub.1168965162",
-        "identifier": "10.1097/fch.0000000000000399"
+        "identifier": "10.1097/fch.0000000000000399",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
       },
       "dud:joinDetail": {
         "partnerDataset": "External measurement instruments – USDA 18‑item Household Food Security Survey Module (HFSSM) and My Exposure to Violence questionnaire, and the 1995 Community Survey of the Project on Human Development in Chicago Neighborhoods (collective efficacy items)",
@@ -907,8 +979,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "dud:publication_id": "pub.1168965162",
-        "identifier": "10.1097/fch.0000000000000399"
+        "identifier": "10.1097/fch.0000000000000399",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
       },
       "dud:joinDetail": {
         "partnerDataset": "Multiple imputation datasets (30 imputed copies)",

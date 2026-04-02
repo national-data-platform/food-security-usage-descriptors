@@ -21,8 +21,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association Between Receipt of Unemployment Insurance and Food Insecurity Among People Who Lost Employment During the COVID-19 Pandemic in the United States",
-        "dud:publication_id": "pub.1134959841",
-        "identifier": "10.1001/jamanetworkopen.2020.35884"
+        "identifier": "10.1001/jamanetworkopen.2020.35884",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134959841"
       },
       "reviewRating": [
         {
@@ -37,8 +37,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Economics"
     },
     {
       "@type": "Review",
@@ -47,8 +50,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Supplemental Nutrition Assistance Program Emergency Allotments and Food Security, Hospitalizations, and Hospital Capacity",
-        "dud:publication_id": "pub.1163154552",
-        "identifier": "10.1001/jamanetworkopen.2023.26332"
+        "identifier": "10.1001/jamanetworkopen.2023.26332",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163154552"
       },
       "reviewRating": [
         {
@@ -63,8 +66,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Social science"
     },
     {
       "@type": "Review",
@@ -73,8 +79,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Among LGBQ+ Veterans",
-        "dud:publication_id": "pub.1181998904",
-        "identifier": "10.1001/jamanetworkopen.2024.42979"
+        "identifier": "10.1001/jamanetworkopen.2024.42979",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181998904"
       },
       "reviewRating": [
         {
@@ -89,8 +95,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Social research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Social research"
     },
     {
       "@type": "Review",
@@ -99,8 +108,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Expanded Child Tax Credit, Family Health, and Material Hardships",
-        "dud:publication_id": "pub.1190132481",
-        "identifier": "10.1001/jamanetworkopen.2025.18335"
+        "identifier": "10.1001/jamanetworkopen.2025.18335",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190132481"
       },
       "reviewRating": [
         {
@@ -115,8 +124,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Economic/Health impacts of COVID‑19"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Economic/Health impacts of COVID‑19"
     },
     {
       "@type": "Review",
@@ -125,8 +137,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The protective effect of SNAP during economic downturns: Evidence from the COVID‐19 pandemic",
-        "dud:publication_id": "pub.1155184884",
-        "identifier": "10.1002/aepp.13345"
+        "identifier": "10.1002/aepp.13345",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155184884"
       },
       "reviewRating": [
         {
@@ -141,8 +153,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social & Economic Impact Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social & Economic Impact Survey"
     },
     {
       "@type": "Review",
@@ -151,8 +166,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "SLC6A4 gene variants moderate associations between childhood food insecurity and adolescent mental health",
-        "dud:publication_id": "pub.1168906051",
-        "identifier": "10.1002/brb3.3426"
+        "identifier": "10.1002/brb3.3426",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168906051"
       },
       "reviewRating": [
         {
@@ -167,8 +182,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -177,8 +195,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food security and food access during the COVID‐19 pandemic: Impacts, adaptations, and looking ahead",
-        "dud:publication_id": "pub.1153367945",
-        "identifier": "10.1002/jpen.2445"
+        "identifier": "10.1002/jpen.2445",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153367945"
       },
       "reviewRating": [
         {
@@ -193,8 +211,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health, economics, pandemic impact assessment"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health, economics, pandemic impact assessment"
     },
     {
       "@type": "Review",
@@ -203,8 +224,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, the Home Food Environment, and Parent Feeding Practices in the Era of COVID‐19",
-        "dud:publication_id": "pub.1129899659",
-        "identifier": "10.1002/oby.22996"
+        "identifier": "10.1002/oby.22996",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129899659"
       },
       "reviewRating": [
         {
@@ -219,8 +240,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socioeconomic monitoring"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socioeconomic monitoring"
     },
     {
       "@type": "Review",
@@ -229,8 +253,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "LGBTQ+ food insufficiency in New England",
-        "dud:publication_id": "pub.1153536207",
-        "identifier": "10.1007/s10460-022-10403-5"
+        "identifier": "10.1007/s10460-022-10403-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153536207"
       },
       "reviewRating": [
         {
@@ -245,8 +269,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health, sociology, food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health, sociology, food security"
     },
     {
       "@type": "Review",
@@ -255,8 +282,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food and Housing Insecurity in Nevada During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1165707042",
-        "identifier": "10.1007/s10900-023-01284-8"
+        "identifier": "10.1007/s10900-023-01284-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165707042"
       },
       "reviewRating": [
         {
@@ -271,8 +298,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Socio‑economic monitoring, public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Socio‑economic monitoring, public health"
     },
     {
       "@type": "Review",
@@ -281,8 +311,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Mental Cost of Food Insecurity among LGBTQ+Americans",
-        "dud:publication_id": "pub.1170963330",
-        "identifier": "10.1007/s11113-024-09881-8"
+        "identifier": "10.1007/s11113-024-09881-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170963330"
       },
       "reviewRating": [
         {
@@ -297,8 +327,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Social science survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Social science survey"
     },
     {
       "@type": "Review",
@@ -307,8 +340,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "dud:publication_id": "pub.1181289696",
-        "identifier": "10.1007/s12571-024-01494-5"
+        "identifier": "10.1007/s12571-024-01494-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
       },
       "reviewRating": [
         {
@@ -323,8 +356,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Economic well‑being"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Economic well‑being"
     },
     {
       "@type": "Review",
@@ -333,8 +369,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial/Ethnic Disparities in Household Food Insecurity During the COVID-19 Pandemic: a Nationally Representative Study",
-        "dud:publication_id": "pub.1131721158",
-        "identifier": "10.1007/s40615-020-00892-7"
+        "identifier": "10.1007/s40615-020-00892-7",
+        "url": "https://app.dimensions.ai/details/publication/pub.1131721158"
       },
       "reviewRating": [
         {
@@ -349,8 +385,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau (Experimental Data webpage)",
-      "dud:domain": "Public health / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau (Experimental Data webpage)"
+      },
+      "about": "Public health / Social science"
     },
     {
       "@type": "Review",
@@ -359,8 +398,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Current and Future Food Insufficiency During Covid-19: Examining Disparities by Race/Ethnicity and Recent Work Loss",
-        "dud:publication_id": "pub.1140096436",
-        "identifier": "10.1007/s40615-021-01116-2"
+        "identifier": "10.1007/s40615-021-01116-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140096436"
       },
       "reviewRating": [
         {
@@ -375,8 +414,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Public health / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Public health / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -385,8 +427,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Current and Future Food Insufficiency During Covid-19: Examining Disparities by Race/Ethnicity and Recent Work Loss",
-        "dud:publication_id": "pub.1140096436",
-        "identifier": "10.1007/s40615-021-01116-2"
+        "identifier": "10.1007/s40615-021-01116-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140096436"
       },
       "reviewRating": [
         {
@@ -401,8 +443,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -411,8 +456,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1152755048",
-        "identifier": "10.1007/s40615-022-01447-8"
+        "identifier": "10.1007/s40615-022-01447-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
       },
       "reviewRating": [
         {
@@ -427,8 +472,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health, economics, sociology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health, economics, sociology"
     },
     {
       "@type": "Review",
@@ -437,8 +485,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutrition and Health in the Lesbian, Gay, Bisexual, Transgender, Queer/Questioning Community: A Narrative Review",
-        "dud:publication_id": "pub.1162937173",
-        "identifier": "10.1016/j.advnut.2023.07.009"
+        "identifier": "10.1016/j.advnut.2023.07.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162937173"
       },
       "reviewRating": [
         {
@@ -453,8 +501,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -463,8 +514,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Pregnant and hungry: addressing food insecurity in pregnant women during the COVID-19 pandemic in the United States",
-        "dud:publication_id": "pub.1137532650",
-        "identifier": "10.1016/j.ajogmf.2021.100378"
+        "identifier": "10.1016/j.ajogmf.2021.100378",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137532650"
       },
       "reviewRating": [
         {
@@ -479,8 +530,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social, Economic, Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social, Economic, Public Health"
     },
     {
       "@type": "Review",
@@ -489,8 +543,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and cardiovascular disease: Current trends and future directions",
-        "dud:publication_id": "pub.1143751298",
-        "identifier": "10.1016/j.ajpc.2021.100303"
+        "identifier": "10.1016/j.ajpc.2021.100303",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143751298"
       },
       "reviewRating": [
         {
@@ -505,8 +559,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social science / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social science / public health"
     },
     {
       "@type": "Review",
@@ -515,8 +572,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insufficiency and Mental Health in the U.S. During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1134463056",
-        "identifier": "10.1016/j.amepre.2020.12.004"
+        "identifier": "10.1016/j.amepre.2020.12.004",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134463056"
       },
       "reviewRating": [
         {
@@ -531,8 +588,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -541,8 +601,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Is Under-reported in Surveys That Ask About the Past Year",
-        "dud:publication_id": "pub.1157024996",
-        "identifier": "10.1016/j.amepre.2023.03.022"
+        "identifier": "10.1016/j.amepre.2023.03.022",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157024996"
       },
       "reviewRating": [
         {
@@ -557,8 +617,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Economic impacts of COVID‑19"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Economic impacts of COVID‑19"
     },
     {
       "@type": "Review",
@@ -567,8 +630,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The expanded Child Tax Credit and low-income families’ food insecurity: Associations across and within months of receipt",
-        "dud:publication_id": "pub.1174679785",
-        "identifier": "10.1016/j.childyouth.2024.107855"
+        "identifier": "10.1016/j.childyouth.2024.107855",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174679785"
       },
       "reviewRating": [
         {
@@ -583,8 +646,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Economics"
     },
     {
       "@type": "Review",
@@ -593,8 +659,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "reviewRating": [
         {
@@ -609,8 +675,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – Household Pulse Survey public‑use files.",
-      "dud:domain": "Social science / public health / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – Household Pulse Survey public‑use files."
+      },
+      "about": "Social science / public health / economics"
     },
     {
       "@type": "Review",
@@ -619,8 +688,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "reviewRating": [
         {
@@ -635,8 +704,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau – Small Business Pulse Survey.",
-      "dud:domain": "Economics / Business"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau – Small Business Pulse Survey."
+      },
+      "about": "Economics / Business"
     },
     {
       "@type": "Review",
@@ -645,8 +717,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Epidemiology of Food Insecurity in a Nationally Representative Sample of Lymphoma Patients",
-        "dud:publication_id": "pub.1141037560",
-        "identifier": "10.1016/j.clml.2021.09.006"
+        "identifier": "10.1016/j.clml.2021.09.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141037560"
       },
       "reviewRating": [
         {
@@ -661,8 +733,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social Sciences / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social Sciences / Public Health"
     },
     {
       "@type": "Review",
@@ -671,8 +746,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity in households of children with ASD in COVID-19 pandemic: A comparative analysis with the Household Pulse Survey data using stabilized inverse probability treatment weights",
-        "dud:publication_id": "pub.1146589346",
-        "identifier": "10.1016/j.dhjo.2022.101323"
+        "identifier": "10.1016/j.dhjo.2022.101323",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146589346"
       },
       "reviewRating": [
         {
@@ -687,8 +762,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic surveys"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic surveys"
     },
     {
       "@type": "Review",
@@ -697,8 +775,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and COVID-19 Infection: Findings From the 2020−2021 National Health Interview Survey",
-        "dud:publication_id": "pub.1154627255",
-        "identifier": "10.1016/j.focus.2023.100069"
+        "identifier": "10.1016/j.focus.2023.100069",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154627255"
       },
       "reviewRating": [
         {
@@ -713,8 +791,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Public health, economics, social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Public health, economics, social science"
     },
     {
       "@type": "Review",
@@ -723,8 +804,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity during the COVID-19 pandemic is associated with anxiety and depression among US- and foreign-born adults: Findings from a nationwide survey",
-        "dud:publication_id": "pub.1158340707",
-        "identifier": "10.1016/j.jad.2023.05.081"
+        "identifier": "10.1016/j.jad.2023.05.081",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158340707"
       },
       "reviewRating": [
         {
@@ -739,8 +820,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic monitoring"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic monitoring"
     },
     {
       "@type": "Review",
@@ -749,8 +833,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and mental health among US adults during the COVID-19 pandemic: Results from National Health Interview Survey, 2020–2021",
-        "dud:publication_id": "pub.1170563033",
-        "identifier": "10.1016/j.jad.2024.04.043"
+        "identifier": "10.1016/j.jad.2024.04.043",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170563033"
       },
       "reviewRating": [
         {
@@ -765,8 +849,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / socioeconomic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / socioeconomic research"
     },
     {
       "@type": "Review",
@@ -775,8 +862,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "COVID-19 Recession: Young Adult Food Insecurity, Racial Disparities, and Correlates",
-        "dud:publication_id": "pub.1152577335",
-        "identifier": "10.1016/j.jadohealth.2022.09.008"
+        "identifier": "10.1016/j.jadohealth.2022.09.008",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152577335"
       },
       "reviewRating": [
         {
@@ -791,8 +878,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Social science"
     },
     {
       "@type": "Review",
@@ -801,8 +891,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Measuring Food Security in the United States for More Than 25 years: History, Methods, Findings, and Opportunities",
-        "dud:publication_id": "pub.1154632430",
-        "identifier": "10.1016/j.jand.2023.01.007"
+        "identifier": "10.1016/j.jand.2023.01.007",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154632430"
       },
       "reviewRating": [
         {
@@ -817,8 +907,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Paper text",
-      "dud:domain": "Survey research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Paper text"
+      },
+      "about": "Survey research"
     },
     {
       "@type": "Review",
@@ -827,8 +920,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Sourcing Patterns and Their Associations With Food Insecurity in Appalachian Ohio",
-        "dud:publication_id": "pub.1174039077",
-        "identifier": "10.1016/j.jand.2024.07.162"
+        "identifier": "10.1016/j.jand.2024.07.162",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174039077"
       },
       "reviewRating": [
         {
@@ -843,8 +936,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public Health/Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public Health/Economics"
     },
     {
       "@type": "Review",
@@ -853,8 +949,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding the impacts of COVID-19 on the determinants of food insecurity: A state-specific examination",
-        "dud:publication_id": "pub.1149003619",
-        "identifier": "10.1016/j.pmedr.2022.101871"
+        "identifier": "10.1016/j.pmedr.2022.101871",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003619"
       },
       "reviewRating": [
         {
@@ -869,8 +965,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Social science"
     },
     {
       "@type": "Review",
@@ -879,8 +978,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the role of social capital in managing food insecurity among older women in the United States",
-        "dud:publication_id": "pub.1132248172",
-        "identifier": "10.1016/j.socscimed.2020.113492"
+        "identifier": "10.1016/j.socscimed.2020.113492",
+        "url": "https://app.dimensions.ai/details/publication/pub.1132248172"
       },
       "reviewRating": [
         {
@@ -895,8 +994,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social science / Public policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social science / Public policy"
     },
     {
       "@type": "Review",
@@ -905,8 +1007,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and COVID-19 vaccine hesitancy among adults in the United States (US)",
-        "dud:publication_id": "pub.1168834351",
-        "identifier": "10.1016/j.vaccine.2024.01.078"
+        "identifier": "10.1016/j.vaccine.2024.01.078",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168834351"
       },
       "reviewRating": [
         {
@@ -921,8 +1023,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / social epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / social epidemiology"
     },
     {
       "@type": "Review",
@@ -931,8 +1036,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and COVID-19 vaccine hesitancy among adults in the United States (US)",
-        "dud:publication_id": "pub.1168834351",
-        "identifier": "10.1016/j.vaccine.2024.01.078"
+        "identifier": "10.1016/j.vaccine.2024.01.078",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168834351"
       },
       "reviewRating": [
         {
@@ -947,8 +1052,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / social epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / social epidemiology"
     },
     {
       "@type": "Review",
@@ -957,8 +1065,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and COVID-19 Food-Related Perceptions, Practices, and Problems: A 3-State Descriptive Study",
-        "dud:publication_id": "pub.1152412062",
-        "identifier": "10.1017/dmp.2022.250"
+        "identifier": "10.1017/dmp.2022.250",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152412062"
       },
       "reviewRating": [
         {
@@ -973,8 +1081,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Public health / socioeconomic monitoring"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Public health / socioeconomic monitoring"
     },
     {
       "@type": "Review",
@@ -983,8 +1094,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Predictors of households at risk for food insecurity in the United States during the COVID-19 pandemic",
-        "dud:publication_id": "pub.1134932145",
-        "identifier": "10.1017/s1368980021000355"
+        "identifier": "10.1017/s1368980021000355",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134932145"
       },
       "reviewRating": [
         {
@@ -999,8 +1110,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Social science"
     },
     {
       "@type": "Review",
@@ -1009,8 +1123,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Experiences of increased food insecurity, economic and psychological distress during the COVID-19 pandemic among Supplemental Nutrition Assistance Program-enrolled food pantry clients",
-        "dud:publication_id": "pub.1143656828",
-        "identifier": "10.1017/s1368980021004717"
+        "identifier": "10.1017/s1368980021004717",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143656828"
       },
       "reviewRating": [
         {
@@ -1025,8 +1139,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social science / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social science / public health"
     },
     {
       "@type": "Review",
@@ -1035,8 +1152,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Chronic Kidney Disease: Considerations for Practitioners",
-        "dud:publication_id": "pub.1159882665",
-        "identifier": "10.1053/j.jrn.2023.06.001"
+        "identifier": "10.1053/j.jrn.2023.06.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1159882665"
       },
       "reviewRating": [
         {
@@ -1051,8 +1168,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -1061,8 +1181,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Intersectionality of Food Insecurity, Job Insecurity, Healthcare Insecurity, and Mental Health Challenges in NYC Households During Covid-19",
-        "dud:publication_id": "pub.1169291892",
-        "identifier": "10.1080/03670244.2024.2308669"
+        "identifier": "10.1080/03670244.2024.2308669",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169291892"
       },
       "reviewRating": [
         {
@@ -1077,8 +1197,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Demography, economics, public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Demography, economics, public health"
     },
     {
       "@type": "Review",
@@ -1087,8 +1210,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Medication Adherence in Young and Middle-Aged Adults with Diabetes",
-        "dud:publication_id": "pub.1142143607",
-        "identifier": "10.1080/08964289.2021.1987855"
+        "identifier": "10.1080/08964289.2021.1987855",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142143607"
       },
       "reviewRating": [
         {
@@ -1103,8 +1226,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social/health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social/health economics"
     },
     {
       "@type": "Review",
@@ -1113,8 +1239,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding Food Insecurity as a Determinant of Health in Pregnancy Within the United States: An Integrative Review",
-        "dud:publication_id": "pub.1169943836",
-        "identifier": "10.1089/heq.2023.0116"
+        "identifier": "10.1089/heq.2023.0116",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169943836"
       },
       "reviewRating": [
         {
@@ -1129,8 +1255,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social/Economic Research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social/Economic Research"
     },
     {
       "@type": "Review",
@@ -1139,8 +1268,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Breastfeeding Among First-Time Mothers Reporting Housing Insecurity and Food Insecurity",
-        "dud:publication_id": "pub.1184668465",
-        "identifier": "10.1089/jwh.2024.0346"
+        "identifier": "10.1089/jwh.2024.0346",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184668465"
       },
       "reviewRating": [
         {
@@ -1155,8 +1284,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau.",
-      "dud:domain": "Social science / public policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau."
+      },
+      "about": "Social science / public policy"
     },
     {
       "@type": "Review",
@@ -1165,8 +1297,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A conceptual model for understanding the rapid COVID-19–related increase in food insecurity and its impact on health and healthcare",
-        "dud:publication_id": "pub.1129580667",
-        "identifier": "10.1093/ajcn/nqaa226"
+        "identifier": "10.1093/ajcn/nqaa226",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129580667"
       },
       "reviewRating": [
         {
@@ -1181,8 +1313,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social science / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social science / Public health"
     },
     {
       "@type": "Review",
@@ -1191,8 +1326,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "FOOD INSECURITY AMONG OLDER ADULTS IN THE UNITED STATES DURING THE COVID-19 PANDEMIC",
-        "dud:publication_id": "pub.1167197442",
-        "identifier": "10.1093/geroni/igad104.0289"
+        "identifier": "10.1093/geroni/igad104.0289",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167197442"
       },
       "reviewRating": [
         {
@@ -1207,8 +1342,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social science / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social science / public health"
     },
     {
       "@type": "Review",
@@ -1217,8 +1355,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Diaper Need as a Measure of Material Hardship During COVID-19",
-        "dud:publication_id": "pub.1144290249",
-        "identifier": "10.1097/nnr.0000000000000572"
+        "identifier": "10.1097/nnr.0000000000000572",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144290249"
       },
       "reviewRating": [
         {
@@ -1233,8 +1371,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau, 2021 citation",
-      "dud:domain": "Social science / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau, 2021 citation"
+      },
+      "about": "Social science / economics"
     },
     {
       "@type": "Review",
@@ -1243,8 +1384,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security Impacts of the COVID-19 Pandemic: Following a Cohort of Vermonters During the First Year",
-        "dud:publication_id": "pub.1142164663",
-        "identifier": "10.1101/2021.10.20.21265283"
+        "identifier": "10.1101/2021.10.20.21265283",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142164663"
       },
       "reviewRating": [
         {
@@ -1259,8 +1400,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Food security"
     },
     {
       "@type": "Review",
@@ -1269,8 +1413,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity and childhood obesity/overweight among children with special healthcare needs: Results from a nationally representative sample of 10–17 years old U.S. children",
-        "dud:publication_id": "pub.1155710178",
-        "identifier": "10.1111/ijpo.13015"
+        "identifier": "10.1111/ijpo.13015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155710178"
       },
       "reviewRating": [
         {
@@ -1285,8 +1429,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic impacts"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic impacts"
     },
     {
       "@type": "Review",
@@ -1295,8 +1442,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "dud:publication_id": "pub.1187119034",
-        "identifier": "10.1111/soc4.70042"
+        "identifier": "10.1111/soc4.70042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
       },
       "reviewRating": [
         {
@@ -1311,8 +1458,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau 2023",
-      "dud:domain": "Public health / sociology / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau 2023"
+      },
+      "about": "Public health / sociology / economics"
     },
     {
       "@type": "Review",
@@ -1321,8 +1471,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "dud:publication_id": "pub.1187119034",
-        "identifier": "10.1111/soc4.70042"
+        "identifier": "10.1111/soc4.70042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
       },
       "reviewRating": [
         {
@@ -1337,8 +1487,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Survey research / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Survey research / public health"
     },
     {
       "@type": "Review",
@@ -1347,8 +1500,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in the United States: Measurement, Economic Modeling, and Food Assistance Effectiveness",
-        "dud:publication_id": "pub.1159730904",
-        "identifier": "10.1146/annurev-resource-101422-090409"
+        "identifier": "10.1146/annurev-resource-101422-090409",
+        "url": "https://app.dimensions.ai/details/publication/pub.1159730904"
       },
       "reviewRating": [
         {
@@ -1363,8 +1516,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social / Economic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social / Economic"
     },
     {
       "@type": "Review",
@@ -1373,8 +1529,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity–Related Interventions and Mental Health Among US Adults During the COVID-19 Pandemic, April 2020 through August 2021",
-        "dud:publication_id": "pub.1150382149",
-        "identifier": "10.1177/00333549221110294"
+        "identifier": "10.1177/00333549221110294",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150382149"
       },
       "reviewRating": [
         {
@@ -1389,8 +1545,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau (Household Pulse Survey) website and technical documentation.",
-      "dud:domain": "Public health / Social science survey data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau (Household Pulse Survey) website and technical documentation."
+      },
+      "about": "Public health / Social science survey data"
     },
     {
       "@type": "Review",
@@ -1399,8 +1558,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity During the First Year of COVID-19: Employment and Sociodemographic Factors Among Participants in the CHASING COVID Cohort Study",
-        "dud:publication_id": "pub.1158228142",
-        "identifier": "10.1177/00333549231170203"
+        "identifier": "10.1177/00333549231170203",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158228142"
       },
       "reviewRating": [
         {
@@ -1415,8 +1574,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau (external dataset).",
-      "dud:domain": "Social science / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau (external dataset)."
+      },
+      "about": "Social science / economics"
     },
     {
       "@type": "Review",
@@ -1425,8 +1587,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Association of Food Insecurity, Mental Health, and Healthcare Access and Use Among Lesbian, Gay, and Bisexual Adults in the United States: Results From the 2021 National Health Interview Survey",
-        "dud:publication_id": "pub.1165334604",
-        "identifier": "10.1177/08901171231211134"
+        "identifier": "10.1177/08901171231211134",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165334604"
       },
       "reviewRating": [
         {
@@ -1441,8 +1603,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -1451,8 +1616,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity in the households of children with autism spectrum disorders and intellectual disabilities in the United States: Analysis of the National Survey of Children’s Health Data 2016–2018",
-        "dud:publication_id": "pub.1138524885",
-        "identifier": "10.1177/13623613211019159"
+        "identifier": "10.1177/13623613211019159",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138524885"
       },
       "reviewRating": [
         {
@@ -1467,8 +1632,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public Health / Socioeconomic Research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public Health / Socioeconomic Research"
     },
     {
       "@type": "Review",
@@ -1477,8 +1645,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material hardship and sources of support for autistic adolescents and their families",
-        "dud:publication_id": "pub.1183676585",
-        "identifier": "10.1177/13623613241304503"
+        "identifier": "10.1177/13623613241304503",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183676585"
       },
       "reviewRating": [
         {
@@ -1493,8 +1661,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic impacts of COVID‑19"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic impacts of COVID‑19"
     },
     {
       "@type": "Review",
@@ -1503,8 +1674,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in Households with Children Amid the COVID-19 Pandemic: Evidence from the Household Pulse Survey",
-        "dud:publication_id": "pub.1137441006",
-        "identifier": "10.1177/23294965211011593"
+        "identifier": "10.1177/23294965211011593",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137441006"
       },
       "reviewRating": [
         {
@@ -1519,8 +1690,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social/Economic Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social/Economic Survey"
     },
     {
       "@type": "Review",
@@ -1529,8 +1703,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Home food procurement impacts food security and diet quality during COVID-19",
-        "dud:publication_id": "pub.1138157290",
-        "identifier": "10.1186/s12889-021-10960-0"
+        "identifier": "10.1186/s12889-021-10960-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138157290"
       },
       "reviewRating": [
         {
@@ -1545,8 +1719,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public Health / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public Health / Economics"
     },
     {
       "@type": "Review",
@@ -1555,8 +1732,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Implementing food bank and healthcare partnerships: a pilot study of perspectives from charitable food systems in Texas",
-        "dud:publication_id": "pub.1142419155",
-        "identifier": "10.1186/s12889-021-12031-w"
+        "identifier": "10.1186/s12889-021-12031-w",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142419155"
       },
       "reviewRating": [
         {
@@ -1571,8 +1748,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social science / Public policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social science / Public policy"
     },
     {
       "@type": "Review",
@@ -1581,8 +1761,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Health Care Use",
-        "dud:publication_id": "pub.1120926181",
-        "identifier": "10.1542/peds.2019-0347"
+        "identifier": "10.1542/peds.2019-0347",
+        "url": "https://app.dimensions.ai/details/publication/pub.1120926181"
       },
       "reviewRating": [
         {
@@ -1597,7 +1777,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Health care quality assessment"
+      "about": "Health care quality assessment"
     },
     {
       "@type": "Review",
@@ -1606,8 +1786,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "dud:publication_id": "pub.1156304476",
-        "identifier": "10.2139/ssrn.4390226"
+        "identifier": "10.2139/ssrn.4390226",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
       },
       "reviewRating": [
         {
@@ -1622,8 +1802,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public‑health / Economic behavior"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public‑health / Economic behavior"
     },
     {
       "@type": "Review",
@@ -1632,8 +1815,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Decade of College Student Hunger: What We Know and Where We Need to Go",
-        "dud:publication_id": "pub.1145861633",
-        "identifier": "10.3389/fpubh.2022.837724"
+        "identifier": "10.3389/fpubh.2022.837724",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145861633"
       },
       "reviewRating": [
         {
@@ -1648,8 +1831,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public Health / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public Health / Economics"
     },
     {
       "@type": "Review",
@@ -1658,8 +1844,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity between sexual minority and heterosexual adults – a higher burden on bisexual individuals",
-        "dud:publication_id": "pub.1163082230",
-        "identifier": "10.3389/fpubh.2023.1237091"
+        "identifier": "10.3389/fpubh.2023.1237091",
+        "url": "https://app.dimensions.ai/details/publication/pub.1163082230"
       },
       "reviewRating": [
         {
@@ -1674,8 +1860,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social epidemiology / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social epidemiology / public health"
     },
     {
       "@type": "Review",
@@ -1684,8 +1873,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A new approach to a wicked problem: development of a cross-sector community-centered learning network to tackle childhood food inequity",
-        "dud:publication_id": "pub.1175853758",
-        "identifier": "10.3389/fpubh.2024.1436760"
+        "identifier": "10.3389/fpubh.2024.1436760",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175853758"
       },
       "reviewRating": [
         {
@@ -1700,8 +1889,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public Health/Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public Health/Economics"
     },
     {
       "@type": "Review",
@@ -1710,8 +1902,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Measuring Food Insecurity: The Problem with Semantics",
-        "dud:publication_id": "pub.1157634112",
-        "identifier": "10.3390/foods12091816"
+        "identifier": "10.3390/foods12091816",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157634112"
       },
       "reviewRating": [
         {
@@ -1726,8 +1918,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Section 2.5.5",
-      "dud:domain": "Public health and socioeconomic monitoring"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Section 2.5.5"
+      },
+      "about": "Public health and socioeconomic monitoring"
     },
     {
       "@type": "Review",
@@ -1736,8 +1931,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "An Analysis of Socioeconomic Determinants of the Black–White Disparity in Food Insecurity Rates in the US",
-        "dud:publication_id": "pub.1158592870",
-        "identifier": "10.3390/foods12112228"
+        "identifier": "10.3390/foods12112228",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158592870"
       },
       "reviewRating": [
         {
@@ -1752,8 +1947,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Economics"
     },
     {
       "@type": "Review",
@@ -1762,8 +1960,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity across Age Groups in the United States during the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1174849929",
-        "identifier": "10.3390/ijerph21081078"
+        "identifier": "10.3390/ijerph21081078",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174849929"
       },
       "reviewRating": [
         {
@@ -1778,8 +1976,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau (public use files available at https://www.census.gov/programs‑surveys/household‑pulse‑survey/datasets.html)",
-      "dud:domain": "Public health / Socio‑economic monitoring"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau (public use files available at https://www.census.gov/programs‑surveys/household‑pulse‑survey/datasets.html)"
+      },
+      "about": "Public health / Socio‑economic monitoring"
     },
     {
       "@type": "Review",
@@ -1788,8 +1989,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security Impacts of the COVID-19 Pandemic: Longitudinal Evidence from a Cohort of Adults in Vermont during the First Year",
-        "dud:publication_id": "pub.1146580763",
-        "identifier": "10.3390/nu14071358"
+        "identifier": "10.3390/nu14071358",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146580763"
       },
       "reviewRating": [
         {
@@ -1804,8 +2005,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Socio‑economic impacts of COVID‑19"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Socio‑economic impacts of COVID‑19"
     },
     {
       "@type": "Review",
@@ -1814,8 +2018,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Longitudinal Associations of Food Security with Health and Dietary Factors among Food FARMacy Participants during COVID-19 in New York City",
-        "dud:publication_id": "pub.1168518846",
-        "identifier": "10.3390/nu16030434"
+        "identifier": "10.3390/nu16030434",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168518846"
       },
       "reviewRating": [
         {
@@ -1830,8 +2034,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social/Economic Research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social/Economic Research"
     },
     {
       "@type": "Review",
@@ -1840,8 +2047,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding Food Insecurity and Participation in Food Assistance Programs among Hispanic/Latino Residents of Hialeah, Florida, before and during the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1175405067",
-        "identifier": "10.3390/su16177612"
+        "identifier": "10.3390/su16177612",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175405067"
       },
       "reviewRating": [
         {
@@ -1856,8 +2063,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Social‑science / Public‑health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Social‑science / Public‑health"
     },
     {
       "@type": "Review",
@@ -1866,8 +2076,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Material Need Insecurities among People on Hemodialysis: Burden, Sociodemographic Risk Factors, and Associations with Substance Use",
-        "dud:publication_id": "pub.1165809146",
-        "identifier": "10.34067/kid.0000000000000279"
+        "identifier": "10.34067/kid.0000000000000279",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165809146"
       },
       "reviewRating": [
         {
@@ -1882,8 +2092,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public Health / Socioeconomic"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public Health / Socioeconomic"
     },
     {
       "@type": "Review",
@@ -1892,8 +2105,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disease and disaster: Navigating food insecurity in a community affected by crises during COVID-19",
-        "dud:publication_id": "pub.1137956806",
-        "identifier": "10.5304/jafscd.2021.103.005"
+        "identifier": "10.5304/jafscd.2021.103.005",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137956806"
       },
       "reviewRating": [
         {
@@ -1908,8 +2121,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau",
-      "dud:domain": "Public health / Survey data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "about": "Public health / Survey data"
     },
     {
       "@type": "Review",
@@ -1918,8 +2134,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in a Pediatric Emergency Department and the Feasibility of Universal Screening",
-        "dud:publication_id": "pub.1142568566",
-        "identifier": "10.5811/westjem.2021.7.52519"
+        "identifier": "10.5811/westjem.2021.7.52519",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142568566"
       },
       "reviewRating": [
         {
@@ -1934,8 +2150,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Census Bureau (citation not provided).",
-      "dud:domain": "Public health / social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau (citation not provided)."
+      },
+      "about": "Public health / social science"
     },
     {
       "@type": "Review",
@@ -1944,8 +2163,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial Disparity and Trend of Food Scarcity Amid COVID-19 Pandemic in the United States",
-        "dud:publication_id": "pub.1154196378",
-        "identifier": "10.7759/cureus.33232"
+        "identifier": "10.7759/cureus.33232",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154196378"
       },
       "reviewRating": [
         {
@@ -1960,8 +2179,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "US Census Bureau",
-      "dud:domain": "Public health / Socio‑economic survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "US Census Bureau"
+      },
+      "about": "Public health / Socio‑economic survey"
     },
     {
       "@type": "Review",
@@ -1970,8 +2192,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Mental Cost of Food Insecurity among LGBTQ+Americans",
-        "dud:publication_id": "pub.1170963330",
-        "identifier": "10.1007/s11113-024-09881-8"
+        "identifier": "10.1007/s11113-024-09881-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170963330"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Census geographic classifications (census regions and state identifiers)",
@@ -1994,8 +2216,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Current and Future Food Insufficiency During Covid-19: Examining Disparities by Race/Ethnicity and Recent Work Loss",
-        "dud:publication_id": "pub.1140096436",
-        "identifier": "10.1007/s40615-021-01116-2"
+        "identifier": "10.1007/s40615-021-01116-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140096436"
       },
       "dud:joinDetail": {
         "partnerDataset": "State-level monthly unemployment rates from the St. Louis Federal Reserve Bank",
@@ -2018,8 +2240,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1152755048",
-        "identifier": "10.1007/s40615-022-01447-8"
+        "identifier": "10.1007/s40615-022-01447-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS)",
@@ -2042,8 +2264,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1152755048",
-        "identifier": "10.1007/s40615-022-01447-8"
+        "identifier": "10.1007/s40615-022-01447-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) 2014‑2018 5‑year estimates",
@@ -2066,8 +2288,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1152755048",
-        "identifier": "10.1007/s40615-022-01447-8"
+        "identifier": "10.1007/s40615-022-01447-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
       },
       "dud:joinDetail": {
         "partnerDataset": "Census Master Address File (MAF)",
@@ -2090,8 +2312,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial and Ethnic Disparities in Food Insufficiency in Families with Children During the COVID-19 Pandemic: the Role of Risk and Protective Factors",
-        "dud:publication_id": "pub.1167139769",
-        "identifier": "10.1007/s40615-023-01881-2"
+        "identifier": "10.1007/s40615-023-01881-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167139769"
       },
       "dud:joinDetail": {
         "partnerDataset": "Urban Institute harmonized Pulse dataset",
@@ -2114,8 +2336,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "Small Business Pulse Survey (SBPS) state‑level closure data",
@@ -2138,8 +2360,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey (HPS) microdata",
@@ -2162,8 +2384,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "Monthly State Retail Sales (MSRS) reports",
@@ -2186,8 +2408,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "CDC COVID‑19 case data (state‑level infection rates)",
@@ -2210,8 +2432,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "State‑level SNAP, WIC, and TANF participation rates (derived from USDA/administrative sources)",
@@ -2234,8 +2456,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "Bureau of Labor Statistics (BLS) state unemployment rates",
@@ -2258,8 +2480,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) 2019 data – median rent, median renter income, and Black‑population share",
@@ -2282,8 +2504,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "dud:publication_id": "pub.1151271369",
-        "identifier": "10.1016/j.cities.2022.104003"
+        "identifier": "10.1016/j.cities.2022.104003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
       },
       "dud:joinDetail": {
         "partnerDataset": "Monthly State Retail Sales (MSRS) data",
@@ -2306,8 +2528,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and COVID-19 Food-Related Perceptions, Practices, and Problems: A 3-State Descriptive Study",
-        "dud:publication_id": "pub.1152412062",
-        "identifier": "10.1017/dmp.2022.250"
+        "identifier": "10.1017/dmp.2022.250",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152412062"
       },
       "dud:joinDetail": {
         "partnerDataset": "RAPID Multi‑Wave Risk Perception Study (online survey data)",
@@ -2330,8 +2552,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "dud:publication_id": "pub.1187119034",
-        "identifier": "10.1111/soc4.70042"
+        "identifier": "10.1111/soc4.70042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey weekly weight files (rpweight, r2pweight, etc.)",
@@ -2354,8 +2576,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "dud:publication_id": "pub.1187119034",
-        "identifier": "10.1111/soc4.70042"
+        "identifier": "10.1111/soc4.70042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey weekly data (weeks 13‑60)",
@@ -2378,8 +2600,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "dud:publication_id": "pub.1187119034",
-        "identifier": "10.1111/soc4.70042"
+        "identifier": "10.1111/soc4.70042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
       },
       "dud:joinDetail": {
         "partnerDataset": "All weeks combined into a single analytical dataset",
@@ -2402,8 +2624,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "dud:publication_id": "pub.1187119034",
-        "identifier": "10.1111/soc4.70042"
+        "identifier": "10.1111/soc4.70042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
       },
       "dud:joinDetail": {
         "partnerDataset": "State‑level grocery tax dataset (list of 13 states and tax rates)",
@@ -2426,8 +2648,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "dud:publication_id": "pub.1156304476",
-        "identifier": "10.2139/ssrn.4390226"
+        "identifier": "10.2139/ssrn.4390226",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
       },
       "dud:joinDetail": {
         "partnerDataset": "COVID‑19 U.S. State Policy (CUSP) database",
@@ -2450,8 +2672,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "dud:publication_id": "pub.1156304476",
-        "identifier": "10.2139/ssrn.4390226"
+        "identifier": "10.2139/ssrn.4390226",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey – Food Security Supplement (CPS‑FSS)",
@@ -2474,8 +2696,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity across Age Groups in the United States during the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1174849929",
-        "identifier": "10.3390/ijerph21081078"
+        "identifier": "10.3390/ijerph21081078",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174849929"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey weekly microdata (Weeks 2‑57)",
@@ -2498,8 +2720,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity across Age Groups in the United States during the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1174849929",
-        "identifier": "10.3390/ijerph21081078"
+        "identifier": "10.3390/ijerph21081078",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174849929"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household Pulse Survey weekly microdata (Week 1)",

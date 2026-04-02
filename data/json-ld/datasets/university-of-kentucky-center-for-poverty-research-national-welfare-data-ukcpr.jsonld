@@ -20,8 +20,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of State Supplemental Nutrition Assistance Program Eligibility Policies With Adult Mental Health and Suicidality",
-        "dud:publication_id": "pub.1157246673",
-        "identifier": "10.1001/jamanetworkopen.2023.8415"
+        "identifier": "10.1001/jamanetworkopen.2023.8415",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157246673"
       },
       "reviewRating": [
         {
@@ -36,8 +36,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Kentucky",
-      "dud:domain": "Economic policy / welfare economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Kentucky"
+      },
+      "about": "Economic policy / welfare economics"
     },
     {
       "@type": "Review",
@@ -46,8 +49,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Medicaid generosity and food hardship among children",
-        "dud:publication_id": "pub.1166624456",
-        "identifier": "10.1002/pam.22557"
+        "identifier": "10.1002/pam.22557",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166624456"
       },
       "reviewRating": [
         {
@@ -62,8 +65,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Kentucky Center for Poverty Research",
-      "dud:domain": "State‑level policy & economic data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Kentucky Center for Poverty Research"
+      },
+      "about": "State‑level policy & economic data"
     },
     {
       "@type": "Review",
@@ -72,8 +78,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The intergenerational transmission of food insecurity: Do educational compromises make things worse?",
-        "dud:publication_id": "pub.1185960059",
-        "identifier": "10.1002/soej.12767"
+        "identifier": "10.1002/soej.12767",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185960059"
       },
       "reviewRating": [
         {
@@ -88,8 +94,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Kentucky Center for Poverty Research.",
-      "dud:domain": "Public policy / Welfare economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Kentucky Center for Poverty Research."
+      },
+      "about": "Public policy / Welfare economics"
     },
     {
       "@type": "Review",
@@ -98,8 +107,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "State expansion of supplemental nutrition assistance program eligibility and rates of interpersonal violence",
-        "dud:publication_id": "pub.1164838312",
-        "identifier": "10.1016/j.ypmed.2023.107725"
+        "identifier": "10.1016/j.ypmed.2023.107725",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164838312"
       },
       "reviewRating": [
         {
@@ -114,8 +123,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Kentucky Center for Poverty Research",
-      "dud:domain": "Public policy / Social welfare"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Kentucky Center for Poverty Research"
+      },
+      "about": "Public policy / Social welfare"
     },
     {
       "@type": "Review",
@@ -124,8 +136,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
-        "dud:publication_id": "pub.1148831422",
-        "identifier": "10.1111/ajae.12322"
+        "identifier": "10.1111/ajae.12322",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148831422"
       },
       "reviewRating": [
         {
@@ -140,8 +152,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Kentucky – Center for Poverty Research",
-      "dud:domain": "Social‑policy & economic statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Kentucky – Center for Poverty Research"
+      },
+      "about": "Social‑policy & economic statistics"
     },
     {
       "@type": "Review",
@@ -150,8 +165,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The intergenerational transmission of food insecurity: Do educational compromises make things worse?",
-        "dud:publication_id": "pub.1185960059",
-        "identifier": "10.1002/soej.12767"
+        "identifier": "10.1002/soej.12767",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185960059"
       },
       "dud:joinDetail": {
         "partnerDataset": "Panel Study of Income Dynamics (PSID) longitudinal sample",

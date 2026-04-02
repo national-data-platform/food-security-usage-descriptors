@@ -21,8 +21,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Supplemental Nutrition Assistance Program Access and Racial Disparities in Food Insecurity",
-        "dud:publication_id": "pub.1160117949",
-        "identifier": "10.1001/jamanetworkopen.2023.20196"
+        "identifier": "10.1001/jamanetworkopen.2023.20196",
+        "url": "https://app.dimensions.ai/details/publication/pub.1160117949"
       },
       "reviewRating": [
         {
@@ -37,8 +37,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -47,8 +50,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Amputation Rates and Associated Social Determinants of Health in the Most Populous US Counties",
-        "dud:publication_id": "pub.1165400226",
-        "identifier": "10.1001/jamasurg.2023.5517"
+        "identifier": "10.1001/jamasurg.2023.5517",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165400226"
       },
       "reviewRating": [
         {
@@ -63,8 +66,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Behavioral health / Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Behavioral health / Public health surveillance"
     },
     {
       "@type": "Review",
@@ -73,8 +79,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Age at diagnosis and social risks among Black cancer survivors: Results from the Detroit Research on Cancer Survivors cohort",
-        "dud:publication_id": "pub.1168308433",
-        "identifier": "10.1002/cncr.35212"
+        "identifier": "10.1002/cncr.35212",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168308433"
       },
       "reviewRating": [
         {
@@ -89,8 +95,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -99,8 +108,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food justice in Vermont’s environmentally vulnerable communities",
-        "dud:publication_id": "pub.1157511620",
-        "identifier": "10.1007/s10460-023-10431-9"
+        "identifier": "10.1007/s10460-023-10431-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157511620"
       },
       "reviewRating": [
         {
@@ -115,8 +124,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -125,8 +137,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among adult females with a history of breast cancer compared to adult females without cancer in the USA",
-        "dud:publication_id": "pub.1165706556",
-        "identifier": "10.1007/s11764-023-01481-3"
+        "identifier": "10.1007/s11764-023-01481-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165706556"
       },
       "reviewRating": [
         {
@@ -141,8 +153,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / chronic disease"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / chronic disease"
     },
     {
       "@type": "Review",
@@ -151,8 +166,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Moving Diabetes Upstream: the Social Determinants of Diabetes Management and Control Among Immigrants in the US",
-        "dud:publication_id": "pub.1130397358",
-        "identifier": "10.1007/s11892-020-01332-w"
+        "identifier": "10.1007/s11892-020-01332-w",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130397358"
       },
       "reviewRating": [
         {
@@ -167,8 +182,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -177,8 +195,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and its Impact on Body Weight, Type 2 Diabetes, Cardiovascular Disease, and Mental Health",
-        "dud:publication_id": "pub.1139414250",
-        "identifier": "10.1007/s12170-021-00679-3"
+        "identifier": "10.1007/s12170-021-00679-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139414250"
       },
       "reviewRating": [
         {
@@ -193,8 +211,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Epidemiology / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Epidemiology / Public health"
     },
     {
       "@type": "Review",
@@ -203,8 +224,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social Needs and Type 2 Diabetes in Latinos: An Integrative Review",
-        "dud:publication_id": "pub.1188272122",
-        "identifier": "10.1007/s40615-025-02448-z"
+        "identifier": "10.1007/s40615-025-02448-z",
+        "url": "https://app.dimensions.ai/details/publication/pub.1188272122"
       },
       "reviewRating": [
         {
@@ -219,8 +240,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Epidemiology / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Epidemiology / Public health"
     },
     {
       "@type": "Review",
@@ -229,8 +253,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Relationships Among COVID-19 Contraction, Job Loss, and Food Insecurity in American Indian and Alaska Native Peoples",
-        "dud:publication_id": "pub.1191378644",
-        "identifier": "10.1007/s40615-025-02561-z"
+        "identifier": "10.1007/s40615-025-02561-z",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191378644"
       },
       "reviewRating": [
         {
@@ -245,8 +269,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC).",
-      "dud:domain": "Public Health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)."
+      },
+      "about": "Public Health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -255,8 +282,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutrition and Health in the Lesbian, Gay, Bisexual, Transgender, Queer/Questioning Community: A Narrative Review",
-        "dud:publication_id": "pub.1162937173",
-        "identifier": "10.1016/j.advnut.2023.07.009"
+        "identifier": "10.1016/j.advnut.2023.07.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162937173"
       },
       "reviewRating": [
         {
@@ -271,8 +298,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health"
     },
     {
       "@type": "Review",
@@ -281,8 +311,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of new measures to assess household nutrition security, and choice in dietary characteristics",
-        "dud:publication_id": "pub.1150574439",
-        "identifier": "10.1016/j.appet.2022.106288"
+        "identifier": "10.1016/j.appet.2022.106288",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150574439"
       },
       "reviewRating": [
         {
@@ -297,8 +327,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public Health"
     },
     {
       "@type": "Review",
@@ -307,8 +340,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Lowering the impact of food insecurity in African American adults with type 2 diabetes mellitus (LIFT-DM) – Study protocol for a randomized controlled trial",
-        "dud:publication_id": "pub.1132404685",
-        "identifier": "10.1016/j.cct.2020.106206"
+        "identifier": "10.1016/j.cct.2020.106206",
+        "url": "https://app.dimensions.ai/details/publication/pub.1132404685"
       },
       "reviewRating": [
         {
@@ -323,8 +356,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -333,8 +369,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Racial and ethnic differences in the prevalence of adverse childhood experiences: Findings from a low-income sample of U.S. women",
-        "dud:publication_id": "pub.1099722849",
-        "identifier": "10.1016/j.chiabu.2017.12.012"
+        "identifier": "10.1016/j.chiabu.2017.12.012",
+        "url": "https://app.dimensions.ai/details/publication/pub.1099722849"
       },
       "reviewRating": [
         {
@@ -349,7 +385,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Public health / Surveillance"
+      "about": "Public health / Surveillance"
     },
     {
       "@type": "Review",
@@ -358,8 +394,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Health equity in pediatrics: Current concepts for the care of children in the 21st century (Dis Mon)",
-        "dud:publication_id": "pub.1164230672",
-        "identifier": "10.1016/j.disamonth.2023.101631"
+        "identifier": "10.1016/j.disamonth.2023.101631",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164230672"
       },
       "reviewRating": [
         {
@@ -374,8 +410,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -384,8 +423,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Effects of maternal depression on family food insecurity",
-        "dud:publication_id": "pub.1031434075",
-        "identifier": "10.1016/j.ehb.2016.04.004"
+        "identifier": "10.1016/j.ehb.2016.04.004",
+        "url": "https://app.dimensions.ai/details/publication/pub.1031434075"
       },
       "reviewRating": [
         {
@@ -400,8 +439,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public Health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public Health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -410,8 +452,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Disparities Among Immigrants in the U.S.",
-        "dud:publication_id": "pub.1158724600",
-        "identifier": "10.1016/j.focus.2023.100113"
+        "identifier": "10.1016/j.focus.2023.100113",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158724600"
       },
       "reviewRating": [
         {
@@ -426,8 +468,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention",
-      "dud:domain": "Epidemiology / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention"
+      },
+      "about": "Epidemiology / public health"
     },
     {
       "@type": "Review",
@@ -436,8 +481,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Retrospective review of food insecurity screening in an outpatient stroke clinic using electronic and paper-based surveys",
-        "dud:publication_id": "pub.1174669990",
-        "identifier": "10.1016/j.heliyon.2024.e36142"
+        "identifier": "10.1016/j.heliyon.2024.e36142",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174669990"
       },
       "reviewRating": [
         {
@@ -452,8 +497,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -462,8 +510,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Prevalence of Food Insecurity Among Cancer Survivors in the United States: A Scoping Review",
-        "dud:publication_id": "pub.1149406378",
-        "identifier": "10.1016/j.jand.2022.07.004"
+        "identifier": "10.1016/j.jand.2022.07.004",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149406378"
       },
       "reviewRating": [
         {
@@ -478,8 +526,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. CDC",
-      "dud:domain": "Public Health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. CDC"
+      },
+      "about": "Public Health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -488,8 +539,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Campus Food Pantry Use May Improve Daily Frequency of Fruit and Vegetable Intake Among California University Students Experiencing Food Insecurity",
-        "dud:publication_id": "pub.1164271845",
-        "identifier": "10.1016/j.jand.2023.09.009"
+        "identifier": "10.1016/j.jand.2023.09.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164271845"
       },
       "reviewRating": [
         {
@@ -504,8 +555,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Behavioral Risk Factor Surveillance System (BRFSS)",
-      "dud:domain": "Nutrition / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Behavioral Risk Factor Surveillance System (BRFSS)"
+      },
+      "about": "Nutrition / Public Health"
     },
     {
       "@type": "Review",
@@ -514,8 +568,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Campus Food Pantry Use May Improve Daily Frequency of Fruit and Vegetable Intake Among California University Students Experiencing Food Insecurity",
-        "dud:publication_id": "pub.1164271845",
-        "identifier": "10.1016/j.jand.2023.09.009"
+        "identifier": "10.1016/j.jand.2023.09.009",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164271845"
       },
       "reviewRating": [
         {
@@ -530,8 +584,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public Health"
     },
     {
       "@type": "Review",
@@ -540,8 +597,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations Among Chronic Disease Status, Participation in Federal Nutrition Programs, Food Insecurity, and Sugar-Sweetened Beverage and Water Intake Among Residents of a Health-Disparate Region",
-        "dud:publication_id": "pub.1020034785",
-        "identifier": "10.1016/j.jneb.2015.01.001"
+        "identifier": "10.1016/j.jneb.2015.01.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1020034785"
       },
       "reviewRating": [
         {
@@ -556,7 +613,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Public health / epidemiology"
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -565,8 +622,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household Food Insecurity and Maternal-Toddler Fruit and Vegetable Dietary Concordance",
-        "dud:publication_id": "pub.1167315150",
-        "identifier": "10.1016/j.jneb.2023.10.018"
+        "identifier": "10.1016/j.jneb.2023.10.018",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167315150"
       },
       "reviewRating": [
         {
@@ -581,8 +638,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Epidemiology / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Epidemiology / Nutrition"
     },
     {
       "@type": "Review",
@@ -591,8 +651,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Full subsidy and direct delivery of essential chronic disease medications for low-income populations: A pilot randomized controlled trial",
-        "dud:publication_id": "pub.1193038553",
-        "identifier": "10.1016/j.jnma.2025.08.003"
+        "identifier": "10.1016/j.jnma.2025.08.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1193038553"
       },
       "reviewRating": [
         {
@@ -607,8 +667,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Mentioned in the baseline covariate description and again for the HRQOL instrument.",
-      "dud:domain": "Epidemiology / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Mentioned in the baseline covariate description and again for the HRQOL instrument."
+      },
+      "about": "Epidemiology / public health"
     },
     {
       "@type": "Review",
@@ -617,8 +680,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, social needs, and smoking status among patients in a county hospital system",
-        "dud:publication_id": "pub.1150596143",
-        "identifier": "10.1016/j.pmedr.2022.101963"
+        "identifier": "10.1016/j.pmedr.2022.101963",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150596143"
       },
       "reviewRating": [
         {
@@ -633,8 +696,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Epidemiology / Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Epidemiology / Public health surveillance"
     },
     {
       "@type": "Review",
@@ -643,8 +709,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Fresh Start to a Healthier You! program improves fruit and vegetable consumption and risk of food insecurity: Findings from Texas",
-        "dud:publication_id": "pub.1190266238",
-        "identifier": "10.1016/j.pmedr.2025.103158"
+        "identifier": "10.1016/j.pmedr.2025.103158",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190266238"
       },
       "reviewRating": [
         {
@@ -659,8 +725,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -669,8 +738,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Socio-demographic risk factors for food insecurity among students at five North Carolina colleges: The influence on fruit and vegetable intake and perceived health and well-being",
-        "dud:publication_id": "pub.1193374741",
-        "identifier": "10.1016/j.pmedr.2025.103243"
+        "identifier": "10.1016/j.pmedr.2025.103243",
+        "url": "https://app.dimensions.ai/details/publication/pub.1193374741"
       },
       "reviewRating": [
         {
@@ -685,8 +754,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reference to the 2017 BRFSS questionnaire.",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reference to the 2017 BRFSS questionnaire."
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -695,8 +767,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Economic instability, food insecurity, social isolation, and inadequate access to care in adults with epilepsy: A nationwide analysis",
-        "dud:publication_id": "pub.1191217076",
-        "identifier": "10.1016/j.seizure.2025.07.012"
+        "identifier": "10.1016/j.seizure.2025.07.012",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191217076"
       },
       "reviewRating": [
         {
@@ -711,8 +783,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -721,8 +796,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "dud:publication_id": "pub.1105225625",
-        "identifier": "10.1016/j.ssmph.2018.06.006"
+        "identifier": "10.1016/j.ssmph.2018.06.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
       },
       "reviewRating": [
         {
@@ -737,8 +812,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health/Survey data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health/Survey data"
     },
     {
       "@type": "Review",
@@ -747,8 +825,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and sleep health by race/ethnicity in the United States",
-        "dud:publication_id": "pub.1158155267",
-        "identifier": "10.1017/jns.2023.18"
+        "identifier": "10.1017/jns.2023.18",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158155267"
       },
       "reviewRating": [
         {
@@ -763,8 +841,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -773,8 +854,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutrition interventions addressing structural racism: a scoping review",
-        "dud:publication_id": "pub.1144633224",
-        "identifier": "10.1017/s0954422422000014"
+        "identifier": "10.1017/s0954422422000014",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144633224"
       },
       "reviewRating": [
         {
@@ -789,8 +870,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited within the description of a primary study included in the review.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited within the description of a primary study included in the review."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -799,8 +883,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household and child food insecurity and CVD risk factors in lower-income adolescents aged 12–17 years from the National Health and Nutrition Examination Survey (NHANES) 2007–2016",
-        "dud:publication_id": "pub.1139042042",
-        "identifier": "10.1017/s1368980021002652"
+        "identifier": "10.1017/s1368980021002652",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139042042"
       },
       "reviewRating": [
         {
@@ -815,8 +899,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -825,8 +912,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA",
-        "dud:publication_id": "pub.1148084211",
-        "identifier": "10.1017/s1368980022001240"
+        "identifier": "10.1017/s1368980022001240",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148084211"
       },
       "reviewRating": [
         {
@@ -841,8 +928,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Washington State Department of Health, Center for Health Statistics; CDC",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Washington State Department of Health, Center for Health Statistics; CDC"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -851,8 +941,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Adverse childhood experiences and food insecurity in emerging adulthood: findings from the EAT 2010–2018 study",
-        "dud:publication_id": "pub.1160582350",
-        "identifier": "10.1017/s1368980023001349"
+        "identifier": "10.1017/s1368980023001349",
+        "url": "https://app.dimensions.ai/details/publication/pub.1160582350"
       },
       "reviewRating": [
         {
@@ -867,8 +957,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Epidemiology / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Epidemiology / Public Health"
     },
     {
       "@type": "Review",
@@ -877,8 +970,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Food Insecurity and Adverse Human Health Outcomes in the United States",
-        "dud:publication_id": "pub.1185433555",
-        "identifier": "10.1029/2024gh001198"
+        "identifier": "10.1029/2024gh001198",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185433555"
       },
       "reviewRating": [
         {
@@ -893,8 +986,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC) BRFSS",
-      "dud:domain": "Public health / cardiovascular epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC) BRFSS"
+      },
+      "about": "Public health / cardiovascular epidemiology"
     },
     {
       "@type": "Review",
@@ -903,8 +999,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Psychosocial and structural stressors and engagement in medical care among young sexual minority men across racial identities",
-        "dud:publication_id": "pub.1167216406",
-        "identifier": "10.1080/08964289.2023.2277931"
+        "identifier": "10.1080/08964289.2023.2277931",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167216406"
       },
       "reviewRating": [
         {
@@ -919,8 +1015,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -929,8 +1028,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A spatial analyses of food insecurity and disability in the Southeast region of the United States",
-        "dud:publication_id": "pub.1149656458",
-        "identifier": "10.1080/17445647.2022.2092909"
+        "identifier": "10.1080/17445647.2022.2092909",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149656458"
       },
       "reviewRating": [
         {
@@ -945,8 +1044,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Behavioral risk factors"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Behavioral risk factors"
     },
     {
       "@type": "Review",
@@ -955,8 +1057,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Evaluating a Nutrition Education Program in an Era of Food Insecurity",
-        "dud:publication_id": "pub.1017133558",
-        "identifier": "10.1080/19320248.2016.1227748"
+        "identifier": "10.1080/19320248.2016.1227748",
+        "url": "https://app.dimensions.ai/details/publication/pub.1017133558"
       },
       "reviewRating": [
         {
@@ -971,8 +1073,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC BRFSS data (year unspecified).",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC BRFSS data (year unspecified)."
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -981,8 +1086,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "dud:publication_id": "pub.1175815611",
-        "identifier": "10.1080/19320248.2022.2101414"
+        "identifier": "10.1080/19320248.2022.2101414",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
       },
       "reviewRating": [
         {
@@ -997,8 +1102,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Epidemiology / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Epidemiology / Public health"
     },
     {
       "@type": "Review",
@@ -1007,8 +1115,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the Relationship Between SNAP Enrollment and Food Insecurity in Rural Appalachia",
-        "dud:publication_id": "pub.1153730181",
-        "identifier": "10.1080/19320248.2022.2157231"
+        "identifier": "10.1080/19320248.2022.2157231",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153730181"
       },
       "reviewRating": [
         {
@@ -1023,8 +1131,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public Health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public Health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1033,8 +1144,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Qualitative Examination of Service Satisfaction and Health Status During the COVID-19 Lockdowns Among Recipients of a Community-Based, Home Food Delivery Program in Flint, Michigan",
-        "dud:publication_id": "pub.1169101164",
-        "identifier": "10.1080/19320248.2024.2321233"
+        "identifier": "10.1080/19320248.2024.2321233",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169101164"
       },
       "reviewRating": [
         {
@@ -1049,8 +1160,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited as the origin of the health‑condition checklist incorporated into the study’s questionnaire.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited as the origin of the health‑condition checklist incorporated into the study’s questionnaire."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1059,8 +1173,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using Community-Based Participatory Research to Explore Food Insecurity in African American Adults",
-        "dud:publication_id": "pub.1127158542",
-        "identifier": "10.1080/19325037.2020.1744491"
+        "identifier": "10.1080/19325037.2020.1744491",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127158542"
       },
       "reviewRating": [
         {
@@ -1075,8 +1189,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1085,8 +1202,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Beyond Groceries: An Analysis of Referral Needs to Address Underlying Causes of Child Hunger among Households Accessing Food Pantries",
-        "dud:publication_id": "pub.1140811818",
-        "identifier": "10.1080/19371918.2021.1943099"
+        "identifier": "10.1080/19371918.2021.1943099",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140811818"
       },
       "reviewRating": [
         {
@@ -1101,8 +1218,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Health behavior / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Health behavior / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1111,8 +1231,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Differences in Health-Related Quality of Life and Health Behaviors Among Lesbian, Bisexual, and Heterosexual Women Surviving Cancer from the 2013 to 2018 National Health Interview Survey",
-        "dud:publication_id": "pub.1133538891",
-        "identifier": "10.1089/lgbt.2020.0185"
+        "identifier": "10.1089/lgbt.2020.0185",
+        "url": "https://app.dimensions.ai/details/publication/pub.1133538891"
       },
       "reviewRating": [
         {
@@ -1127,8 +1247,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "BRFSS public data",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "BRFSS public data"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1137,8 +1260,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Associated with Self-Efficacy and Acculturation",
-        "dud:publication_id": "pub.1059307554",
-        "identifier": "10.1089/pop.2015.0179"
+        "identifier": "10.1089/pop.2015.0179",
+        "url": "https://app.dimensions.ai/details/publication/pub.1059307554"
       },
       "reviewRating": [
         {
@@ -1153,8 +1276,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1163,8 +1289,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and the Risk of Obesity, Depression, and Self-Rated Health in Women",
-        "dud:publication_id": "pub.1130837718",
-        "identifier": "10.1089/whr.2020.0049"
+        "identifier": "10.1089/whr.2020.0049",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130837718"
       },
       "reviewRating": [
         {
@@ -1179,8 +1305,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Behavioral surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Behavioral surveillance"
     },
     {
       "@type": "Review",
@@ -1189,8 +1318,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sexual orientation–based disparities in food security among adults in the United States: results from the 2003–2016 NHANES",
-        "dud:publication_id": "pub.1140354275",
-        "identifier": "10.1093/ajcn/nqab290"
+        "identifier": "10.1093/ajcn/nqab290",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140354275"
       },
       "reviewRating": [
         {
@@ -1205,8 +1334,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1215,8 +1347,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Effect of Supplemental Nutrition Assistance Program–Education (SNAP-Ed) on food security and dietary outcomes",
-        "dud:publication_id": "pub.1112862388",
-        "identifier": "10.1093/nutrit/nuz013"
+        "identifier": "10.1093/nutrit/nuz013",
+        "url": "https://app.dimensions.ai/details/publication/pub.1112862388"
       },
       "reviewRating": [
         {
@@ -1231,8 +1363,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public Health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public Health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1241,8 +1376,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "County-Level Associations Between Pregnancy-Related Mortality Ratios and Contextual Sociospatial Indicators",
-        "dud:publication_id": "pub.1147246557",
-        "identifier": "10.1097/aog.0000000000004749"
+        "identifier": "10.1097/aog.0000000000004749",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147246557"
       },
       "reviewRating": [
         {
@@ -1257,8 +1392,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Behavioral health / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Behavioral health / Public health"
     },
     {
       "@type": "Review",
@@ -1267,8 +1405,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Sex, Race, Food Security, and Sugar Consumption Change Efficacy Among Low-Income Parents in an Urban Primary Care Setting",
-        "dud:publication_id": "pub.1101087774",
-        "identifier": "10.1097/fch.0000000000000184"
+        "identifier": "10.1097/fch.0000000000000184",
+        "url": "https://app.dimensions.ai/details/publication/pub.1101087774"
       },
       "reviewRating": [
         {
@@ -1283,8 +1421,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / adult behavior"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / adult behavior"
     },
     {
       "@type": "Review",
@@ -1293,8 +1434,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Mixed Signals in Child and Adolescent Mental Health and Well‐Being Indicators in the United States: A Call for Improvements to Population Health Monitoring",
-        "dud:publication_id": "pub.1157211852",
-        "identifier": "10.1111/1468-0009.12634"
+        "identifier": "10.1111/1468-0009.12634",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157211852"
       },
       "reviewRating": [
         {
@@ -1309,8 +1450,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC – National Center for Health Statistics",
-      "dud:domain": "Public health / adult and young‑adult health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC – National Center for Health Statistics"
+      },
+      "about": "Public health / adult and young‑adult health"
     },
     {
       "@type": "Review",
@@ -1319,8 +1463,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Key sociodemographic factors and food packaging attributes associated with poor diet quality among rural Americans: a cross-sectional survey study",
-        "dud:publication_id": "pub.1191325979",
-        "identifier": "10.1136/bmjopen-2025-099774"
+        "identifier": "10.1136/bmjopen-2025-099774",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191325979"
       },
       "reviewRating": [
         {
@@ -1335,8 +1479,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1345,8 +1492,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Scope and Social Determinants of Food Insecurity Among Adults With Atherosclerotic Cardiovascular Disease in the United States",
-        "dud:publication_id": "pub.1140405631",
-        "identifier": "10.1161/jaha.120.020028"
+        "identifier": "10.1161/jaha.120.020028",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140405631"
       },
       "reviewRating": [
         {
@@ -1361,8 +1508,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / behavioral epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / behavioral epidemiology"
     },
     {
       "@type": "Review",
@@ -1371,8 +1521,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in US Military Veterans",
-        "dud:publication_id": "pub.1134039215",
-        "identifier": "10.1177/0379572120963952"
+        "identifier": "10.1177/0379572120963952",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134039215"
       },
       "reviewRating": [
         {
@@ -1387,8 +1537,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. CDC/HRSA",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. CDC/HRSA"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1397,8 +1550,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Association Between Food Insecurity and Intimate Partner Violence Among U.S. Army Soldiers",
-        "dud:publication_id": "pub.1172116666",
-        "identifier": "10.1177/08862605241253024"
+        "identifier": "10.1177/08862605241253024",
+        "url": "https://app.dimensions.ai/details/publication/pub.1172116666"
       },
       "reviewRating": [
         {
@@ -1413,8 +1566,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Epidemiology / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Epidemiology / Public Health"
     },
     {
       "@type": "Review",
@@ -1423,8 +1579,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity is associated with serious psychological distress among low-income California adults",
-        "dud:publication_id": "pub.1139318933",
-        "identifier": "10.1177/13591053211028913"
+        "identifier": "10.1177/13591053211028913",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139318933"
       },
       "reviewRating": [
         {
@@ -1439,7 +1595,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Public health / epidemiology"
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1448,8 +1604,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Link Between Intimate Partner Violence and Food Insecurity: A Review of Quantitative and Qualitative Studies",
-        "dud:publication_id": "pub.1162679558",
-        "identifier": "10.1177/15248380231186152"
+        "identifier": "10.1177/15248380231186152",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162679558"
       },
       "reviewRating": [
         {
@@ -1464,8 +1620,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public Health / Surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public Health / Surveillance"
     },
     {
       "@type": "Review",
@@ -1474,8 +1633,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Supporting wellness at pantries (SWAP) nutrition stoplight system aids rural food pantry clients living with chronic disease in selecting nutritious options",
-        "dud:publication_id": "pub.1138839230",
-        "identifier": "10.1177/17423953211023976"
+        "identifier": "10.1177/17423953211023976",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138839230"
       },
       "reviewRating": [
         {
@@ -1490,8 +1649,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation in the literature review (Shaw et al., 2013).",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation in the literature review (Shaw et al., 2013)."
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1500,8 +1662,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Impact of a Pediatric Produce Prescription Intervention on Food Security and Perceived Nutrition-Related Behaviors: A Mixed-Methods Study",
-        "dud:publication_id": "pub.1182012113",
-        "identifier": "10.1177/21501319241276780"
+        "identifier": "10.1177/21501319241276780",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182012113"
       },
       "reviewRating": [
         {
@@ -1516,8 +1678,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Epidemiology / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Epidemiology / Public Health"
     },
     {
       "@type": "Review",
@@ -1526,8 +1691,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing Dietary-Related Health Disparities in Underserved Communities: Outcomes From a 24-Month Pilot, Subsidized Food Prescription Program in the Mississippi Delta",
-        "dud:publication_id": "pub.1182432412",
-        "identifier": "10.1177/2752535x241301847"
+        "identifier": "10.1177/2752535x241301847",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182432412"
       },
       "reviewRating": [
         {
@@ -1542,8 +1707,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Mentioned as the origin of questionnaire items.",
-      "dud:domain": "Public health / behavioral epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Mentioned as the origin of questionnaire items."
+      },
+      "about": "Public health / behavioral epidemiology"
     },
     {
       "@type": "Review",
@@ -1552,8 +1720,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "New measures to assess the “Other” three pillars of food security–availability, utilization, and stability",
-        "dud:publication_id": "pub.1157547909",
-        "identifier": "10.1186/s12966-023-01451-z"
+        "identifier": "10.1186/s12966-023-01451-z",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157547909"
       },
       "reviewRating": [
         {
@@ -1568,8 +1736,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1578,8 +1749,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A community-based health assessment among residents of affordable housing in San Francisco’s Hunters Point",
-        "dud:publication_id": "pub.1186194186",
-        "identifier": "10.1186/s12982-025-00466-0"
+        "identifier": "10.1186/s12982-025-00466-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186194186"
       },
       "reviewRating": [
         {
@@ -1594,8 +1765,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC – National Center for Chronic Disease Prevention and Health Promotion",
-      "dud:domain": "Epidemiology / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC – National Center for Chronic Disease Prevention and Health Promotion"
+      },
+      "about": "Epidemiology / public health"
     },
     {
       "@type": "Review",
@@ -1604,8 +1778,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Relationship between food insecurity and housing instability on quality of care and quality of life in adults with diabetes",
-        "dud:publication_id": "pub.1153401961",
-        "identifier": "10.1371/journal.pone.0278650"
+        "identifier": "10.1371/journal.pone.0278650",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153401961"
       },
       "reviewRating": [
         {
@@ -1620,8 +1794,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "https://www.cdc.gov/brfss/annual_data/annual_2014.html and https://www.cdc.gov/brfss/annual_data/annual_2017.html",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "https://www.cdc.gov/brfss/annual_data/annual_2014.html and https://www.cdc.gov/brfss/annual_data/annual_2017.html"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1630,8 +1807,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among Asian Americans: A scoping review protocol",
-        "dud:publication_id": "pub.1160321293",
-        "identifier": "10.1371/journal.pone.0287895"
+        "identifier": "10.1371/journal.pone.0287895",
+        "url": "https://app.dimensions.ai/details/publication/pub.1160321293"
       },
       "reviewRating": [
         {
@@ -1646,8 +1823,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1656,8 +1836,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Among Health Care Workers In The US",
-        "dud:publication_id": "pub.1140980196",
-        "identifier": "10.1377/hlthaff.2021.00450"
+        "identifier": "10.1377/hlthaff.2021.00450",
+        "url": "https://app.dimensions.ai/details/publication/pub.1140980196"
       },
       "reviewRating": [
         {
@@ -1672,8 +1852,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public Health Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public Health Survey"
     },
     {
       "@type": "Review",
@@ -1682,8 +1865,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing Food Insecurity and Overweight/Obesity in Hospitalized Low-Income Latino Patients",
-        "dud:publication_id": "pub.1120415576",
-        "identifier": "10.1891/1078-4535.25.3.241"
+        "identifier": "10.1891/1078-4535.25.3.241",
+        "url": "https://app.dimensions.ai/details/publication/pub.1120415576"
       },
       "reviewRating": [
         {
@@ -1698,8 +1881,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "BRFSS (unspecified year)",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "BRFSS (unspecified year)"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1708,8 +1894,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Gardening as a Way to Build Cross-Cultural Community Resilience in Intersectionally Diverse Gardeners: Community-Based Participatory Research and Campus-Community-Partnered Proposal",
-        "dud:publication_id": "pub.1131086075",
-        "identifier": "10.2196/21218"
+        "identifier": "10.2196/21218",
+        "url": "https://app.dimensions.ai/details/publication/pub.1131086075"
       },
       "reviewRating": [
         {
@@ -1724,8 +1910,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1734,8 +1923,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Diabetes: Overview of Intersections and Potential Dual Solutions",
-        "dud:publication_id": "pub.1160045069",
-        "identifier": "10.2337/dci23-0002"
+        "identifier": "10.2337/dci23-0002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1160045069"
       },
       "reviewRating": [
         {
@@ -1750,8 +1939,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited study (reference 70) within the manuscript.",
-      "dud:domain": "Public health / chronic disease surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited study (reference 70) within the manuscript."
+      },
+      "about": "Public health / chronic disease surveillance"
     },
     {
       "@type": "Review",
@@ -1760,8 +1952,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among New York City taxi and for-hire vehicle drivers",
-        "dud:publication_id": "pub.1153761407",
-        "identifier": "10.3233/wor-211471"
+        "identifier": "10.3233/wor-211471",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153761407"
       },
       "reviewRating": [
         {
@@ -1776,8 +1968,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1786,8 +1981,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of three new multidimensional measures to assess household food insecurity resilience in the United States",
-        "dud:publication_id": "pub.1153613181",
-        "identifier": "10.3389/fpubh.2022.1048501"
+        "identifier": "10.3389/fpubh.2022.1048501",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153613181"
       },
       "reviewRating": [
         {
@@ -1802,8 +1997,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1812,8 +2010,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The indirect effects of food insecurity on obesogenic environments",
-        "dud:publication_id": "pub.1154285080",
-        "identifier": "10.3389/fpubh.2022.1052957"
+        "identifier": "10.3389/fpubh.2022.1052957",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154285080"
       },
       "reviewRating": [
         {
@@ -1828,8 +2026,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1838,8 +2039,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Screening for social determinants of health among populations at risk for MASLD: a scoping review",
-        "dud:publication_id": "pub.1170565137",
-        "identifier": "10.3389/fpubh.2024.1332870"
+        "identifier": "10.3389/fpubh.2024.1332870",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170565137"
       },
       "reviewRating": [
         {
@@ -1854,8 +2055,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation 10.1093/ajh/hpab011 within the manuscript.",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation 10.1093/ajh/hpab011 within the manuscript."
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1864,8 +2068,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Explaining Racial Inequality in Food Security in Columbus, Ohio: A Blinder–Oaxaca Decomposition Analysis",
-        "dud:publication_id": "pub.1129805907",
-        "identifier": "10.3390/ijerph17155488"
+        "identifier": "10.3390/ijerph17155488",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129805907"
       },
       "reviewRating": [
         {
@@ -1880,8 +2084,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1890,8 +2097,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Empirical Dietary Patterns Associated with Food Insecurity in U.S. Cancer Survivors: NHANES 1999–2018",
-        "dud:publication_id": "pub.1152350586",
-        "identifier": "10.3390/ijerph192114062"
+        "identifier": "10.3390/ijerph192114062",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152350586"
       },
       "reviewRating": [
         {
@@ -1906,8 +2113,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1916,8 +2126,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Characteristics Associated with Being a High Consumer of Sweet Foods and Sugar-Sweetened Beverages among US Adults during the COVID-19 Pandemic, 2021",
-        "dud:publication_id": "pub.1158180357",
-        "identifier": "10.3390/nu15102363"
+        "identifier": "10.3390/nu15102363",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158180357"
       },
       "reviewRating": [
         {
@@ -1932,8 +2142,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "CDC",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "CDC"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -1942,8 +2155,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Psychological Distress Mediates the Association between Food Insecurity and Suboptimal Sleep Quality in Latinos with Type 2 Diabetes Mellitus 1 , 2",
-        "dud:publication_id": "pub.1071754442",
-        "identifier": "10.3945/jn.116.231365"
+        "identifier": "10.3945/jn.116.231365",
+        "url": "https://app.dimensions.ai/details/publication/pub.1071754442"
       },
       "reviewRating": [
         {
@@ -1958,8 +2171,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / Epidemiology"
     },
     {
       "@type": "Review",
@@ -1968,8 +2184,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Experiences of food insecurity among LGBTQIA+ college students in North Texas: Meaning, experiences, and recommendations for inclusive solutions",
-        "dud:publication_id": "pub.1156282992",
-        "identifier": "10.5304/jafscd.2023.122.021"
+        "identifier": "10.5304/jafscd.2023.122.021",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156282992"
       },
       "reviewRating": [
         {
@@ -1984,8 +2200,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health / epidemiology"
     },
     {
       "@type": "Review",
@@ -1994,8 +2213,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Bank–Based Diabetes Prevention Intervention to Address Food Security, Dietary Intake, and Physical Activity in a Food-Insecure Cohort at High Risk for Diabetes",
-        "dud:publication_id": "pub.1124001482",
-        "identifier": "10.5888/pcd17.190210"
+        "identifier": "10.5888/pcd17.190210",
+        "url": "https://app.dimensions.ai/details/publication/pub.1124001482"
       },
       "reviewRating": [
         {
@@ -2010,8 +2229,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Centers for Disease Control and Prevention",
-      "dud:domain": "Public Health / Behavioral Surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Centers for Disease Control and Prevention"
+      },
+      "about": "Public Health / Behavioral Surveillance"
     },
     {
       "@type": "Review",
@@ -2020,8 +2242,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Employment Loss and Food Insecurity — Race and Sex Disparities in the Context of COVID-19",
-        "dud:publication_id": "pub.1150263504",
-        "identifier": "10.5888/pcd19.220024"
+        "identifier": "10.5888/pcd19.220024",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150263504"
       },
       "reviewRating": [
         {
@@ -2036,8 +2258,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
-      "dud:domain": "Public health surveillance"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
+      },
+      "about": "Public health surveillance"
     },
     {
       "@type": "Review",
@@ -2046,8 +2271,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Hospital-Based, Community Teaching Kitchen Integrates Diabetes Education, Culinary Medicine, and Food Assistance: Case Study During the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1155892271",
-        "identifier": "10.1007/s11606-022-07931-5"
+        "identifier": "10.1007/s11606-022-07931-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155892271"
       },
       "dud:joinDetail": {
         "partnerDataset": "CTK patient health‑condition dataset (obesity, hypertension, diabetes, etc.)",

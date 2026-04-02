@@ -21,8 +21,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Insecurity With Allostatic Load Among Older Adults in the US",
-        "dud:publication_id": "pub.1143583857",
-        "identifier": "10.1001/jamanetworkopen.2021.37503"
+        "identifier": "10.1001/jamanetworkopen.2021.37503",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143583857"
       },
       "reviewRating": [
         {
@@ -37,8 +37,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Social science / health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Social science / health"
     },
     {
       "@type": "Review",
@@ -47,8 +50,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Insecurity With Allostatic Load Among Older Adults in the US",
-        "dud:publication_id": "pub.1143583857",
-        "identifier": "10.1001/jamanetworkopen.2021.37503"
+        "identifier": "10.1001/jamanetworkopen.2021.37503",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143583857"
       },
       "reviewRating": [
         {
@@ -63,8 +66,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation",
-      "dud:domain": "Social science / health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation"
+      },
+      "about": "Social science / health"
     },
     {
       "@type": "Review",
@@ -73,8 +79,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Memory, and Dementia Among US Adults Aged 50 Years and Older",
-        "dud:publication_id": "pub.1166063765",
-        "identifier": "10.1001/jamanetworkopen.2023.44186"
+        "identifier": "10.1001/jamanetworkopen.2023.44186",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166063765"
       },
       "reviewRating": [
         {
@@ -89,8 +95,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research (and other partners)",
-      "dud:domain": "Social science, health, economics, aging"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research (and other partners)"
+      },
+      "about": "Social science, health, economics, aging"
     },
     {
       "@type": "Review",
@@ -99,8 +108,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Among LGBQ+ Veterans",
-        "dud:publication_id": "pub.1181998904",
-        "identifier": "10.1001/jamanetworkopen.2024.42979"
+        "identifier": "10.1001/jamanetworkopen.2024.42979",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181998904"
       },
       "reviewRating": [
         {
@@ -115,8 +124,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging / Health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging / Health economics"
     },
     {
       "@type": "Review",
@@ -125,8 +137,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
-        "dud:publication_id": "pub.1143825085",
-        "identifier": "10.1002/aepp.13219"
+        "identifier": "10.1002/aepp.13219",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143825085"
       },
       "reviewRating": [
         {
@@ -141,8 +153,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health and Retirement Study (University of Michigan Institute for Social Research)",
-      "dud:domain": "Social science / Aging / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health and Retirement Study (University of Michigan Institute for Social Research)"
+      },
+      "about": "Social science / Aging / Economics"
     },
     {
       "@type": "Review",
@@ -151,8 +166,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
-        "dud:publication_id": "pub.1151888645",
-        "identifier": "10.1002/aepp.13329"
+        "identifier": "10.1002/aepp.13329",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151888645"
       },
       "reviewRating": [
         {
@@ -167,8 +182,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research; publicly available through the HRS website.",
-      "dud:domain": "Demography, Economics, Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research; publicly available through the HRS website."
+      },
+      "about": "Demography, Economics, Public Health"
     },
     {
       "@type": "Review",
@@ -177,8 +195,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and cognitive domains among older United States adults: Findings from the health and retirement study",
-        "dud:publication_id": "pub.1190876814",
-        "identifier": "10.1002/alz.70480"
+        "identifier": "10.1002/alz.70480",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190876814"
       },
       "reviewRating": [
         {
@@ -193,8 +211,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health and Retirement Study (HRS) core surveys (2012‑2014).",
-      "dud:domain": "Social/Health sciences, demography, aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health and Retirement Study (HRS) core surveys (2012‑2014)."
+      },
+      "about": "Social/Health sciences, demography, aging research"
     },
     {
       "@type": "Review",
@@ -203,8 +224,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and cognitive domains among older United States adults: Findings from the health and retirement study",
-        "dud:publication_id": "pub.1190876814",
-        "identifier": "10.1002/alz.70480"
+        "identifier": "10.1002/alz.70480",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190876814"
       },
       "reviewRating": [
         {
@@ -219,8 +240,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation.",
-      "dud:domain": "Social science, demography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation."
+      },
+      "about": "Social science, demography"
     },
     {
       "@type": "Review",
@@ -229,8 +253,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of food insecurity with successful aging among older Indians: study based on LASI",
-        "dud:publication_id": "pub.1167840352",
-        "identifier": "10.1007/s00394-023-03322-6"
+        "identifier": "10.1007/s00394-023-03322-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167840352"
       },
       "reviewRating": [
         {
@@ -245,8 +269,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research.",
-      "dud:domain": "Aging / Social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research."
+      },
+      "about": "Aging / Social science"
     },
     {
       "@type": "Review",
@@ -255,8 +282,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food security status and breast cancer screening among women in the United States: Evidence from the Health and Retirement Study and Health Care and Nutrition Study",
-        "dud:publication_id": "pub.1154831711",
-        "identifier": "10.1007/s10552-023-01667-1"
+        "identifier": "10.1007/s10552-023-01667-1",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154831711"
       },
       "reviewRating": [
         {
@@ -271,8 +298,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Institute for Social Research, University of Michigan (https://hrs.isr.umich.edu)",
-      "dud:domain": "Social/health epidemiology, aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Institute for Social Research, University of Michigan (https://hrs.isr.umich.edu)"
+      },
+      "about": "Social/health epidemiology, aging research"
     },
     {
       "@type": "Review",
@@ -281,8 +311,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Systematic Review and Meta-analysis of Depression, Anxiety, and Sleep Disorders in US Adults with Food Insecurity",
-        "dud:publication_id": "pub.1120137368",
-        "identifier": "10.1007/s11606-019-05202-4"
+        "identifier": "10.1007/s11606-019-05202-4",
+        "url": "https://app.dimensions.ai/details/publication/pub.1120137368"
       },
       "reviewRating": [
         {
@@ -297,8 +327,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Referenced study by Brostow et al.",
-      "dud:domain": "Public health / aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Referenced study by Brostow et al."
+      },
+      "about": "Public health / aging research"
     },
     {
       "@type": "Review",
@@ -307,8 +340,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
-        "dud:publication_id": "pub.1119798005",
-        "identifier": "10.1007/s12571-019-00945-8"
+        "identifier": "10.1007/s12571-019-00945-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1119798005"
       },
       "reviewRating": [
         {
@@ -323,8 +356,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National Institute on Aging & Social Security Administration",
-      "dud:domain": "Demography / Health Economics / Aging"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National Institute on Aging & Social Security Administration"
+      },
+      "about": "Demography / Health Economics / Aging"
     },
     {
       "@type": "Review",
@@ -333,8 +369,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
-        "dud:publication_id": "pub.1119798005",
-        "identifier": "10.1007/s12571-019-00945-8"
+        "identifier": "10.1007/s12571-019-00945-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1119798005"
       },
       "reviewRating": [
         {
@@ -349,8 +385,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation",
-      "dud:domain": "Demography / Aging Research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation"
+      },
+      "about": "Demography / Aging Research"
     },
     {
       "@type": "Review",
@@ -359,8 +398,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among veterans: Findings from the health and retirement study",
-        "dud:publication_id": "pub.1084035814",
-        "identifier": "10.1007/s12603-017-0910-7"
+        "identifier": "10.1007/s12603-017-0910-7",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084035814"
       },
       "reviewRating": [
         {
@@ -375,8 +414,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Institute for Social Research, University of Michigan (public use dataset)",
-      "dud:domain": "Health, Aging, Demography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Institute for Social Research, University of Michigan (public use dataset)"
+      },
+      "about": "Health, Aging, Demography"
     },
     {
       "@type": "Review",
@@ -385,8 +427,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations between cross-sectional and long-term food insecurity with dietary quality among middle-aged and older United Study adults: A Cohort Study from the Health and Retirement Study",
-        "dud:publication_id": "pub.1191440360",
-        "identifier": "10.1016/j.ajcnut.2025.07.029"
+        "identifier": "10.1016/j.ajcnut.2025.07.029",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191440360"
       },
       "reviewRating": [
         {
@@ -401,8 +443,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan, funded by the National Institute on Aging (NIA).",
-      "dud:domain": "Social/epidemiological survey, health and aging"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan, funded by the National Institute on Aging (NIA)."
+      },
+      "about": "Social/epidemiological survey, health and aging"
     },
     {
       "@type": "Review",
@@ -411,8 +456,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations between cross-sectional and long-term food insecurity with dietary quality among middle-aged and older United Study adults: A Cohort Study from the Health and Retirement Study",
-        "dud:publication_id": "pub.1191440360",
-        "identifier": "10.1016/j.ajcnut.2025.07.029"
+        "identifier": "10.1016/j.ajcnut.2025.07.029",
+        "url": "https://app.dimensions.ai/details/publication/pub.1191440360"
       },
       "reviewRating": [
         {
@@ -427,8 +472,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation (RAND HRS data files).",
-      "dud:domain": "Social/epidemiological survey, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation (RAND HRS data files)."
+      },
+      "about": "Social/epidemiological survey, health economics"
     },
     {
       "@type": "Review",
@@ -437,8 +485,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Financial Hardship, Healthcare Utilization, and Health Among U.S. Cancer Survivors",
-        "dud:publication_id": "pub.1128553391",
-        "identifier": "10.1016/j.amepre.2020.02.016"
+        "identifier": "10.1016/j.amepre.2020.02.016",
+        "url": "https://app.dimensions.ai/details/publication/pub.1128553391"
       },
       "reviewRating": [
         {
@@ -453,8 +501,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -463,8 +514,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, inflammation, and immune function among older US adults: Findings from the health and Retirement study",
-        "dud:publication_id": "pub.1170199136",
-        "identifier": "10.1016/j.bbi.2024.03.034"
+        "identifier": "10.1016/j.bbi.2024.03.034",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170199136"
       },
       "reviewRating": [
         {
@@ -479,8 +530,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "HRS website (http://hrs.isr.umich.edu)",
-      "dud:domain": "Social science / health epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "HRS website (http://hrs.isr.umich.edu)"
+      },
+      "about": "Social science / health epidemiology"
     },
     {
       "@type": "Review",
@@ -489,8 +543,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, inflammation, and immune function among older US adults: Findings from the health and Retirement study",
-        "dud:publication_id": "pub.1170199136",
-        "identifier": "10.1016/j.bbi.2024.03.034"
+        "identifier": "10.1016/j.bbi.2024.03.034",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170199136"
       },
       "reviewRating": [
         {
@@ -505,8 +559,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation",
-      "dud:domain": "Social science data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation"
+      },
+      "about": "Social science data"
     },
     {
       "@type": "Review",
@@ -515,8 +572,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Cross-Sectional and Longitudinal Associations of Food Insecurity and Dietary Quality Among Older US Adults in the Health and Retirement Study",
-        "dud:publication_id": "pub.1189199043",
-        "identifier": "10.1016/j.cdnut.2025.107042"
+        "identifier": "10.1016/j.cdnut.2025.107042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1189199043"
       },
       "reviewRating": [
         {
@@ -531,8 +588,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Public Health / Aging"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Public Health / Aging"
     },
     {
       "@type": "Review",
@@ -541,8 +601,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and COVID-19 Infection: Findings From the 2020−2021 National Health Interview Survey",
-        "dud:publication_id": "pub.1154627255",
-        "identifier": "10.1016/j.focus.2023.100069"
+        "identifier": "10.1016/j.focus.2023.100069",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154627255"
       },
       "reviewRating": [
         {
@@ -557,8 +617,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research.",
-      "dud:domain": "Aging, public health, economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research."
+      },
+      "about": "Aging, public health, economics"
     },
     {
       "@type": "Review",
@@ -567,8 +630,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Association Between Food Security and Mammography Screening: Cross-Sectional Survey Results From the National Health Interview Survey",
-        "dud:publication_id": "pub.1172370731",
-        "identifier": "10.1016/j.jacr.2024.05.005"
+        "identifier": "10.1016/j.jacr.2024.05.005",
+        "url": "https://app.dimensions.ai/details/publication/pub.1172370731"
       },
       "reviewRating": [
         {
@@ -583,8 +646,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health and Retirement Study (HRS)",
-      "dud:domain": "Aging / health services research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health and Retirement Study (HRS)"
+      },
+      "about": "Aging / health services research"
     },
     {
       "@type": "Review",
@@ -593,8 +659,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Long COVID and the Higher Risk of Food Insecurity Among Participants and Nonparticipants of Food Assistance Programs in the United States",
-        "dud:publication_id": "pub.1174515969",
-        "identifier": "10.1016/j.jand.2024.07.171"
+        "identifier": "10.1016/j.jand.2024.07.171",
+        "url": "https://app.dimensions.ai/details/publication/pub.1174515969"
       },
       "reviewRating": [
         {
@@ -609,8 +675,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited prior study; not accessed by the present authors.",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited prior study; not accessed by the present authors."
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -619,8 +688,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
-        "dud:publication_id": "pub.1186196555",
-        "identifier": "10.1016/j.jand.2025.02.012"
+        "identifier": "10.1016/j.jand.2025.02.012",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186196555"
       },
       "reviewRating": [
         {
@@ -635,8 +704,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Survey Research Center; publicly available public‑use files.",
-      "dud:domain": "Social/Health Sciences, Aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Survey Research Center; publicly available public‑use files."
+      },
+      "about": "Social/Health Sciences, Aging research"
     },
     {
       "@type": "Review",
@@ -645,8 +717,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
-        "dud:publication_id": "pub.1186196555",
-        "identifier": "10.1016/j.jand.2025.02.012"
+        "identifier": "10.1016/j.jand.2025.02.012",
+        "url": "https://app.dimensions.ai/details/publication/pub.1186196555"
       },
       "reviewRating": [
         {
@@ -661,8 +733,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation; public‑use version of HRS data.",
-      "dud:domain": "Aging, Social Sciences"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation; public‑use version of HRS data."
+      },
+      "about": "Aging, Social Sciences"
     },
     {
       "@type": "Review",
@@ -671,8 +746,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
-        "dud:publication_id": "pub.1184214501",
-        "identifier": "10.1016/j.jnha.2024.100422"
+        "identifier": "10.1016/j.jnha.2024.100422",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184214501"
       },
       "reviewRating": [
         {
@@ -687,8 +762,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research; publicly available at https://hrsdata.isr.umich.edu",
-      "dud:domain": "Social/Health/Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research; publicly available at https://hrsdata.isr.umich.edu"
+      },
+      "about": "Social/Health/Epidemiology"
     },
     {
       "@type": "Review",
@@ -697,8 +775,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
-        "dud:publication_id": "pub.1184214501",
-        "identifier": "10.1016/j.jnha.2024.100422"
+        "identifier": "10.1016/j.jnha.2024.100422",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184214501"
       },
       "reviewRating": [
         {
@@ -713,8 +791,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation; accessible via https://hrsdata.isr.umich.edu/data-products",
-      "dud:domain": "Social/Health/Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation; accessible via https://hrsdata.isr.umich.edu/data-products"
+      },
+      "about": "Social/Health/Epidemiology"
     },
     {
       "@type": "Review",
@@ -723,8 +804,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, food environments, and disparities in diet quality and obesity in a nationally representative sample of community-dwelling older Americans",
-        "dud:publication_id": "pub.1149590939",
-        "identifier": "10.1016/j.pmedr.2022.101912"
+        "identifier": "10.1016/j.pmedr.2022.101912",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149590939"
       },
       "reviewRating": [
         {
@@ -739,8 +820,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Publicly available through the Survey of Income and Program Participation (SIPP) and the University of Michigan.",
-      "dud:domain": "Social/health epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Publicly available through the Survey of Income and Program Participation (SIPP) and the University of Michigan."
+      },
+      "about": "Social/health epidemiology"
     },
     {
       "@type": "Review",
@@ -749,8 +833,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, food environments, and disparities in diet quality and obesity in a nationally representative sample of community-dwelling older Americans",
-        "dud:publication_id": "pub.1149590939",
-        "identifier": "10.1016/j.pmedr.2022.101912"
+        "identifier": "10.1016/j.pmedr.2022.101912",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149590939"
       },
       "reviewRating": [
         {
@@ -765,8 +849,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation, distributed through the HRS data portal.",
-      "dud:domain": "Social/health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation, distributed through the HRS data portal."
+      },
+      "about": "Social/health economics"
     },
     {
       "@type": "Review",
@@ -775,8 +862,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity associated with higher COVID-19 infection in households with older adults",
-        "dud:publication_id": "pub.1141037924",
-        "identifier": "10.1016/j.puhe.2021.09.002"
+        "identifier": "10.1016/j.puhe.2021.09.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141037924"
       },
       "reviewRating": [
         {
@@ -791,8 +878,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan, funded by the National Institute on Aging (grant NIA U01AG009740).",
-      "dud:domain": "Social science / health economics / aging"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan, funded by the National Institute on Aging (grant NIA U01AG009740)."
+      },
+      "about": "Social science / health economics / aging"
     },
     {
       "@type": "Review",
@@ -801,8 +891,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Examining associations of food insecurity with major depression among older adults in the wake of the Great Recession",
-        "dud:publication_id": "pub.1127686728",
-        "identifier": "10.1016/j.socscimed.2020.113033"
+        "identifier": "10.1016/j.socscimed.2020.113033",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127686728"
       },
       "reviewRating": [
         {
@@ -817,8 +907,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Health and Retirement Study, waves 2008‑2016",
-      "dud:domain": "Social epidemiology / Aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Health and Retirement Study, waves 2008‑2016"
+      },
+      "about": "Social epidemiology / Aging research"
     },
     {
       "@type": "Review",
@@ -827,8 +920,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and epigenetic aging in middle-aged and older adults",
-        "dud:publication_id": "pub.1171396552",
-        "identifier": "10.1016/j.socscimed.2024.116949"
+        "identifier": "10.1016/j.socscimed.2024.116949",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171396552"
       },
       "reviewRating": [
         {
@@ -843,8 +936,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health and Retirement Study, sponsored by the National Institute on Aging.",
-      "dud:domain": "Social/health epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health and Retirement Study, sponsored by the National Institute on Aging."
+      },
+      "about": "Social/health epidemiology"
     },
     {
       "@type": "Review",
@@ -853,8 +949,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and epigenetic aging in middle-aged and older adults",
-        "dud:publication_id": "pub.1171396552",
-        "identifier": "10.1016/j.socscimed.2024.116949"
+        "identifier": "10.1016/j.socscimed.2024.116949",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171396552"
       },
       "reviewRating": [
         {
@@ -869,8 +965,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation’s HRS data repository.",
-      "dud:domain": "Economic/health research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation’s HRS data repository."
+      },
+      "about": "Economic/health research"
     },
     {
       "@type": "Review",
@@ -879,8 +978,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Race and Ethnicity, and Cognitive Function Among United States Older Adults",
-        "dud:publication_id": "pub.1166094883",
-        "identifier": "10.1016/j.tjnut.2023.11.015"
+        "identifier": "10.1016/j.tjnut.2023.11.015",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166094883"
       },
       "reviewRating": [
         {
@@ -895,8 +994,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan, funded by the National Institute on Aging (grant NIA U01AG009740).",
-      "dud:domain": "Social/Health/Economic longitudinal cohort"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan, funded by the National Institute on Aging (grant NIA U01AG009740)."
+      },
+      "about": "Social/Health/Economic longitudinal cohort"
     },
     {
       "@type": "Review",
@@ -905,8 +1007,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Longitudinal Associations of Diet, Food Insecurity, and Supplemental Nutrition Assistance Program Use with Global Cognitive Performance in Middle-Aged and Older Adults",
-        "dud:publication_id": "pub.1167387591",
-        "identifier": "10.1016/j.tjnut.2023.12.042"
+        "identifier": "10.1016/j.tjnut.2023.12.042",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167387591"
       },
       "reviewRating": [
         {
@@ -921,8 +1023,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan, funded by the National Institute on Aging",
-      "dud:domain": "Social/Health Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan, funded by the National Institute on Aging"
+      },
+      "about": "Social/Health Survey"
     },
     {
       "@type": "Review",
@@ -931,8 +1036,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
-        "dud:publication_id": "pub.1105444823",
-        "identifier": "10.1016/j.ypmed.2018.07.001"
+        "identifier": "10.1016/j.ypmed.2018.07.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105444823"
       },
       "reviewRating": [
         {
@@ -947,8 +1052,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. National Institute on Aging / Social Security Administration",
-      "dud:domain": "Demography, Health Economics, Gerontology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. National Institute on Aging / Social Security Administration"
+      },
+      "about": "Demography, Health Economics, Gerontology"
     },
     {
       "@type": "Review",
@@ -957,8 +1065,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
-        "dud:publication_id": "pub.1105444823",
-        "identifier": "10.1016/j.ypmed.2018.07.001"
+        "identifier": "10.1016/j.ypmed.2018.07.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105444823"
       },
       "reviewRating": [
         {
@@ -973,8 +1081,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation (2015)",
-      "dud:domain": "Gerontology / Aging Research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation (2015)"
+      },
+      "about": "Gerontology / Aging Research"
     },
     {
       "@type": "Review",
@@ -983,8 +1094,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Ultra-processed foods consumption among a USA representative sample of middle-older adults: a cross-sectional analysis",
-        "dud:publication_id": "pub.1167656766",
-        "identifier": "10.1017/s0007114523003033"
+        "identifier": "10.1017/s0007114523003033",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167656766"
       },
       "reviewRating": [
         {
@@ -999,8 +1110,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Social, health, and economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Social, health, and economic research"
     },
     {
       "@type": "Review",
@@ -1009,8 +1123,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and emotional health in the USA: a systematic narrative review of longitudinal research",
-        "dud:publication_id": "pub.1091756824",
-        "identifier": "10.1017/s1368980017002221"
+        "identifier": "10.1017/s1368980017002221",
+        "url": "https://app.dimensions.ai/details/publication/pub.1091756824"
       },
       "reviewRating": [
         {
@@ -1025,8 +1139,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Social science / Aging"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Social science / Aging"
     },
     {
       "@type": "Review",
@@ -1035,8 +1152,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Chronic disease burden predicts food insecurity among older adults",
-        "dud:publication_id": "pub.1100754932",
-        "identifier": "10.1017/s1368980017004062"
+        "identifier": "10.1017/s1368980017004062",
+        "url": "https://app.dimensions.ai/details/publication/pub.1100754932"
       },
       "reviewRating": [
         {
@@ -1051,8 +1168,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Demography / health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Demography / health economics"
     },
     {
       "@type": "Review",
@@ -1061,8 +1181,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
-        "dud:publication_id": "pub.1117637384",
-        "identifier": "10.1017/s1368980019001496"
+        "identifier": "10.1017/s1368980019001496",
+        "url": "https://app.dimensions.ai/details/publication/pub.1117637384"
       },
       "reviewRating": [
         {
@@ -1077,8 +1197,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "National Institute on Aging / Social Security Administration",
-      "dud:domain": "Social/Health/Epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "National Institute on Aging / Social Security Administration"
+      },
+      "about": "Social/Health/Epidemiology"
     },
     {
       "@type": "Review",
@@ -1087,8 +1210,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Risk factors for Veteran food insecurity: findings from a National US Department of Veterans Affairs Food Insecurity Screener",
-        "dud:publication_id": "pub.1142427953",
-        "identifier": "10.1017/s1368980021004584"
+        "identifier": "10.1017/s1368980021004584",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142427953"
       },
       "reviewRating": [
         {
@@ -1103,8 +1226,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging/Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging/Public health"
     },
     {
       "@type": "Review",
@@ -1113,8 +1239,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Senior food insecurity in the USA: a systematic literature review",
-        "dud:publication_id": "pub.1152460809",
-        "identifier": "10.1017/s1368980022002415"
+        "identifier": "10.1017/s1368980022002415",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152460809"
       },
       "reviewRating": [
         {
@@ -1129,8 +1255,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation (21) within the systematic review.",
-      "dud:domain": "Aging and health longitudinal study"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation (21) within the systematic review."
+      },
+      "about": "Aging and health longitudinal study"
     },
     {
       "@type": "Review",
@@ -1139,8 +1268,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Prevalence and socio-economic determinates of food insecurity in Veterans: findings from National Health and Nutrition Examination Survey",
-        "dud:publication_id": "pub.1156148621",
-        "identifier": "10.1017/s1368980023000538"
+        "identifier": "10.1017/s1368980023000538",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156148621"
       },
       "reviewRating": [
         {
@@ -1155,8 +1284,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -1165,8 +1297,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding the Experiences of Food Insecurity in Older Adult Households",
-        "dud:publication_id": "pub.1149470319",
-        "identifier": "10.1080/01634372.2022.2098443"
+        "identifier": "10.1080/01634372.2022.2098443",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149470319"
       },
       "reviewRating": [
         {
@@ -1181,8 +1313,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -1191,8 +1326,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Factors associated with food insecurity among Latinx/Hispanics in the U.S.: evidence from the Fragile Families & Childhood Wellbeing Study",
-        "dud:publication_id": "pub.1155395494",
-        "identifier": "10.1080/13557858.2023.2176828"
+        "identifier": "10.1080/13557858.2023.2176828",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155395494"
       },
       "reviewRating": [
         {
@@ -1207,8 +1342,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Gerontology / Economics / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Gerontology / Economics / Public health"
     },
     {
       "@type": "Review",
@@ -1217,8 +1355,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Mental Illness, Not Obesity Status, is Associated with Food Insecurity Among the Elderly in the Health and Retirement Study",
-        "dud:publication_id": "pub.1112310098",
-        "identifier": "10.1080/21551197.2019.1565901"
+        "identifier": "10.1080/21551197.2019.1565901",
+        "url": "https://app.dimensions.ai/details/publication/pub.1112310098"
       },
       "reviewRating": [
         {
@@ -1233,8 +1371,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health and Retirement Study (University of Michigan)",
-      "dud:domain": "Social science / Health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health and Retirement Study (University of Michigan)"
+      },
+      "about": "Social science / Health economics"
     },
     {
       "@type": "Review",
@@ -1243,8 +1384,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Varying Levels of Food Insecurity Associated with Clinically Relevant Depressive Symptoms in U.S. Adults Aged 60 Years and Over: Results from the 2005–2014 National Health and Nutrition Survey",
-        "dud:publication_id": "pub.1114050530",
-        "identifier": "10.1080/21551197.2019.1611520"
+        "identifier": "10.1080/21551197.2019.1611520",
+        "url": "https://app.dimensions.ai/details/publication/pub.1114050530"
       },
       "reviewRating": [
         {
@@ -1259,8 +1400,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Gerontology / Economics / Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Gerontology / Economics / Health"
     },
     {
       "@type": "Review",
@@ -1269,8 +1413,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Relationship Between Food Insecurity and Functional Limitations in Older Adults from 2005–2014 NHANES",
-        "dud:publication_id": "pub.1116013093",
-        "identifier": "10.1080/21551197.2019.1617219"
+        "identifier": "10.1080/21551197.2019.1617219",
+        "url": "https://app.dimensions.ai/details/publication/pub.1116013093"
       },
       "reviewRating": [
         {
@@ -1285,7 +1429,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Gerontology / Health economics"
+      "about": "Gerontology / Health economics"
     },
     {
       "@type": "Review",
@@ -1294,8 +1438,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Diabetes Insulin Adherence Among Older Adults",
-        "dud:publication_id": "pub.1181239473",
-        "identifier": "10.1080/21551197.2024.2409287"
+        "identifier": "10.1080/21551197.2024.2409287",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181239473"
       },
       "reviewRating": [
         {
@@ -1310,8 +1454,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Gerontology / economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Gerontology / economics"
     },
     {
       "@type": "Review",
@@ -1320,8 +1467,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Validation of a 2-Item Food Insecurity Screen Among Adult General Medicine Outpatients",
-        "dud:publication_id": "pub.1131441345",
-        "identifier": "10.1089/pop.2020.0183"
+        "identifier": "10.1089/pop.2020.0183",
+        "url": "https://app.dimensions.ai/details/publication/pub.1131441345"
       },
       "reviewRating": [
         {
@@ -1336,8 +1483,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Cited in background references",
-      "dud:domain": "Aging, public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Cited in background references"
+      },
+      "about": "Aging, public health"
     },
     {
       "@type": "Review",
@@ -1346,8 +1496,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Dietary Quality in Older Adults: Do Nutrition Assistance Programs Play a Protective Role?",
-        "dud:publication_id": "pub.1128044169",
-        "identifier": "10.1093/cdn/nzaa061_007"
+        "identifier": "10.1093/cdn/nzaa061_007",
+        "url": "https://app.dimensions.ai/details/publication/pub.1128044169"
       },
       "reviewRating": [
         {
@@ -1362,8 +1512,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "2012 wave of the Health and Retirement Study",
-      "dud:domain": "Health economics / Aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "2012 wave of the Health and Retirement Study"
+      },
+      "about": "Health economics / Aging research"
     },
     {
       "@type": "Review",
@@ -1372,8 +1525,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Dementia Risk in U.S. Older Adults: Evidence From the 2013–2021 Panel Study of Income Dynamics",
-        "dud:publication_id": "pub.1175520736",
-        "identifier": "10.1093/geronb/gbae153"
+        "identifier": "10.1093/geronb/gbae153",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175520736"
       },
       "reviewRating": [
         {
@@ -1388,8 +1541,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan.",
-      "dud:domain": "Aging / health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan."
+      },
+      "about": "Aging / health economics"
     },
     {
       "@type": "Review",
@@ -1398,8 +1554,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Lack of Food for Thought: Midlife Food Insecurity and Its Association With Subsequent Cognitive Ability of Older Americans",
-        "dud:publication_id": "pub.1181186554",
-        "identifier": "10.1093/geronb/gbae167"
+        "identifier": "10.1093/geronb/gbae167",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181186554"
       },
       "reviewRating": [
         {
@@ -1414,8 +1570,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "https://hrs.isr.umich.edu/data-products",
-      "dud:domain": "Aging, health, economics, social science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "https://hrs.isr.umich.edu/data-products"
+      },
+      "about": "Aging, health, economics, social science"
     },
     {
       "@type": "Review",
@@ -1424,8 +1583,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Dietary Quality Predicts Short-Term Change in Mobility Limitations in Older U.S. Adults",
-        "dud:publication_id": "pub.1133656474",
-        "identifier": "10.1093/geroni/igaa057.773"
+        "identifier": "10.1093/geroni/igaa057.773",
+        "url": "https://app.dimensions.ai/details/publication/pub.1133656474"
       },
       "reviewRating": [
         {
@@ -1440,7 +1599,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Social/Health Economics"
+      "about": "Social/Health Economics"
     },
     {
       "@type": "Review",
@@ -1449,8 +1608,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and its relationship to mental health and oral health in older adults",
-        "dud:publication_id": "pub.1171467135",
-        "identifier": "10.1111/ger.12757"
+        "identifier": "10.1111/ger.12757",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171467135"
       },
       "reviewRating": [
         {
@@ -1465,8 +1624,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging, Economics, Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging, Economics, Health"
     },
     {
       "@type": "Review",
@@ -1475,8 +1637,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Pragmatic trial evaluating a randomly allocated Supplemental Nutrition Assistance Program outreach and enrolment assistance programme in Michigan: study protocol",
-        "dud:publication_id": "pub.1192631715",
-        "identifier": "10.1136/bmjopen-2025-101369"
+        "identifier": "10.1136/bmjopen-2025-101369",
+        "url": "https://app.dimensions.ai/details/publication/pub.1192631715"
       },
       "reviewRating": [
         {
@@ -1491,8 +1653,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reference citation within the manuscript.",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reference citation within the manuscript."
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -1501,8 +1666,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development and Psychometric Evaluation of a Food Resource Acceptability Questionnaire",
-        "dud:publication_id": "pub.1164499193",
-        "identifier": "10.1177/01939459231204288"
+        "identifier": "10.1177/01939459231204288",
+        "url": "https://app.dimensions.ai/details/publication/pub.1164499193"
       },
       "reviewRating": [
         {
@@ -1517,8 +1682,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging, Public health, Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging, Public health, Economics"
     },
     {
       "@type": "Review",
@@ -1527,8 +1695,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in US Military Veterans",
-        "dud:publication_id": "pub.1134039215",
-        "identifier": "10.1177/0379572120963952"
+        "identifier": "10.1177/0379572120963952",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134039215"
       },
       "reviewRating": [
         {
@@ -1543,8 +1711,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan"
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -1553,8 +1724,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Among Older Adults with a History of Incarceration",
-        "dud:publication_id": "pub.1155191783",
-        "identifier": "10.1177/07334648231152152"
+        "identifier": "10.1177/07334648231152152",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155191783"
       },
       "reviewRating": [
         {
@@ -1569,8 +1740,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Health and Retirement Study, University of Michigan (publicly available data).",
-      "dud:domain": "Gerontology / Public Health / Social Science"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Health and Retirement Study, University of Michigan (publicly available data)."
+      },
+      "about": "Gerontology / Public Health / Social Science"
     },
     {
       "@type": "Review",
@@ -1579,8 +1753,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Among Older Adults with a History of Incarceration",
-        "dud:publication_id": "pub.1155191783",
-        "identifier": "10.1177/07334648231152152"
+        "identifier": "10.1177/07334648231152152",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155191783"
       },
       "reviewRating": [
         {
@@ -1595,8 +1769,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation (publicly available).",
-      "dud:domain": "Gerontology / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation (publicly available)."
+      },
+      "about": "Gerontology / Public Health"
     },
     {
       "@type": "Review",
@@ -1605,8 +1782,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Intersection of Food Insecurity and Tobacco Use: A Scoping Review",
-        "dud:publication_id": "pub.1123925653",
-        "identifier": "10.1177/1524839919874054"
+        "identifier": "10.1177/1524839919874054",
+        "url": "https://app.dimensions.ai/details/publication/pub.1123925653"
       },
       "reviewRating": [
         {
@@ -1621,8 +1798,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Health / aging research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Health / aging research"
     },
     {
       "@type": "Review",
@@ -1631,8 +1811,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
-        "dud:publication_id": "pub.1182665748",
-        "identifier": "10.1177/21501319241277411"
+        "identifier": "10.1177/21501319241277411",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182665748"
       },
       "reviewRating": [
         {
@@ -1647,8 +1827,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research",
-      "dud:domain": "Aging / Health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research"
+      },
+      "about": "Aging / Health economics"
     },
     {
       "@type": "Review",
@@ -1657,8 +1840,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Depressive Symptoms Among Persons With Diabetes in the United States: Findings From the 2022 National Health Interview Survey (NHIS)",
-        "dud:publication_id": "pub.1182432409",
-        "identifier": "10.1177/26350106241296489"
+        "identifier": "10.1177/26350106241296489",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182432409"
       },
       "reviewRating": [
         {
@@ -1673,8 +1856,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research.",
-      "dud:domain": "Aging, health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research."
+      },
+      "about": "Aging, health economics"
     },
     {
       "@type": "Review",
@@ -1683,8 +1869,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The association between chronic conditions, COVID-19 infection, and food insecurity among the older US adults: findings from the 2020–2021 National Health Interview Survey",
-        "dud:publication_id": "pub.1154890146",
-        "identifier": "10.1186/s12889-023-15061-8"
+        "identifier": "10.1186/s12889-023-15061-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154890146"
       },
       "reviewRating": [
         {
@@ -1699,8 +1885,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Referenced in discussion; not accessed by the authors for the current analysis.",
-      "dud:domain": "Aging research / epidemiology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Referenced in discussion; not accessed by the authors for the current analysis."
+      },
+      "about": "Aging research / epidemiology"
     },
     {
       "@type": "Review",
@@ -1709,8 +1898,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Predictors of food insecurity among older adults before and during COVID-19 in the United States",
-        "dud:publication_id": "pub.1157984123",
-        "identifier": "10.3389/fpubh.2023.1112575"
+        "identifier": "10.3389/fpubh.2023.1112575",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157984123"
       },
       "reviewRating": [
         {
@@ -1725,8 +1914,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "https://hrs.isr.umich.edu",
-      "dud:domain": "Social/Health Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "https://hrs.isr.umich.edu"
+      },
+      "about": "Social/Health Survey"
     },
     {
       "@type": "Review",
@@ -1735,8 +1927,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and oral health in older adults",
-        "dud:publication_id": "pub.1181621877",
-        "identifier": "10.3389/froh.2024.1400591"
+        "identifier": "10.3389/froh.2024.1400591",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181621877"
       },
       "reviewRating": [
         {
@@ -1751,8 +1943,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan, sponsored by the National Institute on Aging (grant NIA U01AG009740).",
-      "dud:domain": "Social/Health Survey"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan, sponsored by the National Institute on Aging (grant NIA U01AG009740)."
+      },
+      "about": "Social/Health Survey"
     },
     {
       "@type": "Review",
@@ -1761,8 +1956,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Health Outcomes following Gray Divorce",
-        "dud:publication_id": "pub.1169226220",
-        "identifier": "10.3390/nu16050633"
+        "identifier": "10.3390/nu16050633",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169226220"
       },
       "reviewRating": [
         {
@@ -1777,8 +1972,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Michigan Institute for Social Research (https://hrs.isr.umich.edu)",
-      "dud:domain": "Social science / Aging / Health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Michigan Institute for Social Research (https://hrs.isr.umich.edu)"
+      },
+      "about": "Social science / Aging / Health economics"
     },
     {
       "@type": "Review",
@@ -1787,8 +1985,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Health Outcomes following Gray Divorce",
-        "dud:publication_id": "pub.1169226220",
-        "identifier": "10.3390/nu16050633"
+        "identifier": "10.3390/nu16050633",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169226220"
       },
       "reviewRating": [
         {
@@ -1803,8 +2001,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "RAND Corporation (https://www.rand.org/labor/hrs.html)",
-      "dud:domain": "Social science / Aging / Health economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "RAND Corporation (https://www.rand.org/labor/hrs.html)"
+      },
+      "about": "Social science / Aging / Health economics"
     },
     {
       "@type": "Review",
@@ -1813,8 +2014,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
-        "dud:publication_id": "pub.1143825085",
-        "identifier": "10.1002/aepp.13219"
+        "identifier": "10.1002/aepp.13219",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143825085"
       },
       "dud:joinDetail": {
         "partnerDataset": "Federal Housing Finance Agency House Price Index (FHFA HPI)",
@@ -1837,8 +2038,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
-        "dud:publication_id": "pub.1143825085",
-        "identifier": "10.1002/aepp.13219"
+        "identifier": "10.1002/aepp.13219",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143825085"
       },
       "dud:joinDetail": {
         "partnerDataset": "Local unemployment rate data",
@@ -1861,8 +2062,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
-        "dud:publication_id": "pub.1143825085",
-        "identifier": "10.1002/aepp.13219"
+        "identifier": "10.1002/aepp.13219",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143825085"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Department of Agriculture Food Security Data (e.g., SNAP eligibility/FPL categories)",
@@ -1885,8 +2086,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
-        "dud:publication_id": "pub.1151888645",
-        "identifier": "10.1002/aepp.13329"
+        "identifier": "10.1002/aepp.13329",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151888645"
       },
       "dud:joinDetail": {
         "partnerDataset": "NBER TAXSIM model outputs",
@@ -1909,8 +2110,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
-        "dud:publication_id": "pub.1151888645",
-        "identifier": "10.1002/aepp.13329"
+        "identifier": "10.1002/aepp.13329",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151888645"
       },
       "dud:joinDetail": {
         "partnerDataset": "Consumer Expenditure Survey (CEX) summary data",
@@ -1933,8 +2134,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
-        "dud:publication_id": "pub.1151888645",
-        "identifier": "10.1002/aepp.13329"
+        "identifier": "10.1002/aepp.13329",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151888645"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey (CPS) aggregates",
@@ -1957,8 +2158,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
-        "dud:publication_id": "pub.1151888645",
-        "identifier": "10.1002/aepp.13329"
+        "identifier": "10.1002/aepp.13329",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151888645"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Census Bureau Official Poverty Measure (OPM) thresholds",
@@ -1981,8 +2182,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
-        "dud:publication_id": "pub.1119798005",
-        "identifier": "10.1007/s12571-019-00945-8"
+        "identifier": "10.1007/s12571-019-00945-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1119798005"
       },
       "dud:joinDetail": {
         "partnerDataset": "Health and Retirement Study (HRS) raw data",
@@ -2005,8 +2206,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
-        "dud:publication_id": "pub.1184214501",
-        "identifier": "10.1016/j.jnha.2024.100422"
+        "identifier": "10.1016/j.jnha.2024.100422",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184214501"
       },
       "dud:joinDetail": {
         "partnerDataset": "2013 HCNS data",
@@ -2029,8 +2230,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
-        "dud:publication_id": "pub.1105444823",
-        "identifier": "10.1016/j.ypmed.2018.07.001"
+        "identifier": "10.1016/j.ypmed.2018.07.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105444823"
       },
       "dud:joinDetail": {
         "partnerDataset": "Health Care and Nutrition Study (HCNS)",
@@ -2053,8 +2254,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
-        "dud:publication_id": "pub.1105444823",
-        "identifier": "10.1016/j.ypmed.2018.07.001"
+        "identifier": "10.1016/j.ypmed.2018.07.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105444823"
       },
       "dud:joinDetail": {
         "partnerDataset": "Health and Retirement Study core files",
@@ -2077,8 +2278,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
-        "dud:publication_id": "pub.1117637384",
-        "identifier": "10.1017/s1368980019001496"
+        "identifier": "10.1017/s1368980019001496",
+        "url": "https://app.dimensions.ai/details/publication/pub.1117637384"
       },
       "dud:joinDetail": {
         "partnerDataset": "Core HRS files (including cognitive status measures)",

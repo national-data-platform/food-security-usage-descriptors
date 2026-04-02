@@ -128,11 +128,14 @@ def make_citation(row: dict) -> dict:
     citation = {
         "@type": "ScholarlyArticle",
         "name": row.get("publication_title", ""),
-        "dud:publication_id": row.get("publication_id", ""),
     }
     doi = row.get("publication_doi", "").strip()
     if doi:
         citation["identifier"] = doi
+    # Use Dimensions URL for traceability (no custom namespace needed)
+    pub_id = row.get("publication_id", "").strip()
+    if pub_id:
+        citation["url"] = f"https://app.dimensions.ai/details/publication/{pub_id}"
     return citation
 
 
@@ -226,10 +229,13 @@ def process_file_b(data_dir: Path, registry: dict, alias_index: dict) -> dict:
             }
             source = row.get("new_source", "").strip()
             if source:
-                review["dud:source"] = source
+                review["sdPublisher"] = {
+                    "@type": "Organization",
+                    "name": source,
+                }
             domain = row.get("new_domain", "").strip()
             if domain:
-                review["dud:domain"] = domain
+                review["about"] = domain
 
             reviews[did].append(review)
 

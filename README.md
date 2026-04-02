@@ -100,11 +100,13 @@ Dataset-centric JSON-LD files using [schema.org](https://schema.org/) vocabulary
 | `"discovery"` | File B | Dataset discovered by LLM from full-text extraction |
 | `"join"` | File C | Dataset identified as part of a multi-dataset integration |
 
-**Custom namespace** (`dud:` = `https://nationaldataplatform.org/data-usage-descriptor/`):
+**Native schema.org properties on discovery reviews:**
+- `sdPublisher` — organization responsible for the dataset (`{"@type": "Organization", "name": "..."}`)
+- `about` — research domain classification (e.g., "Public health / Nutrition")
+- `url` — Dimensions page for the cited publication (on `ScholarlyArticle`)
+
+**Custom namespace** (`dud:` = `https://nationaldataplatform.org/data-usage-descriptor/`), minimized to 2 properties:
 - `dud:dataset_usage_status` — validation status (`validated`, `discovered`)
-- `dud:publication_id` — Dimensions publication identifier
-- `dud:source` — organization responsible for dataset (discovery reviews)
-- `dud:domain` — research domain classification (discovery reviews)
 - `dud:joinDetail` — join metadata: `partnerDataset`, `joinType`, `joinKeys`, `methodology`
 
 **Regenerate:**

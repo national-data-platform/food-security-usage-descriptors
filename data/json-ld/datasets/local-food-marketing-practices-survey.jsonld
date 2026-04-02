@@ -18,8 +18,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Land access for direct market food farmers in Oregon, USA",
-        "dud:publication_id": "pub.1101522533",
-        "identifier": "10.1016/j.landusepol.2018.01.018"
+        "identifier": "10.1016/j.landusepol.2018.01.018",
+        "url": "https://app.dimensions.ai/details/publication/pub.1101522533"
       },
       "reviewRating": [
         {
@@ -42,8 +42,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farm to Food Bank: Exploring the Ties between Local Food Producers and Charitable Food Assistance☆",
-        "dud:publication_id": "pub.1157545443",
-        "identifier": "10.1111/ruso.12489"
+        "identifier": "10.1111/ruso.12489",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157545443"
       },
       "reviewRating": [
         {
@@ -66,8 +66,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Quantifying “local food” online and social media in the United States for 2018–2021",
-        "dud:publication_id": "pub.1153660572",
-        "identifier": "10.1186/s40066-022-00397-y"
+        "identifier": "10.1186/s40066-022-00397-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153660572"
       },
       "reviewRating": [
         {
@@ -90,8 +90,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Climate Change: Differences in Impacts and Adaptation Strategies for Rural Communities in the Global South and North",
-        "dud:publication_id": "pub.1144464200",
-        "identifier": "10.3389/fsufs.2021.691191"
+        "identifier": "10.3389/fsufs.2021.691191",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144464200"
       },
       "reviewRating": [
         {
@@ -114,8 +114,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Quantifying “local food” online and social media in the United States for 2018–2021",
-        "dud:publication_id": "pub.1153660572",
-        "identifier": "10.1186/s40066-022-00397-y"
+        "identifier": "10.1186/s40066-022-00397-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1153660572"
       },
       "reviewRating": [
         {
@@ -130,8 +130,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
-      "dud:domain": "Agriculture / Marketing"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture, Economic Research Service"
+      },
+      "about": "Agriculture / Marketing"
     },
     {
       "@type": "Review",
@@ -140,8 +143,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Climate Change: Differences in Impacts and Adaptation Strategies for Rural Communities in the Global South and North",
-        "dud:publication_id": "pub.1144464200",
-        "identifier": "10.3389/fsufs.2021.691191"
+        "identifier": "10.3389/fsufs.2021.691191",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144464200"
       },
       "reviewRating": [
         {
@@ -156,8 +159,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Citation: 10.1017/S1742170519000085",
-      "dud:domain": "Agricultural economics / marketing"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Citation: 10.1017/S1742170519000085"
+      },
+      "about": "Agricultural economics / marketing"
     },
     {
       "@type": "Review",
@@ -166,8 +172,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Soil health considerations for global food security",
-        "dud:publication_id": "pub.1139209831",
-        "identifier": "10.1002/agj2.20783"
+        "identifier": "10.1002/agj2.20783",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139209831"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA NASS Census of Agriculture",
@@ -190,8 +196,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
-        "dud:publication_id": "pub.1084740529",
-        "identifier": "10.1007/s10460-017-9783-y"
+        "identifier": "10.1007/s10460-017-9783-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084740529"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture (mentioned in publication metadata)",
@@ -214,8 +220,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Theoretical issues in the ‘food desert’ debate and ways forward",
-        "dud:publication_id": "pub.1028305293",
-        "identifier": "10.1007/s10708-015-9634-6"
+        "identifier": "10.1007/s10708-015-9634-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1028305293"
       },
       "dud:joinDetail": {
         "partnerDataset": "United States Department of Agriculture (USDA) Economic Research Service Food Access Research Atlas",
@@ -238,8 +244,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Agroecosystem health, agroecosystem resilience, and food security",
-        "dud:publication_id": "pub.1032417256",
-        "identifier": "10.1007/s13412-015-0322-0"
+        "identifier": "10.1007/s13412-015-0322-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1032417256"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture (crop production data)",
@@ -262,8 +268,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Chapter 2 Implications of technological change, postharvest technology, and technology adoption for improved food security—application of t-statistic",
-        "dud:publication_id": "pub.1141362126",
-        "identifier": "10.1016/b978-0-12-820477-1.00029-2"
+        "identifier": "10.1016/b978-0-12-820477-1.00029-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141362126"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household socioeconomic survey – Malawi",
@@ -286,8 +292,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Probabilistic estimates of drought-induced yield loss in the Southeastern United States",
-        "dud:publication_id": "pub.1189908235",
-        "identifier": "10.1016/j.agsy.2025.104418"
+        "identifier": "10.1016/j.agsy.2025.104418",
+        "url": "https://app.dimensions.ai/details/publication/pub.1189908235"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Agricultural Statistics Service (NASS) yield data",
@@ -310,8 +316,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
-        "dud:publication_id": "pub.1187737700",
-        "identifier": "10.1016/j.amepre.2025.04.007"
+        "identifier": "10.1016/j.amepre.2025.04.007",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187737700"
       },
       "dud:joinDetail": {
         "partnerDataset": "State Earned Income Tax Credit (EITC) policy data",
@@ -334,8 +340,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Land access for direct market food farmers in Oregon, USA",
-        "dud:publication_id": "pub.1101522533",
-        "identifier": "10.1016/j.landusepol.2018.01.018"
+        "identifier": "10.1016/j.landusepol.2018.01.018",
+        "url": "https://app.dimensions.ai/details/publication/pub.1101522533"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -358,8 +364,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Will the urban agricultural revolution be vertical and soilless? A case study of controlled environment agriculture in New York City",
-        "dud:publication_id": "pub.1112089451",
-        "identifier": "10.1016/j.landusepol.2018.12.038"
+        "identifier": "10.1016/j.landusepol.2018.12.038",
+        "url": "https://app.dimensions.ai/details/publication/pub.1112089451"
       },
       "dud:joinDetail": {
         "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
@@ -382,8 +388,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "dud:publication_id": "pub.1092669592",
-        "identifier": "10.1073/pnas.1707322114"
+        "identifier": "10.1073/pnas.1707322114",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -406,8 +412,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "dud:publication_id": "pub.1092669592",
-        "identifier": "10.1073/pnas.1707322114"
+        "identifier": "10.1073/pnas.1707322114",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
       },
       "dud:joinDetail": {
         "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
@@ -430,8 +436,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The insecurity of food security in Russia’s Far North",
-        "dud:publication_id": "pub.1107108729",
-        "identifier": "10.1080/1088937x.2018.1522383"
+        "identifier": "10.1080/1088937x.2018.1522383",
+        "url": "https://app.dimensions.ai/details/publication/pub.1107108729"
       },
       "dud:joinDetail": {
         "partnerDataset": "Russian household production data (Rosstat 2016)",
@@ -454,8 +460,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nativity, Not Acculturation, Predicts SNAP Usage Among Low-income Hispanics With Food Insecurity",
-        "dud:publication_id": "pub.1049012797",
-        "identifier": "10.1080/19320248.2014.962779"
+        "identifier": "10.1080/19320248.2014.962779",
+        "url": "https://app.dimensions.ai/details/publication/pub.1049012797"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture (state‑level agricultural statistics)",
@@ -478,8 +484,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
-        "dud:publication_id": "pub.1134009679",
-        "identifier": "10.1080/19320248.2020.1860848"
+        "identifier": "10.1080/19320248.2020.1860848",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134009679"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates (2013‑2017)",
@@ -502,8 +508,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farm-to-school education grants reach low-income children and encourage them to learn about fruits and vegetables",
-        "dud:publication_id": "pub.1121407211",
-        "identifier": "10.1093/tbm/ibz092"
+        "identifier": "10.1093/tbm/ibz092",
+        "url": "https://app.dimensions.ai/details/publication/pub.1121407211"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Farm to School Census",
@@ -526,8 +532,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farm to Food Bank: Exploring the Ties between Local Food Producers and Charitable Food Assistance☆",
-        "dud:publication_id": "pub.1157545443",
-        "identifier": "10.1111/ruso.12489"
+        "identifier": "10.1111/ruso.12489",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157545443"
       },
       "dud:joinDetail": {
         "partnerDataset": "Yolo Food Bank donation records (local producer donors)",
@@ -550,8 +556,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using participatory and mixed-methods approaches in GIS to develop a Place-Based Food Insecurity and Vulnerability Index",
-        "dud:publication_id": "pub.1039947645",
-        "identifier": "10.1177/0308518x16686352"
+        "identifier": "10.1177/0308518x16686352",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039947645"
       },
       "dud:joinDetail": {
         "partnerDataset": "GIS base‑maps of local food environments (including retailer locations, market baskets)",
@@ -574,8 +580,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Ethnic markets and community food security in an urban “food desert”",
-        "dud:publication_id": "pub.1084243942",
-        "identifier": "10.1177/0308518x17700394"
+        "identifier": "10.1177/0308518x17700394",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084243942"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) demographic variables (e.g., immigrant origin, language proficiency, vehicle ownership)",
@@ -598,8 +604,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Regional Variations of Bovine and Porcine Fecal Pollution as a Function of Landscape, Nutrient, and Hydrological Factors",
-        "dud:publication_id": "pub.1106092544",
-        "identifier": "10.2134/jeq2017.11.0438"
+        "identifier": "10.2134/jeq2017.11.0438",
+        "url": "https://app.dimensions.ai/details/publication/pub.1106092544"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Census of Agriculture & ARMS livestock/manure data",
@@ -622,8 +628,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Higher rates of food insecurity and stress experienced by food systems workers during the first year of the COVID-19 pandemic",
-        "dud:publication_id": "pub.1171402401",
-        "identifier": "10.3389/fnut.2024.1274656"
+        "identifier": "10.3389/fnut.2024.1274656",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171402401"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Food Access and COVID Research Team (NFACT) longitudinal survey database",
@@ -646,8 +652,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Land Use, Conservation, Forestry, and Agriculture in Puerto Rico",
-        "dud:publication_id": "pub.1090364662",
-        "identifier": "10.3390/f8070242"
+        "identifier": "10.3390/f8070242",
+        "url": "https://app.dimensions.ai/details/publication/pub.1090364662"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -670,8 +676,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
-        "dud:publication_id": "pub.1145837617",
-        "identifier": "10.5304/jafscd.2022.112.013"
+        "identifier": "10.5304/jafscd.2022.112.013",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145837617"
       },
       "dud:joinDetail": {
         "partnerDataset": "CSA owner and member surveys",

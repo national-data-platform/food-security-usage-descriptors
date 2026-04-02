@@ -20,8 +20,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and time use in elderly vs. non‐elderly: An exploratory analysis",
-        "dud:publication_id": "pub.1147386484",
-        "identifier": "10.1002/aepp.13275"
+        "identifier": "10.1002/aepp.13275",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147386484"
       },
       "reviewRating": [
         {
@@ -36,8 +36,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Minnesota",
-      "dud:domain": "Social‑science micro‑data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Minnesota"
+      },
+      "about": "Social‑science micro‑data"
     },
     {
       "@type": "Review",
@@ -46,8 +49,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Disparities in food insecurity among Black and White households: An analysis by age cohort, poverty, education, and home ownership",
-        "dud:publication_id": "pub.1152228125",
-        "identifier": "10.1002/aepp.13332"
+        "identifier": "10.1002/aepp.13332",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152228125"
       },
       "reviewRating": [
         {
@@ -62,8 +65,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Minnesota Population Center (IPUMS)",
-      "dud:domain": "Social science / Demography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Minnesota Population Center (IPUMS)"
+      },
+      "about": "Social science / Demography"
     },
     {
       "@type": "Review",
@@ -72,8 +78,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "dud:publication_id": "pub.1181289696",
-        "identifier": "10.1007/s12571-024-01494-5"
+        "identifier": "10.1007/s12571-024-01494-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
       },
       "reviewRating": [
         {
@@ -88,8 +94,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "IPUMS (University of Minnesota)",
-      "dud:domain": "Demographics / Microdata"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "IPUMS (University of Minnesota)"
+      },
+      "about": "Demographics / Microdata"
     },
     {
       "@type": "Review",
@@ -98,8 +107,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
-        "dud:publication_id": "pub.1187737700",
-        "identifier": "10.1016/j.amepre.2025.04.007"
+        "identifier": "10.1016/j.amepre.2025.04.007",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187737700"
       },
       "reviewRating": [
         {
@@ -114,8 +123,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "IPUMS (University of Minnesota)",
-      "dud:domain": "Demographics / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "IPUMS (University of Minnesota)"
+      },
+      "about": "Demographics / Food security"
     },
     {
       "@type": "Review",
@@ -124,8 +136,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Socio-Economic Burden of Myocardial Infarction Among Cancer Patients",
-        "dud:publication_id": "pub.1132672862",
-        "identifier": "10.1016/j.amjcard.2020.11.005"
+        "identifier": "10.1016/j.amjcard.2020.11.005",
+        "url": "https://app.dimensions.ai/details/publication/pub.1132672862"
       },
       "reviewRating": [
         {
@@ -140,8 +152,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "University of Minnesota’s IPUMS project.",
-      "dud:domain": "Demography / public health statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "University of Minnesota’s IPUMS project."
+      },
+      "about": "Demography / public health statistics"
     },
     {
       "@type": "Review",
@@ -150,8 +165,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
-        "dud:publication_id": "pub.1170042926",
-        "identifier": "10.1093/poq/nfae001"
+        "identifier": "10.1093/poq/nfae001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170042926"
       },
       "reviewRating": [
         {
@@ -166,8 +181,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "IPUMS (University of Minnesota) with original data from the U.S. Census Bureau",
-      "dud:domain": "Survey microdata / Demography / Economics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "IPUMS (University of Minnesota) with original data from the U.S. Census Bureau"
+      },
+      "about": "Survey microdata / Demography / Economics"
     },
     {
       "@type": "Review",
@@ -176,8 +194,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Burden and Consequences of Financial Hardship From Medical Bills Among Nonelderly Adults With Diabetes Mellitus in the United States",
-        "dud:publication_id": "pub.1124658760",
-        "identifier": "10.1161/circoutcomes.119.006139"
+        "identifier": "10.1161/circoutcomes.119.006139",
+        "url": "https://app.dimensions.ai/details/publication/pub.1124658760"
       },
       "reviewRating": [
         {
@@ -192,8 +210,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "IPUMS website (http://www.ipums.org)",
-      "dud:domain": "Survey data infrastructure / statistical methodology"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "IPUMS website (http://www.ipums.org)"
+      },
+      "about": "Survey data infrastructure / statistical methodology"
     }
   ]
 }

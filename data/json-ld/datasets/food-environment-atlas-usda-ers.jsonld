@@ -20,8 +20,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Associations of Race/Ethnicity and Food Insecurity With COVID-19 Infection Rates Across US Counties",
-        "dud:publication_id": "pub.1138606529",
-        "identifier": "10.1001/jamanetworkopen.2021.12852"
+        "identifier": "10.1001/jamanetworkopen.2021.12852",
+        "url": "https://app.dimensions.ai/details/publication/pub.1138606529"
       },
       "reviewRating": [
         {
@@ -36,8 +36,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Food Environment Atlas",
-      "dud:domain": "Nutrition / Food Security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Food Environment Atlas"
+      },
+      "about": "Nutrition / Food Security"
     },
     {
       "@type": "Review",
@@ -46,8 +49,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Amputation Rates and Associated Social Determinants of Health in the Most Populous US Counties",
-        "dud:publication_id": "pub.1165400226",
-        "identifier": "10.1001/jamasurg.2023.5517"
+        "identifier": "10.1001/jamasurg.2023.5517",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165400226"
       },
       "reviewRating": [
         {
@@ -62,8 +65,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "USDA Economic Research Service",
-      "dud:domain": "Nutrition / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "USDA Economic Research Service"
+      },
+      "about": "Nutrition / Food security"
     },
     {
       "@type": "Review",
@@ -72,8 +78,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Environment Quality and Cardiovascular Disease Mortality in the United States: a County-Level Analysis from 2017 to 2019",
-        "dud:publication_id": "pub.1162837488",
-        "identifier": "10.1007/s11606-023-08335-9"
+        "identifier": "10.1007/s11606-023-08335-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162837488"
       },
       "reviewRating": [
         {
@@ -88,8 +94,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture (USDA) Economic Research Service",
-      "dud:domain": "Agriculture / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture (USDA) Economic Research Service"
+      },
+      "about": "Agriculture / public health"
     },
     {
       "@type": "Review",
@@ -98,8 +107,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Seeding Insights and Nourishing Change: a Case for Participatory Evaluation in Place-Based Community Food Systems",
-        "dud:publication_id": "pub.1134803661",
-        "identifier": "10.1007/s42413-020-00097-0"
+        "identifier": "10.1007/s42413-020-00097-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1134803661"
       },
       "reviewRating": [
         {
@@ -114,8 +123,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture Agricultural Marketing Service",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture Agricultural Marketing Service"
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -124,8 +136,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities",
-        "dud:publication_id": "pub.1167510317",
-        "identifier": "10.1016/j.ajcnut.2023.12.019"
+        "identifier": "10.1016/j.ajcnut.2023.12.019",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167510317"
       },
       "reviewRating": [
         {
@@ -140,8 +152,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture (USDA)",
-      "dud:domain": "Nutrition / food‑environment research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture (USDA)"
+      },
+      "about": "Nutrition / food‑environment research"
     },
     {
       "@type": "Review",
@@ -150,8 +165,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Unhealthy dietary patterns in the American Nations: A crisis with cultural distinctions",
-        "dud:publication_id": "pub.1170209148",
-        "identifier": "10.1016/j.cpcardiol.2024.102558"
+        "identifier": "10.1016/j.cpcardiol.2024.102558",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170209148"
       },
       "reviewRating": [
         {
@@ -166,8 +181,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture (Food Environment Atlas, 2019)",
-      "dud:domain": "Agriculture / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture (Food Environment Atlas, 2019)"
+      },
+      "about": "Agriculture / public health"
     },
     {
       "@type": "Review",
@@ -176,8 +194,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Born on the wrong side of the tracks: Exploring the causal effects of segregation on infant health",
-        "dud:publication_id": "pub.1169910762",
-        "identifier": "10.1016/j.jhealeco.2024.102876"
+        "identifier": "10.1016/j.jhealeco.2024.102876",
+        "url": "https://app.dimensions.ai/details/publication/pub.1169910762"
       },
       "reviewRating": [
         {
@@ -192,8 +210,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "United States Department of Agriculture, Economic Research Service",
-      "dud:domain": "Nutrition / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "United States Department of Agriculture, Economic Research Service"
+      },
+      "about": "Nutrition / Public Health"
     },
     {
       "@type": "Review",
@@ -202,8 +223,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
-        "dud:publication_id": "pub.1183405145",
-        "identifier": "10.1016/j.ygyno.2024.12.001"
+        "identifier": "10.1016/j.ygyno.2024.12.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183405145"
       },
       "reviewRating": [
         {
@@ -218,8 +239,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
-      "dud:domain": "Public health / Food environment"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture, Economic Research Service"
+      },
+      "about": "Public health / Food environment"
     },
     {
       "@type": "Review",
@@ -228,8 +252,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "dud:publication_id": "pub.1093156383",
-        "identifier": "10.1017/s1368980017003391"
+        "identifier": "10.1017/s1368980017003391",
+        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
       },
       "reviewRating": [
         {
@@ -244,8 +268,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "USDA Economic Research Service",
-      "dud:domain": "Environmental / Geography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "USDA Economic Research Service"
+      },
+      "about": "Environmental / Geography"
     },
     {
       "@type": "Review",
@@ -254,8 +281,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity: associations with disordered eating behaviours and overweight in a population-based sample of adolescents",
-        "dud:publication_id": "pub.1127991324",
-        "identifier": "10.1017/s1368980020000464"
+        "identifier": "10.1017/s1368980020000464",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127991324"
       },
       "reviewRating": [
         {
@@ -270,8 +297,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Parents/guardians of adolescents in the EAT 2010 cohort",
-      "dud:domain": "Public health / nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Parents/guardians of adolescents in the EAT 2010 cohort"
+      },
+      "about": "Public health / nutrition"
     },
     {
       "@type": "Review",
@@ -280,8 +310,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "dud:publication_id": "pub.1175815611",
-        "identifier": "10.1080/19320248.2022.2101414"
+        "identifier": "10.1080/19320248.2022.2101414",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
       },
       "reviewRating": [
         {
@@ -296,8 +326,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture (USDA)",
-      "dud:domain": "Public health / Nutrition / Food environment"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture (USDA)"
+      },
+      "about": "Public health / Nutrition / Food environment"
     },
     {
       "@type": "Review",
@@ -306,8 +339,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploratory spatial analysis of food insecurity and diabetes: an application of multiscale geographically weighted regression",
-        "dud:publication_id": "pub.1158054298",
-        "identifier": "10.1080/19475683.2023.2208199"
+        "identifier": "10.1080/19475683.2023.2208199",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158054298"
       },
       "reviewRating": [
         {
@@ -322,8 +355,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture (USDA)",
-      "dud:domain": "Nutrition / food environment"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture (USDA)"
+      },
+      "about": "Nutrition / food environment"
     },
     {
       "@type": "Review",
@@ -332,8 +368,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "reviewRating": [
         {
@@ -348,8 +384,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "USDA Economic Research Service",
-      "dud:domain": "Food access / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "USDA Economic Research Service"
+      },
+      "about": "Food access / Public health"
     },
     {
       "@type": "Review",
@@ -358,8 +397,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Security and Climate Change: Differences in Impacts and Adaptation Strategies for Rural Communities in the Global South and North",
-        "dud:publication_id": "pub.1144464200",
-        "identifier": "10.3389/fsufs.2021.691191"
+        "identifier": "10.3389/fsufs.2021.691191",
+        "url": "https://app.dimensions.ai/details/publication/pub.1144464200"
       },
       "reviewRating": [
         {
@@ -374,8 +413,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "USDA, 2017",
-      "dud:domain": "Food security / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "USDA, 2017"
+      },
+      "about": "Food security / public health"
     },
     {
       "@type": "Review",
@@ -384,8 +426,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Policy Implications of the COVID-19 Pandemic on Food Insecurity in Rural America: Evidence from Appalachia",
-        "dud:publication_id": "pub.1143646528",
-        "identifier": "10.3390/ijerph182312792"
+        "identifier": "10.3390/ijerph182312792",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143646528"
       },
       "reviewRating": [
         {
@@ -400,8 +442,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture Economic Research Service",
-      "dud:domain": "Food Access / Geography"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture Economic Research Service"
+      },
+      "about": "Food Access / Geography"
     },
     {
       "@type": "Review",
@@ -410,8 +455,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A decade of the Missouri Hunger Atlas: Information for action",
-        "dud:publication_id": "pub.1151845578",
-        "identifier": "10.5304/jafscd.2022.121.003"
+        "identifier": "10.5304/jafscd.2022.121.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151845578"
       },
       "reviewRating": [
         {
@@ -426,8 +471,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture Economic Research Service",
-      "dud:domain": "Food Environment / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture Economic Research Service"
+      },
+      "about": "Food Environment / Nutrition"
     },
     {
       "@type": "Review",
@@ -436,8 +484,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Analyzing the Role of Community and Individual Factors in Food Insecurity: Identifying Diverse Barriers Across Clustered Community Members",
-        "dud:publication_id": "pub.1044764715",
-        "identifier": "10.1007/s10900-016-0171-0"
+        "identifier": "10.1007/s10900-016-0171-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1044764715"
       },
       "dud:joinDetail": {
         "partnerDataset": "Community Food Security Assessment Survey",
@@ -460,8 +508,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
-        "dud:publication_id": "pub.1183405145",
-        "identifier": "10.1016/j.ygyno.2024.12.001"
+        "identifier": "10.1016/j.ygyno.2024.12.001",
+        "url": "https://app.dimensions.ai/details/publication/pub.1183405145"
       },
       "dud:joinDetail": {
         "partnerDataset": "Louisiana Tumor Registry (LTR) patient data",
@@ -484,8 +532,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "dud:publication_id": "pub.1093156383",
-        "identifier": "10.1017/s1368980017003391"
+        "identifier": "10.1017/s1368980017003391",
+        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household food security data (SNAP‑Ed intervention study participants)",
@@ -508,8 +556,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "dud:publication_id": "pub.1093156383",
-        "identifier": "10.1017/s1368980017003391"
+        "identifier": "10.1017/s1368980017003391",
+        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
       },
       "dud:joinDetail": {
         "partnerDataset": "Household food security data (SNAP‑Ed intervention study participants)",
@@ -532,8 +580,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "dud:publication_id": "pub.1093156383",
-        "identifier": "10.1017/s1368980017003391"
+        "identifier": "10.1017/s1368980017003391",
+        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
       },
       "dud:joinDetail": {
         "partnerDataset": "HUD Fair Market Rent dataset",
@@ -556,8 +604,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food insecurity: associations with disordered eating behaviours and overweight in a population-based sample of adolescents",
-        "dud:publication_id": "pub.1127991324",
-        "identifier": "10.1017/s1368980020000464"
+        "identifier": "10.1017/s1368980020000464",
+        "url": "https://app.dimensions.ai/details/publication/pub.1127991324"
       },
       "dud:joinDetail": {
         "partnerDataset": "Project EAT 2010 adolescent survey (EAT 2010)",
@@ -580,8 +628,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "dud:publication_id": "pub.1175815611",
-        "identifier": "10.1080/19320248.2022.2101414"
+        "identifier": "10.1080/19320248.2022.2101414",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
       },
       "dud:joinDetail": {
         "partnerDataset": "Behavioral Risk Factor Surveillance System (BRFSS) county‑level prevalence of adult obesity and diabetes",
@@ -604,8 +652,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "dud:publication_id": "pub.1175815611",
-        "identifier": "10.1080/19320248.2022.2101414"
+        "identifier": "10.1080/19320248.2022.2101414",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Census / American Community Survey (county‑level sociodemographic variables: percent Native American residents, poverty rate, median household income, metropolitan status, age distribution)",
@@ -628,8 +676,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "dud:publication_id": "pub.1175815611",
-        "identifier": "10.1080/19320248.2022.2101414"
+        "identifier": "10.1080/19320248.2022.2101414",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
       },
       "dud:joinDetail": {
         "partnerDataset": "County‑level food‑insecurity data from USDA Economic Research Service (ERS) or the Current Population Survey‑Food Security Supplement",
@@ -652,8 +700,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates",
@@ -676,8 +724,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
-        "dud:publication_id": "pub.1143615191",
-        "identifier": "10.14283/jarlife.2020.7"
+        "identifier": "10.14283/jarlife.2020.7",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143615191"
       },
       "dud:joinDetail": {
         "partnerDataset": "NSP participant data (geocoded addresses)",
@@ -700,8 +748,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Correlates of Healthy Eating in Urban Food Desert Communities",
-        "dud:publication_id": "pub.1129567199",
-        "identifier": "10.21203/rs.3.rs-41433/v1"
+        "identifier": "10.21203/rs.3.rs-41433/v1",
+        "url": "https://app.dimensions.ai/details/publication/pub.1129567199"
       },
       "dud:joinDetail": {
         "partnerDataset": "Study area definition for Philadelphia and Trenton neighborhoods",
@@ -724,8 +772,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
-        "dud:publication_id": "pub.1149237728",
-        "identifier": "10.2196/34285"
+        "identifier": "10.2196/34285",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149237728"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Food Access Research Atlas classification of low‑income, low‑access food deserts",
@@ -748,8 +796,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
-        "dud:publication_id": "pub.1149237728",
-        "identifier": "10.2196/34285"
+        "identifier": "10.2196/34285",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149237728"
       },
       "dud:joinDetail": {
         "partnerDataset": "2019 American Community Survey (ACS) demographic and socioeconomic variables",

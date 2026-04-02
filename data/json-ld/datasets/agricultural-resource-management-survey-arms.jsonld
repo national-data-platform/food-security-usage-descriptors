@@ -27,8 +27,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Soil health considerations for global food security",
-        "dud:publication_id": "pub.1139209831",
-        "identifier": "10.1002/agj2.20783"
+        "identifier": "10.1002/agj2.20783",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139209831"
       },
       "reviewRating": [
         {
@@ -51,8 +51,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "dud:publication_id": "pub.1092669592",
-        "identifier": "10.1073/pnas.1707322114"
+        "identifier": "10.1073/pnas.1707322114",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
       },
       "reviewRating": [
         {
@@ -67,8 +67,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Agriculture / Agricultural Research Service (ARS)",
-      "dud:domain": "Agriculture – Farm Management"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Agriculture / Agricultural Research Service (ARS)"
+      },
+      "about": "Agriculture – Farm Management"
     },
     {
       "@type": "Review",
@@ -77,8 +80,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Soil health considerations for global food security",
-        "dud:publication_id": "pub.1139209831",
-        "identifier": "10.1002/agj2.20783"
+        "identifier": "10.1002/agj2.20783",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139209831"
       },
       "dud:joinDetail": {
         "partnerDataset": "Farm interview data from the Soil Health Institute",
@@ -101,8 +104,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Theoretical issues in the ‘food desert’ debate and ways forward",
-        "dud:publication_id": "pub.1028305293",
-        "identifier": "10.1007/s10708-015-9634-6"
+        "identifier": "10.1007/s10708-015-9634-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1028305293"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -125,8 +128,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Supporting scenario for small-scale shellfish aquaculture and food security in the United States of America",
-        "dud:publication_id": "pub.1185395216",
-        "identifier": "10.1007/s12571-025-01522-y"
+        "identifier": "10.1007/s12571-025-01522-y",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185395216"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Census of Agriculture (NASS)",
@@ -149,8 +152,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Chapter 2 Implications of technological change, postharvest technology, and technology adoption for improved food security—application of t-statistic",
-        "dud:publication_id": "pub.1141362126",
-        "identifier": "10.1016/b978-0-12-820477-1.00029-2"
+        "identifier": "10.1016/b978-0-12-820477-1.00029-2",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141362126"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture – United States",
@@ -173,8 +176,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Probabilistic estimates of drought-induced yield loss in the Southeastern United States",
-        "dud:publication_id": "pub.1189908235",
-        "identifier": "10.1016/j.agsy.2025.104418"
+        "identifier": "10.1016/j.agsy.2025.104418",
+        "url": "https://app.dimensions.ai/details/publication/pub.1189908235"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Agricultural Statistics Service (NASS) yield data",
@@ -197,8 +200,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Will the urban agricultural revolution be vertical and soilless? A case study of controlled environment agriculture in New York City",
-        "dud:publication_id": "pub.1112089451",
-        "identifier": "10.1016/j.landusepol.2018.12.038"
+        "identifier": "10.1016/j.landusepol.2018.12.038",
+        "url": "https://app.dimensions.ai/details/publication/pub.1112089451"
       },
       "dud:joinDetail": {
         "partnerDataset": "Local Food Marketing Practices Survey",
@@ -221,8 +224,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Phosphorus use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "dud:publication_id": "pub.1114810683",
-        "identifier": "10.1016/j.scitotenv.2019.05.228"
+        "identifier": "10.1016/j.scitotenv.2019.05.228",
+        "url": "https://app.dimensions.ai/details/publication/pub.1114810683"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -245,8 +248,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "dud:publication_id": "pub.1092669592",
-        "identifier": "10.1073/pnas.1707322114"
+        "identifier": "10.1073/pnas.1707322114",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -269,8 +272,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "dud:publication_id": "pub.1092669592",
-        "identifier": "10.1073/pnas.1707322114"
+        "identifier": "10.1073/pnas.1707322114",
+        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
       },
       "dud:joinDetail": {
         "partnerDataset": "Local Food Marketing Practices Survey",
@@ -293,8 +296,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Strategically Siting Urban Agriculture: A Socioeconomic Analysis of Roanoke, Virginia",
-        "dud:publication_id": "pub.1018922544",
-        "identifier": "10.1080/00330124.2016.1157496"
+        "identifier": "10.1080/00330124.2016.1157496",
+        "url": "https://app.dimensions.ai/details/publication/pub.1018922544"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -317,8 +320,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The insecurity of food security in Russia’s Far North",
-        "dud:publication_id": "pub.1107108729",
-        "identifier": "10.1080/1088937x.2018.1522383"
+        "identifier": "10.1080/1088937x.2018.1522383",
+        "url": "https://app.dimensions.ai/details/publication/pub.1107108729"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -341,8 +344,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farm-to-school education grants reach low-income children and encourage them to learn about fruits and vegetables",
-        "dud:publication_id": "pub.1121407211",
-        "identifier": "10.1093/tbm/ibz092"
+        "identifier": "10.1093/tbm/ibz092",
+        "url": "https://app.dimensions.ai/details/publication/pub.1121407211"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -365,8 +368,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A Systematic Review of Interventions for Obesity Among Adults With Food Insecurity",
-        "dud:publication_id": "pub.1166654453",
-        "identifier": "10.1097/jcn.0000000000001028"
+        "identifier": "10.1097/jcn.0000000000001028",
+        "url": "https://app.dimensions.ai/details/publication/pub.1166654453"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -389,8 +392,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using participatory and mixed-methods approaches in GIS to develop a Place-Based Food Insecurity and Vulnerability Index",
-        "dud:publication_id": "pub.1039947645",
-        "identifier": "10.1177/0308518x16686352"
+        "identifier": "10.1177/0308518x16686352",
+        "url": "https://app.dimensions.ai/details/publication/pub.1039947645"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture data",
@@ -413,8 +416,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "“Something Fun to Look Forward to”: Lessons From Implementing the Prescription for Health Farmers’ Market Initiative in Rural Upper Michigan",
-        "dud:publication_id": "pub.1148759450",
-        "identifier": "10.1177/15248399221093966"
+        "identifier": "10.1177/15248399221093966",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148759450"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -437,8 +440,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Participatory mapping to address neighborhood level data deficiencies for food security assessment in Southeastern Virginia, USA",
-        "dud:publication_id": "pub.1152553896",
-        "identifier": "10.1186/s12942-022-00314-3"
+        "identifier": "10.1186/s12942-022-00314-3",
+        "url": "https://app.dimensions.ai/details/publication/pub.1152553896"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -461,8 +464,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Regional Variations of Bovine and Porcine Fecal Pollution as a Function of Landscape, Nutrient, and Hydrological Factors",
-        "dud:publication_id": "pub.1106092544",
-        "identifier": "10.2134/jeq2017.11.0438"
+        "identifier": "10.2134/jeq2017.11.0438",
+        "url": "https://app.dimensions.ai/details/publication/pub.1106092544"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA National Agricultural Statistics Service 2012 Census of Agriculture",
@@ -485,8 +488,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
-        "dud:publication_id": "pub.1110915630",
-        "identifier": "10.2139/ssrn.3297176"
+        "identifier": "10.2139/ssrn.3297176",
+        "url": "https://app.dimensions.ai/details/publication/pub.1110915630"
       },
       "dud:joinDetail": {
         "partnerDataset": "U.S. Department of Agriculture (USDA) – Certified Organic Operations List",
@@ -509,8 +512,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Land Use, Conservation, Forestry, and Agriculture in Puerto Rico",
-        "dud:publication_id": "pub.1090364662",
-        "identifier": "10.3390/f8070242"
+        "identifier": "10.3390/f8070242",
+        "url": "https://app.dimensions.ai/details/publication/pub.1090364662"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -533,8 +536,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Understanding Pollinator Habitat Conservation under Current Policy Using Economic Experiments",
-        "dud:publication_id": "pub.1091321717",
-        "identifier": "10.3390/land6030057"
+        "identifier": "10.3390/land6030057",
+        "url": "https://app.dimensions.ai/details/publication/pub.1091321717"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",
@@ -557,8 +560,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Impacts of Louisiana’s Changing Climate on Food Crop Production",
-        "dud:publication_id": "pub.1182362809",
-        "identifier": "10.4236/as.2024.1511065"
+        "identifier": "10.4236/as.2024.1511065",
+        "url": "https://app.dimensions.ai/details/publication/pub.1182362809"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA NASS Census of Agriculture (crop‑production statistics)",
@@ -581,8 +584,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
-        "dud:publication_id": "pub.1145837617",
-        "identifier": "10.5304/jafscd.2022.112.013"
+        "identifier": "10.5304/jafscd.2022.112.013",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145837617"
       },
       "dud:joinDetail": {
         "partnerDataset": "NASS Census of Agriculture",

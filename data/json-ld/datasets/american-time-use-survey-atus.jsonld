@@ -18,8 +18,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Association of WIC Participation and Electronic Benefits Transfer Implementation",
-        "dud:publication_id": "pub.1136688170",
-        "identifier": "10.1001/jamapediatrics.2020.6973"
+        "identifier": "10.1001/jamapediatrics.2020.6973",
+        "url": "https://app.dimensions.ai/details/publication/pub.1136688170"
       },
       "reviewRating": [
         {
@@ -34,8 +34,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "USDA",
-      "dud:domain": "Policy implementation data"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "USDA"
+      },
+      "about": "Policy implementation data"
     },
     {
       "@type": "Review",
@@ -44,8 +47,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and time use in elderly vs. non‐elderly: An exploratory analysis",
-        "dud:publication_id": "pub.1147386484",
-        "identifier": "10.1002/aepp.13275"
+        "identifier": "10.1002/aepp.13275",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147386484"
       },
       "reviewRating": [
         {
@@ -60,8 +63,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Bureau of Labor Statistics",
-      "dud:domain": "Time‑use research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Bureau of Labor Statistics"
+      },
+      "about": "Time‑use research"
     },
     {
       "@type": "Review",
@@ -70,8 +76,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Household food security and perceptions of food price unfairness in the United States",
-        "dud:publication_id": "pub.1187585469",
-        "identifier": "10.1002/jaa2.70012"
+        "identifier": "10.1002/jaa2.70012",
+        "url": "https://app.dimensions.ai/details/publication/pub.1187585469"
       },
       "reviewRating": [
         {
@@ -86,8 +92,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Bureau of Labor Statistics",
-      "dud:domain": "Time‑Use / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Bureau of Labor Statistics"
+      },
+      "about": "Time‑Use / Nutrition"
     },
     {
       "@type": "Review",
@@ -96,8 +105,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity among immigrant populations in the United States",
-        "dud:publication_id": "pub.1151706316",
-        "identifier": "10.1007/s12571-022-01322-8"
+        "identifier": "10.1007/s12571-022-01322-8",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151706316"
       },
       "reviewRating": [
         {
@@ -112,8 +121,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. DHS Yearbook of Immigration Statistics",
-      "dud:domain": "Immigration statistics"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. DHS Yearbook of Immigration Statistics"
+      },
+      "about": "Immigration statistics"
     },
     {
       "@type": "Review",
@@ -122,8 +134,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Life course influences on food provisioning among low-income, Mexican-born mothers with young children at risk of food insecurity",
-        "dud:publication_id": "pub.1107175478",
-        "identifier": "10.1016/j.appet.2018.09.014"
+        "identifier": "10.1016/j.appet.2018.09.014",
+        "url": "https://app.dimensions.ai/details/publication/pub.1107175478"
       },
       "reviewRating": [
         {
@@ -138,7 +150,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Behavioral / Time Allocation"
+      "about": "Behavioral / Time Allocation"
     },
     {
       "@type": "Review",
@@ -147,8 +159,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Association Between Food Security and Military Satisfaction Among a Representative Sample of the Active-Duty United States Military Service Members, 2020",
-        "dud:publication_id": "pub.1190120316",
-        "identifier": "10.1093/milmed/usaf304"
+        "identifier": "10.1093/milmed/usaf304",
+        "url": "https://app.dimensions.ai/details/publication/pub.1190120316"
       },
       "reviewRating": [
         {
@@ -163,8 +175,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "U.S. Department of Defense",
-      "dud:domain": "Military / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "U.S. Department of Defense"
+      },
+      "about": "Military / Public Health"
     },
     {
       "@type": "Review",
@@ -173,8 +188,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food insecurity and time use in elderly vs. non‐elderly: An exploratory analysis",
-        "dud:publication_id": "pub.1147386484",
-        "identifier": "10.1002/aepp.13275"
+        "identifier": "10.1002/aepp.13275",
+        "url": "https://app.dimensions.ai/details/publication/pub.1147386484"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey – Food Security Supplement (CPS‑FSS)",
@@ -197,8 +212,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Development of new measures to assess household nutrition security, and choice in dietary characteristics",
-        "dud:publication_id": "pub.1150574439",
-        "identifier": "10.1016/j.appet.2022.106288"
+        "identifier": "10.1016/j.appet.2022.106288",
+        "url": "https://app.dimensions.ai/details/publication/pub.1150574439"
       },
       "dud:joinDetail": {
         "partnerDataset": "Pilot survey responses (household‑level data)",
@@ -221,8 +236,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Impact of FNAPs on Young Children's Food Environment in ECEs: A Systematic Review Using the RE-AIM Framework",
-        "dud:publication_id": "pub.1160505811",
-        "identifier": "10.1016/j.jneb.2023.05.092"
+        "identifier": "10.1016/j.jneb.2023.05.092",
+        "url": "https://app.dimensions.ai/details/publication/pub.1160505811"
       },
       "dud:joinDetail": {
         "partnerDataset": "COVID‑19 Pandemic Substudy (Nurses' Health Studies 2/3 & Growing Up Today Study cohort data)",
@@ -245,8 +260,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Changes in household food insecurity are related to changes in BMI and diet quality among Michigan Head Start preschoolers in a sex-specific manner",
-        "dud:publication_id": "pub.1084535112",
-        "identifier": "10.1016/j.socscimed.2017.04.003"
+        "identifier": "10.1016/j.socscimed.2017.04.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084535112"
       },
       "dud:joinDetail": {
         "partnerDataset": "Demographic questionnaire (household composition, caregiver race/ethnicity, education, income‑to‑needs ratio, receipt of public assistance)",
@@ -269,8 +284,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Changes in household food insecurity are related to changes in BMI and diet quality among Michigan Head Start preschoolers in a sex-specific manner",
-        "dud:publication_id": "pub.1084535112",
-        "identifier": "10.1016/j.socscimed.2017.04.003"
+        "identifier": "10.1016/j.socscimed.2017.04.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1084535112"
       },
       "dud:joinDetail": {
         "partnerDataset": "Growing Healthy Study randomized trial data (intervention arm assignment, school clustering)",
@@ -293,8 +308,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nativity, Not Acculturation, Predicts SNAP Usage Among Low-income Hispanics With Food Insecurity",
-        "dud:publication_id": "pub.1049012797",
-        "identifier": "10.1080/19320248.2014.962779"
+        "identifier": "10.1080/19320248.2014.962779",
+        "url": "https://app.dimensions.ai/details/publication/pub.1049012797"
       },
       "dud:joinDetail": {
         "partnerDataset": "Bidimensional Acculturation Scale (BAS) data",
@@ -317,8 +332,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Impact of Food Insecurity and Undernutrition on Frailty and Physical Functioning in Aging People With HIV in the United States",
-        "dud:publication_id": "pub.1155223421",
-        "identifier": "10.1097/jnc.0000000000000395"
+        "identifier": "10.1097/jnc.0000000000000395",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155223421"
       },
       "dud:joinDetail": {
         "partnerDataset": "Physical performance assessment data (Short Physical Performance Battery, grip strength, gait speed, chair‑rise time)",
@@ -341,8 +356,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutrition Knowledge, Food Insecurity, and Adverse Childhood Experiences Among Underserved College Students",
-        "dud:publication_id": "pub.1170172331",
-        "identifier": "10.1097/nt.0000000000000673"
+        "identifier": "10.1097/nt.0000000000000673",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170172331"
       },
       "dud:joinDetail": {
         "partnerDataset": "ACE score",
@@ -365,8 +380,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Nutrition Knowledge, Food Insecurity, and Adverse Childhood Experiences Among Underserved College Students",
-        "dud:publication_id": "pub.1170172331",
-        "identifier": "10.1097/nt.0000000000000673"
+        "identifier": "10.1097/nt.0000000000000673",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170172331"
       },
       "dud:joinDetail": {
         "partnerDataset": "Self‑reported SNAP/EBT usage data (yes/no)",
@@ -389,8 +404,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Characterizing the within-person variability of food insecurity in everyday life",
-        "dud:publication_id": "pub.1184597683",
-        "identifier": "10.1371/journal.pone.0312543"
+        "identifier": "10.1371/journal.pone.0312543",
+        "url": "https://app.dimensions.ai/details/publication/pub.1184597683"
       },
       "dud:joinDetail": {
         "partnerDataset": "Daily text‑message food‑insecurity survey data",
@@ -413,8 +428,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploring Food Insecurity and Perceived Stress on Daytime Sleepiness among Older Adults in New York City",
-        "dud:publication_id": "pub.1175563939",
-        "identifier": "10.3390/foods13172831"
+        "identifier": "10.3390/foods13172831",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175563939"
       },
       "dud:joinDetail": {
         "partnerDataset": "Demographic variables collected via Qualtrics (age, gender, race/ethnicity, income, education, BMI, health‑condition count)",
@@ -437,8 +452,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Food Deserts and Their Impact on Health Outcomes in Children with Cystic Fibrosis",
-        "dud:publication_id": "pub.1143151520",
-        "identifier": "10.3390/nu13113996"
+        "identifier": "10.3390/nu13113996",
+        "url": "https://app.dimensions.ai/details/publication/pub.1143151520"
       },
       "dud:joinDetail": {
         "partnerDataset": "CFF patient health outcomes (BMI, ppFEV1, hospitalizations)",
@@ -461,8 +476,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social Determinants of Health and College Food Insecurity",
-        "dud:publication_id": "pub.1171415268",
-        "identifier": "10.3390/nu16091391"
+        "identifier": "10.3390/nu16091391",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171415268"
       },
       "dud:joinDetail": {
         "partnerDataset": "Survey‑collected sociodemographic variables (e.g., race/ethnicity, generation status, residence, major)",
@@ -485,8 +500,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Social Determinants of Health and College Food Insecurity",
-        "dud:publication_id": "pub.1171415268",
-        "identifier": "10.3390/nu16091391"
+        "identifier": "10.3390/nu16091391",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171415268"
       },
       "dud:joinDetail": {
         "partnerDataset": "Survey‑collected well‑being measures (stress related to food, general stress, self‑rated health, academic progress, COVID‑impact on food access, difficulty concentrating)",

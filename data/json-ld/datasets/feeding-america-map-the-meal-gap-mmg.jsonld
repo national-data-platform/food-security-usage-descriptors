@@ -20,8 +20,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Amputation Rates and Associated Social Determinants of Health in the Most Populous US Counties",
-        "dud:publication_id": "pub.1165400226",
-        "identifier": "10.1001/jamasurg.2023.5517"
+        "identifier": "10.1001/jamasurg.2023.5517",
+        "url": "https://app.dimensions.ai/details/publication/pub.1165400226"
       },
       "reviewRating": [
         {
@@ -36,8 +36,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food security"
     },
     {
       "@type": "Review",
@@ -46,8 +49,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The protective effect of SNAP during economic downturns: Evidence from the COVID‐19 pandemic",
-        "dud:publication_id": "pub.1155184884",
-        "identifier": "10.1002/aepp.13345"
+        "identifier": "10.1002/aepp.13345",
+        "url": "https://app.dimensions.ai/details/publication/pub.1155184884"
       },
       "reviewRating": [
         {
@@ -62,8 +65,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food‑Security Mapping"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food‑Security Mapping"
     },
     {
       "@type": "Review",
@@ -72,8 +78,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "reviewRating": [
         {
@@ -88,8 +94,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America and academic collaborators",
-      "dud:domain": "Food‑security estimation / Geographic analysis"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America and academic collaborators"
+      },
+      "about": "Food‑security estimation / Geographic analysis"
     },
     {
       "@type": "Review",
@@ -98,8 +107,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Environment Quality and Cardiovascular Disease Mortality in the United States: a County-Level Analysis from 2017 to 2019",
-        "dud:publication_id": "pub.1162837488",
-        "identifier": "10.1007/s11606-023-08335-9"
+        "identifier": "10.1007/s11606-023-08335-9",
+        "url": "https://app.dimensions.ai/details/publication/pub.1162837488"
       },
       "reviewRating": [
         {
@@ -114,8 +123,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Nutrition / food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Nutrition / food security"
     },
     {
       "@type": "Review",
@@ -124,8 +136,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "dud:publication_id": "pub.1181289696",
-        "identifier": "10.1007/s12571-024-01494-5"
+        "identifier": "10.1007/s12571-024-01494-5",
+        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
       },
       "reviewRating": [
         {
@@ -140,8 +152,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food prices / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food prices / Nutrition"
     },
     {
       "@type": "Review",
@@ -150,8 +165,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Chapter 5 Hurricanes, disasters, and food insecurity: The intersection of two social events",
-        "dud:publication_id": "pub.1117918905",
-        "identifier": "10.1016/b978-0-12-815821-0.00012-6"
+        "identifier": "10.1016/b978-0-12-815821-0.00012-6",
+        "url": "https://app.dimensions.ai/details/publication/pub.1117918905"
       },
       "reviewRating": [
         {
@@ -166,8 +181,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food Security / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food Security / Public Health"
     },
     {
       "@type": "Review",
@@ -176,8 +194,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Statewide Universal School Meal Policies and Food Insecurity in Households with Children",
-        "dud:publication_id": "pub.1189644647",
-        "identifier": "10.1016/j.amepre.2025.107942"
+        "identifier": "10.1016/j.amepre.2025.107942",
+        "url": "https://app.dimensions.ai/details/publication/pub.1189644647"
       },
       "reviewRating": [
         {
@@ -192,8 +210,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America – Map the Meal Gap project",
-      "dud:domain": "Food security / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America – Map the Meal Gap project"
+      },
+      "about": "Food security / Public health"
     },
     {
       "@type": "Review",
@@ -202,8 +223,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "reviewRating": [
         {
@@ -218,8 +239,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Nutrition / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Nutrition / Food security"
     },
     {
       "@type": "Review",
@@ -228,8 +252,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1154510004",
-        "identifier": "10.1016/j.annepidem.2023.01.008"
+        "identifier": "10.1016/j.annepidem.2023.01.008",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
       },
       "reviewRating": [
         {
@@ -244,8 +268,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America (non‑profit organization)",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America (non‑profit organization)"
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -254,8 +281,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Unhealthy dietary patterns in the American Nations: A crisis with cultural distinctions",
-        "dud:publication_id": "pub.1170209148",
-        "identifier": "10.1016/j.cpcardiol.2024.102558"
+        "identifier": "10.1016/j.cpcardiol.2024.102558",
+        "url": "https://app.dimensions.ai/details/publication/pub.1170209148"
       },
       "reviewRating": [
         {
@@ -270,8 +297,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America (2020) report \"Map the Meal Gap\"",
-      "dud:domain": "Nutrition / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America (2020) report \"Map the Meal Gap\""
+      },
+      "about": "Nutrition / public health"
     },
     {
       "@type": "Review",
@@ -280,8 +310,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing Health Equity in Food Allergy",
-        "dud:publication_id": "pub.1168240223",
-        "identifier": "10.1016/j.jaip.2024.01.026"
+        "identifier": "10.1016/j.jaip.2024.01.026",
+        "url": "https://app.dimensions.ai/details/publication/pub.1168240223"
       },
       "reviewRating": [
         {
@@ -296,8 +326,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Map the Meal Gap report (2023)",
-      "dud:domain": "Public Health / Food Security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Map the Meal Gap report (2023)"
+      },
+      "about": "Public Health / Food Security"
     },
     {
       "@type": "Review",
@@ -306,8 +339,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity Screening in the Allergy/Immunology Clinic: A Work Group Report of the AAAAI Adverse Reactions to Foods Committee",
-        "dud:publication_id": "pub.1185718007",
-        "identifier": "10.1016/j.jaip.2025.02.011"
+        "identifier": "10.1016/j.jaip.2025.02.011",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185718007"
       },
       "reviewRating": [
         {
@@ -322,8 +355,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America (non‑profit organization).",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America (non‑profit organization)."
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -332,8 +368,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "dud:publication_id": "pub.1105225625",
-        "identifier": "10.1016/j.ssmph.2018.06.006"
+        "identifier": "10.1016/j.ssmph.2018.06.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
       },
       "reviewRating": [
         {
@@ -348,8 +384,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America (non‑profit organization)",
-      "dud:domain": "Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America (non‑profit organization)"
+      },
+      "about": "Food security"
     },
     {
       "@type": "Review",
@@ -358,8 +397,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Using a trauma-informed policy approach to create a resilient urban food system",
-        "dud:publication_id": "pub.1101125598",
-        "identifier": "10.1017/s1368980018000198"
+        "identifier": "10.1017/s1368980018000198",
+        "url": "https://app.dimensions.ai/details/publication/pub.1101125598"
       },
       "reviewRating": [
         {
@@ -374,7 +413,7 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:domain": "Food Security / Geographic Mapping"
+      "about": "Food Security / Geographic Mapping"
     },
     {
       "@type": "Review",
@@ -383,8 +422,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "School absenteeism is linked to household food insecurity in school catchment areas in Southern Nevada",
-        "dud:publication_id": "pub.1135389865",
-        "identifier": "10.1017/s136898002100063x"
+        "identifier": "10.1017/s136898002100063x",
+        "url": "https://app.dimensions.ai/details/publication/pub.1135389865"
       },
       "reviewRating": [
         {
@@ -399,8 +438,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Three Square Food Bank / Feeding America",
-      "dud:domain": "Food security / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Three Square Food Bank / Feeding America"
+      },
+      "about": "Food security / Public health"
     },
     {
       "@type": "Review",
@@ -409,8 +451,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Patients with diabetes struggling to afford food and control their HbA1c in food-insecure areas in Bronx, NY",
-        "dud:publication_id": "pub.1176144307",
-        "identifier": "10.1017/s1368980024001666"
+        "identifier": "10.1017/s1368980024001666",
+        "url": "https://app.dimensions.ai/details/publication/pub.1176144307"
       },
       "reviewRating": [
         {
@@ -425,8 +467,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America (non‑profit hunger‑relief organization)",
-      "dud:domain": "Social determinants of health / nutrition security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America (non‑profit hunger‑relief organization)"
+      },
+      "about": "Social determinants of health / nutrition security"
     },
     {
       "@type": "Review",
@@ -435,8 +480,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Food Insecurity and Adverse Human Health Outcomes in the United States",
-        "dud:publication_id": "pub.1185433555",
-        "identifier": "10.1029/2024gh001198"
+        "identifier": "10.1029/2024gh001198",
+        "url": "https://app.dimensions.ai/details/publication/pub.1185433555"
       },
       "reviewRating": [
         {
@@ -451,8 +496,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America – Map the Meal Gap",
-      "dud:domain": "Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America – Map the Meal Gap"
+      },
+      "about": "Food security"
     },
     {
       "@type": "Review",
@@ -461,8 +509,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity, Well-being, and Academic Success among College Students: Implications for Post COVID-19 Pandemic Programming",
-        "dud:publication_id": "pub.1141694596",
-        "identifier": "10.1080/03670244.2021.1954511"
+        "identifier": "10.1080/03670244.2021.1954511",
+        "url": "https://app.dimensions.ai/details/publication/pub.1141694596"
       },
       "reviewRating": [
         {
@@ -477,8 +525,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food Security / Public Policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food Security / Public Policy"
     },
     {
       "@type": "Review",
@@ -487,8 +538,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A spatial analyses of food insecurity and disability in the Southeast region of the United States",
-        "dud:publication_id": "pub.1149656458",
-        "identifier": "10.1080/17445647.2022.2092909"
+        "identifier": "10.1080/17445647.2022.2092909",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149656458"
       },
       "reviewRating": [
         {
@@ -503,8 +554,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "USDA Economic Research Service (Map the Meal program)",
-      "dud:domain": "Nutrition / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "USDA Economic Research Service (Map the Meal program)"
+      },
+      "about": "Nutrition / Food security"
     },
     {
       "@type": "Review",
@@ -513,8 +567,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Addressing community needs through a participatory food security assessment",
-        "dud:publication_id": "pub.1137146941",
-        "identifier": "10.1080/19320248.2021.1903643"
+        "identifier": "10.1080/19320248.2021.1903643",
+        "url": "https://app.dimensions.ai/details/publication/pub.1137146941"
       },
       "reviewRating": [
         {
@@ -529,8 +583,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food Security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food Security"
     },
     {
       "@type": "Review",
@@ -539,8 +596,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Exploratory spatial analysis of food insecurity and diabetes: an application of multiscale geographically weighted regression",
-        "dud:publication_id": "pub.1158054298",
-        "identifier": "10.1080/19475683.2023.2208199"
+        "identifier": "10.1080/19475683.2023.2208199",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158054298"
       },
       "reviewRating": [
         {
@@ -555,8 +612,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Map the Meal (non‑profit research organization)",
-      "dud:domain": "Food security / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Map the Meal (non‑profit research organization)"
+      },
+      "about": "Food security / public health"
     },
     {
       "@type": "Review",
@@ -565,8 +625,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Families in Context",
-        "dud:publication_id": "pub.1120291211",
-        "identifier": "10.1097/fch.0000000000000236"
+        "identifier": "10.1097/fch.0000000000000236",
+        "url": "https://app.dimensions.ai/details/publication/pub.1120291211"
       },
       "reviewRating": [
         {
@@ -581,8 +641,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Map the Meal Gap (non‑profit organization)",
-      "dud:domain": "Nutrition / Food Security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Map the Meal Gap (non‑profit organization)"
+      },
+      "about": "Nutrition / Food Security"
     },
     {
       "@type": "Review",
@@ -591,8 +654,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Medical Mistrust Among Food Insecure Individuals in Appalachia",
-        "dud:publication_id": "pub.1157363921",
-        "identifier": "10.1097/fch.0000000000000362"
+        "identifier": "10.1097/fch.0000000000000362",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157363921"
       },
       "reviewRating": [
         {
@@ -607,8 +670,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food Security / Public Policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food Security / Public Policy"
     },
     {
       "@type": "Review",
@@ -617,8 +683,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The association between food insecurity and gun violence in a major metropolitan city",
-        "dud:publication_id": "pub.1145980582",
-        "identifier": "10.1097/ta.0000000000003578"
+        "identifier": "10.1097/ta.0000000000003578",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145980582"
       },
       "reviewRating": [
         {
@@ -633,8 +699,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Publicly available; likely derived from USDA’s Food Access Research Atlas.",
-      "dud:domain": "Public health / nutrition / socio‑economic indicators"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Publicly available; likely derived from USDA’s Food Access Research Atlas."
+      },
+      "about": "Public health / nutrition / socio‑economic indicators"
     },
     {
       "@type": "Review",
@@ -643,8 +712,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The impact of rural structural and community health factors on postmastectomy complications among south central Appalachian breast cancer patients",
-        "dud:publication_id": "pub.1157775298",
-        "identifier": "10.1111/jrh.12766"
+        "identifier": "10.1111/jrh.12766",
+        "url": "https://app.dimensions.ai/details/publication/pub.1157775298"
       },
       "reviewRating": [
         {
@@ -659,8 +728,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Nutrition/Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Nutrition/Public Health"
     },
     {
       "@type": "Review",
@@ -669,8 +741,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overall and race-specific associations between state-level minimum wage policy and food insecurity in the United States",
-        "dud:publication_id": "pub.1176147894",
-        "identifier": "10.1136/jech-2024-222350"
+        "identifier": "10.1136/jech-2024-222350",
+        "url": "https://app.dimensions.ai/details/publication/pub.1176147894"
       },
       "reviewRating": [
         {
@@ -685,8 +757,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Nutrition / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Nutrition / Food security"
     },
     {
       "@type": "Review",
@@ -695,8 +770,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "reviewRating": [
         {
@@ -711,8 +786,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America’s Map the Meal Gap project (Gundersen et al.)",
-      "dud:domain": "Nutrition / Food security"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America’s Map the Meal Gap project (Gundersen et al.)"
+      },
+      "about": "Nutrition / Food security"
     },
     {
       "@type": "Review",
@@ -721,8 +799,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity and Associated Challenges to Healthy Eating Among American Indians and Alaska Natives With Type 2 Diabetes: Multiple Stakeholder Perspectives",
-        "dud:publication_id": "pub.1139145146",
-        "identifier": "10.1177/08982643211013232"
+        "identifier": "10.1177/08982643211013232",
+        "url": "https://app.dimensions.ai/details/publication/pub.1139145146"
       },
       "reviewRating": [
         {
@@ -737,8 +815,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Nutrition / public policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Nutrition / public policy"
     },
     {
       "@type": "Review",
@@ -747,8 +828,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Achieving a healthy home food environment: perspectives on parents’ nutrition education needs when living with food insecurity",
-        "dud:publication_id": "pub.1156670981",
-        "identifier": "10.1186/s41110-023-00203-0"
+        "identifier": "10.1186/s41110-023-00203-0",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156670981"
       },
       "reviewRating": [
         {
@@ -763,8 +844,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Map the Meal Gap (Feeding America initiative)",
-      "dud:domain": "Food insecurity / Nutrition policy"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Map the Meal Gap (Feeding America initiative)"
+      },
+      "about": "Food insecurity / Nutrition policy"
     },
     {
       "@type": "Review",
@@ -773,8 +857,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "reviewRating": [
         {
@@ -789,8 +873,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America & USDA Economic Research Service",
-      "dud:domain": "Food security / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America & USDA Economic Research Service"
+      },
+      "about": "Food security / Nutrition"
     },
     {
       "@type": "Review",
@@ -799,8 +886,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Examining neighborhood-level hot and cold spots of food insecurity in relation to social vulnerability in Houston, Texas",
-        "dud:publication_id": "pub.1156176400",
-        "identifier": "10.1371/journal.pone.0280620"
+        "identifier": "10.1371/journal.pone.0280620",
+        "url": "https://app.dimensions.ai/details/publication/pub.1156176400"
       },
       "reviewRating": [
         {
@@ -815,8 +902,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food insecurity estimation"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food insecurity estimation"
     },
     {
       "@type": "Review",
@@ -825,8 +915,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in the Rural South in the Wake of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1167613936",
-        "identifier": "10.18103/mra.v11i12.4593"
+        "identifier": "10.18103/mra.v11i12.4593",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167613936"
       },
       "reviewRating": [
         {
@@ -841,8 +931,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -851,8 +944,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Food Insecurity in the Rural South in the Wake of the COVID-19 Pandemic",
-        "dud:publication_id": "pub.1167613936",
-        "identifier": "10.18103/mra.v11i12.4593"
+        "identifier": "10.18103/mra.v11i12.4593",
+        "url": "https://app.dimensions.ai/details/publication/pub.1167613936"
       },
       "reviewRating": [
         {
@@ -867,8 +960,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Public health / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Public health / Nutrition"
     },
     {
       "@type": "Review",
@@ -877,8 +973,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "reviewRating": [
         {
@@ -893,8 +989,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America (Map the Meal Gap project)",
-      "dud:domain": "Food security / public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America (Map the Meal Gap project)"
+      },
+      "about": "Food security / public health"
     },
     {
       "@type": "Review",
@@ -903,8 +1002,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The indirect effects of food insecurity on obesogenic environments",
-        "dud:publication_id": "pub.1154285080",
-        "identifier": "10.3389/fpubh.2022.1052957"
+        "identifier": "10.3389/fpubh.2022.1052957",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154285080"
       },
       "reviewRating": [
         {
@@ -919,8 +1018,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Map the Meal Gap project (University of Washington)",
-      "dud:domain": "Food security / nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Map the Meal Gap project (University of Washington)"
+      },
+      "about": "Food security / nutrition"
     },
     {
       "@type": "Review",
@@ -929,8 +1031,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A new approach to a wicked problem: development of a cross-sector community-centered learning network to tackle childhood food inequity",
-        "dud:publication_id": "pub.1175853758",
-        "identifier": "10.3389/fpubh.2024.1436760"
+        "identifier": "10.3389/fpubh.2024.1436760",
+        "url": "https://app.dimensions.ai/details/publication/pub.1175853758"
       },
       "reviewRating": [
         {
@@ -945,8 +1047,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food Insecurity"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food Insecurity"
     },
     {
       "@type": "Review",
@@ -955,8 +1060,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "An Analysis of Socioeconomic Determinants of the Black–White Disparity in Food Insecurity Rates in the US",
-        "dud:publication_id": "pub.1158592870",
-        "identifier": "10.3390/foods12112228"
+        "identifier": "10.3390/foods12112228",
+        "url": "https://app.dimensions.ai/details/publication/pub.1158592870"
       },
       "reviewRating": [
         {
@@ -971,8 +1076,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Public health / Nutrition / Socio‑economic research"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Public health / Nutrition / Socio‑economic research"
     },
     {
       "@type": "Review",
@@ -981,8 +1089,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Rural SNAP Participants and Food Insecurity: How Can Communities Leverage Resources to Meet the Growing Food Insecurity Status of Rural and Low-Income Residents?",
-        "dud:publication_id": "pub.1130225825",
-        "identifier": "10.3390/ijerph17176037"
+        "identifier": "10.3390/ijerph17176037",
+        "url": "https://app.dimensions.ai/details/publication/pub.1130225825"
       },
       "reviewRating": [
         {
@@ -997,8 +1105,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Map the Meal Gap (University of Tennessee, Knoxville)",
-      "dud:domain": "Food Security / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Map the Meal Gap (University of Tennessee, Knoxville)"
+      },
+      "about": "Food Security / Public Health"
     },
     {
       "@type": "Review",
@@ -1007,8 +1118,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Built Environment and Gender-Based Vulnerability as Key Drivers of Food Insecurity in Allegheny County",
-        "dud:publication_id": "pub.1173791096",
-        "identifier": "10.3390/ijerph21070906"
+        "identifier": "10.3390/ijerph21070906",
+        "url": "https://app.dimensions.ai/details/publication/pub.1173791096"
       },
       "reviewRating": [
         {
@@ -1023,8 +1134,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "https://www.feedingamerica.org/",
-      "dud:domain": "Food security / Public health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "https://www.feedingamerica.org/"
+      },
+      "about": "Food security / Public health"
     },
     {
       "@type": "Review",
@@ -1033,8 +1147,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "A decade of the Missouri Hunger Atlas: Information for action",
-        "dud:publication_id": "pub.1151845578",
-        "identifier": "10.5304/jafscd.2022.121.003"
+        "identifier": "10.5304/jafscd.2022.121.003",
+        "url": "https://app.dimensions.ai/details/publication/pub.1151845578"
       },
       "reviewRating": [
         {
@@ -1049,8 +1163,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Feeding America",
-      "dud:domain": "Food Insecurity / Nutrition"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Feeding America"
+      },
+      "about": "Food Insecurity / Nutrition"
     },
     {
       "@type": "Review",
@@ -1059,8 +1176,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "State-Level and County-Level Estimates of Health Care Costs Associated with Food Insecurity",
-        "dud:publication_id": "pub.1117964494",
-        "identifier": "10.5888/pcd16.180549"
+        "identifier": "10.5888/pcd16.180549",
+        "url": "https://app.dimensions.ai/details/publication/pub.1117964494"
       },
       "reviewRating": [
         {
@@ -1075,8 +1192,11 @@
         }
       ],
       "dud:dataset_usage_status": "discovered",
-      "dud:source": "Reference 10 in the paper; MMG website http://map.feedingamerica.org/.",
-      "dud:domain": "Food Security / Public Health"
+      "sdPublisher": {
+        "@type": "Organization",
+        "name": "Reference 10 in the paper; MMG website http://map.feedingamerica.org/."
+      },
+      "about": "Food Security / Public Health"
     },
     {
       "@type": "Review",
@@ -1085,8 +1205,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "dud:publication_id": "pub.1171707895",
-        "identifier": "10.1002/aepp.13441"
+        "identifier": "10.1002/aepp.13441",
+        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
       },
       "dud:joinDetail": {
         "partnerDataset": "Imputed ACS food‑security estimates (household‑level)",
@@ -1109,8 +1229,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Statewide Universal School Meal Policies and Food Insecurity in Households with Children",
-        "dud:publication_id": "pub.1189644647",
-        "identifier": "10.1016/j.amepre.2025.107942"
+        "identifier": "10.1016/j.amepre.2025.107942",
+        "url": "https://app.dimensions.ai/details/publication/pub.1189644647"
       },
       "dud:joinDetail": {
         "partnerDataset": "Primary caregiver survey data (Galloway Research Service)",
@@ -1133,8 +1253,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "dud:joinDetail": {
         "partnerDataset": "Illinois Department of Children and Family Services (DCFS) child maltreatment records",
@@ -1157,8 +1277,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "dud:joinDetail": {
         "partnerDataset": "USDA Rural‑Urban Continuum Codes (RUCC)",
@@ -1181,8 +1301,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1148761956",
-        "identifier": "10.1016/j.annepidem.2022.06.002"
+        "identifier": "10.1016/j.annepidem.2022.06.002",
+        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) determinants of food insecurity",
@@ -1205,8 +1325,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "dud:publication_id": "pub.1154510004",
-        "identifier": "10.1016/j.annepidem.2023.01.008"
+        "identifier": "10.1016/j.annepidem.2023.01.008",
+        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
       },
       "dud:joinDetail": {
         "partnerDataset": "Illinois Department of Children and Family Services (DCFS) child maltreatment records",
@@ -1229,8 +1349,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "dud:publication_id": "pub.1105225625",
-        "identifier": "10.1016/j.ssmph.2018.06.006"
+        "identifier": "10.1016/j.ssmph.2018.06.006",
+        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
       },
       "dud:joinDetail": {
         "partnerDataset": "Robert Wood Johnson Foundation County Health Rankings (CHRs) health variables (2014)",
@@ -1253,8 +1373,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The association between food insecurity and gun violence in a major metropolitan city",
-        "dud:publication_id": "pub.1145980582",
-        "identifier": "10.1097/ta.0000000000003578"
+        "identifier": "10.1097/ta.0000000000003578",
+        "url": "https://app.dimensions.ai/details/publication/pub.1145980582"
       },
       "dud:joinDetail": {
         "partnerDataset": "University Medical Center (UMC) Trauma Registry",
@@ -1277,8 +1397,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "dud:joinDetail": {
         "partnerDataset": "National Child Abuse and Neglect Data System (NCANDS) Child Files",
@@ -1301,8 +1421,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) control variables",
@@ -1325,8 +1445,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "dud:publication_id": "pub.1146568849",
-        "identifier": "10.1177/08862605221080148"
+        "identifier": "10.1177/08862605221080148",
+        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
       },
       "dud:joinDetail": {
         "partnerDataset": "Current Population Survey (CPS) variables (poverty, unemployment, median income, etc.)",
@@ -1349,8 +1469,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "dud:publication_id": "pub.1149003588",
-        "identifier": "10.13023/jah.0303.09"
+        "identifier": "10.13023/jah.0303.09",
+        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates",
@@ -1373,8 +1493,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "American Community Survey (ACS)",
@@ -1397,8 +1517,8 @@
       "citation": {
         "@type": "ScholarlyArticle",
         "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "dud:publication_id": "pub.1142347961",
-        "identifier": "10.2139/ssrn.3954513"
+        "identifier": "10.2139/ssrn.3954513",
+        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
       },
       "dud:joinDetail": {
         "partnerDataset": "Social Security Administration (SSA) DI award data",
