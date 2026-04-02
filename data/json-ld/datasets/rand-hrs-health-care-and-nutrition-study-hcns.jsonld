@@ -1,0 +1,1017 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "RAND HRS Health Care and Nutrition Study (HCNS)",
+  "identifier": "c3f0e4c8-40a5-4edf-b9c1-d7948147ceb5",
+  "alternateName": [
+    "Health Care and Nutrition Study",
+    "HCNS",
+    "HRS Health Care and Nutrition Study",
+    "2013 Health Care and Nutrition Study"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey providing detailed dietary intake data for US adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of Food Insecurity With Allostatic Load Among Older Adults in the US",
+        "dud:publication_id": "pub.1143583857",
+        "identifier": "10.1001/jamanetworkopen.2021.37503"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Not specified in the excerpt (likely a national nutrition survey)",
+      "dud:domain": "Nutrition epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental module of the Health and Retirement Study that collected detailed information on health care access, food purchases, and nutrition, including the 6‑item food‑security module.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Memory, and Dementia Among US Adults Aged 50 Years and Older",
+        "dud:publication_id": "pub.1166063765",
+        "identifier": "10.1001/jamanetworkopen.2023.44186"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (University of Michigan)",
+      "dud:domain": "Nutrition, health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental mail survey linked to HRS that gathered detailed nutrition and food‑security information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and cognitive domains among older United States adults: Findings from the health and retirement study",
+        "dud:publication_id": "pub.1190876814",
+        "identifier": "10.1002/alz.70480"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "HCNS, a supplemental module of the Health and Retirement Study.",
+      "dud:domain": "Nutrition, public health, aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental mail‑out questionnaire to a random subsample of HRS respondents, collecting detailed information on health care access, food purchases, consumption, and nutrition.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security status and breast cancer screening among women in the United States: Evidence from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1154831711",
+        "identifier": "10.1007/s10552-023-01667-1"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study supplemental module (https://hrs.isr.umich.edu)",
+      "dud:domain": "Nutrition, health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A one‑time supplement to the Health and Retirement Study focused on health care utilization and nutrition, including food security items.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
+        "dud:publication_id": "pub.1119798005",
+        "identifier": "10.1007/s12571-019-00945-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (HRS) supplemental module",
+      "dud:domain": "Nutrition / Food Security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental mail‑survey administered to a subset of HRS participants in 2013, collecting detailed food‑frequency questionnaire and health‑care information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations between cross-sectional and long-term food insecurity with dietary quality among middle-aged and older United Study adults: A Cohort Study from the Health and Retirement Study",
+        "dud:publication_id": "pub.1191440360",
+        "identifier": "10.1016/j.ajcnut.2025.07.029"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Conducted as part of the HRS by the University of Michigan.",
+      "dud:domain": "Nutrition, health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental HRS module administered in 2013 that collected health‑care access, nutrition, and food‑security information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, inflammation, and immune function among older US adults: Findings from the health and Retirement study",
+        "dud:publication_id": "pub.1170199136",
+        "identifier": "10.1016/j.bbi.2024.03.034"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study supplemental data collection",
+      "dud:domain": "Health services research / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A dataset linked to the Health and Retirement Study that provides detailed nutrition information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Association Between Food Security and Mammography Screening: Cross-Sectional Survey Results From the National Health Interview Survey",
+        "dud:publication_id": "pub.1172370731",
+        "identifier": "10.1016/j.jacr.2024.05.005"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health Care and Nutrition Study (HCNS)",
+      "dud:domain": "Nutrition / health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental HRS survey module administered in 2013 that collected detailed health‑care utilization and nutrition information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
+        "dud:publication_id": "pub.1186196555",
+        "identifier": "10.1016/j.jand.2025.02.012"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "HRS supplemental data; public‑use file linked to HRS core respondents.",
+      "dud:domain": "Nutrition, Health Services Research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A 2013 sub‑study of the HRS that gathered detailed health‑care utilization, food purchase, and nutrition information from a subsample of HRS participants.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Race and Ethnicity, and Cognitive Function Among United States Older Adults",
+        "dud:publication_id": "pub.1166094883",
+        "identifier": "10.1016/j.tjnut.2023.11.015"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan, funded by USDA Agricultural Research Service.",
+      "dud:domain": "Nutrition and health survey within a longitudinal cohort"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental mailed survey administered to a subset of HRS participants that collected detailed food intake and nutrition information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Longitudinal Associations of Diet, Food Insecurity, and Supplemental Nutrition Assistance Program Use with Global Cognitive Performance in Middle-Aged and Older Adults",
+        "dud:publication_id": "pub.1167387591",
+        "identifier": "10.1016/j.tjnut.2023.12.042"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Conducted by the Health and Retirement Study team",
+      "dud:domain": "Nutrition Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental survey administered in 2013 to a subset of HRS participants, focusing on health care utilization, nutrition, and food environment variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1105444823",
+        "identifier": "10.1016/j.ypmed.2018.07.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (University of Michigan)",
+      "dud:domain": "Nutrition / Health Care"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental survey linked to HRS that collected detailed dietary intake information via a food frequency questionnaire in 2013‑2014.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ultra-processed foods consumption among a USA representative sample of middle-older adults: a cross-sectional analysis",
+        "dud:publication_id": "pub.1167656766",
+        "identifier": "10.1017/s0007114523003033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (HRS) supplemental module",
+      "dud:domain": "Nutrition and health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A 2013 supplemental survey administered to a sub‑sample of HRS respondents, collecting detailed information on health care utilization and nutrition, including food security measures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Chronic disease burden predicts food insecurity among older adults",
+        "dud:publication_id": "pub.1100754932",
+        "identifier": "10.1017/s1368980017004062"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (University of Michigan)",
+      "dud:domain": "Public health / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental survey linked to the HRS that gathers detailed nutrition information via a food frequency questionnaire.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
+        "dud:publication_id": "pub.1117637384",
+        "identifier": "10.1017/s1368980019001496"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Survey Research Center at the Institute for Social Research, University of Michigan",
+      "dud:domain": "Nutrition/Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A study combining health care utilization and nutrition data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Relationship Between Food Insecurity and Functional Limitations in Older Adults from 2005–2014 NHANES",
+        "dud:publication_id": "pub.1116013093",
+        "identifier": "10.1080/21551197.2019.1617219"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Health services / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A study that collected health care utilization and nutrition information for older adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Dietary Quality in Older Adults: Do Nutrition Assistance Programs Play a Protective Role?",
+        "dud:publication_id": "pub.1128044169",
+        "identifier": "10.1093/cdn/nzaa061_007"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "2013 wave of the Health Care and Nutrition Study",
+      "dud:domain": "Nutrition / Aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A study providing health care and nutrition information, likely a sub‑study linked to the HRS cohort.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Dietary Quality Predicts Short-Term Change in Mobility Limitations in Older U.S. Adults",
+        "dud:publication_id": "pub.1133656474",
+        "identifier": "10.1093/geroni/igaa057.773"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Health/Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A study linking health care utilization with nutrition data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Pragmatic trial evaluating a randomly allocated Supplemental Nutrition Assistance Program outreach and enrolment assistance programme in Michigan: study protocol",
+        "dud:publication_id": "pub.1192631715",
+        "identifier": "10.1136/bmjopen-2025-101369"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Reference citation within the manuscript.",
+      "dud:domain": "Health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A study that combines health care utilization records with nutrition survey data (specific details not provided in the current paper).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development and Psychometric Evaluation of a Food Resource Acceptability Questionnaire",
+        "dud:publication_id": "pub.1164499193",
+        "identifier": "10.1177/01939459231204288"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Not explicitly stated in the current text",
+      "dud:domain": "Public health / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental module of the HRS that collected detailed nutrition and food‑security information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and oral health in older adults",
+        "dud:publication_id": "pub.1181621877",
+        "identifier": "10.3389/froh.2024.1400591"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Embedded within the Health and Retirement Study; administered by the University of Michigan.",
+      "dud:domain": "Nutrition/Social Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state: “We combined HCNS data with outcome and covariate data from the broader HRS survey.” HCNS provided the food‑security exposure, while HRS supplied the repeated cognitive outcomes, demographics, and socioeconomic covariates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Memory, and Dementia Among US Adults Aged 50 Years and Older",
+        "dud:publication_id": "pub.1166063765",
+        "identifier": "10.1001/jamanetworkopen.2023.44186"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) main longitudinal survey",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\",\"wave_year\"]",
+        "methodology": "The authors linked the Health Care and Nutrition Study (HCNS) to the main Health and Retirement Study (HRS) by using the unique respondent identifier that is common to both datasets. After extracting the HCNS records for the 2013 wave, they merged these records with the longitudinal HRS core data th"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state they “merged HCNS and HRS data on unique respondent identifiers” to create the analytic sample of 2,861 women. This merge combines demographic, socioeconomic, and health‑care variables from the core HRS with food‑security variables collected in the HCNS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security status and breast cancer screening among women in the United States: Evidence from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1154831711",
+        "identifier": "10.1007/s10552-023-01667-1"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) – 2014 wave",
+        "joinType": "merge",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The authors combined the 2013 Health Care and Nutrition Study (HCNS) with the 2014 Health and Retirement Study (HRS) by performing a deterministic merge on the unique respondent identifier that is common to both surveys. The identifier was first verified for consistency across the two files, and any"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "After merging the two HRS waves, the authors applied propensity‑score weighting that incorporates the original HRS survey weights together with the HCNS‑derived food‑security variable, effectively integrating weight information across datasets for analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security status and breast cancer screening among women in the United States: Evidence from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1154831711",
+        "identifier": "10.1007/s10552-023-01667-1"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) – combined 2014/2016 data",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The two data sources were merged by matching the unique respondent identifier that is present in both the Health and Retirement Study core file and the Health Care and Nutrition Study supplement. The merge was performed before any weighting or modeling steps so that each respondent had a single reco"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors combined the nationally‑representative HRS panel data with the off‑year HCNS supplement to obtain food environment and consumption information alongside social support, monetary resources, and covariates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
+        "dud:publication_id": "pub.1119798005",
+        "identifier": "10.1007/s12571-019-00945-8"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) 2012",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\",\"wave_year\"]",
+        "methodology": "The researchers linked the 2012 Health and Retirement Study (HRS) core interview data with the 2013 Health Care and Nutrition Study (HCNS) supplement by matching each participant’s unique respondent identifier across the two datasets. After extracting the relevant variables from both sources, they p"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state that “These two data sources were then merged with data on dementia status …”. HCNS provided food‑insecurity and dietary‑intake variables (USDA 6‑item food‑security module and Harvard FFQ‑derived HEI‑2015) which were combined with the longitudinal HRS core variables for the same re",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
+        "dud:publication_id": "pub.1186196555",
+        "identifier": "10.1016/j.jand.2025.02.012"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) core data",
+        "joinType": "merge",
+        "joinKeys": "[\"hhidpn\"]",
+        "methodology": "The authors extracted the 2013 Health Care and Nutrition Study (HCNS) file and the RAND longitudinal HRS core file. Both datasets contain the unique respondent identifier hhidpn. After restricting the HRS sample to participants who were interviewed in the 2012 and 2014 waves and had a dementia proba"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The RAND file provides curated HRS core variables; the authors combined it with HCNS variables (food insecurity, diet quality) to create the analytic dataset for 2012‑2020 analyses.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
+        "dud:publication_id": "pub.1186196555",
+        "identifier": "10.1016/j.jand.2025.02.012"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "RAND longitudinal HRS dataset (randhrs1992_2018v2)",
+        "joinType": "combination",
+        "joinKeys": "[\"respondent_id\",\"wave_year\"]",
+        "methodology": "The authors first extracted the curated core variables from the RAND longitudinal HRS file (randhrs1992_2018v2). They then extracted food insecurity and diet quality variables from the 2013 Health Care and Nutrition Study (HCNS). A unique respondent identifier present in both sources (the HRS househ"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors combined respondent‑level records from the HRS core waves with the HCNS questionnaire to obtain food‑security status, dietary intake (FFQ), and SNAP participation for the same participants.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) core longitudinal data",
+        "joinType": "merge",
+        "joinKeys": "[\"RID\"]",
+        "methodology": "The researchers extracted the respondent level records from the HRS core longitudinal file and the 2013 Health Care and Nutrition Study supplement. Both files contain the unique HRS respondent identifier (RID). After verifying that the identifiers were consistent, the two datasets were sorted by RID"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "FFQ items were matched to the Harvard nutrient tables to calculate daily caloric intake and the proportion of calories derived from ultra‑processed foods (UPFs).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Harvard School of Public Health nutrient composition tables",
+        "joinType": "integration",
+        "joinKeys": "[\"food_name\",\"food_code\"]",
+        "methodology": "The Food Frequency Questionnaire (FFQ) items from the HCNS were first extracted and cleaned. Food‑item names were standardized to lower case, trimmed of extra spaces and punctuation, and mapped to a reference list of food descriptions from the Harvard School of Public Health nutrient composition tab"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "SNAP participation, collected in the 2012 HRS core, was linked to the 2013 HCNS respondents to assess its modifying effect on the food‑insecurity‑UPF relationship.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "2012 HRS core visit data (SNAP participation variable)",
+        "joinType": "merge",
+        "joinKeys": "[\"HHID\",\"PID\"]",
+        "methodology": "The SNAP participation variable was extracted from the 2012 HRS core file and the food‑security, dietary intake and NOVA classification variables were extracted from the 2013 HCNS file. Both files contain the HRS unique household identifier (HHID) and the respondent identifier (PID). After harmonisi"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.9
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The publicly available RAND HRS longitudinal file was used as the primary source of HRS variables (e.g., wealth, demographics) that were combined with the HCNS supplement for analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "RAND HRS Longitudinal File 2020 (V1)",
+        "joinType": "combination",
+        "joinKeys": "[\"hhidpn\",\"interview_year\"]",
+        "methodology": "The RAND HRS longitudinal file (core wave variables) and the 2013 Health Care and Nutrition Study (HCNS) supplement were merged by matching the unique respondent identifier that is present in both files. An inner join was performed so that only respondents with complete information in both datasets "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "All descriptive and regression estimates were weighted using the HCNS sample weights to make results nationally representative, requiring the merging of the analytical dataset (HRS + HCNS variables) with the HCNS weight file.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Race and Ethnicity, and Cognitive Function Among United States Older Adults",
+        "dud:publication_id": "pub.1166094883",
+        "identifier": "10.1016/j.tjnut.2023.11.015"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Sample weight files from HCNS",
+        "joinType": "combination",
+        "joinKeys": "[\"respondent_id\",\"wave_year\"]",
+        "methodology": "The analytical dataset was built by first extracting the required variables from the HRS core files and the 2013 HCNS questionnaire. The HCNS weight file, which contains the cross‑sectional sample weights for each respondent, was then merged with the analytical dataset. An exact match on the unique "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "All descriptive and regression estimates were weighted using the HCNS sample weights to make results nationally representative, requiring the merging of the analytical dataset (HRS + HCNS variables) with the HCNS weight file.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Race and Ethnicity, and Cognitive Function Among United States Older Adults",
+        "dud:publication_id": "pub.1166094883",
+        "identifier": "10.1016/j.tjnut.2023.11.015"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) core data + HCNS data",
+        "joinType": "combination",
+        "joinKeys": "[\"respondent_id\",\"wave_year\"]",
+        "methodology": "The analytical dataset was built by first extracting the required variables from the HRS core files and the 2013 HCNS questionnaire. The HCNS weight file, which contains the cross‑sectional sample weights for each respondent, was then merged with the analytical dataset. An exact match on the unique "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Food intake data collected in the HCNS survey were linked to longitudinal health, cognition, and socioeconomic information from five biennial waves of the HRS to create the analytic sample of 6,968 adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Longitudinal Associations of Diet, Food Insecurity, and Supplemental Nutrition Assistance Program Use with Global Cognitive Performance in Middle-Aged and Older Adults",
+        "dud:publication_id": "pub.1167387591",
+        "identifier": "10.1016/j.tjnut.2023.12.042"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) – 5 waves (2012‑2020)",
+        "joinType": "integration",
+        "joinKeys": "[\"HHIDPN\"]",
+        "methodology": "The HCNS survey was administered to a random subsample of HRS participants in 2012. Respondents have a unique HRS identifier (HHIDPN). Food intake variables from HCNS were merged with the longitudinal HRS core files using this identifier. After extracting the baseline HCNS record and the five bienni"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors combined the biennial HRS panel data (2012 wave) with the off‑year HCNS supplement (2013) to create a single analytic sample of older adults, applying exclusion criteria across both datasets and using HCNS person‑level weights in the regression models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1105444823",
+        "identifier": "10.1016/j.ypmed.2018.07.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS)",
+        "joinType": "integration",
+        "joinKeys": "[\"person_id\"]",
+        "methodology": "The authors merged the biennial Health and Retirement Study (HRS) core panel data from the 2012 wave with the off‑year Health Care and Nutrition Study (HCNS) supplement collected in 2013. A deterministic, key‑based merge was performed using the unique respondent identifier that is common to both dat"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Participants who completed the core HRS interview in 2012 were linked to their corresponding HCNS questionnaire responses collected in 2013. The merged file supplied the socio‑demographic, health‑behavior, and wealth variables from the core survey together with the food‑frequency‑questionnaire (FFQ)",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ultra-processed foods consumption among a USA representative sample of middle-older adults: a cross-sectional analysis",
+        "dud:publication_id": "pub.1167656766",
+        "identifier": "10.1017/s0007114523003033"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) core interview data (2012)",
+        "joinType": "merge",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The researchers performed a deterministic merge of the 2012 core HRS interview file with the 2013 HCNS supplemental file. Both datasets contain a unique respondent identifier assigned by the HRS panel. The merge was executed by matching this identifier across the two files, retaining only records th"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Each FFQ item’s reported daily servings were matched to the corresponding food item in the Harvard nutrient tables to calculate calories and nutrient amounts (e.g., protein, vitamins, minerals). The resulting nutrient‑level variables were then used to assess associations with %UPF.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ultra-processed foods consumption among a USA representative sample of middle-older adults: a cross-sectional analysis",
+        "dud:publication_id": "pub.1167656766",
+        "identifier": "10.1017/s0007114523003033"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Harvard School of Public Health nutrient composition tables",
+        "joinType": "fusion",
+        "joinKeys": "[\"food_item_name\"]",
+        "methodology": "The researchers first extracted the daily serving frequency for each of the 163 FFQ items by converting the categorical response options into numeric servings per day. Food item names from the HCNS FFQ were then standardized (lower‑casing, removal of punctuation, expansion of abbreviations). A refer"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.1
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The researchers performed a secondary cross‑sectional analysis by linking the nationally representative longitudinal HRS dataset to its 2013 HCNS supplement, which contains food‑security questions. This linkage created a combined analytic sample of respondents who had both health/ sociodemographic d",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Chronic disease burden predicts food insecurity among older adults",
+        "dud:publication_id": "pub.1100754932",
+        "identifier": "10.1017/s1368980017004062"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) – 2012 core survey",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The researchers performed a secondary cross‑sectional analysis by linking the 2012 core HRS survey data to the 2013 HCNS supplemental questionnaire. The linkage relied on the unique respondent identifier assigned in the Health and Retirement Study, which is consistent across waves and supplemental m"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The researchers linked the 2012 HRS participant characteristics with the 2013 HCNS food frequency questionnaire data to create a combined analytic sample of older adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
+        "dud:publication_id": "pub.1117637384",
+        "identifier": "10.1017/s1368980019001496"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) – 2012 core data",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The researchers performed a deterministic key‑based integration of the 2012 Health and Retirement Study (HRS) core dataset with the 2013 Health Care and Nutrition Study (HCNS) food frequency questionnaire. Participant records were matched using the unique respondent identifier assigned by the HRS pa"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Food insecurity status was assessed using the USDA six‑item module and merged with participants’ HCNS dietary intake records for profile comparisons.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
+        "dud:publication_id": "pub.1117637384",
+        "identifier": "10.1017/s1368980019001496"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "US Household Food Security Survey Module (six‑item short form)",
+        "joinType": "merge",
+        "joinKeys": "[\"HRS respondent ID\",\"HCNS respondent ID\"]",
+        "methodology": "The researchers merged the USDA six‑item food security module responses with participants’ HCNS dietary intake records by linking each respondent’s unique identifier from the Health and Retirement Study (HRS) to the corresponding record in the Health Care and Nutrition Study (HCNS). After extracting"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.2
+        }
+      ]
+    }
+  ]
+}

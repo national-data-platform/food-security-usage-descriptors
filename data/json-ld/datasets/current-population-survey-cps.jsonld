@@ -1,0 +1,3782 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Current Population Survey (CPS)",
+  "identifier": "48359339-7741-48e3-8b5a-2eee6472b8e0",
+  "alternateName": [
+    "Cps",
+    "Cps-asec",
+    "Current Pop. Survey",
+    "Current Population Survey",
+    "https://www.census.gov/programs-surveys/cps.html"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the U.S. Census Bureau and the Bureau of Labor Statistics that provides labor market and demographic data, including the USDA’s food‑security estimates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among Individuals With Cardiovascular Disease and Cardiometabolic Risk Factors Across Race and Ethnicity in 1999-2018",
+        "dud:publication_id": "pub.1151411749",
+        "identifier": "10.1001/jamacardio.2022.3729"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Social statistics / economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Supplement providing annual estimates of poverty, income, and other economic indicators at state level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of WIC Participation and Electronic Benefits Transfer Implementation",
+        "dud:publication_id": "pub.1136688170",
+        "identifier": "10.1001/jamapediatrics.2020.6973"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Economic / poverty research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and Bureau of Labor Statistics that provides labor force, employment, and demographic data, often used as a benchmark for food‑security estimates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Chronic Food Insecurity in US Families With Children",
+        "dud:publication_id": "pub.1155096176",
+        "identifier": "10.1001/jamapediatrics.2022.5820"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A harmonized, publicly‑available repository of U.S. Census and CPS micro‑data, providing cleaned variables and documentation.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Resource booms, state economic conditions, and child food security",
+        "dud:publication_id": "pub.1151581478",
+        "identifier": "10.1002/aepp.13327"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "IPUMS (University of Minnesota) – CPS extracts",
+      "dud:domain": "Demography / Survey data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly/quarterly survey conducted by the U.S. Census Bureau and the Bureau of Labor Statistics that provides labor market and poverty statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics.",
+      "dud:domain": "Labor Economics, Poverty Measurement"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Annual supplement to the CPS providing detailed employment, income, and demographic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Paid family leave and the fight against hunger: Evidence from New York",
+        "dud:publication_id": "pub.1169770382",
+        "identifier": "10.1002/hec.4818"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 4.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor market, employment statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Monthly labor force survey that provides macro‑level employment and demographic statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Paid family leave and the fight against hunger: Evidence from New York",
+        "dud:publication_id": "pub.1169770382",
+        "identifier": "10.1002/hec.4818"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 3.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor economics, macro‑economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An annual supplement to the CPS that provides detailed economic and demographic variables, including simulated tax credits and earnings.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Hungry no More? The Joint Impact of Minimum Wages and the Earned Income Tax Credit on Food Insecurity",
+        "dud:publication_id": "pub.1189561723",
+        "identifier": "10.1002/hec.70001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Social/Economic – Income & Tax Simulations"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplement to the monthly Current Population Survey that provides detailed data on food security.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interventions to Reduce Food and Nutrition Insecurity Among Dental Students",
+        "dud:publication_id": "pub.1185368468",
+        "identifier": "10.1002/jdd.13839"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / USDA Economic Research Service",
+      "dud:domain": "Economics / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The core CPS monthly survey, fielded each December, providing demographic, employment, and income information for U.S. households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Medicaid generosity and food hardship among children",
+        "dud:publication_id": "pub.1166624456",
+        "identifier": "10.1002/pam.22557"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Household survey / Labor & income"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The March CPS supplement provides more detailed income data than the December supplement.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Medicaid generosity and food hardship among children",
+        "dud:publication_id": "pub.1166624456",
+        "identifier": "10.1002/pam.22557"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 5.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Household income data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly household survey conducted by the U.S. Census Bureau and Bureau of Labor Statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Risk for depression and suicidal ideation among food insecure US veterans: data from the National Health and Nutrition Examination Study",
+        "dud:publication_id": "pub.1136694758",
+        "identifier": "10.1007/s00127-021-02071-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / BLS",
+      "dud:domain": "Labor economics, demographics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the U.S. Census Bureau collecting labor market, income, and demographic information for households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food assistance programs and food insecurity: implications for Canada in light of the mixing problem",
+        "dud:publication_id": "pub.1027113243",
+        "identifier": "10.1007/s00181-016-1191-4"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Social/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly labor force survey that includes an 18‑item food‑security questionnaire; the authors use an abbreviated 6‑item version as a reference for constructing SIPP‑based items.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Material Hardship and the Living Arrangements of Older Americans",
+        "dud:publication_id": "pub.1146861610",
+        "identifier": "10.1007/s10834-022-09838-z"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau (Current Population Survey)",
+      "dud:domain": "Labor/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of about 60,000 U.S. households that collects labor market and demographic data, and includes the HFSS module.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations Between Food Insufficiency and Health Conditions Among New York City Adults, 2017–2018",
+        "dud:publication_id": "pub.1169192078",
+        "identifier": "10.1007/s10900-023-01296-4"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & U.S. Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / social statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The Current Population Survey, a monthly household survey conducted by the U.S. Census Bureau, includes a food security module used to assess adult and child food insecurity in 1996.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Adult and Child Food Insecurity Among Homeless and Precariously-Housed Families at the Close of the Twentieth Century",
+        "dud:publication_id": "pub.1125951530",
+        "identifier": "10.1007/s11113-020-09577-9"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demography / household economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly panel survey conducted by the U.S. Census Bureau that collects demographic, economic, and housing data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Family Structure and Child Food Insecurity: Evidence from the Current Population Survey",
+        "dud:publication_id": "pub.1090855981",
+        "identifier": "10.1007/s11205-017-1700-7"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau.",
+      "dud:domain": "Social science / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of households that collects labor market and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Environment Quality and Cardiovascular Disease Mortality in the United States: a County-Level Analysis from 2017 to 2019",
+        "dud:publication_id": "pub.1162837488",
+        "identifier": "10.1007/s11606-023-08335-9"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / demographics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that collects labor market and demographic data, often including the HFSSM module for food security.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among parents of young children in the United States and Australia: focusing on etiology and outcomes",
+        "dud:publication_id": "pub.1149183763",
+        "identifier": "10.1007/s12571-022-01303-x"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau and Bureau of Labor Statistics",
+      "dud:domain": "Labor Economics / Demography / Food Security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A harmonized, cleaned version of the CPS and its Food Security Supplement made available through the IPUMS portal.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among immigrant populations in the United States",
+        "dud:publication_id": "pub.1151706316",
+        "identifier": "10.1007/s12571-022-01322-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "IPUMS (University of Minnesota) – draws from BLS CPS",
+      "dud:domain": "Survey micro‑data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of about 60,000 U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, used to estimate labor force characteristics and food‑security status via the HFSSM.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
+        "dud:publication_id": "pub.1149272027",
+        "identifier": "10.1007/s12603-022-1816-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 6.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the U.S. Census Bureau and the U.S. Bureau of Labor Statistics that provides labor force statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Relationships Among COVID-19 Contraction, Job Loss, and Food Insecurity in American Indian and Alaska Native Peoples",
+        "dud:publication_id": "pub.1191378644",
+        "identifier": "10.1007/s40615-025-02561-z"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics.",
+      "dud:domain": "Labor Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau for the Bureau of Labor Statistics, providing labor market and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities",
+        "dud:publication_id": "pub.1167510317",
+        "identifier": "10.1016/j.ajcnut.2023.12.019"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households covering demographic and economic characteristics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Dietary Quality of Americans by Supplemental Nutrition Assistance Program Participation Status A Systematic Review",
+        "dud:publication_id": "pub.1005464936",
+        "identifier": "10.1016/j.amepre.2015.04.035"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Demographics/Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly labor‑force survey of about 50,000 U.S. households conducted by the U.S. Census Bureau, including the Food Security Supplement.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "State-Level Socioeconomic Racial Inequity and Food Insecurity in the U.S.",
+        "dud:publication_id": "pub.1150128589",
+        "identifier": "10.1016/j.amepre.2022.06.019"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Social/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that provides labor force statistics and other economic indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1154510004",
+        "identifier": "10.1016/j.annepidem.2023.01.008"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / Household surveys"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau, used for labor statistics and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity across the first five years: Triggers of onset and exit",
+        "dud:publication_id": "pub.1027400323",
+        "identifier": "10.1016/j.childyouth.2015.03.012"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor/Economic Statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, providing labor force statistics and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Adolescent food insecurity and risky behaviors and mental health during the transition to adulthood",
+        "dud:publication_id": "pub.1117870595",
+        "identifier": "10.1016/j.childyouth.2019.104416"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey by the U.S. Census Bureau collecting labor market information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unhealthy dietary patterns in the American Nations: A crisis with cultural distinctions",
+        "dud:publication_id": "pub.1170209148",
+        "identifier": "10.1016/j.cpcardiol.2024.102558"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau (Current Population Survey)",
+      "dud:domain": "Labor economics / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau to collect labor market data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security among young adults with disabilities in the United States: Findings from the National Health Interview Survey",
+        "dud:publication_id": "pub.1023565273",
+        "identifier": "10.1016/j.dhjo.2015.10.003"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Labor/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households collecting labor market data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and disability in the United States",
+        "dud:publication_id": "pub.1107429798",
+        "identifier": "10.1016/j.dhjo.2018.09.006"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and Bureau of Labor Statistics, often used to produce USDA food‑security estimates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Disparities Among Immigrants in the U.S.",
+        "dud:publication_id": "pub.1158724600",
+        "identifier": "10.1016/j.focus.2023.100113"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the U.S. Census Bureau and the Bureau of Labor Statistics that provides data on labor force statistics, demographics, and other socioeconomic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Retrospective review of food insecurity screening in an outpatient stroke clinic using electronic and paper-based surveys",
+        "dud:publication_id": "pub.1174669990",
+        "identifier": "10.1016/j.heliyon.2024.e36142"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that collects labor market and demographic data, including the USDA 18‑item Food Security Survey Module.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Measuring Food Security among American Indian and Alaska Native Adults: Validity Evidence Supports the Use of the US Department of Agriculture Module",
+        "dud:publication_id": "pub.1164165405",
+        "identifier": "10.1016/j.jand.2023.02.017"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics.",
+      "dud:domain": "Labor economics / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, often used for labor and income statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among Aging SNAP Participants and Eligible Nonparticipants in Two Predominantly Low-Income Black Neighborhoods: Implications for SNAP Enrollment and Outreach for Older Adults",
+        "dud:publication_id": "pub.1167672677",
+        "identifier": "10.1016/j.jand.2023.12.011"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics",
+      "dud:domain": "Labor economics, public policy"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Bureau of Labor Statistics and Census Bureau, providing labor market and demographic data, including food‑security modules.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Financial Well-being and Health-Related Quality of Life are Associated with Transitions in Food Insecurity Status among Recipients of Charitable Food Assistance in Atlanta, GA and Houston, TX",
+        "dud:publication_id": "pub.1190134271",
+        "identifier": "10.1016/j.jand.2025.06.030"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics / U.S. Census Bureau",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Labor force data collected via the CPS, providing employment and unemployment metrics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Addressing College Food Insecurity: An Assessment of Federal Legislation Before and During Coronavirus Disease-2019",
+        "dud:publication_id": "pub.1130357108",
+        "identifier": "10.1016/j.jneb.2020.07.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics (BLS)",
+      "dud:domain": "Economics / Labor Market"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Annual labor market data on employment, unemployment, and labor force characteristics for the U.S. population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among College Students: An Analysis of US State Legislation Through 2020",
+        "dud:publication_id": "pub.1133879383",
+        "identifier": "10.1016/j.jneb.2020.11.010"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics (BLS)",
+      "dud:domain": "Labor economics / Employment statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A continuous national survey conducted by the US Census Bureau and BLS that includes food‑security modules.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Persistent and Episodic Food Insecurity and Associated Coping Strategies Among College Students",
+        "dud:publication_id": "pub.1151479504",
+        "identifier": "10.1016/j.jneb.2022.06.003"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor / Economic Statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The CPS is a monthly survey of US households conducted by the Census Bureau and BLS; the March Annual Demographic Survey provides demographic benchmarks used for post‑stratification.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "High Prevalence of Food Insecurity and Related Disparities Among US College and University Students From 2015–2019",
+        "dud:publication_id": "pub.1166292116",
+        "identifier": "10.1016/j.jneb.2023.10.013"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 5.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor and demographic statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households conducted by the Census Bureau and BLS, collecting labor force and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Association between Household Food Insecurity and Body Mass Index: A Prospective Growth Curve Analysis",
+        "dud:publication_id": "pub.1105901662",
+        "identifier": "10.1016/j.jpeds.2018.05.052"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Current Population Survey (CPS)",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the U.S. Census Bureau and the Bureau of Labor Statistics, collecting labor force, income, and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity: Comparing odds between working-age veterans and nonveterans with children",
+        "dud:publication_id": "pub.1131782977",
+        "identifier": "10.1016/j.outlook.2020.08.011"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / demographics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the U.S. Census Bureau and the Bureau of Labor Statistics that gathers labor market, demographic, and economic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and cardiovascular health: Findings from a statewide population health survey in Wisconsin",
+        "dud:publication_id": "pub.1027545051",
+        "identifier": "10.1016/j.ypmed.2016.09.002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / BLS",
+      "dud:domain": "Socio‑economic research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly household survey conducted by the U.S. Census Bureau for the Bureau of Labor Statistics, providing demographic and socioeconomic data including food security measures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Brief assessment of food insecurity accurately identifies high-risk US adults",
+        "dud:publication_id": "pub.1083848693",
+        "identifier": "10.1017/s1368980017000180"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics, public health, nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A brief two‑question screening tool for food insecurity included in the CPS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The importance of precision: differences in characteristics associated with levels of food security among college students",
+        "dud:publication_id": "pub.1125510515",
+        "identifier": "10.1017/s1368980019004026"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Food security / Survey methodology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the US Census Bureau that includes a ten‑item module assessing child food security; used here to classify households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Anthropometric characteristics of children living in food-insecure households in the USA",
+        "dud:publication_id": "pub.1138437235",
+        "identifier": "10.1017/s1368980021002378"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Census Bureau",
+      "dud:domain": "Socio‑economic / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Survey module that measures household food‑security status using 18 questions; administered annually as part of the CPS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The correlation between food insecurity and infant mortality in North Carolina",
+        "dud:publication_id": "pub.1145122721",
+        "identifier": "10.1017/s136898002200026x"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Nutrition / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "CPS is a monthly survey of US households collecting demographic and economic information, including food security questions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Food Insecurity and Adverse Human Health Outcomes in the United States",
+        "dud:publication_id": "pub.1185433555",
+        "identifier": "10.1029/2024gh001198"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "United States Census Bureau – Current Population Survey",
+      "dud:domain": "Socio‑economic / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the US Census Bureau that provides labor market statistics, including food security measures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Racial Differences in the Associations Between Food Insecurity and Fibroblast Growth Factor 23 in the Coronary Artery Risk Development in Young Adults Study",
+        "dud:publication_id": "pub.1125439346",
+        "identifier": "10.1053/j.jrn.2020.01.020"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Census Bureau",
+      "dud:domain": "Economics / Labor statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the U.S. Census Bureau that provides labor force, demographic, and income information at the household level; includes a Food Security Supplement.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Suburbanization of Food Insecurity: An Analysis of Projected Trends in the Atlanta Metropolitan Area",
+        "dud:publication_id": "pub.1090547009",
+        "identifier": "10.1080/00330124.2017.1325751"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demography / Labor Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Monthly labor market survey providing employment, unemployment, and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Intersectionality of Food Insecurity, Job Insecurity, Healthcare Insecurity, and Mental Health Challenges in NYC Households During Covid-19",
+        "dud:publication_id": "pub.1169291892",
+        "identifier": "10.1080/03670244.2024.2308669"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics.",
+      "dud:domain": "Labor economics, public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A component of the U.S. Census Bureau's CPS that includes food‑security items.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Hispanic Adults Attending English as a Second Language (ESL) Classes at an Adult School Are Food Insecure",
+        "dud:publication_id": "pub.1037395553",
+        "identifier": "10.1080/19320248.2015.1004219"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Food security measurement"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The core monthly household survey conducted by the U.S. Census Bureau, which provides a rotating panel of households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unpacking an Anomaly: Analyzing the 2005–2012 Current Population Survey to Understand Why Many Emergency Food Assistance Users Report Being Food Secure",
+        "dud:publication_id": "pub.1033456297",
+        "identifier": "10.1080/19320248.2016.1157548"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demographics, economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Annual survey by the U.S. Census Bureau providing detailed demographic, employment, and income information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Evaluating a Nutrition Education Program in an Era of Food Insecurity",
+        "dud:publication_id": "pub.1017133558",
+        "identifier": "10.1080/19320248.2016.1227748"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau CPS (2005‑2006).",
+      "dud:domain": "Demography / Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Bureau of Labor Statistics and the Census Bureau, used to generate national food‑security statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Survey Recruitment Bias and Estimates of College Student Food Insecurity",
+        "dud:publication_id": "pub.1165909168",
+        "identifier": "10.1080/19320248.2023.2276689"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics / Census Bureau",
+      "dud:domain": "Economics / Public Policy"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of about 60,000 U.S. households conducted by the U.S. Census Bureau and the Bureau of Labor Statistics, providing data on labor force characteristics and other topics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security Dynamics and Health: The Association Between Chronic Food Insecurity, Psychological Distress, and Self-Rated Health in the United States",
+        "dud:publication_id": "pub.1191123422",
+        "identifier": "10.1080/19320248.2025.2536232"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Monthly survey of U.S. households that includes food‑security related questions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Exploratory spatial analysis of food insecurity and diabetes: an application of multiscale geographically weighted regression",
+        "dud:publication_id": "pub.1158054298",
+        "identifier": "10.1080/19475683.2023.2208199"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics",
+      "dud:domain": "Socio‑economic / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics that collects data on labor force characteristics and other topics, including a food‑security module.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Obesity in US Adolescents: A Population-Based Analysis",
+        "dud:publication_id": "pub.1134787441",
+        "identifier": "10.1089/chi.2020.0158"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / Social statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplemental module of the CPS that collects food security information at the national level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "An Evaluation of Food Insecurity and Its Correlates in a Filipino American Study Sample Residing in Clark County, Nevada",
+        "dud:publication_id": "pub.1122014966",
+        "identifier": "10.1089/heq.2019.0074"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demography / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that includes a supplement measuring food security status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social Determinants of Health Associated with Mental Health Among U.S. Mothers with Children Aged 0–5 Years",
+        "dud:publication_id": "pub.1127889005",
+        "identifier": "10.1089/jwh.2019.8111"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau.",
+      "dud:domain": "Economic / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the U.S. Census Bureau that collects demographic, economic, and housing information from a representative sample of US households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity among American Indian and Alaska Native People: A Scoping Review to Inform Future Research and Policy Needs",
+        "dud:publication_id": "pub.1145041994",
+        "identifier": "10.1093/advances/nmac008"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demography / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households conducted by the U.S. Census Bureau, providing data on employment, income, and other demographic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity among College Students in the United States: A Scoping Review",
+        "dud:publication_id": "pub.1121585812",
+        "identifier": "10.1093/advances/nmz111"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demographics / economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Monthly labor‑force variables (employment status, hours worked, etc.) from the CPS core questionnaire, linked to the annual Food Security Supplement.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Teenage Labor Supply",
+        "dud:publication_id": "pub.1059354082",
+        "identifier": "10.1093/aepp/ppv007"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Census and U.S. Bureau of Labor Statistics (2001‑2012)",
+      "dud:domain": "Labor economics / household surveys"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the Bureau of Labor Statistics that includes a Food Security Supplement providing household food insecurity measures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Research in the United States: Where We Have Been and Where We Need to Go",
+        "dud:publication_id": "pub.1093159254",
+        "identifier": "10.1093/aepp/ppx058"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Bureau of Labor Statistics",
+      "dud:domain": "Labor Economics/Food Security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau to collect labor market information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Partial Identification Methods for Evaluating Food Assistance Programs: A Case Study of the Causal Impact of SNAP on Food Insecurity",
+        "dud:publication_id": "pub.1083930300",
+        "identifier": "10.1093/ajae/aax026"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and Bureau of Labor Statistics, often used to estimate labor and income statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Conceptualizing Food Insecurity Among Older Adults: Development of a Summary Indicator in the National Health and Aging Trends Study",
+        "dud:publication_id": "pub.1131107584",
+        "identifier": "10.1093/geronb/gbaa147"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics, public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, often used for labor and food‑security statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Dementia Risk in U.S. Older Adults: Evidence From the 2013–2021 Panel Study of Income Dynamics",
+        "dud:publication_id": "pub.1175520736",
+        "identifier": "10.1093/geronb/gbae153"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & BLS.",
+      "dud:domain": "Labor economics / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, often used for labor and income statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Seasonal Difference in National School Lunch Program Participation and Its Impacts on Household Food Security",
+        "dud:publication_id": "pub.1059647740",
+        "identifier": "10.1093/hsw/hlw043"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & BLS",
+      "dud:domain": "Social science / Labor economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplement to the CPS that includes detailed questions on household food security.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Seasonal Difference in National School Lunch Program Participation and Its Impacts on Household Food Security",
+        "dud:publication_id": "pub.1059647740",
+        "identifier": "10.1093/hsw/hlw043"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Nutrition / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of about 60,000 U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, used to collect labor force statistics and other demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Eggs as an affordable source of nutrients for adults and children living in food-insecure environments",
+        "dud:publication_id": "pub.1135884182",
+        "identifier": "10.1093/nutrit/nuab019"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Social statistics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly labor force survey that follows households in a 4‑8‑4 rotating panel design.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
+        "dud:publication_id": "pub.1170042926",
+        "identifier": "10.1093/poq/nfae001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Annual crime statistics compiled by the FBI; accessed through the ICPSR data archive.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "County-Level Associations Between Pregnancy-Related Mortality Ratios and Contextual Sociospatial Indicators",
+        "dud:publication_id": "pub.1147246557",
+        "identifier": "10.1097/aog.0000000000004749"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Justice / ICPSR",
+      "dud:domain": "Criminology / Social environment"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of about 60,000 US households conducted by the US Census Bureau and the Bureau of Labor Statistics, primarily used to estimate labor market statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association Between Food Insecurity and Developmental Delay and Behavioral Problems in US Children 2 to 5 Years of Age",
+        "dud:publication_id": "pub.1174737561",
+        "identifier": "10.1097/dbp.0000000000001307"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Census Bureau / Bureau of Labor Statistics.",
+      "dud:domain": "Labor economics / Social science"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly household survey conducted by the U.S. Census Bureau and the Bureau of Labor Statistics that provides labor market and demographic data for the U.S. population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Food Practices among Child Care Workers During COVID-19",
+        "dud:publication_id": "pub.1185809527",
+        "identifier": "10.1101/2025.02.20.25322598"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The March supplement of the Current Population Survey that includes detailed questions on receipt of means‑tested programs such as SNAP.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
+        "dud:publication_id": "pub.1148831422",
+        "identifier": "10.1111/ajae.12322"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau – Current Population Survey (March supplement)",
+      "dud:domain": "Labor & Social‑program participation"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Bureau of Labor Statistics and the Census Bureau, providing labor market statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Material hardship and use of social safety net programs among LGBT adults and their families",
+        "dud:publication_id": "pub.1181082564",
+        "identifier": "10.1111/asap.12432"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 5.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics / Census Bureau.",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the U.S. Census Bureau collecting labor market information and other demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Is Food Insecurity Associated with Depressive Symptoms in South Korea?",
+        "dud:publication_id": "pub.1015925111",
+        "identifier": "10.1111/aswp.12111"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Survey statistics / Labor economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of households conducted by the US Census Bureau and BLS, often used for labor and food‑security statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of household food insecurity and childhood weight status in a low‐income population",
+        "dud:publication_id": "pub.1130753128",
+        "identifier": "10.1111/cob.12401"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Bureau of Labor Statistics and Census Bureau, providing labor force and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and loneliness amongst older urban subsidised housing residents: The importance of social connectedness",
+        "dud:publication_id": "pub.1151152379",
+        "identifier": "10.1111/hsc.14027"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics / Census Bureau",
+      "dud:domain": "Labor economics / Demographics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Monthly household survey collecting labor market and demographic information, including food security modules.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Relationship between the School Breakfast Program and Food Insecurity",
+        "dud:publication_id": "pub.1091979697",
+        "identifier": "10.1111/joca.12163"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor/Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A curated dataset of U.S. state policy responses to COVID‑19 (e.g., stay‑at‑home orders, business closures).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The effect of natural disasters on household economic hardship during a pandemic",
+        "dud:publication_id": "pub.1150124874",
+        "identifier": "10.1111/joca.12480"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "OpenICPSR (Institute for Social Research)",
+      "dud:domain": "Public policy / COVID‑19 response"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A questionnaire module used to assess household food security status in the U.S. CPS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity: A Concept Analysis",
+        "dud:publication_id": "pub.1044121083",
+        "identifier": "10.1111/nuf.12118"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / USDA",
+      "dud:domain": "Public health / Socioeconomic research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households that provides data on labor market and income statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Socioeconomic position is associated with glycemic control in youth and young adults with type 1 diabetes",
+        "dud:publication_id": "pub.1130695688",
+        "identifier": "10.1111/pedi.13112"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Economic / Demographic statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey conducted by the U.S. Census Bureau collecting demographic and labor market information; 2015 edition referenced.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among college students",
+        "dud:publication_id": "pub.1125313890",
+        "identifier": "10.1111/soc4.12790"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demography / economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly, nationally representative labor force survey conducted by the U.S. Census Bureau that includes a Food Security Supplement.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Overall and race-specific associations between state-level minimum wage policy and food insecurity in the United States",
+        "dud:publication_id": "pub.1176147894",
+        "identifier": "10.1136/jech-2024-222350"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Social science / Labor economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Dataset containing CPS-FSS variables plus replicate weights for variance estimation.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Diet and Food and Nutrition Insecurity and Cardiometabolic Disease",
+        "dud:publication_id": "pub.1158781088",
+        "identifier": "10.1161/circresaha.123.322065"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Public health / nutrition surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A supplement to the monthly Current Population Survey that collects detailed information on household food‑security status using the HFSSM.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Prevalence and Predictors of Food Insecurity Among Stroke Survivors in the United States",
+        "dud:publication_id": "pub.1149312190",
+        "identifier": "10.1161/strokeaha.122.038574"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Socio‑economic / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly household survey conducted by the U.S. Census Bureau covering demographic and economic characteristics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Using Household Fit Indices to Examine the Psychometric Quality of Food Insecurity Measures",
+        "dud:publication_id": "pub.1091623866",
+        "identifier": "10.1177/0013164417728317"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demographics/Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households collecting labor force and demographic data, also used for food‑security measurement in earlier versions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity in U.S. Households That Include Children With Disabilities",
+        "dud:publication_id": "pub.1063573950",
+        "identifier": "10.1177/0014402916651847"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Bureau of Labor Statistics, used by USDA to estimate food insecurity prevalence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among Formerly Incarcerated Adults",
+        "dud:publication_id": "pub.1117376251",
+        "identifier": "10.1177/0093854819856920"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "BLS (Current Population Survey)",
+      "dud:domain": "Labor statistics / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that collects data on labor force status, income, and other socioeconomic indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
+        "dud:publication_id": "pub.1146568849",
+        "identifier": "10.1177/08862605221080148"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics / Socio‑economic indicators"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative household survey conducted annually by the U.S. Census Bureau for the Bureau of Labor Statistics; includes demographic, employment, income, and other variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Utilization of Informal Food Support Among Low-Income Households: Application of Andersen’s Service Use Model",
+        "dud:publication_id": "pub.1120549780",
+        "identifier": "10.1177/1044389419860636"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Social/Economic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households conducted by the Bureau of Labor Statistics and Census Bureau, often used to assess labor market and income statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity in the households of children with autism spectrum disorders and intellectual disabilities in the United States: Analysis of the National Survey of Children’s Health Data 2016–2018",
+        "dud:publication_id": "pub.1138524885",
+        "identifier": "10.1177/13623613211019159"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Bureau of Labor Statistics / Census Bureau",
+      "dud:domain": "Labor Economics / Public Policy"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that collects data on labor market and demographic characteristics; here referenced as the source of a survey item.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Screening for Food and Nutrition Insecurity in the Healthcare Setting: A Cross-Sectional Survey of Non-Medicaid Insured Adults in an Integrated Healthcare Delivery System",
+        "dud:publication_id": "pub.1172271450",
+        "identifier": "10.1177/21501319241258948"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Social and economic statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, often used for labor and income statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The association between chronic conditions, COVID-19 infection, and food insecurity among the older US adults: findings from the 2020–2021 National Health Interview Survey",
+        "dud:publication_id": "pub.1154890146",
+        "identifier": "10.1186/s12889-023-15061-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Not directly accessed; cited for external comparison.",
+      "dud:domain": "Economics / public‑policy"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households conducted by the Census Bureau and the Bureau of Labor Statistics that provides labor force statistics and definitions used for demographic classification.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Was Associated With Greater Family Health Care Expenditures In The US, 2016–17",
+        "dud:publication_id": "pub.1154354457",
+        "identifier": "10.1377/hlthaff.2022.00414"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Demography / Labor economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A shortened version of the CPS food‑security questionnaire adopted for use in this study.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
+        "dud:publication_id": "pub.1143615191",
+        "identifier": "10.14283/jarlife.2020.7"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Current Population Survey",
+      "dud:domain": "Food Security Measurement"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Monthly labor‑force survey providing individual‑level employment, earnings, and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
+        "dud:publication_id": "pub.1135477069",
+        "identifier": "10.2139/ssrn.3778325"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau.",
+      "dud:domain": "Labor economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted jointly by the U.S. Census Bureau and the Bureau of Labor Statistics, providing data on employment, earnings, and demographic characteristics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Folly of Food Waste amidst Food Insecurity in the United States: A Literature Review",
+        "dud:publication_id": "pub.1170867610",
+        "identifier": "10.3390/challe15020021"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / Bureau of Labor Statistics",
+      "dud:domain": "Labor economics, social science, public policy"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly U.S. household survey conducted by the Census Bureau and BLS, used for labor and demographic statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Measuring Food Insecurity: The Problem with Semantics",
+        "dud:publication_id": "pub.1157634112",
+        "identifier": "10.3390/foods12091816"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Section 2.5.1",
+      "dud:domain": "Labor and demographic data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau for the BLS, providing labor force and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "An Analysis of Socioeconomic Determinants of the Black–White Disparity in Food Insecurity Rates in the US",
+        "dud:publication_id": "pub.1158592870",
+        "identifier": "10.3390/foods12112228"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau / BLS",
+      "dud:domain": "Labor economics / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households conducted by the Census Bureau and the Bureau of Labor Statistics, used by USDA to estimate national food‑security rates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Racial/Ethnic Disparities in Food Pantry Use and Barriers in Massachusetts during the First Year of the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1148799508",
+        "identifier": "10.3390/nu14122531"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau & Bureau of Labor Statistics",
+      "dud:domain": "Labor & demographic statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that collects labor market and demographic information, often used to estimate food‑insecurity trends.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "SNAP and Cardiometabolic Risk in Youth",
+        "dud:publication_id": "pub.1149224523",
+        "identifier": "10.3390/nu14132756"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor economics / food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households conducted by the US Census Bureau, used here as a benchmark for weighting.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Characteristics Associated with Being a High Consumer of Sweet Foods and Sugar-Sweetened Beverages among US Adults during the COVID-19 Pandemic, 2021",
+        "dud:publication_id": "pub.1158180357",
+        "identifier": "10.3390/nu15102363"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor and demographic statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly labor force survey that uses a complex probability sample to select a nationally representative sample of the civilian population in the United States. Includes food security supplement measured in December and social/economic supplements in March.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Very Low Food Security in US Households Is Predicted by Complex Patterns of Health, Economics, and Service Participation",
+        "dud:publication_id": "pub.1091435196",
+        "identifier": "10.3945/jn.117.253179"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Labor Force, Demographic Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of U.S. households that collects labor market and demographic data, often used for economic research.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Experiences of food insecurity among LGBTQIA+ college students in North Texas: Meaning, experiences, and recommendations for inclusive solutions",
+        "dud:publication_id": "pub.1156282992",
+        "identifier": "10.5304/jafscd.2023.122.021"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Economics / labor statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey by the US Census Bureau that provides labor force statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "State-Level and County-Level Estimates of Health Care Costs Associated with Food Insecurity",
+        "dud:publication_id": "pub.1117964494",
+        "identifier": "10.5888/pcd16.180549"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Census Bureau; part of MMG methodology.",
+      "dud:domain": "Labor/Economic Data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A monthly survey of US households conducted by the Census Bureau and the Bureau of Labor Statistics that provides data on labor force characteristics and other demographic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "New SNAP Eligibility in California Associated With Improved Food Security and Health",
+        "dud:publication_id": "pub.1136871741",
+        "identifier": "10.5888/pcd18.200587"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Census Bureau",
+      "dud:domain": "Demography / Labor Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors used CPS respondent records and classified households as ECTC or non‑ECTC based on the Census Bureau’s tax‑return simulation that estimates who received the credit for tax year 2021.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Expanded Child Tax Credit and Food Insecurity",
+        "dud:publication_id": "pub.1174803730",
+        "identifier": "10.1001/jamainternmed.2024.3972"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Estimated Expanded Child Tax Credit (ECTC) receipt from Census Bureau tax model",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"year\",\"family_size\",\"total_income\",\"child_eligibility\"]",
+        "methodology": "The authors linked individual CPS respondent records from the IPUMS Current Population Survey with the Census Bureau’s tax‑return simulation that estimates Expanded Child Tax Credit receipt for tax year 2021. The integration was performed by matching each CPS household to its corresponding simulated"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Inflation was adjusted for by incorporating state‑specific PCE change values relative to 2020, which were sourced from the BEA and merged with the CPS individual records.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Expanded Child Tax Credit and Food Insecurity",
+        "dud:publication_id": "pub.1174803730",
+        "identifier": "10.1001/jamainternmed.2024.3972"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State‑level inflation estimates (Personal Consumption Expenditure change) from the Bureau of Economic Analysis",
+        "joinType": "integration",
+        "joinKeys": "[\"state_code\",\"year\"]",
+        "methodology": "The researchers merged state‑level inflation estimates (Personal Consumption Expenditure change) from the Bureau of Economic Analysis with individual records from the Current Population Survey obtained via IPUMS. The BEA data were organized by state identifier and calendar year, representing the PCE"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The analysis includes state‑specific unemployment percentages and GDP indices as covariates, which were obtained from BLS/BEA datasets and combined with CPS observations.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Expanded Child Tax Credit and Food Insecurity",
+        "dud:publication_id": "pub.1174803730",
+        "identifier": "10.1001/jamainternmed.2024.3972"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State‑level macroeconomic indicators (unemployment rate, GDP index) from the Bureau of Labor Statistics / Bureau of Economic Analysis",
+        "joinType": "integration",
+        "joinKeys": "[\"state_id\",\"year\"]",
+        "methodology": "The researchers merged the CPS microdata (obtained via IPUMS) with state‑level macroeconomic indicators from BLS and BEA by aligning records on common geographic and temporal identifiers. First, CPS observations were extracted for each respondent’s state of residence and survey year (derived from th"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "All analyses were weighted using IPUMS CPS longitudinal representativeness weights to account for survey non‑response and attrition, effectively combining the raw CPS data with a weighting dataset.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Expanded Child Tax Credit and Food Insecurity",
+        "dud:publication_id": "pub.1174803730",
+        "identifier": "10.1001/jamainternmed.2024.3972"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Longitudinal representativeness weights provided by IPUMS for CPS",
+        "joinType": "combination",
+        "joinKeys": "[\"person_id\",\"year\"]",
+        "methodology": "The researchers extracted the raw CPS microdata and the longitudinal representativeness weight file from IPUMS. Both files contain a unique panel identifier (person_id) that tracks respondents across survey waves, as well as year variables indicating the calendar year of each observation. The weight"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "All analyses were weighted using IPUMS CPS longitudinal representativeness weights to account for survey non‑response and attrition, effectively combining the raw CPS data with a weighting dataset.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Expanded Child Tax Credit and Food Insecurity",
+        "dud:publication_id": "pub.1174803730",
+        "identifier": "10.1001/jamainternmed.2024.3972"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) via IPUMS",
+        "joinType": "combination",
+        "joinKeys": "[\"person_id\",\"year\"]",
+        "methodology": "The researchers extracted the raw CPS microdata and the longitudinal representativeness weight file from IPUMS. Both files contain a unique panel identifier (person_id) that tracks respondents across survey waves, as well as year variables indicating the calendar year of each observation. The weight"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The manuscript notes that \"the PSID has shown lower cross‑sectional rates of food insecurity compared with the benchmark Current Population Survey across time,\" implying that PSID estimates were juxtaposed with CPS estimates to assess relative prevalence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Chronic Food Insecurity in US Families With Children",
+        "dud:publication_id": "pub.1155096176",
+        "identifier": "10.1001/jamapediatrics.2022.5820"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Panel Study of Income Dynamics (PSID)",
+        "joinType": "comparison/combination",
+        "joinKeys": "[]",
+        "methodology": "The study did not perform a record level join. PSID prevalence estimates were calculated using survey weights and compared to CPS cross sectional estimates reported in published tables. The comparison was based on aligning the same definition of food insecurity and the same calendar years."
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Household‑level food insecurity outcomes from CPS‑FSS are merged with state‑level variables (e.g., number of congregate/home‑delivered meals per low‑income older adult, SNAP participation rates, CSFP and SFMNP participation rates) to conduct multilevel logistic regression analyses.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Older adults and the food security infrastructure",
+        "dud:publication_id": "pub.1145693854",
+        "identifier": "10.1002/aepp.13238"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State‑level contextual datasets (including AGID meal data, American Community Survey 1% estimates, USDA SNAP participation reports, USDA CSFP profiles, USDA SFMNP profiles)",
+        "joinType": "integration",
+        "joinKeys": "[\"State\",\"Year\"]",
+        "methodology": "The household‑level food insecurity data from the CPS‑FSS (2008‑2018) were first extracted and weighted using the supplement weight. State‑level contextual variables (e.g., number of congregate meals, home‑delivered meals, SNAP participation rates, CSFP participants, SFMNP participants, residential "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "CPS data are used to generate official poverty rates and food‑insecurity statistics that serve as benchmarks for the HRS‑based analyses. The authors compare trends observed in the HRS with those reported from the CPS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS)",
+        "joinType": "combination",
+        "joinKeys": "[\"year\",\"age_group\"]",
+        "methodology": "The authors first extracted annual poverty and food insecurity rates from the CPS public tables. Then they computed comparable rates from the HRS by aggregating respondents by survey year and age group. The two datasets were aligned on the calendar year and age group variables and merged as a simple"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The ASEC is used to illustrate overlap between low‑educated earners, simulated EITC eligibility, and wages relative to the minimum wage, combining tax‑simulation outputs with wage data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Hungry no More? The Joint Impact of Minimum Wages and the Earned Income Tax Credit on Food Insecurity",
+        "dud:publication_id": "pub.1189561723",
+        "identifier": "10.1002/hec.70001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Simulated EITC benefits from Census Bureau tax model and hourly wage information",
+        "joinType": "fusion",
+        "joinKeys": "[\"state_code\",\"year\",\"household_id\"]",
+        "methodology": "The researchers merged the Annual Social and Economic Supplement (ASEC) of the CPS with simulated Earned Income Tax Credit (EITC) benefits derived from the Census Bureau tax model and hourly wage data. First, they extracted relevant records from ASEC for individuals with at most a high school educat"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Financial food‑insecurity at the local level was estimated by adjusting the national CPS‑derived rate using the proportion of adults 65+ below poverty in each ZIP‑code from the ACS, effectively joining the national survey estimate with local poverty data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
+        "dud:publication_id": "pub.1149272027",
+        "identifier": "10.1007/s12603-022-1816-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "ACS‑derived poverty percentages (financial constraint proxy)",
+        "joinType": "combination",
+        "joinKeys": "[\"ZIP_code\"]",
+        "methodology": "The researchers first extracted the national older‑adult food insecurity rate from the Current Population Survey (CPS) which is based on the USDA HFSSM. Separately they obtained American Community Survey (ACS) 5‑year estimates at the ZIP‑code level for the percentage of residents age 65+ living belo"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The final Older Adult Food Insecurity Index (OAFII) is expressed as a multiple of the national CPS food‑insecurity rate, requiring the CPS baseline to be merged with the locally computed index.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
+        "dud:publication_id": "pub.1149272027",
+        "identifier": "10.1007/s12603-022-1816-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "ACS‑derived overall OAFII (financial + non‑financial components)",
+        "joinType": "merge",
+        "joinKeys": "[\"ZIP_code\"]",
+        "methodology": "The researchers first extracted CPS national food insecurity rates and the locally computed OAFII values for each ZIP code. ZIP code identifiers were standardized to five digit format. A key based merge was then performed linking the CPS baseline to each ZIP code record using the ZIP code as the joi"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The author links the food‑security supplement responses to the core CPS questionnaire to obtain household‑level covariates (e.g., number of children, education, employment, SNAP receipt). This is required to construct the analytic dataset used in the linear probability models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Disparities and Determinants of Food Insecurity for New Mexico’s Unique Populations",
+        "dud:publication_id": "pub.1155949241",
+        "identifier": "10.1007/s41996-023-00113-3"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey – Food Security Supplement (CPS‑FSS)",
+        "joinType": "integration",
+        "joinKeys": "[\"HHID\",\"YEAR\",\"MONTH\"]",
+        "methodology": "The author extracted the December CPS core files and the CPS Food Security Supplement files for each survey year 2000‑2018. Both files contain the same household identifier HHID together with YEAR and MONTH variables. After loading the two datasets, the variables were standardized, numeric formats a"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors longitudinally linked household members who completed the TUS at Time 1 to their responses to the FSS at Time 2, ensuring a 10‑13 month interval between the two supplements.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Impact of smoking cessation on household food security",
+        "dud:publication_id": "pub.1154571084",
+        "identifier": "10.1016/j.annepidem.2023.01.007"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey Food Security Supplement (FSS)",
+        "joinType": "integration",
+        "joinKeys": "[\"panel_id\",\"person_id\",\"age\",\"sex\",\"race_ethnicity\"]",
+        "methodology": "The authors used the IPUMS CPS linking infrastructure to longitudinally connect household members who completed the Tobacco Use Supplement (TUS) at Time 1 with their responses to the Food Security Supplement (FSS) at Time 2. The linkage was performed by matching unique panel identifiers and person i"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Covariates such as sex, age, household size, presence of children, and number of current smokers were drawn from the basic monthly survey administered alongside the TUS at Time 1.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Impact of smoking cessation on household food security",
+        "dud:publication_id": "pub.1154571084",
+        "identifier": "10.1016/j.annepidem.2023.01.007"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Basic Monthly Survey (core CPS demographic and employment data)",
+        "joinType": "fusion",
+        "joinKeys": "[\"household_id\",\"person_id\",\"panel_wave\",\"age\",\"sex\",\"race_ethnicity\"]",
+        "methodology": "The researchers used the IPUMS CPS longitudinal linking framework to fuse records from the Tobacco Use Supplement (TUS) and the Food Security Supplement (FSS). Records were matched across a 10‑13 month interval by aligning household identifiers and individual attributes (age, sex, race/ethnicity) re"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The Map the Meal Gap model first built state‑level FI models using CPS data, then applied those models to ACS zip‑code‑level determinants to generate zip‑code FI estimates used in the study.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1154510004",
+        "identifier": "10.1016/j.annepidem.2023.01.008"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey (ACS) zip‑code‑level socioeconomic indicators",
+        "joinType": "integration",
+        "joinKeys": "[\"state_fips\",\"zip_code\"]",
+        "methodology": "The authors first built state level food insecurity prediction models using the CPS official food insecurity measure and a set of socioeconomic determinants (poverty, unemployment, median income, homeownership, disability, percent Black, percent Latino). The models were estimated with regression on "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The author creates a “unique, nationally representative dataset linking households with children across the December 2008 CPS‑FSS and the January 2009 CPS‑FDIC”. Households are matched across the two adjacent CPS months so that each record contains both food‑security measures (from the FSS) and alte",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Non-bank credit and food hardship: The association between payday loans, pawn loans, rent-to-own contracts and food hardship in households with children",
+        "dud:publication_id": "pub.1167282998",
+        "identifier": "10.1016/j.childyouth.2023.107418"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS) – December 2008",
+        "joinType": "merge",
+        "joinKeys": "[\"household_serial_number\",\"interview_month\",\"interview_year\"]",
+        "methodology": "The author linked the December 2008 CPS Food Security Supplement with the January 2009 CPS FDIC supplement by using the CPS longitudinal household identifier. The two files were first filtered to retain only records that contain children. The household serial number together with the interview month"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors used the CPS 1999 data to construct a reference USDA VLFS indicator and then compared it with the TCS‑derived VLFS definition based on only eight questions, selecting the cutoff that best matched the CPS classification.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Child age and gender differences in food security in a low-income U.S. inner-city population",
+        "dud:publication_id": "pub.1104044547",
+        "identifier": "10.1016/j.euroecorev.2018.04.005"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Three‑City Study (TCS) survey data",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"city_code\",\"income_level\",\"child_presence\"]",
+        "methodology": "The authors did not perform a direct key‑based join between the two datasets. Instead they used a record‑linkage approach based on demographic attributes to create a comparable subsample from the CPS 1999 Food Security Supplement. They filtered the CPS records to households that had at least one chi"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "PSID‑provided weights were post‑stratified using demographic distributions from the March CPS Annual Demographic Survey to produce nationally representative estimates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "High Prevalence of Food Insecurity and Related Disparities Among US College and University Students From 2015–2019",
+        "dud:publication_id": "pub.1166292116",
+        "identifier": "10.1016/j.jneb.2023.10.013"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Panel Study of Income Dynamics (PSID) cross‑sectional individual weights",
+        "joinType": "fusion",
+        "joinKeys": "[\"age_group\",\"sex\",\"race_ethnicity\",\"education_level\",\"region\",\"survey_year\"]",
+        "methodology": "The PSID cross‑sectional individual weights were adjusted by post‑stratifying to match the demographic distribution of the March Current Population Survey Annual Demographic Survey. The process involved identifying common demographic cells (age groups, sex, race/ethnicity, education level, and geogr"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The analysis treats food‑insecurity prevalence as both an outcome and a covariate, integrating USDA‑derived food‑insecurity rates with other food‑environment variables for the same counties.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
+        "dud:publication_id": "pub.1175815611",
+        "identifier": "10.1080/19320248.2022.2101414"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA Food Environment Atlas (food‑insecurity prevalence by county, derived from USDA ERS surveys)",
+        "joinType": "combination",
+        "joinKeys": "[\"FIPS_code\"]",
+        "methodology": "The researchers extracted county‑level food‑environment variables from the USDA Food Environment Atlas and county‑level food‑insecurity prevalence from the USDA ERS or CPS‑FSS. Both sources contain a standard county identifier (FIPS code). After harmonising year and geographic scope, the two tables "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study links the annual food‑security supplement (collected in December) with the monthly core CPS data for the same households across adjacent years to create a short‑panel that tracks teen employment and child food‑security status over time.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Teenage Labor Supply",
+        "dud:publication_id": "pub.1059354082",
+        "identifier": "10.1093/aepp/ppv007"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) Monthly Core Data",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"person_id\",\"age\",\"gender\",\"race\"]",
+        "methodology": "The researchers constructed a short‑panel by linking the December CPS Food Security Supplement (FSS) records to the monthly core CPS data for the same households in adjacent years. They used the unique household identifier and person identifier provided by the CPS, together with demographic variable"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study links the annual food‑security supplement (collected in December) with the monthly core CPS data for the same households across adjacent years to create a short‑panel that tracks teen employment and child food‑security status over time.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Teenage Labor Supply",
+        "dud:publication_id": "pub.1059354082",
+        "identifier": "10.1093/aepp/ppv007"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) Annual Food Security Supplement (FSS)",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"person_id\",\"age\",\"gender\",\"race\"]",
+        "methodology": "The researchers constructed a short‑panel by linking the December CPS Food Security Supplement (FSS) records to the monthly core CPS data for the same households in adjacent years. They used the unique household identifier and person identifier provided by the CPS, together with demographic variable"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "To create a low‑income subsample, the authors compare each household’s reported income bracket (from CPS) with year‑specific FPG thresholds based on family size, removing households that unambiguously exceed 300 % of the poverty line.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Teenage Labor Supply",
+        "dud:publication_id": "pub.1059354082",
+        "identifier": "10.1093/aepp/ppv007"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Federal Poverty Guidelines (FPG) tables from the Department of Health and Human Services",
+        "joinType": "fusion",
+        "joinKeys": "[\"household_id\",\"year\",\"family_size\"]",
+        "methodology": "The authors first extracted the CPS household identifiers, year of interview, and reported family size from the Current Population Survey (CPS) data set. They then obtained the Federal Poverty Guidelines (FPG) tables for each survey year, which provide poverty thresholds by family size. For each hou"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The SNAP participation study merged individual‑level CPS responses with state‑level policy indicators to assess how state SNAP enrollment characteristics influence SNAP participation and food‑insecurity outcomes among low‑income adults, including those with disabilities.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "THE RELEVANCE OF SNAP PROGRAM ACCESSIBILITY FOR FOOD INSECURITY, FOCUSING ON ADULTS WITH DISABILITIES",
+        "dud:publication_id": "pub.1167197470",
+        "identifier": "10.1093/geroni/igad104.0350"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State‑level SNAP enrollment accessibility measures (flexibility, efficiency, categorical eligibility, Combined Application Project)",
+        "joinType": "fusion",
+        "joinKeys": "[\"state_fips\",\"year\"]",
+        "methodology": "The researchers linked the 2021 CPS micro‑data to a state‑level SNAP policy file by matching on the respondent's state of residence and survey year. After extracting the low‑income subsample (income ≤185% of the poverty line) they merged the individual records with the policy indicators (flexibility"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors construct an analytic file that contains the food‑security items from the December supplement together with the respondent’s age, sex, race/ethnicity, education, and other covariates that come from the core CPS monthly interview. This join is required to apply the panel‑weight and to con",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
+        "dud:publication_id": "pub.1170042926",
+        "identifier": "10.1093/poq/nfae001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS) responses",
+        "joinType": "join",
+        "joinKeys": "[\"cpsid_hh\",\"cpsid_person\",\"year\",\"month\"]",
+        "methodology": "The authors merged the food security supplement records with the core monthly CPS records using the CPS household and person identifiers and the survey year and month. An inner merge was performed after cleaning and restricting to households with complete supplement and core data. The merge was exec"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors extracted household‑level data from the CPS‑FSS and the concurrent monthly core CPS, then obtained these records through IPUMS, which provides a harmonized version of CPS over time. This step merges the raw CPS survey data with the IPUMS platform to create a consistent, longitudinal data",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children",
+        "dud:publication_id": "pub.1112419761",
+        "identifier": "10.1093/sf/soz020"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) – Food Security Supplement (CPS‑FSS)",
+        "joinType": "merge",
+        "joinKeys": "[\"caseid\",\"year\",\"state\"]",
+        "methodology": "The authors first extracted household‑level records from the CPS Food Security Supplement (CPS‑FSS) and the concurrent monthly core CPS survey. These raw CPS files were accessed through the Integrated Public Use Microdata Series (IPUMS), which provides harmonized CPS data across years. Using the uni"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state that their primary indicators (e.g., food insecurity, food practices) were drawn from the CPS‑FSS, while demographic and employment variables came from the basic CPS interview. The analysis required linking each household’s core CPS record with its corresponding CPS‑FSS record to c",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Food Practices among Child Care Workers During COVID-19",
+        "dud:publication_id": "pub.1185809527",
+        "identifier": "10.1101/2025.02.20.25322598"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS)",
+        "joinType": "integration",
+        "joinKeys": "[\"SERIAL\",\"PID\"]",
+        "methodology": "The authors first extracted the core CPS household interview file and the CPS Food Security Supplement file for the December 2020 rotation. Both files contain a common household serial number (SERIAL) and person identifier (PID). After loading the files, they filtered the CPS-FSS records to retain o"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "For the analysis of UI‑SNAP interconnections the authors use the March CPS sample of actual UI recipients and link it to the state‑level maximum weekly UI benefit schedule to identify the effect of UI generosity.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
+        "dud:publication_id": "pub.1148831422",
+        "identifier": "10.1111/ajae.12322"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State‑level UI policy data (maximum weekly UI benefits from the U.S. Department of Labor)",
+        "joinType": "integration",
+        "joinKeys": "[\"state_fips\",\"year\"]",
+        "methodology": "The authors merged the March CPS micro‑data on UI recipients with the state‑level UI policy file by aligning observations on the respondent’s state of residence and the survey year. After extracting the relevant variables, they performed an exact deterministic join on the two keys, creating a panel "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "When estimating the impact of UI on SNAP enrollment and benefit amounts, the authors control for a suite of state‑level SNAP and welfare policy variables, indicating a merge of these macro‑policy datasets with the March CPS micro‑data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
+        "dud:publication_id": "pub.1148831422",
+        "identifier": "10.1111/ajae.12322"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State‑level SNAP policy data (USDA SNAP Policy Datasets) and other welfare‑policy datasets (UKCPR National Welfare Database, AFRED)",
+        "joinType": "integration",
+        "joinKeys": "[\"state_fips\",\"year\"]",
+        "methodology": "The researchers combined the March CPS micro‑data with state level SNAP and welfare policy datasets by constructing a panel keyed on state and year. First the CPS file was filtered to retain only households that reported UI receipt and the relevant variables (state code, survey year, SNAP participat"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.4
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "In addition to ACS, the CPS was used as a reference frame for the survey weighting process, aligning the WBNS sample with CPS demographic distributions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Material hardship and use of social safety net programs among LGBT adults and their families",
+        "dud:publication_id": "pub.1181082564",
+        "identifier": "10.1111/asap.12432"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "WBNS respondent data (pooled 2018‑2020)",
+        "joinType": "integration",
+        "joinKeys": "[\"age_group\",\"sex\",\"race_ethnicity\",\"education\",\"region\",\"urbanicity\"]",
+        "methodology": "The WBNS respondent file was merged with CPS benchmark tables by aligning marginal distributions of key demographic variables. First the CPS data were extracted for the adult population (age 18‑64) and the same variables were recoded in the WBNS dataset. Variables used for alignment included age gro"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.6
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "MMG estimated county‑level food‑insecurity rates by first fitting a state‑level model using CPS predictors, then applying that model to county‑level ACS predictors. This two‑step process fuses CPS and ACS data within the MMG product used in the study.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
+        "dud:publication_id": "pub.1146568849",
+        "identifier": "10.1177/08862605221080148"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Map the Meal Gap (MMG) modeling framework",
+        "joinType": "fusion",
+        "joinKeys": "[\"state_fips\",\"county_fips\"]",
+        "methodology": "The study fused CPS and ACS data by first estimating a state‑level food‑insecurity regression using CPS variables (poverty, unemployment, median income, homeowner rate, disability rate, % Black, % Latino). The fitted coefficients were then applied to the corresponding county‑level ACS predictors to "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study merged the main CPS household data with the supplemental food‑security module to create a single analytical file containing demographic, income, SNAP receipt, employment variables together with the USDA three‑stage food‑security scores.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Utilization of Informal Food Support Among Low-Income Households: Application of Andersen’s Service Use Model",
+        "dud:publication_id": "pub.1120549780",
+        "identifier": "10.1177/1044389419860636"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey Food Security Supplement (2016)",
+        "joinType": "integration",
+        "joinKeys": "[\"cps_serial_number\",\"survey_year\"]",
+        "methodology": "The researchers extracted the main CPS household file for 2016 and the CPS Food Security Supplement module for the same year. Both datasets contain a common household identifier (CPS serial number) and survey year, which were used as primary keys to merge the records. The merge was performed using a"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The food security outcome (VLFS‑C) was measured using the USDA’s 18‑item module, which is noted as an “annual supplement to the Current Population Survey”, indicating that the SEBTC survey incorporated this CPS‑based instrument.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Summer Nutrition Benefit Pilot Program and Low-income Children’s Food Security",
+        "dud:publication_id": "pub.1101829320",
+        "identifier": "10.1542/peds.2017-1657"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "US Household Food Security Survey Module (18‑item USDA module)",
+        "joinType": "combination",
+        "joinKeys": "[\"household_id\",\"interview_timestamp\"]",
+        "methodology": "The evaluation combined the USDA 18‑item Household Food Security Survey Module (the annual CPS supplement) with the SEBTC household survey data collected via computer‑assisted telephone interviews. A key‑based merge was performed using the unique CPS household identifier and interview timestamp to a"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state “We merged the data from these sources together” to create a state‑level panel that includes food insecurity rates and the number of certified organic operations per state.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
+        "dud:publication_id": "pub.1110915630",
+        "identifier": "10.2139/ssrn.3297176"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Department of Agriculture (USDA) – Certified Organic Operations List",
+        "joinType": "merge",
+        "joinKeys": "[\"state_id\",\"year\"]",
+        "methodology": "The authors merged the CPS Food Insecurity Supplement data with the USDA Certified Organic Operations list by aligning observations at the state‑year level. Both datasets contain a common geographic identifier (state name or FIPS code) and a temporal indicator (survey year). The merge was performed "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Control variables include poverty rate, unemployment rate, and gross state product; these economic indicators are drawn from the U.S. Census Bureau and combined with CPS‑derived food insecurity data for panel regressions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
+        "dud:publication_id": "pub.1110915630",
+        "identifier": "10.2139/ssrn.3297176"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Census Bureau – Unemployment Rate & Gross State Product",
+        "joinType": "combination",
+        "joinKeys": "[\"state_id\",\"year\"]",
+        "methodology": "The authors merged the CPS food insecurity and poverty measures with economic indicators from the U.S. Census Bureau (unemployment rate and gross state product) at the state‑year level to construct a balanced panel dataset for regression analysis. The integration was performed by extracting annual o"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors control for the proportion of people on food stamps and receiving WIC supplements, which are merged with CPS household demographic data to capture social safety net variables at the state level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
+        "dud:publication_id": "pub.1110915630",
+        "identifier": "10.2139/ssrn.3297176"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Department of Agriculture (USDA) – Food Stamp and WIC Participation Data",
+        "joinType": "merge",
+        "joinKeys": "[\"state_code\",\"year\"]",
+        "methodology": "The authors merged the USDA food stamp and WIC participation data with the CPS household demographic data at the state‑year level. Both datasets were first extracted, cleaned, and standardized to a common format (state identifier and calendar year). After ensuring consistent naming conventions for t"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "All outcome and control variables used in the labor‑supply and food‑security analyses are drawn from the CPS‑FSS, which is merged with the main CPS micro‑data to obtain respondent demographics, employment histories, and weights.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
+        "dud:publication_id": "pub.1135477069",
+        "identifier": "10.2139/ssrn.3778325"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Food Security Supplement of the CPS (CPS‑FSS)",
+        "joinType": "integration",
+        "joinKeys": "[\"hhid\",\"person_id\",\"year\",\"month\"]",
+        "methodology": "The CPS core questionnaire and the CPS Food Security Supplement were obtained as separate micro‑data files. Both files contain the standard CPS identifiers (household serial number, person number, year and month). After extracting the two files, the identifiers were standardized to the same format a"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "All outcome and control variables used in the labor‑supply and food‑security analyses are drawn from the CPS‑FSS, which is merged with the main CPS micro‑data to obtain respondent demographics, employment histories, and weights.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
+        "dud:publication_id": "pub.1135477069",
+        "identifier": "10.2139/ssrn.3778325"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) core questionnaire",
+        "joinType": "integration",
+        "joinKeys": "[\"hhid\",\"person_id\",\"year\",\"month\"]",
+        "methodology": "The CPS core questionnaire and the CPS Food Security Supplement were obtained as separate micro‑data files. Both files contain the standard CPS identifiers (household serial number, person number, year and month). After extracting the two files, the identifiers were standardized to the same format a"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors compile state‑year benefit information from the WRD and attach it to each CPS respondent in order to construct the treatment indicator (NH post‑reform) and to control for state‑specific benefit generosity in the difference‑in‑differences models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
+        "dud:publication_id": "pub.1135477069",
+        "identifier": "10.2139/ssrn.3778325"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Welfare Reform Database (WRD) – historical maximum TANF benefit levels by state and family size",
+        "joinType": "merge",
+        "joinKeys": "[\"state\",\"year\"]",
+        "methodology": "The authors first extracted the historical maximum TANF benefit levels from the Welfare Reform Database, creating a panel of state‑year observations for each family size. They then prepared the CPS micro‑data (including the Food Security Supplement) by selecting respondents, assigning the survey yea"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.4
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "In the triple‑differences specifications, the same CPS respondents are used to estimate both labor‑supply outcomes and consumption outcomes, requiring the fusion of the employment/earnings records with the food‑security supplement variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
+        "dud:publication_id": "pub.1135477069",
+        "identifier": "10.2139/ssrn.3778325"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) – food‑expenditure and food‑security variables (CPS‑FSS)",
+        "joinType": "fusion",
+        "joinKeys": "[\"year\",\"month\",\"state\",\"household_serial\",\"person_number\"]",
+        "methodology": "The authors combined the core Current Population Survey (CPS) micro‑data containing labor‑supply variables with the CPS Food Security Supplement (CPS‑FSS) micro‑data that contain food‑expenditure and food‑security variables. The merge was performed by matching on the unique CPS identifiers that are "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "In the triple‑differences specifications, the same CPS respondents are used to estimate both labor‑supply outcomes and consumption outcomes, requiring the fusion of the employment/earnings records with the food‑security supplement variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
+        "dud:publication_id": "pub.1135477069",
+        "identifier": "10.2139/ssrn.3778325"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) – labor‑supply variables",
+        "joinType": "fusion",
+        "joinKeys": "[\"year\",\"month\",\"state\",\"household_serial\",\"person_number\"]",
+        "methodology": "The authors combined the core Current Population Survey (CPS) micro‑data containing labor‑supply variables with the CPS Food Security Supplement (CPS‑FSS) micro‑data that contain food‑expenditure and food‑security variables. The merge was performed by matching on the unique CPS identifiers that are "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    }
+  ]
+}

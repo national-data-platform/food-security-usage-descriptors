@@ -1,0 +1,1080 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Rural-Urban Continuum Codes (RUCC)",
+  "identifier": "3a646c8a-eab3-4951-80ac-831ba3a7b1a9",
+  "alternateName": [
+    "RUCC",
+    "Rural-Urban Continuum Codes",
+    "www.ers.usda.gov/data-products/rural-urban-continuum-codes"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
+        "dud:publication_id": "pub.1143825085",
+        "identifier": "10.1002/aepp.13219"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Statewide Universal School Meal Policies and Food Insecurity in Households with Children",
+        "dud:publication_id": "pub.1189644647",
+        "identifier": "10.1016/j.amepre.2025.107942"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Rural/Urban Disparities in Cardiovascular Disease in the US—What Can be Done to Improve Outcomes for Rural Americans?",
+        "dud:publication_id": "pub.1187277849",
+        "identifier": "10.1016/j.amjcard.2025.03.033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1148761956",
+        "identifier": "10.1016/j.annepidem.2022.06.002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1154510004",
+        "identifier": "10.1016/j.annepidem.2023.01.008"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Investigation of the Food Choice, Promoters and Barriers to Food Access Issues, and Food Insecurity Among Low-Income, Free-Living Minnesotan Seniors",
+        "dud:publication_id": "pub.1029069128",
+        "identifier": "10.1016/j.jneb.2016.02.010"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 3.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "O8 Implications of Social Norms When Measuring Childhood Food Security in Appalachia",
+        "dud:publication_id": "pub.1129060651",
+        "identifier": "10.1016/j.jneb.2020.04.020"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
+        "dud:publication_id": "pub.1169898660",
+        "identifier": "10.1016/j.jrurstud.2024.103256"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
+        "dud:publication_id": "pub.1105225625",
+        "identifier": "10.1016/j.ssmph.2018.06.006"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Childhood food insecurity, mental distress in young adulthood and the supplemental nutrition assistance program",
+        "dud:publication_id": "pub.1154085276",
+        "identifier": "10.1016/j.ypmed.2022.107409"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social Service Providers’ Perceptions of Older Adults’ Food Access During COVID-19",
+        "dud:publication_id": "pub.1157668708",
+        "identifier": "10.1080/08959420.2023.2205770"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interest in Nutrition and Local Food Systems among Food-Insecure Households in an Appalachian Community",
+        "dud:publication_id": "pub.1050483147",
+        "identifier": "10.1080/19320248.2016.1146191"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
+        "dud:publication_id": "pub.1146568849",
+        "identifier": "10.1177/08862605221080148"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
+        "dud:publication_id": "pub.1182665748",
+        "identifier": "10.1177/21501319241277411"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
+        "dud:publication_id": "pub.1149003588",
+        "identifier": "10.13023/jah.0303.09"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Predictors of food insecurity among older adults before and during COVID-19 in the United States",
+        "dud:publication_id": "pub.1157984123",
+        "identifier": "10.3389/fpubh.2023.1112575"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security, Financial Resources, and Mental Health: Evidence during the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1144331033",
+        "identifier": "10.3390/nu14010161"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A classification system assigning counties a code from 1 (most urban) to 9 (most rural).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
+        "dud:publication_id": "pub.1143825085",
+        "identifier": "10.1002/aepp.13219"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service (ERS)",
+      "dud:domain": "Geography / Rural‑urban studies"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A classification system assigning each U.S. county a code (1‑9) indicating its degree of urbanization and proximity to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Statewide Universal School Meal Policies and Food Insecurity in Households with Children",
+        "dud:publication_id": "pub.1189644647",
+        "identifier": "10.1016/j.amepre.2025.107942"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service, www.ers.usda.gov/data-products/rural-urban-continuum-codes",
+      "dud:domain": "Geography / Socio‑economic classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "USDA classification of counties by degree of urbanization and proximity to metro areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Rural/Urban Disparities in Cardiovascular Disease in the US—What Can be Done to Improve Outcomes for Rural Americans?",
+        "dud:publication_id": "pub.1187277849",
+        "identifier": "10.1016/j.amjcard.2025.03.033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geography/Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nine‑category classification of U.S. counties by degree of urbanization and adjacency to metro areas, used here to assign urbanicity to zip codes.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1148761956",
+        "identifier": "10.1016/j.annepidem.2022.06.002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Geography / Socio‑economic classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nine‑category classification of U.S. counties by degree of urbanization and proximity to metro areas, maintained by the USDA Economic Research Service.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1154510004",
+        "identifier": "10.1016/j.annepidem.2023.01.008"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Geography / Socio‑economic classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA classification system assigning numeric codes to U.S. counties based on degree of urbanization and proximity to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Investigation of the Food Choice, Promoters and Barriers to Food Access Issues, and Food Insecurity Among Low-Income, Free-Living Minnesotan Seniors",
+        "dud:publication_id": "pub.1029069128",
+        "identifier": "10.1016/j.jneb.2016.02.010"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 5.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service (www.ers.usda.gov/data-products/rural-urban-continuum-codes)",
+      "dud:domain": "Geography / socio‑economic classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA coding system that classifies counties on a continuum from urban to rural based on population size and adjacency to metro areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "O8 Implications of Social Norms When Measuring Childhood Food Security in Appalachia",
+        "dud:publication_id": "pub.1129060651",
+        "identifier": "10.1016/j.jneb.2020.04.020"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Rural-Urban Continuum Codes (www.ers.usda.gov/data-products/rural-urban-continuum-codes)",
+      "dud:domain": "Geography / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Classification system assigning counties a code (1‑9) indicating degree of urbanization and proximity to metro areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
+        "dud:publication_id": "pub.1169898660",
+        "identifier": "10.1016/j.jrurstud.2024.103256"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geography / Rural classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A coding system classifying U.S. counties by degree of urbanization and adjacency to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
+        "dud:publication_id": "pub.1105225625",
+        "identifier": "10.1016/j.ssmph.2018.06.006"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Geography/Urban‑Rural Classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA/ERS classification that assigns counties to one of nine categories based on population size and proximity to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Childhood food insecurity, mental distress in young adulthood and the supplemental nutrition assistance program",
+        "dud:publication_id": "pub.1154085276",
+        "identifier": "10.1016/j.ypmed.2022.107409"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Economic Research Service (ERS)",
+      "dud:domain": "Geography, socioeconomic analysis"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS coding scheme classifying counties by degree of urbanization and adjacency to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interest in Nutrition and Local Food Systems among Food-Insecure Households in an Appalachian Community",
+        "dud:publication_id": "pub.1050483147",
+        "identifier": "10.1080/19320248.2016.1146191"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service (RUCC)",
+      "dud:domain": "Geography / Rural‑Urban Classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑produced classification that assigns each U.S. county a code (1‑9) indicating its degree of urbanization and proximity to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
+        "dud:publication_id": "pub.1146568849",
+        "identifier": "10.1177/08862605221080148"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Geography / Socio‑demographic classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS classification that assigns a numeric code (1‑9) to each U.S. county indicating its level of urban–rural status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
+        "dud:publication_id": "pub.1182665748",
+        "identifier": "10.1177/21501319241277411"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geography / Rural health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS classification (codes 1‑9) that indicates the degree of urbanization and proximity to metro areas for U.S. counties.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
+        "dud:publication_id": "pub.1149003588",
+        "identifier": "10.13023/jah.0303.09"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geography / Rural studies"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A classification system that assigns U.S. counties a code (1‑9) indicating degree of urbanization and proximity to metropolitan areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Predictors of food insecurity among older adults before and during COVID-19 in the United States",
+        "dud:publication_id": "pub.1157984123",
+        "identifier": "10.3389/fpubh.2023.1112575"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service (ERS)",
+      "dud:domain": "Geography / Socio‑economic classification"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS classification system assigning counties a numeric code (1‑9) indicating degree of urban‑rural status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Cross-Sectional Study Exploring the Role of Social Isolation in the Relationship Between Food Insecurity, Depressive Symptoms, and Resource Use Among Midwestern Rural Veterans in the U.S.",
+        "dud:publication_id": "pub.1184560210",
+        "identifier": "10.3390/nu17020318"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service (ERS)",
+      "dud:domain": "Geography / Rural Studies"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Urbanicity was assigned to each zip code using the 2013 USDA Rural‑Urban Continuum Codes, and this classification was added to the main analytic dataset.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1148761956",
+        "identifier": "10.1016/j.annepidem.2022.06.002"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "DCFS‑MMG merged dataset (zip‑code‑year panel)",
+        "joinType": "join",
+        "joinKeys": "[\"zip_code\",\"year\"]",
+        "methodology": "The researchers first extracted zip code level food insecurity estimates from the MMG dataset and urbanicity codes from the USDA Rural‑Urban Continuum dataset. Both sources contain a common geographic identifier (5‑digit zip code) and a year variable. After loading the two files, they filtered out r"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Spatial linear models required geographic coordinates; the authors obtained latitude‑longitude coordinates from the Census Gazetteer Files and attached them to each zip code in the analytic dataset.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1148761956",
+        "identifier": "10.1016/j.annepidem.2022.06.002"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Census Gazetteer Files (latitude‑longitude coordinates)",
+        "joinType": "fusion",
+        "joinKeys": "[\"zip_code\"]",
+        "methodology": "The researchers first extracted zip code level food insecurity estimates from the Feeding America Map the Meal Gap dataset and child maltreatment report counts from the Illinois DCFS records. They then obtained latitude and longitude coordinates for every US zip code from the Census Gazetteer Files."
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Zip‑code‑level urbanicity (large urban, small urban, rural) was assigned using RUCC codes, which were merged with the MMG FI rates to allow stratified analyses by urbanicity.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
+        "dud:publication_id": "pub.1154510004",
+        "identifier": "10.1016/j.annepidem.2023.01.008"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Food‑insecurity rates (MMG estimates)",
+        "joinType": "fusion",
+        "joinKeys": "[\"zip_code\",\"year\"]",
+        "methodology": "The researchers first extracted zip‑code level food‑insecurity estimates from the MMG dataset and county‑level RUCC codes from the USDA dataset. They aggregated the RUCC codes to the zip‑code level by computing a population‑weighted average of the county codes for zip codes that span more than one c"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors note that the six counties have RUCC values ranging from 5 to 9 and use this classification to define the study area as rural.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
+        "dud:publication_id": "pub.1169898660",
+        "identifier": "10.1016/j.jrurstud.2024.103256"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Western Upper Peninsula mixed‑mode survey (household‑level responses)",
+        "joinType": "integration",
+        "joinKeys": "[\"county_fips\",\"county_name\"]",
+        "methodology": "The authors linked the household‑level survey data (Dataset 1) with the county‑level Rural‑Urban Continuum Codes (RUCC) (Dataset 2) by first extracting the county identifier for each respondent (e.g., county name or FIPS code) from the survey metadata. The RUCC file contains a unique county identifi"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The Rural‑Urban Continuum Codes were incorporated as an urban/rural indicator in the regression analyses to assess their association with overlapping clusters.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
+        "dud:publication_id": "pub.1105225625",
+        "identifier": "10.1016/j.ssmph.2018.06.006"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Combined county‑level dataset of food insecurity, health constructs, and ACS socio‑demographic variables",
+        "joinType": "merge",
+        "joinKeys": "[\"FIPS_code\"]",
+        "methodology": "The researchers merged the USDA Rural‑Urban Continuum Codes (Beale codes) dataset with the combined county‑level food insecurity, health, and ACS variables by performing a key‑based join on the common county identifier (FIPS code). The process began with extracting each source file, standardizing co"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.9
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Provider zip codes were used to assign each FCCH a rural or urban status based on the 2013 RUCC classification.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Family child care home providers’ perceived difficulty in serving vegetables to children: findings from a multi-method study",
+        "dud:publication_id": "pub.1185866809",
+        "identifier": "10.1017/jns.2025.9"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "FCCH provider survey dataset (primary quantitative data)",
+        "joinType": "merge",
+        "joinKeys": "[\"zip_code\",\"county_fips\"]",
+        "methodology": "The FCCH provider survey file was first loaded and the zip code field was cleaned and validated. A lookup table that maps zip codes to county fips and 2013 RUCC codes was created from the RUCC dataset. The zip code was converted to a five‑digit string, matched to the lookup, and the corresponding RU"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors matched survey participants to county‑level classifications (nonmetro, transitional, distressed) from the OMB Rural‑Urban Continuum Codes and ARC economic distress rankings to contextualize poverty and food‑insecurity rates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interest in Nutrition and Local Food Systems among Food-Insecure Households in an Appalachian Community",
+        "dud:publication_id": "pub.1050483147",
+        "identifier": "10.1080/19320248.2016.1146191"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Community Food Assessment Survey (demographic and food‑security responses)",
+        "joinType": "fusion",
+        "joinKeys": "",
+        "methodology": ""
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.9
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Urbanicity classification (large urban, small urban, rural) was added to the analytic file by joining the USDA Rural‑Urban Continuum Codes to each county‑year record.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
+        "dud:publication_id": "pub.1146568849",
+        "identifier": "10.1177/08862605221080148"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Combined county‑level dataset (NCANDS + MMG + ACS)",
+        "joinType": "join",
+        "joinKeys": "[\"county_fips\",\"year\"]",
+        "methodology": "The researchers first prepared each source file at the county‑year level. County identifiers were standardized to the three‑digit FIPS code; records with suppressed FIPS (000) were reassigned to a pseudo county using the state FIPS. Year variables were aligned across all files. The USDA Rural‑Urban "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The final vulnerability map combined four distinct layers—rurality, veteran proportion, community health, and food‑desert status—to score counties for high risk of rural veteran food insecurity.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
+        "dud:publication_id": "pub.1182665748",
+        "identifier": "10.1177/21501319241277411"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey veteran‑population data",
+        "joinType": "multi‑layer fusion",
+        "joinKeys": "[\"FIPS\"]",
+        "methodology": "The project first extracted the Rural Urban Continuum Codes from the USDA ERS data set and the veteran proportion data from the American Community Survey. Both data sets contain a common geographic identifier (FIPS code) at the county level. The USDA data were loaded into ArcGIS Pro as a polygon lay"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Counties were classified as rural or non‑rural based on RUCC values (≥4 = rural). This classification was applied to the combined county‑level dataset for subsequent t‑tests and mapping.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
+        "dud:publication_id": "pub.1149003588",
+        "identifier": "10.13023/jah.0303.09"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "All county‑level datasets (ACS, Map the Meal Gap, Food Environment Atlas, County Health Rankings, foodbank service counts)",
+        "joinType": "categorization / join",
+        "joinKeys": "[\"FIPS\",\"county_name\"]",
+        "methodology": "Counties were first classified as rural or non rural using the Rural Urban Continuum Codes with a threshold of four or greater indicating rural. The classification key was then merged with the assembled county level dataset that included ACS poverty counts, Map the Meal Gap food insecurity percentag"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.6
+        }
+      ]
+    }
+  ]
+}

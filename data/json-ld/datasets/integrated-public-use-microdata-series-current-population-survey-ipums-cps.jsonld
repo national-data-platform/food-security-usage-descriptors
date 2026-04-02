@@ -1,0 +1,199 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Integrated Public Use Microdata Series Current Population Survey (IPUMS CPS)",
+  "identifier": "36355db3-99cf-448f-9db9-519854327366",
+  "alternateName": [
+    "Integrated Public Use Microdata Series Current Population Survey (ipums Cps)",
+    "ipums cps",
+    "ipums-cps",
+    "https://cps.ipums.org/cps/"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A data dissemination system that provides harmonised micro‑data for a variety of U.S. surveys, including CPS‑FSS and ATUS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and time use in elderly vs. non‐elderly: An exploratory analysis",
+        "dud:publication_id": "pub.1147386484",
+        "identifier": "10.1002/aepp.13275"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 5.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Minnesota",
+      "dud:domain": "Social‑science micro‑data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A harmonized version of the CPS micro‑data hosted by the Minnesota Population Center, providing standardized variables and documentation.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Disparities in food insecurity among Black and White households: An analysis by age cohort, poverty, education, and home ownership",
+        "dud:publication_id": "pub.1152228125",
+        "identifier": "10.1002/aepp.13332"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Minnesota Population Center (IPUMS)",
+      "dud:domain": "Social science / Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Integrated Public Use Microdata Series providing harmonized ACS microdata.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
+        "dud:publication_id": "pub.1181289696",
+        "identifier": "10.1007/s12571-024-01494-5"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "IPUMS (University of Minnesota)",
+      "dud:domain": "Demographics / Microdata"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A harmonized version of CPS microdata provided by the IPUMS project, including variables such as FSSTATUS that encode food security status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
+        "dud:publication_id": "pub.1187737700",
+        "identifier": "10.1016/j.amepre.2025.04.007"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "IPUMS (University of Minnesota)",
+      "dud:domain": "Demographics / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A collection of harmonized census and survey microdata from the United States and international sources.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Socio-Economic Burden of Myocardial Infarction Among Cancer Patients",
+        "dud:publication_id": "pub.1132672862",
+        "identifier": "10.1016/j.amjcard.2020.11.005"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Minnesota’s IPUMS project.",
+      "dud:domain": "Demography / public health statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A harmonized, publicly available extraction of the Current Population Survey microdata, including the Food Security Supplement variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
+        "dud:publication_id": "pub.1170042926",
+        "identifier": "10.1093/poq/nfae001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "IPUMS (University of Minnesota) with original data from the U.S. Census Bureau",
+      "dud:domain": "Survey microdata / Demography / Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A platform providing harmonized public use microdata, including weights and variance estimation tools for surveys like NHIS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Burden and Consequences of Financial Hardship From Medical Bills Among Nonelderly Adults With Diabetes Mellitus in the United States",
+        "dud:publication_id": "pub.1124658760",
+        "identifier": "10.1161/circoutcomes.119.006139"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "IPUMS website (http://www.ipums.org)",
+      "dud:domain": "Survey data infrastructure / statistical methodology"
+    }
+  ]
+}

@@ -1,0 +1,2048 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Food Acquisition and Purchase Survey (FoodAPS)",
+  "identifier": "9c8159cd-47f9-49f6-966e-1f996b977d63",
+  "alternateName": [
+    "food acquisition and purchase survey",
+    "FoodAPS"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Characteristics Associated with Household Purchases of Sugar‐Sweetened Beverages in US Restaurants",
+        "dud:publication_id": "pub.1111099008",
+        "identifier": "10.1002/oby.22380"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "“Where’s the need?” Charitable food assistance resources – placement and access challenges – Lessons from the field",
+        "dud:publication_id": "pub.1163193581",
+        "identifier": "10.1007/s10389-023-02048-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Analyzing the Role of Community and Individual Factors in Food Insecurity: Identifying Diverse Barriers Across Clustered Community Members",
+        "dud:publication_id": "pub.1044764715",
+        "identifier": "10.1007/s10900-016-0171-0"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Scoping Review of Household Factors Contributing to Dietary Quality and Food Security in Low-Income Households with School-Age Children in the United States",
+        "dud:publication_id": "pub.1157995952",
+        "identifier": "10.1016/j.advnut.2023.05.006"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food (in)security in relation to nutrition (in)security in a national cross-sectional sample of Supplemental Nutrition Assistance Program participants: considerations of an emerging construct",
+        "dud:publication_id": "pub.1171584391",
+        "identifier": "10.1016/j.ajcnut.2024.03.020"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Dietary Quality of Americans by Supplemental Nutrition Assistance Program Participation Status A Systematic Review",
+        "dud:publication_id": "pub.1005464936",
+        "identifier": "10.1016/j.amepre.2015.04.035"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Measuring Food Security among American Indian and Alaska Native Adults: Validity Evidence Supports the Use of the US Department of Agriculture Module",
+        "dud:publication_id": "pub.1164165405",
+        "identifier": "10.1016/j.jand.2023.02.017"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Caregiver and pediatrician perspectives on a meal kit delivery program for children with food insecurity and obesity: a qualitative analysis",
+        "dud:publication_id": "pub.1187337532",
+        "identifier": "10.1016/j.jand.2025.04.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Healthy Eating Determinants and Food Security Resource Opportunities: Urban-Dwelling American Indian and Alaska Native Older Adults Perspectives",
+        "dud:publication_id": "pub.1144114841",
+        "identifier": "10.1016/j.jneb.2021.09.015"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
+        "dud:publication_id": "pub.1106250905",
+        "identifier": "10.1016/j.jpubeco.2018.08.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
+        "dud:publication_id": "pub.1169898660",
+        "identifier": "10.1016/j.jrurstud.2024.103256"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household disability status, food store choice, and food insecurity in the United States",
+        "dud:publication_id": "pub.1143198810",
+        "identifier": "10.1016/j.physbeh.2021.113663"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security and diet quality in a racially diverse cohort of postpartum women in the USA",
+        "dud:publication_id": "pub.1147627419",
+        "identifier": "10.1017/s0007114522001143"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interviewer effects in food acquisition surveys",
+        "dud:publication_id": "pub.1101166546",
+        "identifier": "10.1017/s1368980018000137"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "‘You run out of hope’: an exploration of low-income parents’ experiences with food insecurity using Photovoice",
+        "dud:publication_id": "pub.1139148972",
+        "identifier": "10.1017/s1368980021002743"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Testing Race Differences in Risk of Gestational Diabetes Mellitus Associated with Household Food Insecurity (Using NHANES 2007–2018)",
+        "dud:publication_id": "pub.1165390428",
+        "identifier": "10.1055/s-0043-1776351"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Reconsidering Household Food Insecurity: Assessing the Impact of Neighborhood and Household Characteristics",
+        "dud:publication_id": "pub.1171830752",
+        "identifier": "10.1080/19320248.2024.2355938"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Daily Reality of Food Insecurity: A PhotoVoice Study of Food Insecure Residents in a Rural, Southern State",
+        "dud:publication_id": "pub.1188824422",
+        "identifier": "10.1080/19320248.2025.2505951"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Predictors of Diet-Related Health Outcomes in Food-Secure and Food-Insecure Communities",
+        "dud:publication_id": "pub.1112166832",
+        "identifier": "10.1080/19371918.2019.1575313"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Research in the United States: Where We Have Been and Where We Need to Go",
+        "dud:publication_id": "pub.1093159254",
+        "identifier": "10.1093/aepp/ppx058"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Meal Consumption Patterns Throughout the SNAP Benefit Cycle",
+        "dud:publication_id": "pub.1138665531",
+        "identifier": "10.1093/cdn/nzab035_016"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Income and food insecurity among SNAP recipients: a consideration of the SNAP benefit formula",
+        "dud:publication_id": "pub.1166355998",
+        "identifier": "10.1093/erae/jbad039"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Contributing Factors to Dietary Quality and Food Security in Low-Income Households with Children in the United States: A Scoping Review",
+        "dud:publication_id": "pub.1150797390",
+        "identifier": "10.1101/2022.09.06.22279548"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and the use of soup kitchens among suburban elderly women in two counties in Pennsylvania",
+        "dud:publication_id": "pub.1091851286",
+        "identifier": "10.1108/h-08-2016-0057"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Do Households Use Food Budget Stretching to Alleviate Food Insecurity?",
+        "dud:publication_id": "pub.1147852507",
+        "identifier": "10.1111/fcsr.12438"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
+        "dud:publication_id": "pub.1150121365",
+        "identifier": "10.1111/fcsr.12454"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "An Exploration of the Influences Contributing to Food Insecurity in Chester County, Pennsylvania",
+        "dud:publication_id": "pub.1107092762",
+        "identifier": "10.1177/1524839918801588"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "SNAP Participants Improved Food Security And Diet After A Full-Service Supermarket Opened In An Urban Food Desert",
+        "dud:publication_id": "pub.1129846784",
+        "identifier": "10.1377/hlthaff.2019.01309"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Timing of Supplemental Nutrition Assistance Program Benefits and Families’ Home Food Environments",
+        "dud:publication_id": "pub.1140083798",
+        "identifier": "10.1542/peds.2020-025056"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Bank Donations in the United States: A Landscape Review of Federal Policies",
+        "dud:publication_id": "pub.1133356106",
+        "identifier": "10.3390/nu12123764"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Diet Quality and Contextual Factors Influencing Food Choice among Adolescents with Food Security and Food Insecurity in Baltimore City",
+        "dud:publication_id": "pub.1152442697",
+        "identifier": "10.3390/nu14214573"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "What Is Associated with Changes in Food Security among Low-Income Residents of a Former Food Desert?",
+        "dud:publication_id": "pub.1153547876",
+        "identifier": "10.3390/nu14245242"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+        "dud:publication_id": "pub.1092259111",
+        "identifier": "10.3945/cdn.117.001446"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey collecting detailed information on foods and beverages acquired by households over a 7‑day period.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Characteristics Associated with Household Purchases of Sugar‐Sweetened Beverages in US Restaurants",
+        "dud:publication_id": "pub.1111099008",
+        "identifier": "10.1002/oby.22380"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Department of Agriculture (USDA)",
+      "dud:domain": "Nutrition, Food Consumption"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of food acquisition and purchase behaviors among U.S. households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "“Where’s the need?” Charitable food assistance resources – placement and access challenges – Lessons from the field",
+        "dud:publication_id": "pub.1163193581",
+        "identifier": "10.1007/s10389-023-02048-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Nutrition / Food economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA survey that collects detailed information on household food acquisition and purchases.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food (in)security in relation to nutrition (in)security in a national cross-sectional sample of Supplemental Nutrition Assistance Program participants: considerations of an emerging construct",
+        "dud:publication_id": "pub.1171584391",
+        "identifier": "10.1016/j.ajcnut.2024.03.020"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Department of Agriculture",
+      "dud:domain": "Food acquisition and purchase behavior"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A recent survey collecting detailed information on household food purchases.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Dietary Quality of Americans by Supplemental Nutrition Assistance Program Participation Status A Systematic Review",
+        "dud:publication_id": "pub.1005464936",
+        "identifier": "10.1016/j.amepre.2015.04.035"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Food Economics/Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of food acquisition and purchase behavior among U.S. households, conducted by USDA.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Proximity to SNAP-authorized retailers and child maltreatment reports",
+        "dud:publication_id": "pub.1137858175",
+        "identifier": "10.1016/j.ehb.2021.101015"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Nutrition / food economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of U.S. households' food acquisition and purchase behaviors, conducted by the USDA Economic Research Service.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Measuring Food Security among American Indian and Alaska Native Adults: Validity Evidence Supports the Use of the US Department of Agriculture Module",
+        "dud:publication_id": "pub.1164165405",
+        "identifier": "10.1016/j.jand.2023.02.017"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service.",
+      "dud:domain": "Nutrition / food acquisition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of household food acquisition and purchase behaviors conducted by the USDA.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household Food Sourcing Patterns and Their Associations With Food Insecurity in Appalachian Ohio",
+        "dud:publication_id": "pub.1174039077",
+        "identifier": "10.1016/j.jand.2024.07.162"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Nutrition/Food Security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A survey conducted by USDA Economic Research Service that captures detailed information on household food acquisition, purchase locations, and expenditures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Dietary Intake Contributions of Food and Beverages by Source and Food Security Status in US Adults",
+        "dud:publication_id": "pub.1091500544",
+        "identifier": "10.1016/j.jneb.2017.01.009"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA) Economic Research Service",
+      "dud:domain": "Food Economics / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A survey that captures detailed information on household food acquisition, purchasing, and consumption patterns.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Healthy Eating Determinants and Food Security Resource Opportunities: Urban-Dwelling American Indian and Alaska Native Older Adults Perspectives",
+        "dud:publication_id": "pub.1144114841",
+        "identifier": "10.1016/j.jneb.2021.09.015"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Nutrition / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of U.S. households that collected detailed information on food purchases, acquisition, and expenditures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, food environments, and disparities in diet quality and obesity in a nationally representative sample of community-dwelling older Americans",
+        "dud:publication_id": "pub.1149590939",
+        "identifier": "10.1016/j.pmedr.2022.101912"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service.",
+      "dud:domain": "Food economics / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey collecting data on household food acquisition and purchase behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations between Food Insecurity and Supplemental Nutrition Assistance Program (SNAP) participation with ultra-processed food intake in lower-income U.S. adolescents",
+        "dud:publication_id": "pub.1189393857",
+        "identifier": "10.1017/jns.2025.24"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Food purchasing / nutrition research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑conducted survey that collects detailed information on household food acquisition and purchase behaviours across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security and diet quality in a racially diverse cohort of postpartum women in the USA",
+        "dud:publication_id": "pub.1147627419",
+        "identifier": "10.1017/s0007114522001143"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Food economics / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative, stratified multistage survey of non‑institutionalized households in the continental USA (April 2012–January 2013) that collected detailed week‑long information on household food acquisitions, food security, income, SNAP participation, etc.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interviewer effects in food acquisition surveys",
+        "dud:publication_id": "pub.1101166546",
+        "identifier": "10.1017/s1368980018000137"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Department of Agriculture's National Household Food Acquisition and Purchase Survey",
+      "dud:domain": "Public health nutrition / food acquisition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "National survey collecting detailed information on foods purchased and acquired by U.S. households, used in prior research to assess diet quality.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Identifying gaps in the food security safety net: the characteristics and availability of summer nutrition programmes in California, USA",
+        "dud:publication_id": "pub.1112203051",
+        "identifier": "10.1017/s1368980018004135"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Nutrition/Household consumption"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative, multi‑stage probability survey of US households that collects detailed information on food acquisition and purchasing over a 7‑day period.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security and alternative food acquisition among US low-income households: results from the National Food Acquisition and Purchasing Survey (FoodAPS)",
+        "dud:publication_id": "pub.1132161058",
+        "identifier": "10.1017/s1368980020003791"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service; designed by Mathematica Policy Research",
+      "dud:domain": "Nutrition, food acquisition, public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey that collects detailed information on food acquisition and purchase practices of U.S. households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "‘You run out of hope’: an exploration of low-income parents’ experiences with food insecurity using Photovoice",
+        "dud:publication_id": "pub.1139148972",
+        "identifier": "10.1017/s1368980021002743"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Nutrition economics / Food policy"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of U.S. households that collects detailed information on food acquisition, purchases, and expenditures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Reconsidering Household Food Insecurity: Assessing the Impact of Neighborhood and Household Characteristics",
+        "dud:publication_id": "pub.1171830752",
+        "identifier": "10.1080/19320248.2024.2355938"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service.",
+      "dud:domain": "Household food acquisition and purchase behavior"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey conducted by USDA that captures detailed information on household food acquisition, purchase, and consumption patterns.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Predictors of Diet-Related Health Outcomes in Food-Secure and Food-Insecure Communities",
+        "dud:publication_id": "pub.1112166832",
+        "identifier": "10.1080/19371918.2019.1575313"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Nutrition / Food purchasing behavior"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A survey conducted by USDA collecting detailed information on food acquisition and purchase behaviors of households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Research in the United States: Where We Have Been and Where We Need to Go",
+        "dud:publication_id": "pub.1093159254",
+        "identifier": "10.1093/aepp/ppx058"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA",
+      "dud:domain": "Nutrition/Food Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally‑representative survey that collects detailed information on household food acquisition, purchase, and consumption.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Income and food insecurity among SNAP recipients: a consideration of the SNAP benefit formula",
+        "dud:publication_id": "pub.1166355998",
+        "identifier": "10.1093/erae/jbad039"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Food acquisition, nutrition, food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative USDA survey that captures household food acquisition and purchase behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food shopping, home food availability, and food insecurity among customers in small food stores: an exploratory study",
+        "dud:publication_id": "pub.1134467835",
+        "identifier": "10.1093/tbm/ibaa005"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Nutrition / Food Acquisition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey that collects detailed information on food acquisition and purchase behaviors of U.S. households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Contributing Factors to Dietary Quality and Food Security in Low-Income Households with Children in the United States: A Scoping Review",
+        "dud:publication_id": "pub.1150797390",
+        "identifier": "10.1101/2022.09.06.22279548"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Nutrition/Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative, multistage probability survey conducted by the USDA that collects detailed household‑level information on food acquisition, purchase behaviors, and item‑level nutrition for at‑home consumption.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Do Households Use Food Budget Stretching to Alleviate Food Insecurity?",
+        "dud:publication_id": "pub.1147852507",
+        "identifier": "10.1111/fcsr.12438"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA",
+      "dud:domain": "Nutrition / Food Security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA survey that collects detailed information on household food acquisition and purchase behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Does Participation in Food Benefit Programs Reduce the Risk for Depressive Symptoms?",
+        "dud:publication_id": "pub.1134297037",
+        "identifier": "10.1177/1078390320983904"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Nutrition / Food economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey collecting detailed information on food acquisition, purchase locations, and travel modes of U.S. households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "An Exploration of the Influences Contributing to Food Insecurity in Chester County, Pennsylvania",
+        "dud:publication_id": "pub.1107092762",
+        "identifier": "10.1177/1524839918801588"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Nutrition / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey that collects detailed information on household food acquisition and purchasing behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "SNAP Participants Improved Food Security And Diet After A Full-Service Supermarket Opened In An Urban Food Desert",
+        "dud:publication_id": "pub.1129846784",
+        "identifier": "10.1377/hlthaff.2019.01309"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Food acquisition / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey that captures detailed information on household food acquisition and purchase behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Timing of Supplemental Nutrition Assistance Program Benefits and Families’ Home Food Environments",
+        "dud:publication_id": "pub.1140083798",
+        "identifier": "10.1542/peds.2020-025056"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Department of Agriculture",
+      "dud:domain": "Nutrition / Food Acquisition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Survey of household food acquisition, purchase patterns, and expenditures for low‑income households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
+        "dud:publication_id": "pub.1142347961",
+        "identifier": "10.2139/ssrn.3954513"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Nutrition / food economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of U.S. households documenting food acquisition, purchasing, and expenditures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Explaining Racial Inequality in Food Security in Columbus, Ohio: A Blinder–Oaxaca Decomposition Analysis",
+        "dud:publication_id": "pub.1129805907",
+        "identifier": "10.3390/ijerph17155488"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Food acquisition & purchase"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey that collects detailed information on household food acquisition and purchase behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Adolescent-Reported Food Insecurity: Correlates of Dietary Intake and School Lunch Behavior",
+        "dud:publication_id": "pub.1139058149",
+        "identifier": "10.3390/ijerph18126647"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Nutrition / Food economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑conducted nationally representative survey that captures information on household food acquisition and purchasing behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Diet Quality and Contextual Factors Influencing Food Choice among Adolescents with Food Security and Food Insecurity in Baltimore City",
+        "dud:publication_id": "pub.1152442697",
+        "identifier": "10.3390/nu14214573"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Food economics / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey of household food acquisition and purchase behaviors in the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "What Is Associated with Changes in Food Security among Low-Income Residents of a Former Food Desert?",
+        "dud:publication_id": "pub.1153547876",
+        "identifier": "10.3390/nu14245242"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Nutrition / food purchasing"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative survey conducted by USDA in 2012‑2013 that collects detailed information on foods purchased or acquired during a survey week, including data on shopping behavior, retailer locations, and household characteristics. It includes SNAP participants and low‑income households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+        "dud:publication_id": "pub.1092259111",
+        "identifier": "10.3945/cdn.117.001446"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Nutrition / Food Security / Consumer Behavior"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors align their cluster findings with patterns observed in the USDA FoodAPS study, noting that households often do not shop at the nearest store and that price, quality, and selection influence shopping behavior.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Analyzing the Role of Community and Individual Factors in Food Insecurity: Identifying Diverse Barriers Across Clustered Community Members",
+        "dud:publication_id": "pub.1044764715",
+        "identifier": "10.1007/s10900-016-0171-0"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Community Food Security Assessment Survey",
+        "joinType": "comparison/combination",
+        "joinKeys": "[]",
+        "methodology": "The authors did not perform a literal dataset join between the community food security assessment survey and the USDA FoodAPS data. Instead they used a comparative analytical approach: results from their cluster analysis were qualitatively compared with published findings from the FoodAPS study rega"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors match each household’s reported last SNAP benefit date from the FoodAPS interview to USDA administrative data when self‑reports are missing or infeasible, creating a combined dataset that contains both diary‑based expenditure/consumption and precise benefit‑disbursement timing.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
+        "dud:publication_id": "pub.1106250905",
+        "identifier": "10.1016/j.jpubeco.2018.08.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA administrative SNAP disbursement records",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"benefit_date_timestamp\"]",
+        "methodology": "The authors first used the self‑reported last SNAP benefit receipt date collected during the FoodAPS interview as the primary linkage variable. For households where this date was missing or implausible, they retrieved the corresponding administrative SNAP disbursement record from USDA databases that"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The analysis repeatedly compares SNAP participants to control groups drawn from the same FoodAPS survey—households that are eligible but not participating, and those just above eligibility thresholds—to estimate counterfactual expenditure/consumption trends.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
+        "dud:publication_id": "pub.1106250905",
+        "identifier": "10.1016/j.jpubeco.2018.08.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Non‑SNAP eligible and near‑eligible household samples (control groups)",
+        "joinType": "combination",
+        "joinKeys": "[\"household_id\",\"snap_eligibility_status\",\"disbursement_date\"]",
+        "methodology": "The authors merged the FoodAPS household diary dataset with two control groups drawn from the same survey – households that were SNAP‑eligible but not participating and those just above eligibility thresholds. The merge was performed by matching on the unique FoodAPS household identifier (household "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors compute the Healthy Eating Index (HEI) from FoodAPS expenditure records by mapping purchased food items to USDA’s ERS food groups and nutrient profiles, thereby fusing transaction data with a nutrition classification dataset.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
+        "dud:publication_id": "pub.1106250905",
+        "identifier": "10.1016/j.jpubeco.2018.08.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA Food Group/ERS nutrition database (used for Healthy Eating Index calculation)",
+        "joinType": "fusion",
+        "joinKeys": "[\"barcode_id\",\"product_name\",\"food_group_code\",\"timestamp\"]",
+        "methodology": "The authors first extracted the transaction-level purchase records from FoodAPS, which include detailed item identifiers such as barcodes and product descriptions. They then transformed these identifiers to match the USDA ERS food‑group taxonomy by cleaning product names, standardizing units, and ma"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The manuscript references FoodAPS when discussing national food‑security measurement and uses its USDA food‑security module as a basis for the survey instrument.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
+        "dud:publication_id": "pub.1169898660",
+        "identifier": "10.1016/j.jrurstud.2024.103256"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Western Upper Peninsula mixed‑mode survey (household‑level responses)",
+        "joinType": "comparison/fusion",
+        "joinKeys": "[]",
+        "methodology": "The authors did not perform a technical data‑level join between the Western Upper Peninsula mixed‑mode survey and FoodAPS. Instead they used the USDA Food Security Module that is implemented in FoodAPS as a conceptual template for their own questionnaire. Survey items from FoodAPS were mapped to the"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.4
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Household‑level self‑reported SNAP status from the initial FoodAPS interview was linked to USDA SNAP administrative files to identify discrepancies between reported and actual participation.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interviewer effects in food acquisition surveys",
+        "dud:publication_id": "pub.1101166546",
+        "identifier": "10.1017/s1368980018000137"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "SNAP administrative records",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"snap_case_number\",\"consent_flag\"]",
+        "methodology": "The researchers linked the household‑level self‑reported SNAP participation captured in the initial FoodAPS interview to USDA SNAP administrative records. A consent flag obtained during the survey allowed matching of respondents to their administrative case files. The join was performed by matching "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Household‑level covariates derived from the Census 2010 were merged with the FoodAPS dataset to adjust for geographic and socio‑economic characteristics in the multilevel models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interviewer effects in food acquisition surveys",
+        "dud:publication_id": "pub.1101166546",
+        "identifier": "10.1017/s1368980018000137"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Census 2010 data",
+        "joinType": "fusion",
+        "joinKeys": "[\"census_tract_id\",\"block_group_id\",\"zip_code\",\"household_address\"]",
+        "methodology": "The researchers performed a fusion of household‑level covariates from the 2010 Census with the FoodAPS dataset by linking each FoodAPS household to its corresponding census geographic unit. First, both data sources were extracted and cleaned: missing or inconsistent geographic identifiers (e.g., cen"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors calculated \"days since last SNAP benefit disbursement\" for each respondent and then linked these values to the daily meal‑consumption records from FoodAPS to examine how meal patterns vary across the benefit month.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Meal Consumption Patterns Throughout the SNAP Benefit Cycle",
+        "dud:publication_id": "pub.1138665531",
+        "identifier": "10.1093/cdn/nzab035_016"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "SNAP administrative benefit disbursement data (or schedule)",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"survey_date\"]",
+        "methodology": "The authors first extracted the SNAP benefit issue dates from the administrative benefit file and the daily meal records from the FoodAPS survey. They then computed a new variable representing the number of days since the most recent benefit issue for each meal observation by subtracting the benefit"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors added rural/metropolitan indicators and Census regions to the FoodAPS household records to control for food‑environment differences. This requires merging the FoodAPS micro‑data with external Census geography tables that map ZIP codes/ counties to region and metro status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Do Households Use Food Budget Stretching to Alleviate Food Insecurity?",
+        "dud:publication_id": "pub.1147852507",
+        "identifier": "10.1111/fcsr.12438"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Census geographic/ demographic data (region, metropolitan‑rural classification, poverty thresholds)",
+        "joinType": "integration",
+        "joinKeys": "[\"ZIP_code\",\"county_fips\"]",
+        "methodology": "The authors first extracted the ZIP code and county FIPS identifiers from each FoodAPS household record. They obtained publicly available Census geography tables that provide a one‑to‑one mapping of ZIP codes and county FIPS to the four Census regions (Northeast, Midwest, South, West) and to metropo"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Households were classified as low‑income (≤185 % of the FPL) or higher‑income (>185 % of the FPL) based on the 185 % FPL cutoff. This classification required linking each FoodAPS household’s income to the official FPL thresholds for the survey year.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Do Households Use Food Budget Stretching to Alleviate Food Insecurity?",
+        "dud:publication_id": "pub.1147852507",
+        "identifier": "10.1111/fcsr.12438"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Federal poverty‑level (FPL) reference data (U.S. Department of Health and Human Services) used for SNAP eligibility",
+        "joinType": "merge",
+        "joinKeys": "[\"household_id\",\"survey_year\"]",
+        "methodology": "The FoodAPS public use file was extracted and loaded into a data frame. The federal poverty level (FPL) table for the survey year was downloaded from the HHS website. Household total income was log transformed and the income‑to‑poverty ratio was calculated by dividing the household income by the FPL"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.1
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state that the analysis dataset “combines the FoodAPS's Individual File, Household File, and Access File at the household level” to create a single analytical file for each of the 2 171 households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
+        "dud:publication_id": "pub.1150121365",
+        "identifier": "10.1111/fcsr.12454"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "FoodAPS Household File (and Access File)",
+        "joinType": "merge",
+        "joinKeys": "[\"HHID\"]",
+        "methodology": "The authors merged the three FoodAPS files (Individual, Household, Access) at the household level. Each file contains a common household identifier (HHID). The merge was performed by matching records with identical HHID values across the files, creating one record per household that includes variabl"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors state that the analysis dataset “combines the FoodAPS's Individual File, Household File, and Access File at the household level” to create a single analytical file for each of the 2 171 households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
+        "dud:publication_id": "pub.1150121365",
+        "identifier": "10.1111/fcsr.12454"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "FoodAPS Individual File",
+        "joinType": "merge",
+        "joinKeys": "[\"HHID\"]",
+        "methodology": "The authors merged the three FoodAPS files (Individual, Household, Access) at the household level. Each file contains a common household identifier (HHID). The merge was performed by matching records with identical HHID values across the files, creating one record per household that includes variabl"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "In the methods the authors describe adding eight local‑food‑environment variables such as the number of SNAP‑authorized supermarkets, convenience stores, and fast‑food restaurants within 1‑mile and 10‑mile buffers. These counts must be derived from an external spatial database and linked to each Foo",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
+        "dud:publication_id": "pub.1150121365",
+        "identifier": "10.1111/fcsr.12454"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "External geocoded food‑environment data (e.g., USDA Food Access Research Atlas or similar store‑count datasets)",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"zip_code\"]",
+        "methodology": "The researchers first extracted the household level file from FoodAPS and selected the ZIP code and street address variables. The external food environment dataset was obtained from USDA Food Access Research Atlas and contained point locations of supermarkets, convenience stores and fast food restau"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.1
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors matched each FoodAPS household to SNAP participation status using administrative records when available, otherwise relying on self‑report. This required linking the survey respondent IDs with SNAP enrollment data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+        "dud:publication_id": "pub.1092259111",
+        "identifier": "10.3945/cdn.117.001446"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "SNAP administrative records",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"survey_respondent_id\"]",
+        "methodology": "The authors linked each FoodAPS household to SNAP participation status by first attempting to match the survey respondent identifier with administrative SNAP enrollment records. When an administrative record was available and consented, an exact key‑based join on the unique household ID was performe"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Retailers were classified as supermarkets or supercenters using the STARS database, which was linked to FoodAPS respondents’ reported primary retailer names/addresses to compute distances and categorize store types.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+        "dud:publication_id": "pub.1092259111",
+        "identifier": "10.3945/cdn.117.001446"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "SNAP Store Tracking and Redemption System (STARS)",
+        "joinType": "fusion",
+        "joinKeys": "[\"retailer_name\",\"address\",\"geocode_latitude\",\"geocode_longitude\"]",
+        "methodology": "The researchers first extracted retailer information from the SNAP Store Tracking and Redemption System (STARS) database, which includes standardized identifiers for supermarkets and supercenters. They then obtained the primary retailer names and approximate addresses reported by FoodAPS respondents"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The sampling design used primary sampling units (counties or groups of contiguous counties) and secondary sampling units (census block groups). Household addresses from FoodAPS were linked to these geographic units to calculate linear distances to nearest supermarkets.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+        "dud:publication_id": "pub.1092259111",
+        "identifier": "10.3945/cdn.117.001446"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Census geographic data (census block groups / counties)",
+        "joinType": "combination",
+        "joinKeys": "[\"household_geocode_latitude\",\"household_geocode_longitude\",\"census_block_group_id\"]",
+        "methodology": "The researchers first extracted the household street addresses from the FoodAPS dataset and geocoded them to obtain latitude‑longitude coordinates. Using the U.S. Census geographic shapefiles for block groups (and counties), they performed a spatial join that assigned each household point to its cor"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    }
+  ]
+}

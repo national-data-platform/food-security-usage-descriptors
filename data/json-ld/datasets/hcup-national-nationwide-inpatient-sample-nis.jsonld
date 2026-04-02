@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "HCUP National (Nationwide) Inpatient Sample (NIS)",
+  "identifier": "68ebcf23b68f81f17e36bdb1",
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Rural/Urban Disparities in Cardiovascular Disease in the US—What Can be Done to Improve Outcomes for Rural Americans?",
+        "dud:publication_id": "pub.1187277849",
+        "identifier": "10.1016/j.amjcard.2025.03.033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "The largest all‑payer inpatient health care database in the United States, part of the HCUP family, containing discharge data from a stratified sample of hospitals.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Socio-Economic Burden of Myocardial Infarction Among Cancer Patients",
+        "dud:publication_id": "pub.1132672862",
+        "identifier": "10.1016/j.amjcard.2020.11.005"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Healthcare Cost and Utilization Project (HCUP) – Agency for Healthcare Research and Quality (AHRQ).",
+      "dud:domain": "Health services research / health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "HCUP Nationwide Inpatient Sample, a large US hospital discharge database.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Rural/Urban Disparities in Cardiovascular Disease in the US—What Can be Done to Improve Outcomes for Rural Americans?",
+        "dud:publication_id": "pub.1187277849",
+        "identifier": "10.1016/j.amjcard.2025.03.033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "HCUP",
+      "dud:domain": "Healthcare/Health Services Research"
+    }
+  ]
+}

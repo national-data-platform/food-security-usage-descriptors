@@ -1,0 +1,171 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "University of Kentucky Center for Poverty Research National Welfare Data (UKCPR)",
+  "identifier": "d91c7cfa-707c-49ca-8383-50b274807914",
+  "alternateName": [
+    "UKCPR National Welfare Data",
+    "National Welfare Data",
+    "UK Center for Poverty Research National Welfare Data",
+    "UKCPR Welfare Data"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "State‑level dataset containing welfare‑related policy indicators and economic variables for U.S. states.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of State Supplemental Nutrition Assistance Program Eligibility Policies With Adult Mental Health and Suicidality",
+        "dud:publication_id": "pub.1157246673",
+        "identifier": "10.1001/jamanetworkopen.2023.8415"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Kentucky",
+      "dud:domain": "Economic policy / welfare economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A compiled database of state‑level welfare program characteristics, economic indicators, and policy variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Medicaid generosity and food hardship among children",
+        "dud:publication_id": "pub.1166624456",
+        "identifier": "10.1002/pam.22557"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Kentucky Center for Poverty Research",
+      "dud:domain": "State‑level policy & economic data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A compiled set of state‑level welfare‑related indicators (unemployment, GSP, SNAP participation, TANF benefits).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The intergenerational transmission of food insecurity: Do educational compromises make things worse?",
+        "dud:publication_id": "pub.1185960059",
+        "identifier": "10.1002/soej.12767"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Kentucky Center for Poverty Research.",
+      "dud:domain": "Public policy / Welfare economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A compiled database of state‑level welfare program characteristics and policy variables maintained by the Center for Poverty Research at the University of Kentucky.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "State expansion of supplemental nutrition assistance program eligibility and rates of interpersonal violence",
+        "dud:publication_id": "pub.1164838312",
+        "identifier": "10.1016/j.ypmed.2023.107725"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Kentucky Center for Poverty Research",
+      "dud:domain": "Public policy / Social welfare"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A compiled database of state‑level welfare program characteristics, economic indicators, and demographic statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
+        "dud:publication_id": "pub.1148831422",
+        "identifier": "10.1111/ajae.12322"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Kentucky – Center for Poverty Research",
+      "dud:domain": "Social‑policy & economic statistics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "To control for macro‑economic and policy context, the authors augment the person‑level PSID data with state‑level variables from the UKCPR National Welfare Data for the years 1997 and 2019. These state‑level indicators are merged onto the PSID records based on the respondent’s state of residence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The intergenerational transmission of food insecurity: Do educational compromises make things worse?",
+        "dud:publication_id": "pub.1185960059",
+        "identifier": "10.1002/soej.12767"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Panel Study of Income Dynamics (PSID) longitudinal sample",
+        "joinType": "fusion",
+        "joinKeys": "[\"state_id\",\"year\"]",
+        "methodology": "The researchers extracted person level records from the PSID data set including the respondent state of residence and the survey year. They also extracted state level variables from the UKCPR data set for the years 1997 and 2019. A common key was created by combining the state identifier with the ye"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.4
+        }
+      ]
+    }
+  ]
+}

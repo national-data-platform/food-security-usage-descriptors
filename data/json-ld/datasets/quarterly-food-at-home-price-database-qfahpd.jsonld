@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Quarterly Food-at-Home Price Database (QFAHPD)",
+  "identifier": "d7f39af9-347a-48c7-bf48-65f79328c668",
+  "alternateName": [
+    "Qfahpd",
+    "Quarterly Food At Home Price Database"
+  ]
+}

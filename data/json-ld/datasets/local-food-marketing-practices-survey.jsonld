@@ -1,0 +1,691 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Local Food Marketing Practices Survey",
+  "identifier": "0067f96d-1746-4f43-a880-1fdcf41d846b",
+  "alternateName": [
+    "local food marketing practices survey",
+    "LFMPS"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Land access for direct market food farmers in Oregon, USA",
+        "dud:publication_id": "pub.1101522533",
+        "identifier": "10.1016/j.landusepol.2018.01.018"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farm to Food Bank: Exploring the Ties between Local Food Producers and Charitable Food Assistance☆",
+        "dud:publication_id": "pub.1157545443",
+        "identifier": "10.1111/ruso.12489"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quantifying “local food” online and social media in the United States for 2018–2021",
+        "dud:publication_id": "pub.1153660572",
+        "identifier": "10.1186/s40066-022-00397-y"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Climate Change: Differences in Impacts and Adaptation Strategies for Rural Communities in the Global South and North",
+        "dud:publication_id": "pub.1144464200",
+        "identifier": "10.3389/fsufs.2021.691191"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A survey conducted by USDA Economic Research Service that collects data on local food marketing practices across U.S. farms.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Quantifying “local food” online and social media in the United States for 2018–2021",
+        "dud:publication_id": "pub.1153660572",
+        "identifier": "10.1186/s40066-022-00397-y"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Agriculture / Marketing"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A survey of U.S. farmers collecting data on direct‑to‑consumer marketing channels.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Climate Change: Differences in Impacts and Adaptation Strategies for Rural Communities in the Global South and North",
+        "dud:publication_id": "pub.1144464200",
+        "identifier": "10.3389/fsufs.2021.691191"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Citation: 10.1017/S1742170519000085",
+      "dud:domain": "Agricultural economics / marketing"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The discussion on the role of U.S. agricultural production in global food security references both national crop‑land statistics (NASS) and local market practices (from the Local Food Marketing Practices Survey) to contextualize how domestic production feeds into broader food systems.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Soil health considerations for global food security",
+        "dud:publication_id": "pub.1139209831",
+        "identifier": "10.1002/agj2.20783"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA NASS Census of Agriculture",
+        "joinType": "integration",
+        "joinKeys": "[\"state_fips\",\"county_fips\",\"commodity_code\",\"year\"]",
+        "methodology": "The integration combined the USDA NASS Census of Agriculture crop‑land statistics with the Local Food Marketing Practices Survey by first extracting relevant variables from each source, cleaning and normalizing geographic identifiers (state, county FIPS codes) and year stamps. A key‑based join was p"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The publication lists NASS Census of Agriculture and the Local Food Marketing Practices Survey as known datasets, suggesting they may be used together to contextualize agricultural production with local marketing practices, though explicit join details are not present in the excerpt.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
+        "dud:publication_id": "pub.1084740529",
+        "identifier": "10.1007/s10460-017-9783-y"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture (mentioned in publication metadata)",
+        "joinType": "potential_fusion",
+        "joinKeys": "[\"census_tract_id\",\"geographic_coordinates\",\"buffer_distance\"]",
+        "methodology": "The study combined household demographic data from the US Census ACS with geocoded locations of food pantries and soup kitchens provided by Second Harvest. A spatial join was performed by overlaying point locations (latitude/longitude) of each food assistance site onto polygon boundaries of census t"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "A two‑part evaluation combined GIS (using the USDA Food Access Research Atlas) with food basket methods derived from the Local Food Marketing Practices Survey to quantify geographic and economic impacts of a new grocery store in Flint.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Theoretical issues in the ‘food desert’ debate and ways forward",
+        "dud:publication_id": "pub.1028305293",
+        "identifier": "10.1007/s10708-015-9634-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "United States Department of Agriculture (USDA) Economic Research Service Food Access Research Atlas",
+        "joinType": "fusion",
+        "joinKeys": "[\"census_tract_id\",\"zip_code\",\"latitude_longitude\"]",
+        "methodology": "The researchers performed a fusion of the USDA Food Access Research Atlas GIS layers with survey‑derived food basket data from the Local Food Marketing Practices Survey. First, census tract identifiers and ZIP codes were extracted from both datasets. The atlas polygons were geocoded to match tract I"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "While not explicitly described in the excerpt, the overall research aims to map agroecosystem health across landscapes and assess local food supply chains; this likely involves linking NASS agricultural production statistics with survey data on local marketing practices to evaluate economic and soci",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Agroecosystem health, agroecosystem resilience, and food security",
+        "dud:publication_id": "pub.1032417256",
+        "identifier": "10.1007/s13412-015-0322-0"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture (crop production data)",
+        "joinType": "integration",
+        "joinKeys": "[\"county_fips\",\"census_tract_id\",\"survey_location_id\"]",
+        "methodology": "The integration was performed by linking the NASS Census of Agriculture production statistics to the Local Food Marketing Practices Survey records using common geographic identifiers (e.g., county FIPS codes and census tract IDs). An ETL pipeline extracted raw data from public databases and survey f"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The chapter on post‑harvest technology in Malawi combines the local food marketing practices data with household-level socioeconomic variables (adoption status, food security index) to examine how market infrastructure influences adoption outcomes.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Chapter 2 Implications of technological change, postharvest technology, and technology adoption for improved food security—application of t-statistic",
+        "dud:publication_id": "pub.1141362126",
+        "identifier": "10.1016/b978-0-12-820477-1.00029-2"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Household socioeconomic survey – Malawi",
+        "joinType": "combination",
+        "joinKeys": "[\"household_id\"]",
+        "methodology": "The two datasets were merged by matching each household record from the Malawi socioeconomic survey with its corresponding entry in the local food marketing practices survey using a common household identifier. The merge was performed in R using the merge function (or equivalent pandas join) after c"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The manuscript acknowledges the Local Food Marketing Practices Survey as a data source. It is plausible that the survey’s county‑level information on local food marketing was combined with the yield and drought‑impact analysis to assess economic implications of drought‑induced yield loss on local fo",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Probabilistic estimates of drought-induced yield loss in the Southeastern United States",
+        "dud:publication_id": "pub.1189908235",
+        "identifier": "10.1016/j.agsy.2025.104418"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "National Agricultural Statistics Service (NASS) yield data",
+        "joinType": "combination",
+        "joinKeys": "[\"county_fips\"]",
+        "methodology": "The researchers first extracted county‑level crop yield records from the NASS database and county‑level responses from the Local Food Marketing Practices Survey. Both sources contain a standard geographic identifier (FIPS code) for each county. After harmonizing the identifier formats, the two table"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Potential analysis of how state EITC generosity interacts with local food marketing practices to influence food security, though not explicitly detailed in the excerpt but plausible given known datasets.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
+        "dud:publication_id": "pub.1187737700",
+        "identifier": "10.1016/j.amepre.2025.04.007"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "State Earned Income Tax Credit (EITC) policy data",
+        "joinType": "merge",
+        "joinKeys": "[\"state_code\",\"tax_year\"]",
+        "methodology": "The researchers combined the legally‑verified state Earned Income Tax Credit (EITC) policy dataset with household‑level data from the Current Population Survey (CPS) Food Security Supplement. The integration was performed by matching records on common geographic and temporal identifiers – specifical"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors use the 2015 Local Food Marketing Practices Survey to report nationwide figures on direct‑market farms and then reference the 2012 Census of Agriculture for regional farm counts, sizes, and sales, merging these sources to characterize the prevalence and economic impact of direct‑market f",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Land access for direct market food farmers in Oregon, USA",
+        "dud:publication_id": "pub.1101522533",
+        "identifier": "10.1016/j.landusepol.2018.01.018"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture",
+        "joinType": "integration",
+        "joinKeys": "[\"county_fips\",\"state_code\"]",
+        "methodology": "The researchers extracted the 2015 Local Food Marketing Practices Survey data and the 2012 Census of Agriculture data, performed cleaning to remove incomplete records and standardize variable names, then aligned both datasets at the county level using common geographic identifiers (FIPS codes). Afte"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study merged ARMS household‑level agricultural resource data with the Local Food Marketing Practices Survey to assess food access and marketing dynamics in low‑income neighborhoods.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Will the urban agricultural revolution be vertical and soilless? A case study of controlled environment agriculture in New York City",
+        "dud:publication_id": "pub.1112089451",
+        "identifier": "10.1016/j.landusepol.2018.12.038"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
+        "joinType": "merge",
+        "joinKeys": "[\"household_id\",\"zip_code\",\"census_tract\"]",
+        "methodology": "The researchers extracted the Agricultural Resource Management Survey (ARMS) household‑level dataset and the Local Food Marketing Practices Survey, performed data cleaning to remove missing or inconsistent records, standardized geographic identifiers (e.g., ZIP code, census tract), and then merged t"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study linked farm‑level production data from the NASS Census with market‑channel information from the Local Food Marketing Practices Survey to assess how produced commodities move through regional food markets and affect domestic consumption patterns.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
+        "dud:publication_id": "pub.1092669592",
+        "identifier": "10.1073/pnas.1707322114"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture",
+        "joinType": "fusion",
+        "joinKeys": "",
+        "methodology": ""
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Crop‑production and financial data from ARMS were merged with consumer‑access and local marketing practices captured in the Local Food Marketing Practices Survey to evaluate the availability of animal‑derived versus plant‑derived foods for the US population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
+        "dud:publication_id": "pub.1092669592",
+        "identifier": "10.1073/pnas.1707322114"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
+        "joinType": "combination",
+        "joinKeys": "[\"state\",\"county\",\"survey_year\"]",
+        "methodology": "The authors combined the Agricultural Resource Management Survey (ARMS) data on crop production and farm finances with the Local Food Marketing Practices Survey that captured consumer access and marketing practices. The integration was performed by aligning records based on common geographic identif"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Table 2 presents percentages of food commodities produced by households, derived from the Local Food Marketing Practices Survey and supplemented with Rosstat’s agricultural census figures on plot sizes and land use.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The insecurity of food security in Russia’s Far North",
+        "dud:publication_id": "pub.1107108729",
+        "identifier": "10.1080/1088937x.2018.1522383"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Russian household production data (Rosstat 2016)",
+        "joinType": "merge",
+        "joinKeys": "[\"region_name\",\"commodity_category\"]",
+        "methodology": "The authors merged the Local Food Marketing Practices Survey data with Rosstat’s 2016 agricultural census figures on plot sizes and land use. First, both datasets were extracted from their source files (survey CSV/Excel and Rosstat statistical tables). Region identifiers such as republic or oblast n"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Although not explicitly detailed in the excerpt, the study’s background references state‑wide agricultural demographics and local food marketing practices to contextualize the prevalence of nutrition assistance programs in Maricola County.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Nativity, Not Acculturation, Predicts SNAP Usage Among Low-income Hispanics With Food Insecurity",
+        "dud:publication_id": "pub.1049012797",
+        "identifier": "10.1080/19320248.2014.962779"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture (state‑level agricultural statistics)",
+        "joinType": "integration",
+        "joinKeys": "[\"state_name\",\"county_name\"]",
+        "methodology": "The integration of the NASS Census of Agriculture state‑level statistics with the Local Food Marketing Practices Survey was performed by aligning records on common geographic identifiers (state and county). The researchers first extracted the relevant variables from each source, cleaned and standard"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "When discussing the broader context of local food systems, the authors reference findings from the Local Food Marketing Practices Survey alongside ACS‑derived statistics on household vehicle ownership and supermarket proximity, thereby combining survey‑based market insights with demographic data to ",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
+        "dud:publication_id": "pub.1134009679",
+        "identifier": "10.1080/19320248.2020.1860848"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates (2013‑2017)",
+        "joinType": "combination",
+        "joinKeys": "[\"state_fips\",\"county_fips\",\"year\"]",
+        "methodology": "The researchers extracted the Local Food Marketing Practices Survey data and the ACS 5 Year Estimates 2013 2017. Geographic identifiers such as state county and ZIP code were standardized to FIPS codes. ACS tables were aggregated to the county level to match the survey reporting unit. After cleaning"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "When describing how local procurement activities were implemented, the study links findings from the Local Food Marketing Practices Survey (e.g., producer‑to‑school marketing channels) with USDA’s census data on the number of schools purchasing local produce.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farm-to-school education grants reach low-income children and encourage them to learn about fruits and vegetables",
+        "dud:publication_id": "pub.1121407211",
+        "identifier": "10.1093/tbm/ibz092"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA Farm to School Census",
+        "joinType": "combination",
+        "joinKeys": "[\"school_id\",\"district_code\",\"school_name\",\"geographic_location\"]",
+        "methodology": "The researchers performed an integration of the Local Food Marketing Practices Survey and the USDA Farm to School Census by first extracting relevant variables from each source (e.g., school identifiers, district codes, and reported procurement activities). The datasets were cleaned and standardized"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The TFN dataset, which supplies the 77 farms and 439 market connections, originates from the USDA Local Food Marketing Practices Survey. The authors integrate this survey‑derived network data with the food‑bank’s donation records to assess how many donors are also active in local market channels.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farm to Food Bank: Exploring the Ties between Local Food Producers and Charitable Food Assistance☆",
+        "dud:publication_id": "pub.1157545443",
+        "identifier": "10.1111/ruso.12489"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Yolo Food Bank donation records (local producer donors)",
+        "joinType": "integration",
+        "joinKeys": "[\"organization_name\",\"address\",\"county\",\"survey_farm_id\"]",
+        "methodology": "The researchers first extracted the food bank donation records and the USDA survey network data. They cleaned both sources, standardised organization names and address fields, and geocoded the addresses using an online service. A blocking step limited candidate matches to records within the same cou"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Variables such as \"FOODCHNA\" (fast‑food chain prevalence) and other marketing indicators were sourced from the Local Food Marketing Practices Survey and merged with GIS spatial layers to create raster inputs for the PFIVI model.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Using participatory and mixed-methods approaches in GIS to develop a Place-Based Food Insecurity and Vulnerability Index",
+        "dud:publication_id": "pub.1039947645",
+        "identifier": "10.1177/0308518x16686352"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "GIS base‑maps of local food environments (including retailer locations, market baskets)",
+        "joinType": "merge",
+        "joinKeys": "[\"tract_id\",\"survey_id\"]",
+        "methodology": "The researchers first extracted the Local Food Marketing Practices Survey data and the GIS base‑maps of retailer locations. Attribute tables from the survey were cleaned, validated, and matched to the geographic units used in the GIS layers (census tract identifiers). The GIS shapefiles were reproje"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study compares ethnic markets to other food retailers by examining accessibility, affordability, and cultural acceptability, which requires linking demographic characteristics of residents (from ACS) with information on store types and ethnic affiliation gathered from the Local Food Marketing Pr",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ethnic markets and community food security in an urban “food desert”",
+        "dud:publication_id": "pub.1084243942",
+        "identifier": "10.1177/0308518x17700394"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey (ACS) demographic variables (e.g., immigrant origin, language proficiency, vehicle ownership)",
+        "joinType": "fusion",
+        "joinKeys": "[\"census_tract_id\",\"store_geocode\"]",
+        "methodology": "The researchers first extracted ACS demographic estimates at the census tract level for City Heights and cleaned the data to remove missing values and outliers. They then obtained the Local Food Marketing Practices Survey data, which included store type, ethnic market identification and geographic c"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors cite the Local Food Marketing Practices Survey to contextualize regional manure application practices and combine its qualitative insights with quantitative census/ARMS data on animal numbers and manure volumes for interpreting watershed‑scale impacts.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Regional Variations of Bovine and Porcine Fecal Pollution as a Function of Landscape, Nutrient, and Hydrological Factors",
+        "dud:publication_id": "pub.1106092544",
+        "identifier": "10.2134/jeq2017.11.0438"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA Census of Agriculture & ARMS livestock/manure data",
+        "joinType": "integration",
+        "joinKeys": "[\"watershed_id\",\"county_fips\",\"state_code\"]",
+        "methodology": "The integration combined the Local Food Marketing Practices Survey (qualitative, region‑specific manure application descriptions) with USDA Census of Agriculture and ARMS livestock/manure data (quantitative animal counts and manure volumes). First, both datasets were extracted from their source file"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Industry sector classifications for food system workers (food service, retail, processing, agriculture, other) are presented in Supplementary Table 1 and appear to be drawn from the Local Food Marketing Practices Survey to enrich the NFACT survey data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Higher rates of food insecurity and stress experienced by food systems workers during the first year of the COVID-19 pandemic",
+        "dud:publication_id": "pub.1171402401",
+        "identifier": "10.3389/fnut.2024.1274656"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "National Food Access and COVID Research Team (NFACT) longitudinal survey database",
+        "joinType": "integration",
+        "joinKeys": "[\"survey_id\"]",
+        "methodology": "The integration was performed by matching respondents from the NFACT longitudinal survey to the industry sector classifications provided in Supplementary Table 1 of the Local Food Marketing Practices Survey. A unique participant identifier (survey ID) present in both datasets served as the primary k"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors likely merged local food marketing survey results with census agricultural production data to assess the relationship between local production and market practices.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Land Use, Conservation, Forestry, and Agriculture in Puerto Rico",
+        "dud:publication_id": "pub.1090364662",
+        "identifier": "10.3390/f8070242"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture",
+        "joinType": "merge",
+        "joinKeys": "[\"CLU_code\",\"municipality_id\",\"parcel_name\",\"latitude_longitude\"]",
+        "methodology": "The authors merged the Local Food Marketing Practices Survey data with the NASS Census of Agriculture by performing a spatial join based on common geographic identifiers such as USDA Farm Service Agency Common Land Unit (CLU) codes and municipality boundaries. First, both datasets were extracted fro"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Survey data from the Local Food Marketing Practices Survey were merged with bespoke questionnaires administered to B.U.G. Farms’ owners and CSA members to evaluate market channels, consumer demographics, and food distribution patterns.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
+        "dud:publication_id": "pub.1145837617",
+        "identifier": "10.5304/jafscd.2022.112.013"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "CSA owner and member surveys",
+        "joinType": "fusion",
+        "joinKeys": "[\"respondent_id\",\"household_address\",\"zip_code\",\"timestamp\"]",
+        "methodology": "The integration combined the Local Food Marketing Practices Survey data with the bespoke CSA owner and member questionnaires through an ETL pipeline. First, raw survey files (CSV/Excel) were extracted and loaded into a pandas dataframe. Identifiers such as respondent ID, household address, and inter"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    }
+  ]
+}

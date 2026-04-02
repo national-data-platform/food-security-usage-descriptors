@@ -1,0 +1,3338 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Food Access Research Atlas (FARA)",
+  "identifier": "8b4643af-1ecf-4745-93ba-7de3b62f0537",
+  "alternateName": [
+    "Food Access Research Atlas"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security and access to healthy foods in Indian country: Learning from the Food Distribution Program on Indian Reservations",
+        "dud:publication_id": "pub.1112157019",
+        "identifier": "10.1002/pa.1876"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
+        "dud:publication_id": "pub.1084740529",
+        "identifier": "10.1007/s10460-017-9783-y"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing changes in food pantry access after extreme events",
+        "dud:publication_id": "pub.1152303372",
+        "identifier": "10.1007/s10460-022-10373-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food justice in Vermont’s environmentally vulnerable communities",
+        "dud:publication_id": "pub.1157511620",
+        "identifier": "10.1007/s10460-023-10431-9"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Theoretical issues in the ‘food desert’ debate and ways forward",
+        "dud:publication_id": "pub.1028305293",
+        "identifier": "10.1007/s10708-015-9634-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing Patient and Community-Level Social Factors; The Synergistic Effect of Social Needs and Social Determinants of Health on Healthcare Utilization at a Multilevel Academic Healthcare System",
+        "dud:publication_id": "pub.1163756568",
+        "identifier": "10.1007/s10916-023-01990-9"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Historic Residential Redlining and Present-Day Social Determinants of Health, Home Evictions, and Food Insecurity within US Neighborhoods",
+        "dud:publication_id": "pub.1159412279",
+        "identifier": "10.1007/s11606-023-08258-5"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing the Relationship Between Emergency Food Assistance and Social Vulnerability During the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1150553810",
+        "identifier": "10.1007/s12061-022-09478-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Spatial characteristics of food insecurity and food access in Los Angeles County during the COVID-19 pandemic",
+        "dud:publication_id": "pub.1162266972",
+        "identifier": "10.1007/s12571-023-01381-5"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
+        "dud:publication_id": "pub.1149272027",
+        "identifier": "10.1007/s12603-022-1816-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities",
+        "dud:publication_id": "pub.1167510317",
+        "identifier": "10.1016/j.ajcnut.2023.12.019"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Birth outcomes in relation to neighborhood food access and individual food insecurity during pregnancy in the Environmental Influences on Child Health Outcomes (ECHO)-wide cohort study",
+        "dud:publication_id": "pub.1169299663",
+        "identifier": "10.1016/j.ajcnut.2024.02.022"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Evaluating the relationship between urban environment and food security in Georgia's older population",
+        "dud:publication_id": "pub.1010851647",
+        "identifier": "10.1016/j.apgeog.2014.10.013"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Integrating transit data and travel time into food security analysis: A case study of San Diego, California",
+        "dud:publication_id": "pub.1138086506",
+        "identifier": "10.1016/j.apgeog.2021.102461"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Material Hardship, Labor Market Characteristics and Substantiated Child Maltreatment: A Bayesian Spatiotemporal Analysis",
+        "dud:publication_id": "pub.1166678729",
+        "identifier": "10.1016/j.childyouth.2023.107371"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Developing a healthy food access index (HFAI): Web-based mapping and future directions for AI integrations",
+        "dud:publication_id": "pub.1186890755",
+        "identifier": "10.1016/j.cities.2025.105908"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among youth seeking eating disorder treatment",
+        "dud:publication_id": "pub.1158196198",
+        "identifier": "10.1016/j.eatbeh.2023.101738"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Urban agriculture: A strategic pathway to building resilience and ensuring sustainable food security in cities",
+        "dud:publication_id": "pub.1186529250",
+        "identifier": "10.1016/j.farsys.2025.100150"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Investigating connectivity in the urban food landscapes of migrant women facing food insecurity in Washington, DC",
+        "dud:publication_id": "pub.1100900492",
+        "identifier": "10.1016/j.healthplace.2018.01.003"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Prone to Stones?: Evaluating the association between food insecurity, psychiatric comorbidity, and pediatric stone management",
+        "dud:publication_id": "pub.1181767961",
+        "identifier": "10.1016/j.jpurol.2024.10.018"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of community-level food insecurity and glycemic control among pregnant individuals with pregestational diabetes",
+        "dud:publication_id": "pub.1152703425",
+        "identifier": "10.1016/j.pcd.2022.11.002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
+        "dud:publication_id": "pub.1183405145",
+        "identifier": "10.1016/j.ygyno.2024.12.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Influence of Gestational Weight Gain on the Risk of Preterm Birth for Underweight Women Living in Food Deserts",
+        "dud:publication_id": "pub.1125403014",
+        "identifier": "10.1055/s-0040-1705168"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
+        "dud:publication_id": "pub.1125693172",
+        "identifier": "10.1080/10875549.2020.1740908"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food access, food security and community gardens in Rockford, IL",
+        "dud:publication_id": "pub.1100480817",
+        "identifier": "10.1080/13549839.2018.1426561"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interest in Nutrition and Local Food Systems among Food-Insecure Households in an Appalachian Community",
+        "dud:publication_id": "pub.1050483147",
+        "identifier": "10.1080/19320248.2016.1146191"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Reconsidering Household Food Insecurity: Assessing the Impact of Neighborhood and Household Characteristics",
+        "dud:publication_id": "pub.1171830752",
+        "identifier": "10.1080/19320248.2024.2355938"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Surrogates? County-Level Association Between Vegetable Production and Food Insecurity in the Rural South",
+        "dud:publication_id": "pub.1181358049",
+        "identifier": "10.1080/19320248.2024.2412561"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Bidirectional Relationship Between Sickle Cell Disease and Food Insecurity: Scoping Review",
+        "dud:publication_id": "pub.1170403152",
+        "identifier": "10.1089/heq.2023.0147"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Child Food Insecurity and Neighborhood Food Environment in Relation to Academic Performance and Behavior Problems Among a National Sample of Kindergarten Children (OR02-04-19)",
+        "dud:publication_id": "pub.1117163849",
+        "identifier": "10.1093/cdn/nzz051.or02-04-19"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "THE RELEVANCE OF SNAP PROGRAM ACCESSIBILITY FOR FOOD INSECURITY, FOCUSING ON ADULTS WITH DISABILITIES",
+        "dud:publication_id": "pub.1167197470",
+        "identifier": "10.1093/geroni/igad104.0350"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Effect of Food Environment on Pregnancy Outcomes [ID 2683379]",
+        "dud:publication_id": "pub.1171671873",
+        "identifier": "10.1097/01.aog.0001013444.40305.a0"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and food deserts",
+        "dud:publication_id": "pub.1038202052",
+        "identifier": "10.1097/01.npr.0000453644.36533.3a"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Neighborhood Disadvantage, and Hospital Readmission in Health System Adults",
+        "dud:publication_id": "pub.1166767548",
+        "identifier": "10.1097/nur.0000000000000794"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Individual‐ and environmental‐level determinants of fruit and vegetable intakes in rural Georgia",
+        "dud:publication_id": "pub.1176114932",
+        "identifier": "10.1111/jrh.12880"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Residing in a low-income-low-food-access neighbourhood and asthma in early and middle childhood in the Environmental influences on Child Health Outcomes (ECHO) program: a multisite cohort study",
+        "dud:publication_id": "pub.1190267999",
+        "identifier": "10.1136/bmjopen-2024-094317"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Potential Impact of Food Insecurity in an Urban Trauma Population",
+        "dud:publication_id": "pub.1147510986",
+        "identifier": "10.1177/00031348221094217"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ethnic markets and community food security in an urban “food desert”",
+        "dud:publication_id": "pub.1084243942",
+        "identifier": "10.1177/0308518x17700394"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Clay 3D printed hydroponics: A paradigm to address global food insecurity",
+        "dud:publication_id": "pub.1181246645",
+        "identifier": "10.1177/14780771241287826"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "“Something Fun to Look Forward to”: Lessons From Implementing the Prescription for Health Farmers’ Market Initiative in Rural Upper Michigan",
+        "dud:publication_id": "pub.1148759450",
+        "identifier": "10.1177/15248399221093966"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Participatory mapping to address neighborhood level data deficiencies for food security assessment in Southeastern Virginia, USA",
+        "dud:publication_id": "pub.1152553896",
+        "identifier": "10.1186/s12942-022-00314-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
+        "dud:publication_id": "pub.1143615191",
+        "identifier": "10.14283/jarlife.2020.7"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Integrating geo-linked electronic health records with neighborhood data to identify place-based barriers for diabetes management in a public healthcare system",
+        "dud:publication_id": "pub.1141733356",
+        "identifier": "10.21203/rs.3.rs-913499/v1"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
+        "dud:publication_id": "pub.1149237728",
+        "identifier": "10.2196/34285"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unpacking determinants and consequences of food insecurity for insulin resistance among people living with HIV: Conceptual framework and protocol for the NOURISH-OK study",
+        "dud:publication_id": "pub.1150265156",
+        "identifier": "10.3389/fcdhc.2022.947552"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Could measuring factors other than a lack of financial resources help in achieving the zero hunger goal",
+        "dud:publication_id": "pub.1175687308",
+        "identifier": "10.3389/fsufs.2024.1412401"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Food Deserts and Their Impact on Health Outcomes in Children with Cystic Fibrosis",
+        "dud:publication_id": "pub.1143151520",
+        "identifier": "10.3390/nu13113996"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Scoping Review of Nutritional Biomarkers Associated with Food Security",
+        "dud:publication_id": "pub.1163285931",
+        "identifier": "10.3390/nu15163576"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Promoting Food Systems Paradigm Shifts through Critical Reflexivity: Exploring Interviews as Intervention",
+        "dud:publication_id": "pub.1157841342",
+        "identifier": "10.3390/socsci12050280"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Agroecological Transition: A Territorial Examination of the Simultaneity of Limited Farmer Livelihoods and Food Insecurity",
+        "dud:publication_id": "pub.1146170798",
+        "identifier": "10.3390/su14063160"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Barriers to Food Security and Community Stress in an Urban Food Desert",
+        "dud:publication_id": "pub.1104335284",
+        "identifier": "10.3390/urbansci2020046"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 0.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Evaluation for Urban Agriculture Land Inventory: Roanoke, Virginia USA",
+        "dud:publication_id": "pub.1047979751",
+        "identifier": "10.4018/ijagr.2017010103"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
+        "dud:publication_id": "pub.1145837617",
+        "identifier": "10.5304/jafscd.2022.112.013"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A decade of the Missouri Hunger Atlas: Information for action",
+        "dud:publication_id": "pub.1151845578",
+        "identifier": "10.5304/jafscd.2022.121.003"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "validation",
+      "reviewBody": "",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Cardiovascular Health in Pregnant Women: Results From the Food for Families Program, Chelsea, Massachusetts, 2013–2015",
+        "dud:publication_id": "pub.1073476619",
+        "identifier": "10.5888/pcd13.160212"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "validated"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A GIS‑based dataset/tool that provides county‑level indicators of food access, including measures of distance to supermarkets and low‑income status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security and access to healthy foods in Indian country: Learning from the Food Distribution Program on Indian Reservations",
+        "dud:publication_id": "pub.1112157019",
+        "identifier": "10.1002/pa.1876"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service (ERS)",
+      "dud:domain": "Food access, geography, public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑produced GIS dataset that maps food deserts by linking supermarket locations with poverty data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
+        "dud:publication_id": "pub.1084740529",
+        "identifier": "10.1007/s10460-017-9783-y"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Public health / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑produced dataset that maps low‑access areas based on distance to supermarkets and socioeconomic thresholds.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing changes in food pantry access after extreme events",
+        "dud:publication_id": "pub.1152303372",
+        "identifier": "10.1007/s10460-022-10373-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture – Food Access Research Atlas",
+      "dud:domain": "Food environment / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A GIS‑based dataset that maps food deserts by counting households beyond 1 mile (urban) or 10 miles (rural) from a supermarket.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food justice in Vermont’s environmentally vulnerable communities",
+        "dud:publication_id": "pub.1157511620",
+        "identifier": "10.1007/s10460-023-10431-9"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture – Food Access Research Atlas",
+      "dud:domain": "Food access / public health geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑maintained dataset that provides tract‑level measures of food‑access hardship based on distance to supermarkets and vehicle‑ownership statistics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing the Relationship Between Emergency Food Assistance and Social Vulnerability During the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1150553810",
+        "identifier": "10.1007/s12061-022-09478-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA), Economic Research Service, 2009 criteria.",
+      "dud:domain": "Public health / Food access / Geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑produced dataset that provides census‑tract level measures of food access, including low‑income and low‑access designations for supermarkets and large grocery stores.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Spatial characteristics of food insecurity and food access in Los Angeles County during the COVID-19 pandemic",
+        "dud:publication_id": "pub.1162266972",
+        "identifier": "10.1007/s12571-023-01381-5"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service (ERS)",
+      "dud:domain": "Public health / Food environment"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑maintained dataset that provides county‑ and census‑tract‑level measures of food access, including distance to grocery stores, vehicle access, and other food‑environment indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
+        "dud:publication_id": "pub.1149272027",
+        "identifier": "10.1007/s12603-022-1816-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Food access / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS dataset that provides census‑tract level indicators of food access, including income, vehicle access, and distance to supermarkets.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Seeding Insights and Nourishing Change: a Case for Participatory Evaluation in Place-Based Community Food Systems",
+        "dud:publication_id": "pub.1134803661",
+        "identifier": "10.1007/s42413-020-00097-0"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Public health / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA GIS‑based dataset that maps food access indicators (e.g., low‑income, low‑access census tracts) across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities",
+        "dud:publication_id": "pub.1167510317",
+        "identifier": "10.1016/j.ajcnut.2023.12.019"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset that maps census tracts with limited food access based on distance to supermarkets and income thresholds.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Evaluating the relationship between urban environment and food security in Georgia's older population",
+        "dud:publication_id": "pub.1010851647",
+        "identifier": "10.1016/j.apgeog.2014.10.013"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Food security / public health geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset that identifies census tracts that are food‑insecure (food deserts) based on distance to the nearest grocery store.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Material Hardship, Labor Market Characteristics and Substantiated Child Maltreatment: A Bayesian Spatiotemporal Analysis",
+        "dud:publication_id": "pub.1166678729",
+        "identifier": "10.1016/j.childyouth.2023.107371"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service, 2019 (Food Access Research Atlas)",
+      "dud:domain": "Public health / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "USDA’s national dataset that identifies census tracts with limited access to supermarkets based on income and distance criteria.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Developing a healthy food access index (HFAI): Web-based mapping and future directions for AI integrations",
+        "dud:publication_id": "pub.1186890755",
+        "identifier": "10.1016/j.cities.2025.105908"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Public health / Food environment"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Updated version of the Food Access Research Atlas with expanded variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Developing a healthy food access index (HFAI): Web-based mapping and future directions for AI integrations",
+        "dud:publication_id": "pub.1186890755",
+        "identifier": "10.1016/j.cities.2025.105908"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Public health / Food access"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑maintained spatial dataset that maps food‑insecure areas in the United States using income, vehicle access, and distance to food stores at the census‑tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of community-level food insecurity and glycemic control among pregnant individuals with pregestational diabetes",
+        "dud:publication_id": "pub.1152703425",
+        "identifier": "10.1016/j.pcd.2022.11.002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Public health / Nutrition / Geographic information"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS dataset that identifies low‑income, low‑access (LILA) census tracts (food deserts) across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
+        "dud:publication_id": "pub.1183405145",
+        "identifier": "10.1016/j.ygyno.2024.12.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "USDA‑produced GIS dataset mapping food access measures across U.S. counties, used in prior literature to assess availability and accessibility of food sources.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Identifying gaps in the food security safety net: the characteristics and availability of summer nutrition programmes in California, USA",
+        "dud:publication_id": "pub.1112203051",
+        "identifier": "10.1017/s1368980018004135"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Food security/geospatial analysis"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An interactive map and dataset describing food access at the census tract level across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity in a pre-bariatric surgery sample: prevalence, demographics and food shopping behaviour",
+        "dud:publication_id": "pub.1117290764",
+        "identifier": "10.1017/s1368980019001320"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA-provided dataset that maps food access indicators, including definitions of food deserts at the census‑tract level based on distance to supermarkets and income status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Influence of Gestational Weight Gain on the Risk of Preterm Birth for Underweight Women Living in Food Deserts",
+        "dud:publication_id": "pub.1125403014",
+        "identifier": "10.1055/s-0040-1705168"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA)",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑based national dataset mapping food access and identifying food deserts across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Strategically Siting Urban Agriculture: A Socioeconomic Analysis of Roanoke, Virginia",
+        "dud:publication_id": "pub.1018922544",
+        "identifier": "10.1080/00330124.2016.1157496"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (Economic Research Service)",
+      "dud:domain": "Food security / Geographic analysis"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset mapping food access, identifying food deserts and related socioeconomic indicators at the census tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
+        "dud:publication_id": "pub.1125693172",
+        "identifier": "10.1080/10875549.2020.1740908"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Department of Agriculture, 2019a",
+      "dud:domain": "Food security / Geographic accessibility"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑ERS dataset that maps food desert locations and measures food access at the county and census tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Interest in Nutrition and Local Food Systems among Food-Insecure Households in an Appalachian Community",
+        "dud:publication_id": "pub.1050483147",
+        "identifier": "10.1080/19320248.2016.1146191"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Food Access / Public Health Geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑produced GIS‑based dataset mapping low‑income and low‑access census tracts and ZIP code tabulation areas across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Reconsidering Household Food Insecurity: Assessing the Impact of Neighborhood and Household Characteristics",
+        "dud:publication_id": "pub.1171830752",
+        "identifier": "10.1080/19320248.2024.2355938"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service.",
+      "dud:domain": "Geospatial food‑access mapping"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "USDA spatial dataset that provides census‑tract level measures of food access, used to identify food deserts.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Bidirectional Relationship Between Sickle Cell Disease and Food Insecurity: Scoping Review",
+        "dud:publication_id": "pub.1170403152",
+        "identifier": "10.1089/heq.2023.0147"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geography / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA Economic Research Service spatial dataset that identifies low‑income census tracts, food deserts, and areas with limited access to grocery stores.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and the Risk of Obesity, Depression, and Self-Rated Health in Women",
+        "dud:publication_id": "pub.1130837718",
+        "identifier": "10.1089/whr.2020.0049"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Public health / Nutrition / Geographic information"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An interactive GIS-based tool that maps food access indicators across the United States, including measures of distance to grocery stores and socioeconomic factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity among American Indian and Alaska Native People: A Scoping Review to Inform Future Research and Policy Needs",
+        "dud:publication_id": "pub.1145041994",
+        "identifier": "10.1093/advances/nmac008"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Geography / Food access"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "USDA Economic Research Service dataset providing census‑tract level measures of food access and food deserts.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity is Directly Associated with the Use of Health Services for Adverse Health Events among Older Adults",
+        "dud:publication_id": "pub.1130550214",
+        "identifier": "10.1093/jn/nxaa286"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Food access / Public health geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA Economic Research Service dataset that identifies low‑food‑access census tracts (food deserts) across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Neighborhood Disadvantage, and Hospital Readmission in Health System Adults",
+        "dud:publication_id": "pub.1166767548",
+        "identifier": "10.1097/nur.0000000000000794"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Public health / Nutrition / Geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An atlas produced by USDA providing spatial data on food access and insecurity across US counties.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The association between food insecurity and gun violence in a major metropolitan city",
+        "dud:publication_id": "pub.1145980582",
+        "identifier": "10.1097/ta.0000000000003578"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA).",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A geospatial dataset produced by the USDA Economic Research Service that maps food‑access metrics (distance to grocery stores, poverty, vehicle access) at the census‑tract level across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Addressing Urban Food Insecurity Through Data-Driven and Community-Centric Smart City Frameworks",
+        "dud:publication_id": "pub.1190872596",
+        "identifier": "10.1109/access.2025.3589963"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Food security / geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‐produced national dataset mapping food access indicators (e.g., distance to supermarkets) at the census‑tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of household food insecurity and childhood weight status in a low‐income population",
+        "dud:publication_id": "pub.1130753128",
+        "identifier": "10.1111/cob.12401"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA",
+      "dud:domain": "Public health / Food access"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "USDA dataset that provides census‑tract level measures of food access, including low‑access, low‑access with no vehicle, and low‑income low‑access indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Predicts Urban Gun Violence",
+        "dud:publication_id": "pub.1130027734",
+        "identifier": "10.1177/0003134820942194"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "US Department of Agriculture",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A GIS‑based dataset that maps food access (low income & low supermarket proximity) at the census‑tract level across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Potential Impact of Food Insecurity in an Urban Trauma Population",
+        "dud:publication_id": "pub.1147510986",
+        "identifier": "10.1177/00031348221094217"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Public health / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A geographic dataset produced by the USDA that maps food access and identifies food deserts across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Mixed-Methods Evaluation of a Novel Food Pantry in a Pediatric Primary Care Center",
+        "dud:publication_id": "pub.1124240623",
+        "identifier": "10.1177/0009922819900960"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Public health / Food security / Geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA‑produced dataset that maps food access indicators (e.g., distance to supermarkets, food deserts) across U.S. census tracts.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
+        "dud:publication_id": "pub.1143615191",
+        "identifier": "10.14283/jarlife.2020.7"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture, Economic Research Service",
+      "dud:domain": "Food Access / Public Health Geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset that classifies census tracts as low‑income, low‑access (food deserts) using distance thresholds for urban and rural areas.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
+        "dud:publication_id": "pub.1149237728",
+        "identifier": "10.2196/34285"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture – Economic Research Service",
+      "dud:domain": "Public health / Food security"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset providing multi-dimensional measures of food access and food deserts across U.S. census tracts.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Unpacking determinants and consequences of food insecurity for insulin resistance among people living with HIV: Conceptual framework and protocol for the NOURISH-OK study",
+        "dud:publication_id": "pub.1150265156",
+        "identifier": "10.3389/fcdhc.2022.947552"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture",
+      "dud:domain": "Public health / Food environment"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "GIS‑based dataset mapping low‑income, low‑access census tracts and other food‑access indicators across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Could measuring factors other than a lack of financial resources help in achieving the zero hunger goal",
+        "dud:publication_id": "pub.1175687308",
+        "identifier": "10.3389/fsufs.2024.1412401"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geography / food access"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A GIS‑based dataset that maps food access and food‑desert status across U.S. census tracts.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Scoping Review of Nutritional Biomarkers Associated with Food Security",
+        "dud:publication_id": "pub.1163285931",
+        "identifier": "10.3390/nu15163576"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Geospatial / food access research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset that maps food access and identifies food deserts across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Evaluation for Urban Agriculture Land Inventory: Roanoke, Virginia USA",
+        "dud:publication_id": "pub.1047979751",
+        "identifier": "10.4018/ijagr.2017010103"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA (2014)",
+      "dud:domain": "Food security / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A spatial dataset produced by the USDA Economic Research Service that identifies census tracts classified as food deserts based on distance to supermarkets and income criteria.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
+        "dud:publication_id": "pub.1145837617",
+        "identifier": "10.5304/jafscd.2022.112.013"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture (USDA) Economic Research Service",
+      "dud:domain": "Public health / Food access geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset that maps food access at the census tract level, formerly called the Food Desert Locator.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A decade of the Missouri Hunger Atlas: Information for action",
+        "dud:publication_id": "pub.1151845578",
+        "identifier": "10.5304/jafscd.2022.121.003"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Department of Agriculture Economic Research Service",
+      "dud:domain": "Food Access / Geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A USDA dataset that provides food access measures (e.g., distance to grocery stores, low‑income tract status) at the census‑tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Cardiovascular Health in Pregnant Women: Results From the Food for Families Program, Chelsea, Massachusetts, 2013–2015",
+        "dud:publication_id": "pub.1073476619",
+        "identifier": "10.5888/pcd13.160212"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "USDA Economic Research Service",
+      "dud:domain": "Public health / nutrition geography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study compared the demographic characteristics and reported barriers of respondents with the USDA‑identified status of the neighborhoods as food deserts, to contextualize findings within broader national maps.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Listening local: Community perceptions of fresh food resources in Greater Little Rock",
+        "dud:publication_id": "pub.1101123332",
+        "identifier": "10.1002/jcop.21941"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Survey‑derived demographic and barrier data (from food pantry participants)",
+        "joinType": "combination",
+        "joinKeys": "[\"census_tract_id\",\"zip_code\",\"neighborhood_name\"]",
+        "methodology": "The researchers merged the survey‑derived demographic and barrier data collected from food pantry participants with the USDA Food Access Research Atlas food desert classification by linking each respondent to the geographic unit (census tract or ZIP code) used in the USDA dataset. First, the raw sur"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors reference USDA buffer guidelines (1‑mile urban, 10‑mile rural) that originate from the FARA methodology to define proximity to food retailers; these buffers are applied to ACS census‑tract data to assess access.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
+        "dud:publication_id": "pub.1084740529",
+        "identifier": "10.1007/s10460-017-9783-y"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "US Census American Community Survey (ACS) demographic and poverty data",
+        "joinType": "integration",
+        "joinKeys": "[\"GEOID\",\"spatial_coordinates\"]",
+        "methodology": "The authors first obtained geocoded point locations of food pantries and soup kitchens from the local food bank (Second Harvest) and polygon boundaries for census tracts from the US Census ACS data. Using ArcGIS 10.2 they performed a spatial overlay where each census‑tract polygon was intersected wi"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "A two‑part evaluation combined GIS (using the USDA Food Access Research Atlas) with food basket methods derived from the Local Food Marketing Practices Survey to quantify geographic and economic impacts of a new grocery store in Flint.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Theoretical issues in the ‘food desert’ debate and ways forward",
+        "dud:publication_id": "pub.1028305293",
+        "identifier": "10.1007/s10708-015-9634-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Local Food Marketing Practices Survey",
+        "joinType": "fusion",
+        "joinKeys": "[\"census_tract_id\",\"zip_code\",\"latitude_longitude\"]",
+        "methodology": "The researchers performed a fusion of the USDA Food Access Research Atlas GIS layers with survey‑derived food basket data from the Local Food Marketing Practices Survey. First, census tract identifiers and ZIP codes were extracted from both datasets. The atlas polygons were geocoded to match tract I"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The same patient‑level file was linked to the USDA Food Access Research Atlas using the patient’s census‑tract ID to attach food‑insecurity measures (e.g., low‑access area status) to each individual.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing Patient and Community-Level Social Factors; The Synergistic Effect of Social Needs and Social Determinants of Health on Healthcare Utilization at a Multilevel Academic Healthcare System",
+        "dud:publication_id": "pub.1163756568",
+        "identifier": "10.1007/s10916-023-01990-9"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Johns Hopkins Health System Electronic Health Records (JHHS‑EHR) – patient‑level data",
+        "joinType": "join",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "The study extracted patient records from the JHHS electronic health record and extracted community level variables from the USDA Food Access Research Atlas and the ACS. After restricting to Maryland residents the census tract identifier present in the patient file was standardized to the same format"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Both ACS and USDA Atlas variables were combined to create a set of community‑level SDOH predictors (median income, SNAP receipt, housing crowding, public‑transport use, and food‑insecurity) that were later merged with patient data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing Patient and Community-Level Social Factors; The Synergistic Effect of Social Needs and Social Determinants of Health on Healthcare Utilization at a Multilevel Academic Healthcare System",
+        "dud:publication_id": "pub.1163756568",
+        "identifier": "10.1007/s10916-023-01990-9"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "2018 American Community Survey (ACS) – census‑tract socioeconomic variables",
+        "joinType": "fusion",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "Patient records were extracted from the electronic health record and each patient’s most recent residential census tract identifier was retained. Community‑level socioeconomic variables were downloaded from the 2018 American Community Survey and USDA Food Access Research Atlas, transformed into perc"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.4
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Food‑insecurity indicators (low‑access + income, low‑access + vehicle, geographic access) were attached to census tracts with historic HOLC grades to assess redlining‑related food insecurity.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Historic Residential Redlining and Present-Day Social Determinants of Health, Home Evictions, and Food Insecurity within US Neighborhoods",
+        "dud:publication_id": "pub.1159412279",
+        "identifier": "10.1007/s11606-023-08258-5"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "HOLC grade‑augmented census tract dataset",
+        "joinType": "merge",
+        "joinKeys": "[\"GEOID\",\"census_tract_id\"]",
+        "methodology": "The researchers first extracted historic HOLC polygons from the Mapping Inequalities project and digitized them. Census tract shapefiles from the US Census were obtained. A spatial overlay was performed to calculate the proportion of each tract that fell within each HOLC polygon. For tracts intersec"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "One‑mile Euclidean buffers were created around the five emergency food sites; the percentage of tract area outside these buffers was used to assign each tract to a access category (low, some, good).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing the Relationship Between Emergency Food Assistance and Social Vulnerability During the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1150553810",
+        "identifier": "10.1007/s12061-022-09478-8"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Census tract polygons with buffer‑derived area calculations",
+        "joinType": "integration (buffer‑based classification)",
+        "joinKeys": "[\"geoid\",\"buffer_id\"]",
+        "methodology": "The study created one‑mile Euclidean buffers around the five emergency food distribution sites using ArcGIS. Census tract polygon layers were over‑laid with the buffer layer. For each tract the intersected area (area inside the buffer) was computed and divided by the total tract area to obtain the p"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.9
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors linked each survey respondent to the food‑desert status of the census tract in which they lived. The linkage was performed by matching the respondent’s reported census‑tract identifier to the USDA Atlas dataset that provides low‑access and low‑income food‑desert indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Spatial characteristics of food insecurity and food access in Los Angeles County during the COVID-19 pandemic",
+        "dud:publication_id": "pub.1162266972",
+        "identifier": "10.1007/s12571-023-01381-5"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Understanding America Study (UAS) COVID‑19 tracking survey (individual‑level respondent data)",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "The researchers extracted the UAS respondent file and the USDA food access atlas file, standardized the census tract identifier format, and performed an exact match join linking each respondent to the tract level food desert variables. The join was executed as an inner join so that only respondents "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The USDA food‑desert indicators used in the study are constructed from three separate data sources: (1) the TDLinx directory to identify supermarket locations, (2) ACS 5‑year data to determine low‑income status and vehicle access, and (3) geographic calculations to compute distances. The authors rel",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Spatial characteristics of food insecurity and food access in Los Angeles County during the COVID-19 pandemic",
+        "dud:publication_id": "pub.1162266972",
+        "identifier": "10.1007/s12571-023-01381-5"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Trade Dimensions TDLinx supermarket directory (list of supermarkets, supercenters, large grocery stores)",
+        "joinType": "fusion",
+        "joinKeys": "[\"GEOID\",\"census_tract_id\"]",
+        "methodology": "The researchers first extracted the USDA Economic Research Service Food Access Research Atlas files, which contain census‑tract level food‑desert indicators. They also obtained the Understanding America Study survey data, in which each respondent’s residential address had been geocoded to a census‑t"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors extracted 16 demographic and food‑access variables from the ACS and matched them with community‑level measures (e.g., distance to grocery stores, urban/rural classification) available in the Food Access Research Atlas to build the geographic database for each ZIP‑code.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
+        "dud:publication_id": "pub.1149272027",
+        "identifier": "10.1007/s12603-022-1816-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey (ACS)",
+        "joinType": "integration",
+        "joinKeys": "[\"ZIP_code\"]",
+        "methodology": "The authors first extracted the required 16 variables from the American Community Survey and the community level measures from the Food Access Research Atlas. Both data sets were transformed to a common geographic identifier at the ZIP code level. After standardizing column names, removing duplicate"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The census‑tract identifier was used to join the tract‑level FARA data (16 food‑access variables, LILA/LILV designations, urban/rural status, etc.) to each participant’s record.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Birth outcomes in relation to neighborhood food access and individual food insecurity during pregnancy in the Environmental Influences on Child Health Outcomes (ECHO)-wide cohort study",
+        "dud:publication_id": "pub.1169299663",
+        "identifier": "10.1016/j.ajcnut.2024.02.022"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Census‑tract level dataset (derived from the ECHO geocoding step)",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\",\"year_of_residence\"]",
+        "methodology": "Residential addresses were geocoded to obtain a census tract identifier for each participant. The census tract code (and the year of residence) was then used as the join key to merge the participant‑level dataset with the Food Access Research Atlas (FARA) tract‑level file containing 16 food‑access v"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Analyses simultaneously examined neighborhood‑level food access (from FARA) and individual‑level food insecurity (from the CRISYS‑R questionnaire) within the same analytical sample, requiring the combined dataset.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Birth outcomes in relation to neighborhood food access and individual food insecurity during pregnancy in the Environmental Influences on Child Health Outcomes (ECHO)-wide cohort study",
+        "dud:publication_id": "pub.1169299663",
+        "identifier": "10.1016/j.ajcnut.2024.02.022"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "ECHO cohort participant data (including individual‑level CRISYS‑R food‑insecurity responses)",
+        "joinType": "combination",
+        "joinKeys": "[\"census_tract_id\",\"year_of_residence\"]",
+        "methodology": "Residential addresses collected during pregnancy were geocoded with ArcGIS to obtain a census tract identifier for each participant. The census tract identifier (and the year of residence) was then used to perform a deterministic join with the Food Access Research Atlas (FARA) dataset, which provide"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Geocoded AIMS client records were linked to USDA’s Food Access Research Atlas to assign each individual a binary indicator of residence in a low‑income, low‑access (LILA) food desert tract.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Evaluating the relationship between urban environment and food security in Georgia's older population",
+        "dud:publication_id": "pub.1010851647",
+        "identifier": "10.1016/j.apgeog.2014.10.013"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Georgia Aging Information Management System (AIMS)",
+        "joinType": "integration",
+        "joinKeys": "[\"latitude_longitude\",\"census_tract_id\"]",
+        "methodology": "The researchers first geocoded the individual client records from the Georgia Aging Information Management System (AIMS) using ESRI's World Geocode Service and manual verification with Google Maps to obtain latitude‑longitude coordinates for each address. Records lacking a valid match or falling out"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors cite FARA as a benchmark for national food‑access analysis and juxtapose their locally computed travel‑time measures against the broader FARA indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Integrating transit data and travel time into food security analysis: A case study of San Diego, California",
+        "dud:publication_id": "pub.1138086506",
+        "identifier": "10.1016/j.apgeog.2021.102461"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Study‑specific accessibility measures derived from Google Distance Matrix API (local travel‑time and distance metrics)",
+        "joinType": "comparison / integration",
+        "joinKeys": "[\"census_block_group_id\"]",
+        "methodology": "The study first aggregated the national Food Access Research Atlas (FARA) indicators to the census block group (CBG) level. Separately, origin‑destination travel times and distances were generated for each CBG centroid to the ten nearest grocery stores using the Google Distance Matrix API. Both data"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.1
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Patients' home zip codes were mapped to census tracts and linked to USDA Food Access Research Atlas values to assign a likelihood of living in a food desert, which was then used as a primary predictor in the statistical models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Prone to Stones?: Evaluating the association between food insecurity, psychiatric comorbidity, and pediatric stone management",
+        "dud:publication_id": "pub.1181767961",
+        "identifier": "10.1016/j.jpurol.2024.10.018"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Institutional pediatric urolithiasis patient records (EMR)",
+        "joinType": "integration",
+        "joinKeys": "[\"zip_code\",\"census_tract\"]",
+        "methodology": "The researchers extracted patient zip codes from the EMR, used a public crosswalk to convert zip codes to census tract identifiers, and then performed a deterministic join with the USDA Food Access Research Atlas on the census tract field. The resulting food desert likelihood score was merged into t"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Residential addresses from the delivery encounter were geocoded with ArcGIS and then linked at the census‑tract level to the Food Access Research Atlas to assign a binary exposure (community‑level food insecurity: yes/no) to each patient.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of community-level food insecurity and glycemic control among pregnant individuals with pregestational diabetes",
+        "dud:publication_id": "pub.1152703425",
+        "identifier": "10.1016/j.pcd.2022.11.002"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Electronic Health Record (EHR) clinical and sociodemographic data of pregnant individuals",
+        "joinType": "integration",
+        "joinKeys": "[\"patient_address_geocode\",\"census_tract_GEOID\"]",
+        "methodology": "Residential addresses recorded in the electronic health record at the delivery encounter were first cleaned and standardized, then geocoded using ArcGIS to obtain latitude, longitude, and the corresponding census‑tract identifier (GEOID). The USDA Food Access Research Atlas provides community‑level "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Patient residential census‑tract identifiers from the LTR were linked to the FARA data to classify each case as living in a low‑income, low‑access (LILA) food desert or not.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
+        "dud:publication_id": "pub.1183405145",
+        "identifier": "10.1016/j.ygyno.2024.12.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Louisiana Tumor Registry (LTR) cancer case data",
+        "joinType": "join",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "The investigators extracted patient residential census tract identifiers from the Louisiana Tumor Registry and extracted census‑tract level food‑access variables from the USDA Food Access Research Atlas. Both files were standardized to the same 5‑digit census tract code format, invalid or missing tr"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors describe that the sampled counties “contain many areas with low food access (Economic Research Service, 2022)” and reference the Food Access Research Atlas to characterize the food‑environment context of the participants.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations Between Daily Food Insecurity and Parent and Child Well-Being",
+        "dud:publication_id": "pub.1169489442",
+        "identifier": "10.1037/dev0001667"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Study sample location data (county of residence for PPP participants)",
+        "joinType": "fusion",
+        "joinKeys": "[\"state_code\",\"county_name\",\"fips\"]",
+        "methodology": "The authors first extracted the county identifier from the PPP participant records (state abbreviation and county name) and matched it to the USDA Food Access Research Atlas which provides data at the county FIPS level. Both datasets were loaded into a Python pandas DataFrame. County names were clea"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.6
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The USDA food access dataset was linked to the Ohio live‑birth dataset by matching each mother’s residential address to a census tract, assigning a binary food‑desert indicator (0 = no desert, 1 = desert).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Influence of Gestational Weight Gain on the Risk of Preterm Birth for Underweight Women Living in Food Deserts",
+        "dud:publication_id": "pub.1125403014",
+        "identifier": "10.1055/s-0040-1705168"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Ohio Live Birth and Infant Death Records (state vital statistics)",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\",\"zip_code\"]",
+        "methodology": "The researchers linked the Ohio live‑birth records to the USDA Food Access Research Atlas by first extracting each mother’s residential address from the birth certificate, converting it to a standardized ZIP code and then mapping that ZIP code to the corresponding Census tract using the TIGER/Line s"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The USDA food access variables were merged with ACS socioeconomic indicators to build a combined model that predicts census‑tract hunger rates.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geography of Hunger: Demographic and Socioeconomic Determinates of Large-scale Severe Hunger Rates in Fresno, California",
+        "dud:publication_id": "pub.1125693172",
+        "identifier": "10.1080/10875549.2020.1740908"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey (ACS) demographic variables",
+        "joinType": "fusion",
+        "joinKeys": "[\"GEOID\"]",
+        "methodology": "The researchers aggregated the USDA Food Access Research Atlas variables and the American Community Survey (ACS) demographic indicators to the census‑tract level using the common geographic identifier GEOID. Addresses from the household hunger survey were geocoded, then summarized by tract. The two "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The ECLS‑K:2011 sample of kindergarten children was linked to the Food Access Research Atlas using the census tract identifier, enabling assignment of neighborhood food environment (food desert) status to each child.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Child Food Insecurity and Neighborhood Food Environment in Relation to Academic Performance and Behavior Problems Among a National Sample of Kindergarten Children (OR02-04-19)",
+        "dud:publication_id": "pub.1117163849",
+        "identifier": "10.1093/cdn/nzz051.or02-04-19"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Early Childhood Longitudinal Study – Kindergarten Cohort (ECLS‑K:2011)",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "The researchers linked the Early Childhood Longitudinal Study – Kindergarten Cohort (ECLS‑K:2011) records to the 2010 Food Access Research Atlas by matching each child’s census tract identifier from the ECLS‑K dataset with the corresponding tract identifier in the Atlas. The process involved extract"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study on “Food Desert Residence and Cognitive Trajectories in US Older Population” linked census‑tract level food‑desert classifications from the USDA Food Access Research Atlas to individual‑level NHATS participants to examine how residing in a food desert relates to orientation, executive func",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "THE RELEVANCE OF SNAP PROGRAM ACCESSIBILITY FOR FOOD INSECURITY, FOCUSING ON ADULTS WITH DISABILITIES",
+        "dud:publication_id": "pub.1167197470",
+        "identifier": "10.1093/geroni/igad104.0350"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "National Health and Aging Trends Study (NHATS) 2011‑2021 cohort",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_geoid\",\"participant_id\"]",
+        "methodology": "The join was performed by linking the residential census tract identifier for each NHATS participant to the food desert classification from the USDA Food Access Research Atlas. An exact match on the census tract GEOID was used to assign a binary food desert indicator to each individual. After the me"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The study linked census‑tract level low‑access food environment classifications from the Food Access Research Atlas with individual‑level clinical data abstracted from the EMR to compare NICU admission, gestational diabetes, preterm delivery, etc.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Effect of Food Environment on Pregnancy Outcomes [ID 2683379]",
+        "dud:publication_id": "pub.1171671873",
+        "identifier": "10.1097/01.aog.0001013444.40305.a0"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Hospital electronic medical record (patient demographics, pregnancy outcomes)",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\",\"patient_id\"]",
+        "methodology": "The study extracted patient residential address from the EMR, cleaned and standardized the address fields, and geocoded them to obtain census tract identifiers. USDA Food Access Research Atlas data were downloaded and the low_access classification was linked to each tract using the tract GEOID. An E"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Each patient’s census tract was matched to the Food Access Research Atlas to determine whether the patient lived in a low‑food‑access area (food desert).",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Neighborhood Disadvantage, and Hospital Readmission in Health System Adults",
+        "dud:publication_id": "pub.1166767548",
+        "identifier": "10.1097/nur.0000000000000794"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Patient address geocodes (derived from health system records)",
+        "joinType": "join",
+        "joinKeys": "[\"census_tract_id\",\"block_group_id\"]",
+        "methodology": "Patient residential addresses were cleaned and then geocoded to obtain census block group identifiers using SAS PROC GEOCODE. The resulting geographic identifiers (census tract and block group codes) were used as keys to merge each patient record with the USDA Food Access Research Atlas data that co"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Survey respondents’ home addresses were geocoded to census tracts and then merged with the Atlas to assign each participant a binary indicator of low vs. not‑low food‑access at the census‑tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Individual‐ and environmental‐level determinants of fruit and vegetable intakes in rural Georgia",
+        "dud:publication_id": "pub.1176114932",
+        "identifier": "10.1111/jrh.12880"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Two Georgias Initiative (TGI) population‑based survey (individual‑level questionnaire data)",
+        "joinType": "merge",
+        "joinKeys": "[\"tract_fips\"]",
+        "methodology": "Survey addresses were geocoded to census tracts, then a binary low food access flag from the USDA Atlas was merged to each respondent record using a tract identifier. The process involved extracting the tract FIPS code from the geocoding output, cleaning both datasets to ensure consistent state and "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Residential histories of each child were geocoded to census tracts and then the FARA‑derived low‑income‑low‑access (LILA) indicators for those tracts (for 2015 and 2019) were linked to the participant records to create cumulative exposure variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Residing in a low-income-low-food-access neighbourhood and asthma in early and middle childhood in the Environmental influences on Child Health Outcomes (ECHO) program: a multisite cohort study",
+        "dud:publication_id": "pub.1190267999",
+        "identifier": "10.1136/bmjopen-2024-094317"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "ECHO cohort participant data (harmonized child‑level variables, residential history)",
+        "joinType": "integration",
+        "joinKeys": "[\"child_id\",\"census_tract_id\",\"year\"]",
+        "methodology": "Residential histories were geocoded to census tract identifiers using ArcGIS. Each tract was assigned the USDA FARA LILA indicators for the years 2015 and 2019. A timeline was built for each child linking year of residence to the appropriate LILA metric. Exposure values were averaged over the reside"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Zip codes were cross‑walked to census tracts, then the USDA Food Access Research Atlas was used to assign a community‑level food insecurity status for each patient’s residence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Potential Impact of Food Insecurity in an Urban Trauma Population",
+        "dud:publication_id": "pub.1147510986",
+        "identifier": "10.1177/00031348221094217"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Patient ZIP code data (collected via survey)",
+        "joinType": "fusion",
+        "joinKeys": "[\"zip_code\",\"census_tract_id\"]",
+        "methodology": "Patient zip codes collected from the survey were first cleaned and standardized to five‑digit format. Each zip code was then cross‑walked to its corresponding census tract using publicly available ZIP‑to‑tract mapping tables. When a zip code overlapped multiple tracts, the tract containing the major"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The community‑level FI classification served as the gold standard against which individual survey answers were compared to calculate sensitivity, specificity, PPV, NPV, and accuracy.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Potential Impact of Food Insecurity in an Urban Trauma Population",
+        "dud:publication_id": "pub.1147510986",
+        "identifier": "10.1177/00031348221094217"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Individual patient self‑report of food security (survey responses)",
+        "joinType": "integration",
+        "joinKeys": "[\"zip_code\",\"census_tract\"]",
+        "methodology": "The researchers linked individual patient survey responses to community level food insecurity data by using the residential zip code as the common identifier. Zip codes from the survey were first mapped to census tracts in the USDA Food Access Research Atlas. When a zip code overlapped multiple trac"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors linked patients’ zip codes from the clinic registry to external socioeconomic data (median household income, poverty rates, food desert classification) derived from Census and USDA datasets to describe the neighborhood characteristics of families using the pantry.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Mixed-Methods Evaluation of a Novel Food Pantry in a Pediatric Primary Care Center",
+        "dud:publication_id": "pub.1124240623",
+        "identifier": "10.1177/0009922819900960"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "HSHC clinic patient registry (electronic health record)",
+        "joinType": "integration",
+        "joinKeys": "[\"zip_code\"]",
+        "methodology": "The researchers extracted patient zip codes from the HSHC electronic health record (EHR) database and linked them to socioeconomic variables (median household income, poverty rate, food desert status) obtained from the U.S. Census Bureau Community Facts and USDA Food Access Research Atlas. The join "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors aggregated ACS summary data for the 15 census tracts that constitute City Heights and used USDA’s food desert designation to identify the neighborhood as a food desert, thereby linking demographic and socioeconomic indicators with the spatial classification of food access.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ethnic markets and community food security in an urban “food desert”",
+        "dud:publication_id": "pub.1084243942",
+        "identifier": "10.1177/0308518x17700394"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "American Community Survey (ACS) census tract data",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "The authors first extracted ACS summary estimates for each of the 15 census tracts that compose City Heights. They then obtained the USDA Food Access Research Atlas classification, which assigns a food desert status to census tracts based on poverty rates and distance to supermarkets. The integratio"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors classified the Houghton, Michigan community as a \"low‑access, low‑income\" area and quoted a 15.2 % food‑insecurity rate from the Food Access Research Atlas, linking these community‑level indicators to the individual‑level outcomes of program participants.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "“Something Fun to Look Forward to”: Lessons From Implementing the Prescription for Health Farmers’ Market Initiative in Rural Upper Michigan",
+        "dud:publication_id": "pub.1148759450",
+        "identifier": "10.1177/15248399221093966"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Study participant data (surveys, biometric measurements, PROMIS scores)",
+        "joinType": "integration",
+        "joinKeys": "[\"county_fips\",\"year\",\"community_name\"]",
+        "methodology": "The researchers first extracted the participant‑level dataset (surveys, biometric measurements, PROMIS scores) and the USDA Food Access Research Atlas data for Houghton County. Both sources were loaded into a Python pandas environment. Community identifiers (county name and FIPS code) and the year o"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The USDA polygon layer was overlaid with the Business Analyst store points to identify where existing large grocery stores (as captured by TDLinx/Store Tracking) intersected or fell outside low‑income, low‑access areas, serving as a reference proxy for food insecurity.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Participatory mapping to address neighborhood level data deficiencies for food security assessment in Southeastern Virginia, USA",
+        "dud:publication_id": "pub.1152553896",
+        "identifier": "10.1186/s12942-022-00314-3"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Esri ArcGIS Business Analyst (store locations derived from SafeGraph NAICS codes)",
+        "joinType": "fusion",
+        "joinKeys": "[\"spatial_location\"]",
+        "methodology": "The integration was performed by overlaying the USDA Food Access Research Atlas low‑income low‑access polygon layer with the Esri ArcGIS Business Analyst store point layer derived from SafeGraph NAICS codes. A spatial intersection operation identified points that fell inside or outside the polygons,"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Patients were assigned the percentage of low‑income, low‑food‑access tracts from the USDA dataset based on their census‑tract residence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Integrating geo-linked electronic health records with neighborhood data to identify place-based barriers for diabetes management in a public healthcare system",
+        "dud:publication_id": "pub.1141733356",
+        "identifier": "10.21203/rs.3.rs-913499/v1"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Electronic Health Records (EHR) – patient-level addresses and diabetes outcomes",
+        "joinType": "integration",
+        "joinKeys": "[\"census_tract_id\"]",
+        "methodology": "Patient residential addresses from the EHR were geocoded to obtain census‑tract identifiers using ArcGIS Pro. The USDA Food Access Research Atlas provides a percentage of low‑income, low‑food‑access tracts at the census‑tract level. A key‑based join was performed by matching each patient’s census‑tr"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "After aggregating tweets to the census‑tract level, each tract was labeled as a food desert or non‑desert according to USDA’s official classification.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
+        "dud:publication_id": "pub.1149237728",
+        "identifier": "10.2196/34285"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Census‑tract‑level Twitter‑derived features (sentiment, nutritional values, food mentions)",
+        "joinType": "merge",
+        "joinKeys": "[\"GEOID\"]",
+        "methodology": "The researchers first aggregated all geolocated food‑related tweets to the census‑tract level using point‑to‑polygon spatial mapping based on latitude and longitude coordinates. Each tract was assigned a unique Census Tract GEOID (the standard identifier used by the US Census). The USDA Food Access "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "A reverse spatial join in ArcGIS Pro was performed to overlay the food desert layer onto patient address points, determining whether each patient lived within a food desert.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Food Deserts and Their Impact on Health Outcomes in Children with Cystic Fibrosis",
+        "dud:publication_id": "pub.1143151520",
+        "identifier": "10.3390/nu13113996"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Geocoded patient home addresses (GIS layer)",
+        "joinType": "spatial join",
+        "joinKeys": "[\"geocode_coordinates\",\"spatial_location\"]",
+        "methodology": "The study used a reverse spatial join in ArcGIS Pro to overlay the USDA Food Access Research Atlas (food desert layer) onto geocoded patient home address points. Patient addresses were first geocoded to point features, then the food desert polygon layer was joined to these points using the “Join Fea"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The Atlas data were derived from the decennial census and ACS; the study uses these combined sources to define food desert status at the census tract level.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Food Deserts and Their Impact on Health Outcomes in Children with Cystic Fibrosis",
+        "dud:publication_id": "pub.1143151520",
+        "identifier": "10.3390/nu13113996"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "US Census 2010 Decennial Census & American Community Survey (ACS) 2014‑2018",
+        "joinType": "fusion",
+        "joinKeys": "[\"geocoded_point\",\"census_tract_id\"]",
+        "methodology": "The study performed a spatial overlay analysis using a Geographic Information System (GIS). Patient home addresses were geocoded to obtain precise latitude‑longitude coordinates. These point locations were then linked to the 2015 Food Access Research Atlas layer, which defines food desert status at "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Demographic and poverty data from NASS were combined with USDA food desert classifications to identify high‑poverty census block groups for urban agriculture suitability analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Evaluation for Urban Agriculture Land Inventory: Roanoke, Virginia USA",
+        "dud:publication_id": "pub.1047979751",
+        "identifier": "10.4018/ijagr.2017010103"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NASS Census of Agriculture demographic tables",
+        "joinType": "integration",
+        "joinKeys": "[\"census_block_group_id\",\"census_tract_id\"]",
+        "methodology": "The integration was performed within a GIS environment (Esri ArcMap) by first extracting spatial layers from each source (NASS Census of Agriculture demographic tables and USDA Food Access Research Atlas) and converting them to compatible shapefile formats. The NASS data were linked to census block "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors combined USDA’s official food desert classifications with their own GIS‑based measurements of food insecurity to assess the adequacy of the ‘food desert’ label in Salt Lake City’s Westside.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
+        "dud:publication_id": "pub.1145837617",
+        "identifier": "10.5304/jafscd.2022.112.013"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "GIS‑derived spatial patterns of food insecurity",
+        "joinType": "combination",
+        "joinKeys": "[\"census_tract_id\",\"geoid\",\"latitude_longitude_polygon\"]",
+        "methodology": "The researchers combined the USDA Food Access Research Atlas polygon data that defines food‑desert census tracts with a GIS‑derived raster/vector layer of contemporary food insecurity indicators. First, both datasets were imported into a spatial analysis environment (ArcGIS/QGIS and Python geopandas"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    }
+  ]
+}

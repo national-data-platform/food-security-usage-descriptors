@@ -1,0 +1,1045 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Canadian Community Health Survey (CCHS)",
+  "identifier": "014dcfce-6f55-42bf-acf4-dce4876d459f",
+  "alternateName": [
+    "Canadian Community Health Survey",
+    "CCHS"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional health survey conducted by Statistics Canada that collects information on health status, health care utilization, and determinants of health for a representative sample of Canadians.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food assistance programs and food insecurity: implications for Canada in light of the mixing problem",
+        "dud:publication_id": "pub.1027113243",
+        "identifier": "10.1007/s00181-016-1191-4"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Health/Public Health Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, nationally representative health survey conducted by Statistics Canada; the study borrowed its questionnaire items but did not analyse the CCHS dataset itself.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Are residency and type of refugee settlement program associated with food (in)security among Syrian refugees who have resettled in Canada since 2015?",
+        "dud:publication_id": "pub.1174975830",
+        "identifier": "10.1007/s12571-024-01477-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / Social survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey administered by Statistics Canada that gathers information on health status, health care use, and health determinants for the Canadian population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations between food insecurity and common mental health problems: a systematic review and meta-analyses of observational studies",
+        "dud:publication_id": "pub.1181191690",
+        "identifier": "10.1007/s12571-024-01496-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Cited as a data source in the reviewed primary literature.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national health survey that includes food‑security modules among other health indicators.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Effect of Canada Child Benefit on Food Insecurity: A Propensity Score−Matched Analysis",
+        "dud:publication_id": "pub.1155521462",
+        "identifier": "10.1016/j.amepre.2023.01.027"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Health / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, cross‑sectional, population‑based health survey administered by Statistics Canada.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, chronic pain, and use of prescription opioids",
+        "dud:publication_id": "pub.1136230797",
+        "identifier": "10.1016/j.ssmph.2021.100768"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative, annually administered health survey covering a wide range of demographic, socioeconomic, and health variables for Canadian residents.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Money speaks: Reductions in severe food insecurity follow the Canada Child Benefit",
+        "dud:publication_id": "pub.1121997691",
+        "identifier": "10.1016/j.ypmed.2019.105876"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative, annually administered health survey of Canadians aged 12+ that includes the Household Food Security Survey Module.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The role of provincial social policies and economic environments in shaping food insecurity among Canadian families with children",
+        "dud:publication_id": "pub.1137256185",
+        "identifier": "10.1016/j.ypmed.2021.106558"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public Health / Social Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "National survey collecting health and nutrition data across Canadian households.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and psychological distress in Inuit adolescents of Nunavik",
+        "dud:publication_id": "pub.1127907098",
+        "identifier": "10.1017/s1368980020000117"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey that collects information on health status, health care utilization, and health determinants for the Canadian population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity is associated with chronic pain and high-impact chronic pain in the USA",
+        "dud:publication_id": "pub.1166986948",
+        "identifier": "10.1017/s1368980023002732"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey that collects information on health status, health care utilization, and health determinants for the Canadian population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Examining Reciprocal Effects of Cigarette Smoking, Food Insecurity, and Psychological Distress in the U.S.",
+        "dud:publication_id": "pub.1132290589",
+        "identifier": "10.1080/02791072.2020.1845419"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative cross‑sectional survey collecting demographic, health, nutrition, and lifestyle data from Canadian residents.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Comparison of Mental Health, Food Insecurity, and Diet Quality Indicators between Foreign-Born Immigrants of Canada and Native-Born Canadians",
+        "dud:publication_id": "pub.1121580493",
+        "identifier": "10.1080/19320248.2019.1672601"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada; conducted in 2004 with a sample of 35,107 respondents.",
+      "dud:domain": "Public health / epidemiology / nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national cross‑sectional survey collecting health‑related information from Canadian residents.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Relation Between Household Food Insecurity and Children's Height in Canada and the United States: A Scoping Review",
+        "dud:publication_id": "pub.1112862224",
+        "identifier": "10.1093/advances/nmz034"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey collecting health information from a representative sample of Canadians on a regular basis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity during pregnancy and associated perinatal outcomes: a scoping review",
+        "dud:publication_id": "pub.1185664057",
+        "identifier": "10.1093/epirev/mxaf001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health, epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative health survey conducted by Statistics Canada covering a wide range of health, demographic, and socioeconomic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
+        "dud:publication_id": "pub.1129456405",
+        "identifier": "10.1093/jn/nxaa240"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative annual survey of Canadians aged 12 years and older, collecting demographic, socioeconomic, and health information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
+        "dud:publication_id": "pub.1144171482",
+        "identifier": "10.1093/jn/nxab447"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada; accessed via Research Data Centres.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey of 1299 adults from six low‑income neighborhoods in New Haven, Connecticut, collected in 2012 via handheld computers; includes sociodemographic variables, health outcomes, discrimination measures, stress, depressive symptoms, and other stressors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Everyday discrimination and physical health: Exploring mental health processes",
+        "dud:publication_id": "pub.1063994041",
+        "identifier": "10.1177/1359105315572456"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Locally hired and trained residents administered the survey; funded by community research partners.",
+      "dud:domain": "Public health / social epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey collecting information on health status, health care utilization, and health determinants for the Canadian population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of Food Insecurity With Multiple Forms of Interpersonal and Self-Directed Violence: A Systematic Review",
+        "dud:publication_id": "pub.1156905867",
+        "identifier": "10.1177/15248380231165689"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national health survey conducted by Statistics Canada covering health status, behaviors, and determinants.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Intersection of Food Insecurity and Tobacco Use: A Scoping Review",
+        "dud:publication_id": "pub.1123925653",
+        "identifier": "10.1177/1524839919874054"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / epidemiology (Canada)"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey conducted in two‑year cycles representing 98 % of the Canadian non‑institutionalized population aged 12 and older. Includes the Household Food Security Survey Module in selected cycles.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
+        "dud:publication_id": "pub.1129850895",
+        "identifier": "10.1377/hlthaff.2019.01637"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative, annual health survey of about 65,000 Canadians aged 12+ living in private dwellings; includes the 18‑item Household Food Security Survey Module.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Changes in household food insecurity rates in Canadian metropolitan areas from 2007 to 2012",
+        "dud:publication_id": "pub.1068323704",
+        "identifier": "10.17269/cjph.106.4893"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national health survey that provides standardized sociodemographic and health variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Subsidized Healthy Food Prescription Program for Adults with type 2 Diabetes who are Experiencing Food Insecurity: Protocol for a Randomized Controlled Trial, Modelling and Implementation Studies",
+        "dud:publication_id": "pub.1135308270",
+        "identifier": "10.21203/rs.3.rs-180761/v1"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Population health, epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional health survey used by Statistics Canada to monitor health and nutrition indicators, including food security.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity amid the COVID-19 Pandemic: Food Charity, Government Assistance, and Employment",
+        "dud:publication_id": "pub.1135932839",
+        "identifier": "10.3138/cpp.2021-001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative health survey conducted by Statistics Canada that includes health, nutrition, and socioeconomic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
+        "dud:publication_id": "pub.1039844976",
+        "identifier": "10.3945/jn.114.208579"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Statistics Canada",
+      "dud:domain": "Public health / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors administered two separate CCHS‑based questionnaires to each household – one capturing socio‑demographic variables and another capturing food‑security status using the HFSSM. Responses from both instruments were merged at the household level to create a single analytical file containing d",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Are residency and type of refugee settlement program associated with food (in)security among Syrian refugees who have resettled in Canada since 2015?",
+        "dud:publication_id": "pub.1174975830",
+        "identifier": "10.1007/s12571-024-01477-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Canadian Community Health Survey (CCHS) – Household Food Security Survey Module (HFSSM)",
+        "joinType": "integration",
+        "joinKeys": "[\"household_id\",\"address\"]",
+        "methodology": "The researchers collected two separate questionnaire datasets for each household – a socio demographic module and a food security module. After data entry, both files were cleaned and a household identifier (generated from the interview record number and address) was created. The two files were then"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.9
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "To assign each respondent to a specific refugee resettlement program (GAR, PSR, BVOR) and to confirm province of residence and arrival dates, the authors linked the primary survey dataset with IRCC administrative records. This linkage enabled analysis of how program type and provincial policies rela",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Are residency and type of refugee settlement program associated with food (in)security among Syrian refugees who have resettled in Canada since 2015?",
+        "dud:publication_id": "pub.1174975830",
+        "identifier": "10.1007/s12571-024-01477-6"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Administrative immigration data from Immigration, Refugees and Citizenship Canada (IRCC)",
+        "joinType": "fusion",
+        "joinKeys": "[\"ircc_client_id\",\"full_name\",\"date_of_birth\",\"arrival_date\",\"province_of_residence\"]",
+        "methodology": "The researchers performed a deterministic‑probabilistic record linkage to merge the survey data with IRCC administrative files. First, the two source files were extracted from secure servers (survey CSV export and IRCC relational tables). Personal identifiers (IRCC client number, full name, date of "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The 24‑hour dietary recall data from CCHS were linked to the Canadian Nutrient File to translate reported foods into nutrient intake values for macro‑ and micronutrients.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Comparison of Mental Health, Food Insecurity, and Diet Quality Indicators between Foreign-Born Immigrants of Canada and Native-Born Canadians",
+        "dud:publication_id": "pub.1121580493",
+        "identifier": "10.1080/19320248.2019.1672601"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Canadian Nutrient File (2001b) – Food composition database",
+        "joinType": "fusion",
+        "joinKeys": "[\"food_code_cchs\",\"food_code_nutrient_file\"]",
+        "methodology": "The researchers extracted the 24‑hour dietary recall records from the Canadian Community Health Survey (CCHS) Cycle 2.2 and matched each reported food item to its corresponding entry in the Canadian Nutrient File (2001b). This was performed by using the standardized food code identifiers present in "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The HFSSM questionnaire, which assesses household food insecurity, was administered as part of the CCHS interview and its responses were combined with other CCHS variables (mental health, demographic covariates) for analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Comparison of Mental Health, Food Insecurity, and Diet Quality Indicators between Foreign-Born Immigrants of Canada and Native-Born Canadians",
+        "dud:publication_id": "pub.1121580493",
+        "identifier": "10.1080/19320248.2019.1672601"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Household Food Security Survey Module (HFSSM)",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The Household Food Security Survey Module (HFSSM) was administered within the same interview session as the Canadian Community Health Survey (CCHS) Cycle 2.2. Each respondent’s HFSSM responses were directly linked to their CCHS record using the unique survey participant identifier assigned by Statis"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Survey respondents who consented were linked via unique encoded identifiers to multiple provincial health‑administrative data sources to capture maternal and infant health outcomes.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
+        "dud:publication_id": "pub.1129456405",
+        "identifier": "10.1093/jn/nxaa240"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Ontario health administrative databases (OHIP claims, CIHI Discharge Abstract Database, Ontario Mental Health Reporting System, National Ambulatory Care Reporting System)",
+        "joinType": "integration",
+        "joinKeys": "[\"encrypted_OHIP_id\",\"birth_record_id\"]",
+        "methodology": "Survey respondents who gave consent were linked to provincial health‑administrative databases using a unique encrypted identifier derived from the Ontario Health Insurance Plan (OHIP) number. The linkage was performed deterministically: the encoded identifier served as the primary key in both the CC"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "OHIP claim records were deterministically linked to CCHS respondents to identify health‑care utilization during pregnancy, postpartum, and infant follow‑up.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
+        "dud:publication_id": "pub.1129456405",
+        "identifier": "10.1093/jn/nxaa240"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Ontario Health Insurance Plan (OHIP) claims database",
+        "joinType": "merge",
+        "joinKeys": "[\"OHIP_ID\",\"encrypted_identifier\"]",
+        "methodology": "The study linked the Canadian Community Health Survey (CCHS) respondents with Ontario Health Insurance Plan (OHIP) claim records using deterministic linkage based on unique, encoded identifiers that were common to both datasets. The linkage was performed at the Institute for Clinical and Evaluative "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Hospital discharge records for mothers and newborns were deterministically linked to CCHS respondents to obtain delivery/birth information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
+        "dud:publication_id": "pub.1129456405",
+        "identifier": "10.1093/jn/nxaa240"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "CIHI Discharge Abstract Database (DAD)",
+        "joinType": "merge",
+        "joinKeys": "[\"OHIP_number\",\"birth_date\",\"interview_date\"]",
+        "methodology": "The study linked the Canadian Community Health Survey (CCHS) respondents to hospital discharge records from the CIHI Discharge Abstract Database (DAD) using a deterministic record linkage approach. Unique, encoded identifiers – specifically the Ontario Health Insurance Plan (OHIP) number – were used"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Mental health service utilization (e.g., postpartum mental disorders) was identified by linking CCHS respondents to the Ontario Mental Health Reporting System.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
+        "dud:publication_id": "pub.1129456405",
+        "identifier": "10.1093/jn/nxaa240"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Ontario Mental Health Reporting System",
+        "joinType": "merge",
+        "joinKeys": "[\"encoded_OHIP_identifier\",\"survey_interview_date\",\"birth_event_timestamp\"]",
+        "methodology": "The study linked individual respondents from the Canadian Community Health Survey (CCHS) to multiple Ontario health administrative databases, including the Ontario Mental Health Reporting System, using unique encoded identifiers that were assigned to each participant. These identifiers (derived from"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Emergency department visits for infants in the first year of life were obtained by linking CCHS respondents to NACRS records.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Maternal Food Insecurity is Positively Associated with Postpartum Mental Disorders in Ontario, Canada",
+        "dud:publication_id": "pub.1129456405",
+        "identifier": "10.1093/jn/nxaa240"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "National Ambulatory Care Reporting System (NACRS)",
+        "joinType": "merge",
+        "joinKeys": "[\"unique_encoded_identifier\",\"Ontario Health Insurance Plan number\",\"hospital_discharge_record_id\"]",
+        "methodology": "The researchers linked the Canadian Community Health Survey (CCHS) respondents to health administrative databases by using unique encoded identifiers assigned to each individual. Deterministic linkage was performed between CCHS records and the Ontario Health Insurance Plan number, as well as hospita"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.9
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The CCHS survey data were linked to national health administrative records, specifically the DAD, to obtain objective health outcomes such as acute care admissions and length of stay.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
+        "dud:publication_id": "pub.1144171482",
+        "identifier": "10.1093/jn/nxab447"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Discharge Abstract Database (DAD)",
+        "joinType": "integration",
+        "joinKeys": "[\"encrypted_health_card_number\",\"survey_person_id\",\"date_of_interview\"]",
+        "methodology": "The Canadian Community Health Survey (CCHS) records were linked to the Discharge Abstract Database (DAD) within the Statistics Canada Research Data Centre environment using deterministic record linkage based on encrypted personal health identifiers. The linking process involved extracting the survey"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The CCHS data were linked to the CVSD to capture mortality outcomes within two years after interview for health‑related analyses.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
+        "dud:publication_id": "pub.1144171482",
+        "identifier": "10.1093/jn/nxab447"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Canadian Vital Statistics Death Database (CVSD)",
+        "joinType": "integration",
+        "joinKeys": "[\"health_insurance_number\",\"date_of_birth\",\"sex\",\"province\",\"interview_date\"]",
+        "methodology": "The Canadian Community Health Survey (CCHS) records were linked to the Canadian Vital Statistics Death Database (CVSD) through a deterministic record linkage performed within the Statistics Canada Research Data Centre environment. Unique personal identifiers such as health insurance numbers, date of"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The HFSSM questionnaire responses, embedded in the CCHS, were combined with other CCHS variables (demographics, socioeconomic covariates) to construct food‑insecurity classifications and sub‑samples.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Classification Differences in Food Insecurity Measures between the United States and Canada: Practical Implications for Trend Monitoring and Health Research",
+        "dud:publication_id": "pub.1144171482",
+        "identifier": "10.1093/jn/nxab447"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Household Food Security Survey Module (HFSSM) data within CCHS",
+        "joinType": "fusion",
+        "joinKeys": "[\"respondent_id\",\"survey_cycle\",\"province_territory\"]",
+        "methodology": "The researchers performed a fusion join by linking the Household Food Security Survey Module (HFSSM) questionnaire responses, which are embedded within each Canadian Community Health Survey (CCHS) record, with additional CCHS variables such as demographic and socioeconomic covariates. The integratio"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors linked CCHS respondents to acute‑care hospital admission records from the DAD for the twelve months preceding each survey interview, matching individuals by health‑card identifiers and time window.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
+        "dud:publication_id": "pub.1129850895",
+        "identifier": "10.1377/hlthaff.2019.01637"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Discharge Abstract Database (DAD) 1996‑2017",
+        "joinType": "integration",
+        "joinKeys": "[\"health_card_number\",\"interview_date\",\"admission_date\"]",
+        "methodology": "The authors performed an deterministic record linkage by extracting individual health‑card numbers from the Canadian Community Health Survey (CCHS) and the Discharge Abstract Database (DAD). After cleaning both datasets, they filtered DAD admissions to those occurring within the twelve‑month period "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "For cost analyses, the CCHS sample was matched with average acute‑care hospital cost estimates from the Patient Cost Estimator, using jurisdiction and age group to assign dollar amounts to each respondent.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
+        "dud:publication_id": "pub.1129850895",
+        "identifier": "10.1377/hlthaff.2019.01637"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Patient Cost Estimator (PCE) 2010‑17",
+        "joinType": "fusion",
+        "joinKeys": "[\"jurisdiction\",\"age_group\"]",
+        "methodology": "The researchers performed a fusion of the Canadian Community Health Survey (CCHS) respondents with average acute‑care cost estimates from the Patient Cost Estimator (PCE). Because individual patient identifiers were not available in both sources, they linked records using common jurisdiction (provin"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The overall analytical framework integrates three data sources—CCHS for food insecurity and sociodemographic variables, DAD for hospitalization/surgery events, and PCE for cost estimates—to evaluate the relationship between food insecurity and health‑care use/costs.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Is Associated With Higher Health Care Use And Costs Among Canadian Adults",
+        "dud:publication_id": "pub.1129850895",
+        "identifier": "10.1377/hlthaff.2019.01637"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Discharge Abstract Database (DAD) 1996‑2017 & Patient Cost Estimator (PCE) 2010‑17",
+        "joinType": "combination",
+        "joinKeys": "[\"health_card_number\",\"province_code\",\"date_of_birth\",\"admission_date\"]",
+        "methodology": "The researchers linked individual respondents from the Canadian Community Health Survey (CCHS) to acute‑care admission records in the Discharge Abstract Database (DAD) and cost estimates from the Patient Cost Estimator (PCE). Linking was performed by matching each CCHS participant’s unique health id"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors combined data from the CCHS and NHANES to conduct a cross‑country comparison of nutrient inadequacy by household food‑security status. Both surveys were processed separately (e.g., nutrient conversion, 24‑hour recall handling) and then merged into a single analytical framework for standa",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
+        "dud:publication_id": "pub.1039844976",
+        "identifier": "10.3945/jn.114.208579"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) 2003‑2006 cycles",
+        "joinType": "integration",
+        "joinKeys": "[]",
+        "methodology": "The two surveys were processed independently to generate nutrient intake estimates (conversion using country‑specific food composition tables, handling of 24‑hour recalls, estimation of usual intake via the National Cancer Institute method). After obtaining prevalence estimates of inadequate intakes"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The CCHS intake data were converted to nutrient estimates using the Canadian Nutrient File, which required linking each reported food item in the recall to its nutrient profile.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
+        "dud:publication_id": "pub.1039844976",
+        "identifier": "10.3945/jn.114.208579"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Canadian Nutrient File (food composition database)",
+        "joinType": "merge",
+        "joinKeys": "[\"food_code\",\"food_name\",\"description\"]",
+        "methodology": "The intake data from the Canadian Community Health Survey (CCHS) 24‑hour recall were linked to the Canadian Nutrient File (CNF) by matching each reported food item to its corresponding nutrient profile in the CNF. This was performed as a key‑based merge where the food identifier (food code or name) "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Post‑stratification weights were applied to align the distributions of education and living‑arrangement covariates across both datasets, effectively combining the two demographic structures for comparative analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household Food Insecurity Is a Stronger Marker of Adequacy of Nutrient Intakes among Canadian Compared to American Youth and Adults 1–",
+        "dud:publication_id": "pub.1039844976",
+        "identifier": "10.3945/jn.114.208579"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NHANES household demographic variables (education of reference person & spouse, number of persons, presence of children)",
+        "joinType": "standardization/combination",
+        "joinKeys": "[]",
+        "methodology": "The two national surveys (CCHS and NHANES) were not merged by record identifiers but combined through statistical standardization. Post‑stratification weights were calculated to align the distributions of education level, household size and presence of children across both datasets. These weights we"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "American College Health Association - National College Health Assessment III (ACHA-NCHA III)",
+  "identifier": "0ed1cde3-efc9-4360-b0dc-d0c1be212434",
+  "alternateName": [
+    "ACHA-NCHA III",
+    "ACHA-NCHA",
+    "NCHA III",
+    "NCHA-III",
+    "NCHA",
+    "National College Health Assessment",
+    "American College Health Association-National College Health Assessment"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national, web‑based health survey administered by the American College Health Association to self‑selected U.S. post‑secondary institutions, collecting student‑level health, behavior, and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Institutional Determinants of Food Insecurity and Dietary Behaviors Among Postsecondary Students in the United States: A Multilevel Analysis",
+        "dud:publication_id": "pub.1185305379",
+        "identifier": "10.1016/j.jand.2025.02.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "Higher‑education health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large‑scale survey administered by the American College Health Association that assesses health behaviors, mental health, and academic outcomes among college students.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Socio-demographic risk factors for food insecurity among students at five North Carolina colleges: The influence on fruit and vegetable intake and perceived health and well-being",
+        "dud:publication_id": "pub.1193374741",
+        "identifier": "10.1016/j.pmedr.2025.103243"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Citation to the ACHA‑NCHA III executive summary.",
+      "dud:domain": "Higher‑education health assessment"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national survey administered by the American College Health Association that collects a wide range of health‑related variables (demographics, mental health, nutrition, physical activity, etc.) from college students.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Evaluation of food security status, psychological well-being, and stress on BMI and diet-related behaviors among a sample of college students",
+        "dud:publication_id": "pub.1164039784",
+        "identifier": "10.1016/j.puhe.2023.08.015"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "College health / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, cross‑sectional, online health survey administered by the American College Health Association to U.S. and Canadian post‑secondary institutions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1173392453",
+        "identifier": "10.1016/j.tjnut.2024.06.009"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association",
+      "dud:domain": "Higher Education Health Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large-scale, cross‑sectional survey of college student health, behaviours, and basic needs administered annually by the American College Health Association.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Mental Health Advantages of Privilege: How Whiteness and Parents’ Education Protect Students From Food Insecurity and Psychological Strain",
+        "dud:publication_id": "pub.1186523059",
+        "identifier": "10.1037/dhe0000657"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA) website; codebook available at https://acha.org",
+      "dud:domain": "Higher education health and wellbeing"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national survey dataset that collects self‑reported health status and behaviors of college students.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Well-being, and Academic Success among College Students: Implications for Post COVID-19 Pandemic Programming",
+        "dud:publication_id": "pub.1141694596",
+        "identifier": "10.1080/03670244.2021.1954511"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association",
+      "dud:domain": "Higher Education / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national survey administered by the American College Health Association that assesses health, well‑being, and related behaviors of college students; includes campus‑specific items.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations between campus climate perceptions and food insecurity among undergraduates at a public university",
+        "dud:publication_id": "pub.1140004996",
+        "identifier": "10.1080/07448481.2021.1947830"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association",
+      "dud:domain": "Higher education health / student wellbeing"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, nationally‑distributed health assessment survey administered to college students that includes items on nutrition, mental health, substance use, and other health‑related behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Examining the association of student mental health and food security with college GPA",
+        "dud:publication_id": "pub.1147083523",
+        "identifier": "10.1080/07448481.2022.2058327"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "Higher‑Education Health / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cross‑sectional survey administered by the American College Health Association that collects health‑related information (including a food‑security module) from college students. The 2022 Spring wave contains responses from 620 students at a large public university.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Negative impact of chronic pandemic-specific financial stress on food security among college students",
+        "dud:publication_id": "pub.1163426837",
+        "identifier": "10.1080/07448481.2023.2237589"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "Higher‑education health / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large‑scale survey of college student health behaviors and outcomes administered across many U.S. institutions.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Examining the association of food insecurity with mental health and academic performance among Latinx immigration-impacted students",
+        "dud:publication_id": "pub.1185872543",
+        "identifier": "10.1080/07448481.2025.2468305"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "Student health, public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A biennial, self‑reported survey administered by the American College Health Association to students at participating colleges and universities in the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Discrimination and microaggressions as mediators of food insecurity among transgender college students",
+        "dud:publication_id": "pub.1190123813",
+        "identifier": "10.1080/07448481.2025.2523959"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "Higher Education / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national, web‑based health survey administered each fall and spring to U.S. college and university students that collects information on mental and physical health, health behaviors, and health‑related experiences.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Exploring the Connection Between Food Insecurity and Sexual Victimization Among College Students",
+        "dud:publication_id": "pub.1164356490",
+        "identifier": "10.1080/15388220.2023.2261361"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association",
+      "dud:domain": "Higher‑education health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A standardized, nationwide health survey administered by the American College Health Association that collects information on students' health behaviors, mental health, and related factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "No food for thought: Food insecurity is related to poor mental health and lower academic performance among students in California’s public university system",
+        "dud:publication_id": "pub.1105104643",
+        "identifier": "10.1177/1359105318783028"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association (ACHA)",
+      "dud:domain": "Higher education health/behavioral survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large-scale health survey administered to college students in the United States, collecting data on various health behaviors and outcomes.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A cross sectional assessment of basic needs insecurity prevalence and associated factors among college students enrolled at a large, public university in the Southeastern U.S",
+        "dud:publication_id": "pub.1145988751",
+        "identifier": "10.1186/s12889-022-12817-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "National College Health Association",
+      "dud:domain": "Public Health / Higher Education"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A survey report that provides data on health behaviors and conditions among college students.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among College Students with and without Medical Disorders at a University in Appalachia",
+        "dud:publication_id": "pub.1149003521",
+        "identifier": "10.13023/jah.0202.04"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "American College Health Association",
+      "dud:domain": "College health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Student‑level survey records were linked to the corresponding institutional‑level variables so that each respondent could be assigned the minority‑serving vs. predominantly‑White status and other school‑level covariates used in the multivariable Poisson models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1173392453",
+        "identifier": "10.1016/j.tjnut.2024.06.009"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Institutional characteristics dataset supplied by ACHA (anonymized indices of institution type, public‑vs‑private status, Carnegie classification, U.S. region, etc.)",
+        "joinType": "integration",
+        "joinKeys": "[\"institution_id\"]",
+        "methodology": "Student‑level records from the ACHA‑NCHA III survey were linked to the institutional‑level dataset supplied by ACHA by matching the anonymized institution identifier present in both files. The merge was performed deterministically; each student record received the corresponding institutional attribu"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors cite national USDA food‑security rates to contextualize the 38 % prevalence observed among college students and to compare institutional inequities with population‑level trends.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1173392453",
+        "identifier": "10.1016/j.tjnut.2024.06.009"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "USDA national food‑insecurity prevalence statistics (e.g., 10 % prevalence in 2021, regional trends)",
+        "joinType": "combination",
+        "joinKeys": "[\"year\",\"region\"]",
+        "methodology": "The authors extracted the USDA national food security prevalence figures from USDA reports for each year and US census region. They aggregated the ACHA NCHA III student level data to the same temporal (academic year) and geographic (region) level. Using these common dimensions they performed a key b"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    }
+  ]
+}

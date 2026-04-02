@@ -1,0 +1,197 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "DataCatalog",
+  "name": "Food Security Data-Usage Descriptors",
+  "description": "Dataset-centric data-usage descriptors linking food security datasets to scientific publications, with LLM-validated confidence scores.",
+  "dataset": [
+    {
+      "@type": "Dataset",
+      "name": "Agricultural Resource Management Survey (ARMS)",
+      "identifier": "2b53abaf-8d39-4a2c-ac04-980a106e3f59",
+      "url": "datasets/agricultural-resource-management-survey-arms.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "American College Health Association - National College Health Assessment III (ACHA-NCHA III)",
+      "identifier": "0ed1cde3-efc9-4360-b0dc-d0c1be212434",
+      "url": "datasets/american-college-health-association-national-college-health-assessment-iii-acha-.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "American Community Survey (ACS)",
+      "identifier": "e5d79f4a-4c0b-4f79-b1f1-14670577b072",
+      "url": "datasets/american-community-survey-acs.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "American Time Use Survey (ATUS)",
+      "identifier": "4436c0e1-b990-42eb-8ecd-7945276b7589",
+      "url": "datasets/american-time-use-survey-atus.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Behavioral Risk Factor Surveillance Survey Fruit and Vegetable Module (BRFSS FV module)",
+      "identifier": "ec43816b-608c-4fe5-ac9f-6421e354d05e",
+      "url": "datasets/behavioral-risk-factor-surveillance-survey-fruit-and-vegetable-module-brfss-fv-m.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Canadian Community Health Survey (CCHS)",
+      "identifier": "014dcfce-6f55-42bf-acf4-dce4876d459f",
+      "url": "datasets/canadian-community-health-survey-cchs.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Current Population Survey (CPS)",
+      "identifier": "48359339-7741-48e3-8b5a-2eee6472b8e0",
+      "url": "datasets/current-population-survey-cps.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Current Population Survey Food Security Supplement (CPS-FSS)",
+      "identifier": "08eb979a-3db4-43ba-b12a-518254e2cba9",
+      "url": "datasets/current-population-survey-food-security-supplement-cps-fss.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Environmental Quality Index (EQI)",
+      "identifier": "68ea7742b68f81f17e35eb18",
+      "url": "datasets/environmental-quality-index-eqi.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Farm to School Census",
+      "identifier": "73881bd0-9cc5-4fce-af16-93844d9e3d52",
+      "url": "datasets/farm-to-school-census.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Feeding America Map the Meal Gap (MMG)",
+      "identifier": "f49af688-9ae5-47b7-a272-0b8b3e0493e3",
+      "url": "datasets/feeding-america-map-the-meal-gap-mmg.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Food Access Research Atlas (FARA)",
+      "identifier": "8b4643af-1ecf-4745-93ba-7de3b62f0537",
+      "url": "datasets/food-access-research-atlas-fara.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Food Acquisition and Purchase Survey (FoodAPS)",
+      "identifier": "9c8159cd-47f9-49f6-966e-1f996b977d63",
+      "url": "datasets/food-acquisition-and-purchase-survey-foodaps.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Food Environment Atlas (USDA ERS)",
+      "identifier": "82129684-3373-46d2-addb-2f3491307c70",
+      "url": "datasets/food-environment-atlas-usda-ers.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Food and Nutrient Database for Dietary Studies (FNDDS)",
+      "identifier": "ef8132f3-692a-4224-b8c6-6e1580bac2ab",
+      "url": "datasets/food-and-nutrient-database-for-dietary-studies-fndds.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Fragile Families and Child Wellbeing Study",
+      "identifier": "63fafd44-65e5-4a24-9260-4be7d2308e9e",
+      "url": "datasets/fragile-families-and-child-wellbeing-study.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "HCUP National (Nationwide) Inpatient Sample (NIS)",
+      "identifier": "68ebcf23b68f81f17e36bdb1",
+      "url": "datasets/hcup-national-nationwide-inpatient-sample-nis.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Household Food Security Survey Module (HFSSM)",
+      "identifier": "361359a1-bef3-4379-b1ad-b93032f8fc11",
+      "url": "datasets/household-food-security-survey-module-hfssm.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Household Pulse Survey (Phase 1)",
+      "identifier": "44e9a318-077a-449b-a67e-aeff88380d57",
+      "url": "datasets/household-pulse-survey-phase-1.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Integrated Public Use Microdata Series Current Population Survey (IPUMS CPS)",
+      "identifier": "36355db3-99cf-448f-9db9-519854327366",
+      "url": "datasets/integrated-public-use-microdata-series-current-population-survey-ipums-cps.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Local Food Marketing Practices Survey",
+      "identifier": "0067f96d-1746-4f43-a880-1fdcf41d846b",
+      "url": "datasets/local-food-marketing-practices-survey.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "NASS Census of Agriculture",
+      "identifier": "6a1f754f-bb09-42ff-a485-9c00e9ebe27d",
+      "url": "datasets/nass-census-of-agriculture.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "National Health Interview Survey (NHIS)",
+      "identifier": "a746c0da-378c-4aa8-8104-11942cf0aaa0",
+      "url": "datasets/national-health-interview-survey-nhis.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "National Health and Nutrition Examination Survey (NHANES)",
+      "identifier": "68ea7da0b68f81f17e35ef38",
+      "url": "datasets/national-health-and-nutrition-examination-survey-nhanes.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "National Survey of Children's Health (NSCH)",
+      "identifier": "68ea7da1b68f81f17e35ef3a",
+      "url": "datasets/national-survey-of-children-s-health-nsch.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "RAND HRS Health Care and Nutrition Study (HCNS)",
+      "identifier": "c3f0e4c8-40a5-4edf-b9c1-d7948147ceb5",
+      "url": "datasets/rand-hrs-health-care-and-nutrition-study-hcns.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "RAND HRS Longitudinal Dataset",
+      "identifier": "976101b5-dce5-46fb-8a2b-aea6d68cc4c5",
+      "url": "datasets/rand-hrs-longitudinal-dataset.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Rural-Urban Continuum Codes (RUCC)",
+      "identifier": "3a646c8a-eab3-4951-80ac-831ba3a7b1a9",
+      "url": "datasets/rural-urban-continuum-codes-rucc.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Social Vulnerability Index (SVI)",
+      "identifier": "cf4db038-ea56-4950-891b-13bab20393ad",
+      "url": "datasets/social-vulnerability-index-svi.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "USDA 18-item Household Food Security Survey Module (HFSSM)",
+      "identifier": "e1fc1077-aba2-4fd5-9ac0-ca7130263304",
+      "url": "datasets/usda-18-item-household-food-security-survey-module-hfssm.jsonld"
+    },
+    {
+      "@type": "Dataset",
+      "name": "University of Kentucky Center for Poverty Research National Welfare Data (UKCPR)",
+      "identifier": "d91c7cfa-707c-49ca-8383-50b274807914",
+      "url": "datasets/university-of-kentucky-center-for-poverty-research-national-welfare-data-ukcpr.jsonld"
+    }
+  ]
+}

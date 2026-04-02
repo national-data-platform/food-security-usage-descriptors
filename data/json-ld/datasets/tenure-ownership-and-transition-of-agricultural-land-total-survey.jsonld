@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey",
+  "identifier": "32bc1d58-3287-4484-b1e7-8683fcca8ebd",
+  "alternateName": [
+    "Tenure, ownership, and transition of agricultural land"
+  ]
+}

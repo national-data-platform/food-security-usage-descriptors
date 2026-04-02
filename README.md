@@ -73,9 +73,56 @@ Both components include sample data files in their `samples/` folders for testin
 | `additional_discovered_datasets.csv` | List of 18 additional datasets (Stage 2) | 18 rows |
 | `data_dictionary.csv` | Field definitions and data types for all files | - |
 
+### JSON-LD Output (`data/json-ld/`)
+
+Dataset-centric JSON-LD files using [schema.org](https://schema.org/) vocabulary. Each file represents one curated dataset and aggregates all publications that reference it as `Review` entries.
+
+| File | Description |
+|------|-------------|
+| `context.jsonld` | Shared `@context` definition (`schema.org` + `dud:` namespace) |
+| `catalog.jsonld` | `DataCatalog` listing all 31 datasets with reviews |
+| `datasets/*.jsonld` | One file per dataset (34 total, 31 with reviews) |
+
+**Schema mapping:**
+
+| schema.org Type | Usage |
+|----------------|-------|
+| `Dataset` | Root entity — one per file |
+| `Review` | Each publication's assessment of the dataset |
+| `Rating` | Confidence scores (`mention` and `use`, 0–10 scale) |
+| `ScholarlyArticle` | Publication cited in the review |
+
+**Review aspects** distinguish how the dataset-publication link was identified:
+
+| `reviewAspect` | Source | Description |
+|----------------|--------|-------------|
+| `"validation"` | File A | Dataset confirmed by LLM against known seed/additional list |
+| `"discovery"` | File B | Dataset discovered by LLM from full-text extraction |
+| `"join"` | File C | Dataset identified as part of a multi-dataset integration |
+
+**Custom namespace** (`dud:` = `https://nationaldataplatform.org/data-usage-descriptor/`):
+- `dud:dataset_usage_status` — validation status (`validated`, `discovered`)
+- `dud:publication_id` — Dimensions publication identifier
+- `dud:source` — organization responsible for dataset (discovery reviews)
+- `dud:domain` — research domain classification (discovery reviews)
+- `dud:joinDetail` — join metadata: `partnerDataset`, `joinType`, `joinKeys`, `methodology`
+
+**Regenerate:**
+```bash
+python code/csv-to-jsonld/convert.py
+```
+
 ---
 
 ## Code Components
+
+### CSV to JSON-LD (`code/csv-to-jsonld/`)
+
+Converts the CSV data files into dataset-centric JSON-LD using schema.org vocabulary.
+
+```bash
+python code/csv-to-jsonld/convert.py [--data-dir data/] [--no-joins]
+```
 
 ### Data Extraction (`code/data-extraction/`)
 

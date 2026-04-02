@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Information Resources, Inc. (IRI) InfoScan",
+  "identifier": "7ba0229d-e906-4a6f-b0ac-a63290f5ee4a",
+  "alternateName": [
+    "Information Resources, Inc. (IRI) InfoScan",
+    "Iri Infoscan"
+  ]
+}

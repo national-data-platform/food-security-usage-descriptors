@@ -1,0 +1,2098 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "RAND HRS Longitudinal Dataset",
+  "identifier": "976101b5-dce5-46fb-8a2b-aea6d68cc4c5",
+  "alternateName": [
+    "RAND HRS Longitudinal File",
+    "RAND HRS",
+    "RAND HRS Data",
+    "RAND Health and Retirement Study",
+    "HRS RAND"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of US adults aged 50 years or older.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of Food Insecurity With Allostatic Load Among Older Adults in the US",
+        "dud:publication_id": "pub.1143583857",
+        "identifier": "10.1001/jamanetworkopen.2021.37503"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Social science / health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Version 1 of the longitudinal panel data from the Health and Retirement Study processed by RAND.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of Food Insecurity With Allostatic Load Among Older Adults in the US",
+        "dud:publication_id": "pub.1143583857",
+        "identifier": "10.1001/jamanetworkopen.2021.37503"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation",
+      "dud:domain": "Social science / health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of U.S. adults over age 50 that collects data on health, economics, demographics, and cognition every two years.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Memory, and Dementia Among US Adults Aged 50 Years and Older",
+        "dud:publication_id": "pub.1166063765",
+        "identifier": "10.1001/jamanetworkopen.2023.44186"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research (and other partners)",
+      "dud:domain": "Social science, health, economics, aging"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study surveying a representative sample of Americans over age 50 on health, economics, and retirement.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among LGBQ+ Veterans",
+        "dud:publication_id": "pub.1181998904",
+        "identifier": "10.1001/jamanetworkopen.2024.42979"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging / Health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of U.S. adults age 50+ with detailed wealth, health, and demographic information collected biennially since 1992.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
+        "dud:publication_id": "pub.1143825085",
+        "identifier": "10.1002/aepp.13219"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (University of Michigan Institute for Social Research)",
+      "dud:domain": "Social science / Aging / Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of U.S. adults age 50+ that collects detailed information on health, economics, and family composition.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research; publicly available through the HRS website.",
+      "dud:domain": "Demography, Economics, Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal, nationally representative panel study of U.S. adults age 50+ that collects health, economic, and psychosocial information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and cognitive domains among older United States adults: Findings from the health and retirement study",
+        "dud:publication_id": "pub.1190876814",
+        "identifier": "10.1002/alz.70480"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (HRS) core surveys (2012‑2014).",
+      "dud:domain": "Social/Health sciences, demography, aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A publicly released imputed version of HRS data that provides multiple imputed values for missing items.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and cognitive domains among older United States adults: Findings from the health and retirement study",
+        "dud:publication_id": "pub.1190876814",
+        "identifier": "10.1002/alz.70480"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation.",
+      "dud:domain": "Social science, demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of adults over 50 in the United States, providing a cognition module used as a template.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of food insecurity with successful aging among older Indians: study based on LASI",
+        "dud:publication_id": "pub.1167840352",
+        "identifier": "10.1007/s00394-023-03322-6"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research.",
+      "dud:domain": "Aging / Social science"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A biennial, nationally representative longitudinal survey of U.S. adults 50 years and older, covering health, socioeconomic, and family variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food security status and breast cancer screening among women in the United States: Evidence from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1154831711",
+        "identifier": "10.1007/s10552-023-01667-1"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Institute for Social Research, University of Michigan (https://hrs.isr.umich.edu)",
+      "dud:domain": "Social/health epidemiology, aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of older adults in the US focusing on health, economics, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Systematic Review and Meta-analysis of Depression, Anxiety, and Sleep Disorders in US Adults with Food Insecurity",
+        "dud:publication_id": "pub.1120137368",
+        "identifier": "10.1007/s11606-019-05202-4"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Referenced study by Brostow et al.",
+      "dud:domain": "Public health / aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of U.S. adults aged 50+ that collects extensive demographic, health, economic, and psychosocial information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
+        "dud:publication_id": "pub.1119798005",
+        "identifier": "10.1007/s12571-019-00945-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "National Institute on Aging & Social Security Administration",
+      "dud:domain": "Demography / Health Economics / Aging"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A curated version of the Health and Retirement Study data prepared by RAND Corporation, including standardized variables and weights.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
+        "dud:publication_id": "pub.1119798005",
+        "identifier": "10.1007/s12571-019-00945-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation",
+      "dud:domain": "Demography / Aging Research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of U.S. adults aged 50+ that collects extensive health, socioeconomic, and demographic variables. Public use dataset available through the Institute for Social Research at the University of Michigan.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among veterans: Findings from the health and retirement study",
+        "dud:publication_id": "pub.1084035814",
+        "identifier": "10.1007/s12603-017-0910-7"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Institute for Social Research, University of Michigan (public use dataset)",
+      "dud:domain": "Health, Aging, Demography"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of U.S. adults aged ≥50, collecting data on health, economics, cognition, and lifestyle.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations between cross-sectional and long-term food insecurity with dietary quality among middle-aged and older United Study adults: A Cohort Study from the Health and Retirement Study",
+        "dud:publication_id": "pub.1191440360",
+        "identifier": "10.1016/j.ajcnut.2025.07.029"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan, funded by the National Institute on Aging (NIA).",
+      "dud:domain": "Social/epidemiological survey, health and aging"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A curated version of the HRS core data prepared by the RAND Corporation, including harmonized variables across waves.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations between cross-sectional and long-term food insecurity with dietary quality among middle-aged and older United Study adults: A Cohort Study from the Health and Retirement Study",
+        "dud:publication_id": "pub.1191440360",
+        "identifier": "10.1016/j.ajcnut.2025.07.029"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation (RAND HRS data files).",
+      "dud:domain": "Social/epidemiological survey, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Longitudinal survey of older U.S. adults collecting health, economic, and demographic data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Financial Hardship, Healthcare Utilization, and Health Among U.S. Cancer Survivors",
+        "dud:publication_id": "pub.1128553391",
+        "identifier": "10.1016/j.amepre.2020.02.016"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal, nationally representative panel study of U.S. adults aged 50+ that collects extensive health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, inflammation, and immune function among older US adults: Findings from the health and Retirement study",
+        "dud:publication_id": "pub.1170199136",
+        "identifier": "10.1016/j.bbi.2024.03.034"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "HRS website (http://hrs.isr.umich.edu)",
+      "dud:domain": "Social science / health epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A version of the HRS longitudinal dataset prepared by RAND for research use.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, inflammation, and immune function among older US adults: Findings from the health and Retirement study",
+        "dud:publication_id": "pub.1170199136",
+        "identifier": "10.1016/j.bbi.2024.03.034"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation",
+      "dud:domain": "Social science data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal, nationally representative panel study of U.S. adults over age 50 that collects data on health, economics, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Cross-Sectional and Longitudinal Associations of Food Insecurity and Dietary Quality Among Older US Adults in the Health and Retirement Study",
+        "dud:publication_id": "pub.1189199043",
+        "identifier": "10.1016/j.cdnut.2025.107042"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Public Health / Aging"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older Americans that collects health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and COVID-19 Infection: Findings From the 2020−2021 National Health Interview Survey",
+        "dud:publication_id": "pub.1154627255",
+        "identifier": "10.1016/j.focus.2023.100069"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research.",
+      "dud:domain": "Aging, public health, economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older adults in the United States that collects health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Association Between Food Security and Mammography Screening: Cross-Sectional Survey Results From the National Health Interview Survey",
+        "dud:publication_id": "pub.1172370731",
+        "identifier": "10.1016/j.jacr.2024.05.005"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (HRS)",
+      "dud:domain": "Aging / health services research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of U.S. adults over age 50 that collects health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Long COVID and the Higher Risk of Food Insecurity Among Participants and Nonparticipants of Food Assistance Programs in the United States",
+        "dud:publication_id": "pub.1174515969",
+        "identifier": "10.1016/j.jand.2024.07.171"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Cited prior study; not accessed by the present authors.",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal panel study of U.S. adults aged 50+ that collects health, economic, and social data every two years.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
+        "dud:publication_id": "pub.1186196555",
+        "identifier": "10.1016/j.jand.2025.02.012"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Survey Research Center; publicly available public‑use files.",
+      "dud:domain": "Social/Health Sciences, Aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A curated version of the HRS data prepared by the RAND Corporation, containing harmonized variables for longitudinal research.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The interplay of food insecurity, diet quality and dementia status in their association with all-cause mortality among older US adults in the Health and Retirement Study 2012-2020",
+        "dud:publication_id": "pub.1186196555",
+        "identifier": "10.1016/j.jand.2025.02.012"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation; public‑use version of HRS data.",
+      "dud:domain": "Aging, Social Sciences"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A biennial longitudinal panel study of U.S. adults over age 50, covering health, economic, and social variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research; publicly available at https://hrsdata.isr.umich.edu",
+      "dud:domain": "Social/Health/Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cleaned, harmonized version of the Health and Retirement Study data prepared by the RAND Corporation for public use.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation; accessible via https://hrsdata.isr.umich.edu/data-products",
+      "dud:domain": "Social/Health/Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of ~20,000 U.S. adults ages 50+ and their spouses, collecting health, socioeconomic, and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, food environments, and disparities in diet quality and obesity in a nationally representative sample of community-dwelling older Americans",
+        "dud:publication_id": "pub.1149590939",
+        "identifier": "10.1016/j.pmedr.2022.101912"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Publicly available through the Survey of Income and Program Participation (SIPP) and the University of Michigan.",
+      "dud:domain": "Social/health epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Processed HRS files produced by the RAND Corporation that include cleaned variables for demographic, health, and economic measures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, food environments, and disparities in diet quality and obesity in a nationally representative sample of community-dwelling older Americans",
+        "dud:publication_id": "pub.1149590939",
+        "identifier": "10.1016/j.pmedr.2022.101912"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation, distributed through the HRS data portal.",
+      "dud:domain": "Social/health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal, nationally representative survey of US adults aged 51+ and their spouses, covering health, economic, and social variables; the 2020 COVID‑19 module was used for this analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity associated with higher COVID-19 infection in households with older adults",
+        "dud:publication_id": "pub.1141037924",
+        "identifier": "10.1016/j.puhe.2021.09.002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan, funded by the National Institute on Aging (grant NIA U01AG009740).",
+      "dud:domain": "Social science / health economics / aging"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal, nationally representative survey of U.S. adults over age 50, collecting data on health, economic, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Examining associations of food insecurity with major depression among older adults in the wake of the Great Recession",
+        "dud:publication_id": "pub.1127686728",
+        "identifier": "10.1016/j.socscimed.2020.113033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Health and Retirement Study, waves 2008‑2016",
+      "dud:domain": "Social epidemiology / Aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of U.S. adults aged 50+ covering health, economic, and social variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and epigenetic aging in middle-aged and older adults",
+        "dud:publication_id": "pub.1171396552",
+        "identifier": "10.1016/j.socscimed.2024.116949"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study, sponsored by the National Institute on Aging.",
+      "dud:domain": "Social/health epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A curated version of HRS data providing longitudinal variables, including income and wealth.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and epigenetic aging in middle-aged and older adults",
+        "dud:publication_id": "pub.1171396552",
+        "identifier": "10.1016/j.socscimed.2024.116949"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation’s HRS data repository.",
+      "dud:domain": "Economic/health research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of U.S. adults age 50+ that collects extensive information on health, economics, and family structure.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity, Race and Ethnicity, and Cognitive Function Among United States Older Adults",
+        "dud:publication_id": "pub.1166094883",
+        "identifier": "10.1016/j.tjnut.2023.11.015"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan, funded by the National Institute on Aging (grant NIA U01AG009740).",
+      "dud:domain": "Social/Health/Economic longitudinal cohort"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of U.S. adults aged 51+ that collects health, economic, and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Longitudinal Associations of Diet, Food Insecurity, and Supplemental Nutrition Assistance Program Use with Global Cognitive Performance in Middle-Aged and Older Adults",
+        "dud:publication_id": "pub.1167387591",
+        "identifier": "10.1016/j.tjnut.2023.12.042"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan, funded by the National Institute on Aging",
+      "dud:domain": "Social/Health Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey collecting extensive health, economic, and demographic information on a nationally representative cohort of older adults in the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1105444823",
+        "identifier": "10.1016/j.ypmed.2018.07.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. National Institute on Aging / Social Security Administration",
+      "dud:domain": "Demography, Health Economics, Gerontology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A curated version of the Health and Retirement Study data prepared by the RAND Corporation, containing harmonized variables for research use.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1105444823",
+        "identifier": "10.1016/j.ypmed.2018.07.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation (2015)",
+      "dud:domain": "Gerontology / Aging Research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of U.S. adults aged 50 and older that collects data on income, wealth, health, and other demographic variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Ultra-processed foods consumption among a USA representative sample of middle-older adults: a cross-sectional analysis",
+        "dud:publication_id": "pub.1167656766",
+        "identifier": "10.1017/s0007114523003033"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Social, health, and economic research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older adults in the US.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and emotional health in the USA: a systematic narrative review of longitudinal research",
+        "dud:publication_id": "pub.1091756824",
+        "identifier": "10.1017/s1368980017002221"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Social science / Aging"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal panel study of older adults in the United States, collecting extensive health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Chronic disease burden predicts food insecurity among older adults",
+        "dud:publication_id": "pub.1100754932",
+        "identifier": "10.1017/s1368980017004062"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Demography / health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of community‑dwelling older adults in the United States, collecting extensive health, economic, and demographic information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
+        "dud:publication_id": "pub.1117637384",
+        "identifier": "10.1017/s1368980019001496"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "National Institute on Aging / Social Security Administration",
+      "dud:domain": "Social/Health/Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal study of older adults in the United States, including veteran sub‑samples.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Risk factors for Veteran food insecurity: findings from a National US Department of Veterans Affairs Food Insecurity Screener",
+        "dud:publication_id": "pub.1142427953",
+        "identifier": "10.1017/s1368980021004584"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging/Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older Americans collecting health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Senior food insecurity in the USA: a systematic literature review",
+        "dud:publication_id": "pub.1152460809",
+        "identifier": "10.1017/s1368980022002415"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Citation (21) within the systematic review.",
+      "dud:domain": "Aging and health longitudinal study"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of U.S. adults over age 50 that collects health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Prevalence and socio-economic determinates of food insecurity in Veterans: findings from National Health and Nutrition Examination Survey",
+        "dud:publication_id": "pub.1156148621",
+        "identifier": "10.1017/s1368980023000538"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of health, retirement, and economic status of older Americans.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Understanding the Experiences of Food Insecurity in Older Adult Households",
+        "dud:publication_id": "pub.1149470319",
+        "identifier": "10.1080/01634372.2022.2098443"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of Americans over age 50 that collects data on health, economics, and family dynamics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Factors associated with food insecurity among Latinx/Hispanics in the U.S.: evidence from the Fragile Families & Childhood Wellbeing Study",
+        "dud:publication_id": "pub.1155395494",
+        "identifier": "10.1080/13557858.2023.2176828"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Gerontology / Economics / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of U.S. adults aged 50+ covering demographics, health, economic, and social variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Mental Illness, Not Obesity Status, is Associated with Food Insecurity Among the Elderly in the Health and Retirement Study",
+        "dud:publication_id": "pub.1112310098",
+        "identifier": "10.1080/21551197.2019.1565901"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study (University of Michigan)",
+      "dud:domain": "Social science / Health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of U.S. adults over age 50, collecting health, economic, and social variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Varying Levels of Food Insecurity Associated with Clinically Relevant Depressive Symptoms in U.S. Adults Aged 60 Years and Over: Results from the 2005–2014 National Health and Nutrition Survey",
+        "dud:publication_id": "pub.1114050530",
+        "identifier": "10.1080/21551197.2019.1611520"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Gerontology / Economics / Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older adults in the United States, collecting health, economic, and social data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Relationship Between Food Insecurity and Functional Limitations in Older Adults from 2005–2014 NHANES",
+        "dud:publication_id": "pub.1116013093",
+        "identifier": "10.1080/21551197.2019.1617219"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Gerontology / Health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of Americans over age 50 that collects data on health, economics, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Diabetes Insulin Adherence Among Older Adults",
+        "dud:publication_id": "pub.1181239473",
+        "identifier": "10.1080/21551197.2024.2409287"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Gerontology / economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study surveying adults over 50 in the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Validation of a 2-Item Food Insecurity Screen Among Adult General Medicine Outpatients",
+        "dud:publication_id": "pub.1131441345",
+        "identifier": "10.1089/pop.2020.0183"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Cited in background references",
+      "dud:domain": "Aging, public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of health, retirement, and economic status among older Americans.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Dietary Quality in Older Adults: Do Nutrition Assistance Programs Play a Protective Role?",
+        "dud:publication_id": "pub.1128044169",
+        "identifier": "10.1093/cdn/nzaa061_007"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "2012 wave of the Health and Retirement Study",
+      "dud:domain": "Health economics / Aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of adults over 50 in the United States covering health, economics, and demographics.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Dementia Risk in U.S. Older Adults: Evidence From the 2013–2021 Panel Study of Income Dynamics",
+        "dud:publication_id": "pub.1175520736",
+        "identifier": "10.1093/geronb/gbae153"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan.",
+      "dud:domain": "Aging / health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel survey of >20,000 U.S. adults aged 50+ collected biennially since 1992, covering health, economics, cognition, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Lack of Food for Thought: Midlife Food Insecurity and Its Association With Subsequent Cognitive Ability of Older Americans",
+        "dud:publication_id": "pub.1181186554",
+        "identifier": "10.1093/geronb/gbae167"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "https://hrs.isr.umich.edu/data-products",
+      "dud:domain": "Aging, health, economics, social science"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of health, retirement, and aging in the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Dietary Quality Predicts Short-Term Change in Mobility Limitations in Older U.S. Adults",
+        "dud:publication_id": "pub.1133656474",
+        "identifier": "10.1093/geroni/igaa057.773"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Social/Health Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study surveying a representative sample of U.S. adults over 50 on health, retirement, and economic status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and its relationship to mental health and oral health in older adults",
+        "dud:publication_id": "pub.1171467135",
+        "identifier": "10.1111/ger.12757"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging, Economics, Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older adults in the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Pragmatic trial evaluating a randomly allocated Supplemental Nutrition Assistance Program outreach and enrolment assistance programme in Michigan: study protocol",
+        "dud:publication_id": "pub.1192631715",
+        "identifier": "10.1136/bmjopen-2025-101369"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Reference citation within the manuscript.",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of Americans over age 50 that collects data on health, economics, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development and Psychometric Evaluation of a Food Resource Acceptability Questionnaire",
+        "dud:publication_id": "pub.1164499193",
+        "identifier": "10.1177/01939459231204288"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging, Public health, Economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of health, retirement, and economic status of older Americans.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity in US Military Veterans",
+        "dud:publication_id": "pub.1134039215",
+        "identifier": "10.1177/0379572120963952"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally‑representative longitudinal panel survey of U.S. adults aged 51+ that collects extensive health, economic, and psychosocial information.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among Older Adults with a History of Incarceration",
+        "dud:publication_id": "pub.1155191783",
+        "identifier": "10.1177/07334648231152152"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Health and Retirement Study, University of Michigan (publicly available data).",
+      "dud:domain": "Gerontology / Public Health / Social Science"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A harmonized, researcher‑ready version of HRS data produced by the RAND Corporation, containing merged core, supplemental, and biomarker data through 2018.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among Older Adults with a History of Incarceration",
+        "dud:publication_id": "pub.1155191783",
+        "identifier": "10.1177/07334648231152152"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation (publicly available).",
+      "dud:domain": "Gerontology / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal survey of older adults in the U.S. focusing on health, retirement, and economic status.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Intersection of Food Insecurity and Tobacco Use: A Scoping Review",
+        "dud:publication_id": "pub.1123925653",
+        "identifier": "10.1177/1524839919874054"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Health / aging research"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of Americans over age 50 that surveys health, economic, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
+        "dud:publication_id": "pub.1182665748",
+        "identifier": "10.1177/21501319241277411"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research",
+      "dud:domain": "Aging / Health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of older Americans that surveys health, economic, and social factors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Depressive Symptoms Among Persons With Diabetes in the United States: Findings From the 2022 National Health Interview Survey (NHIS)",
+        "dud:publication_id": "pub.1182432409",
+        "identifier": "10.1177/26350106241296489"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research.",
+      "dud:domain": "Aging, health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal panel study of U.S. adults over 50 that collects health, economic, and psychosocial data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The association between chronic conditions, COVID-19 infection, and food insecurity among the older US adults: findings from the 2020–2021 National Health Interview Survey",
+        "dud:publication_id": "pub.1154890146",
+        "identifier": "10.1186/s12889-023-15061-8"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Referenced in discussion; not accessed by the authors for the current analysis.",
+      "dud:domain": "Aging research / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationally representative longitudinal survey of U.S. adults over age 50, collected biennially since 1992, including a special COVID‑19 module in 2020.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Predictors of food insecurity among older adults before and during COVID-19 in the United States",
+        "dud:publication_id": "pub.1157984123",
+        "identifier": "10.3389/fpubh.2023.1112575"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "https://hrs.isr.umich.edu",
+      "dud:domain": "Social/Health Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A longitudinal, nationally representative cohort survey of U.S. adults aged 51 + that collects health, socioeconomic, and behavioral data every two years.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and oral health in older adults",
+        "dud:publication_id": "pub.1181621877",
+        "identifier": "10.3389/froh.2024.1400591"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan, sponsored by the National Institute on Aging (grant NIA U01AG009740).",
+      "dud:domain": "Social/Health Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A biennial longitudinal survey of Americans age 50+ that collects detailed information on demographics, health, employment, finances, and family structure.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Health Outcomes following Gray Divorce",
+        "dud:publication_id": "pub.1169226220",
+        "identifier": "10.3390/nu16050633"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "University of Michigan Institute for Social Research (https://hrs.isr.umich.edu)",
+      "dud:domain": "Social science / Aging / Health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A cleaned and harmonized version of the Health and Retirement Study produced by the RAND Corporation, containing derived variables and weights for research use.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Security and Health Outcomes following Gray Divorce",
+        "dud:publication_id": "pub.1169226220",
+        "identifier": "10.3390/nu16050633"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "RAND Corporation (https://www.rand.org/labor/hrs.html)",
+      "dud:domain": "Social science / Aging / Health economics"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The FHFA HPI is used as an instrumental variable (Δ HPI) to capture local house‑price changes that affect mortgage borrowing in the HRS panel data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
+        "dud:publication_id": "pub.1143825085",
+        "identifier": "10.1002/aepp.13219"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Federal Housing Finance Agency House Price Index (FHFA HPI)",
+        "joinType": "integration",
+        "joinKeys": "[\"region_fips_code\",\"survey_year\"]",
+        "methodology": "The researchers linked the Health and Retirement Study (HRS) panel data with the Federal Housing Finance Agency House Price Index (FHFA HPI) by matching each respondent’s geographic location (typically county or metropolitan area identified via FIPS codes) to the corresponding regional house‑price s"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Unemployment rates are included as a control for local economic conditions alongside the HRS variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
+        "dud:publication_id": "pub.1143825085",
+        "identifier": "10.1002/aepp.13219"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Local unemployment rate data",
+        "joinType": "integration",
+        "joinKeys": "[\"FIPS_code\",\"year\"]",
+        "methodology": "The authors merged the Health and Retirement Study (HRS) panel data with local unemployment rate statistics to control for regional economic conditions. A key‑based join was performed using geographic identifiers (county or metropolitan statistical area FIPS codes) and the survey year (or wave). The"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The analysis incorporates FPL (Federal Poverty Level) dummy variables and SNAP eligibility controls alongside HRS food‑insecurity measures.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among older adults in the U.S.: The role of mortgage borrowing",
+        "dud:publication_id": "pub.1143825085",
+        "identifier": "10.1002/aepp.13219"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Department of Agriculture Food Security Data (e.g., SNAP eligibility/FPL categories)",
+        "joinType": "fusion",
+        "joinKeys": "[\"household_id\",\"year_wave\"]",
+        "methodology": "The researchers combined the Health and Retirement Study (HRS) panel data with USDA food‑security information by linking records at the household level for each survey wave. A primary identifier (the HRS respondent/household ID) was matched to the corresponding USDA SNAP eligibility/FPL category usi"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "State‑level income and payroll taxes are not directly observed in the HRS. The authors estimate each respondent’s taxes by feeding demographic and income variables from HRS into the NBER TAXSIM tax‑simulation model and then attach the simulated tax amounts back to the HRS record.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "NBER TAXSIM model outputs",
+        "joinType": "integration",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The researchers extracted demographic and income variables from the Health and Retirement Study, reshaped them to meet the input format required by the NBER TAXSIM tax simulation model, executed the model for each respondent to generate state level tax estimates, averaged the tax amounts across all "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The Supplemental Poverty Measure (SPM) thresholds used in the analysis are derived from five‑year average spending estimates from the CEX. These thresholds are applied to each HRS household to determine whether the household falls below the SPM poverty line.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Consumer Expenditure Survey (CEX) summary data",
+        "joinType": "fusion",
+        "joinKeys": "[\"household_size\",\"housing_tenure\",\"year\"]",
+        "methodology": "The researchers extracted the HRS file and the CEX summary table, transformed the CEX spending averages into annual poverty thresholds, and then applied those thresholds to each HRS household record. The join is a fusion where the CEX thresholds are merged based on household size and housing tenure."
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.7
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "CPS data are used to generate official poverty rates and food‑insecurity statistics that serve as benchmarks for the HRS‑based analyses. The authors compare trends observed in the HRS with those reported from the CPS.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Current Population Survey (CPS) aggregates",
+        "joinType": "combination",
+        "joinKeys": "[\"year\",\"age_group\"]",
+        "methodology": "The authors first extracted annual poverty and food insecurity rates from the CPS public tables. Then they computed comparable rates from the HRS by aggregating respondents by survey year and age group. The two datasets were aligned on the calendar year and age group variables and merged as a simple"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.3
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The OPM is directly available in the HRS, but its thresholds are defined by the Census Bureau. The authors apply the Census‑defined OPM thresholds to the HRS income variables to identify OPM‑poor respondents.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
+        "dud:publication_id": "pub.1151888645",
+        "identifier": "10.1002/aepp.13329"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "U.S. Census Bureau Official Poverty Measure (OPM) thresholds",
+        "joinType": "join",
+        "joinKeys": "[\"family_size\",\"household_composition\",\"age_of_householder\"]",
+        "methodology": "The authors used the HRS data set that already contains the official poverty measure (OPM) variable and the required income components. To determine OPM‑poor status they applied the Census Bureau OPM poverty thresholds to each respondent. For each record they derived a household unit identifier base"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.0
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The RAND HRS data file provided household income, assets, and participant characteristics that were used as covariates alongside the original HRS questionnaire data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social support and monetary resources as protective factors against food insecurity among older Americans: findings from a health and retirement study",
+        "dud:publication_id": "pub.1119798005",
+        "identifier": "10.1007/s12571-019-00945-8"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study (HRS) raw data",
+        "joinType": "fusion",
+        "joinKeys": "[\"person_id\",\"survey_year\"]",
+        "methodology": "The researchers combined the raw Health and Retirement Study (HRS) questionnaire data from the 2012 wave with the RAND HRS Data File (Version P), which contains derived variables such as household income, assets, and participant characteristics. The integration was performed by matching records on t"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 8.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The publicly available RAND HRS longitudinal file was used as the primary source of HRS variables (e.g., wealth, demographics) that were combined with the HCNS supplement for analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and ultra-processed food consumption in the Health and Retirement Study: Cross-sectional analysis",
+        "dud:publication_id": "pub.1184214501",
+        "identifier": "10.1016/j.jnha.2024.100422"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "2013 HCNS data",
+        "joinType": "combination",
+        "joinKeys": "[\"hhidpn\",\"interview_year\"]",
+        "methodology": "The RAND HRS longitudinal file (core wave variables) and the 2013 Health Care and Nutrition Study (HCNS) supplement were merged by matching the unique respondent identifier that is present in both files. An inner join was performed so that only respondents with complete information in both datasets "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.5
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors combined the biennial HRS panel data (2012 wave) with the off‑year HCNS supplement (2013) to create a single analytic sample of older adults, applying exclusion criteria across both datasets and using HCNS person‑level weights in the regression models.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1105444823",
+        "identifier": "10.1016/j.ypmed.2018.07.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health Care and Nutrition Study (HCNS)",
+        "joinType": "integration",
+        "joinKeys": "[\"person_id\"]",
+        "methodology": "The authors merged the biennial Health and Retirement Study (HRS) core panel data from the 2012 wave with the off‑year Health Care and Nutrition Study (HCNS) supplement collected in 2013. A deterministic, key‑based merge was performed using the unique respondent identifier that is common to both dat"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 9.2
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The RAND Center for the Study of Aging produced a processed version of the HRS data (Version P) that was used for all measures of mobility limitation and participant characteristics, effectively merging the original HRS core files with additional derived variables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study",
+        "dud:publication_id": "pub.1105444823",
+        "identifier": "10.1016/j.ypmed.2018.07.001"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Health and Retirement Study core files",
+        "joinType": "fusion",
+        "joinKeys": "[\"household_id\",\"person_id\",\"wave_year\"]",
+        "methodology": "The RAND Center for the Study of Aging created a processed version of the HRS data (Version P) by merging the original HRS core files with additional derived variables from the Health Care and Nutrition Study (HCNS). The integration was performed using respondent-level identifiers (household ID and "
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.8
+        }
+      ]
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "Participant demographic, socioeconomic, and health variables were extracted from the RAND HRS dataset, while cognitive scores were taken from the core HRS files; both sources were combined for analysis.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
+        "dud:publication_id": "pub.1117637384",
+        "identifier": "10.1017/s1368980019001496"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "Core HRS files (including cognitive status measures)",
+        "joinType": "fusion",
+        "joinKeys": "[\"respondent_id\"]",
+        "methodology": "The researchers extracted participant demographic, socioeconomic and health variables from the RAND HRS data file (Version P) and cognitive status measures from the core HRS files. Both datasets were merged using the unique respondent identifier assigned by the Health and Retirement Study. The merge"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 7.8
+        }
+      ]
+    }
+  ]
+}

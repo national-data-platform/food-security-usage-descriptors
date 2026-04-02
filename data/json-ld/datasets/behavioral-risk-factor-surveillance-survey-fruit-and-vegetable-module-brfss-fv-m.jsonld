@@ -1,0 +1,2067 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+  },
+  "@type": "Dataset",
+  "name": "Behavioral Risk Factor Surveillance Survey Fruit and Vegetable Module (BRFSS FV module)",
+  "identifier": "ec43816b-608c-4fe5-ac9f-6421e354d05e",
+  "alternateName": [
+    "BRFSS Fruit and Vegetable Module",
+    "BRFSS FV Module",
+    "Behavioral Risk Factor Surveillance System Fruit and Vegetable Module",
+    "BRFSS Fruit and Vegetable",
+    "Behavioral Risk Factor Surveillance Survey Fruit and Vegetable Module"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based system of health-related telephone surveys that collects data about health risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Supplemental Nutrition Assistance Program Access and Racial Disparities in Food Insecurity",
+        "dud:publication_id": "pub.1160117949",
+        "identifier": "10.1001/jamanetworkopen.2023.20196"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "State‑based telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Amputation Rates and Associated Social Determinants of Health in the Most Populous US Counties",
+        "dud:publication_id": "pub.1165400226",
+        "identifier": "10.1001/jamasurg.2023.5517"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Behavioral health / Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Age at diagnosis and social risks among Black cancer survivors: Results from the Detroit Research on Cancer Survivors cohort",
+        "dud:publication_id": "pub.1168308433",
+        "identifier": "10.1002/cncr.35212"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national telephone survey collecting data on health-related risk behaviors, chronic conditions, and preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food justice in Vermont’s environmentally vulnerable communities",
+        "dud:publication_id": "pub.1157511620",
+        "identifier": "10.1007/s10460-023-10431-9"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among adult females with a history of breast cancer compared to adult females without cancer in the USA",
+        "dud:publication_id": "pub.1165706556",
+        "identifier": "10.1007/s11764-023-01481-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / chronic disease"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that gathers data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Moving Diabetes Upstream: the Social Determinants of Diabetes Management and Control Among Immigrants in the US",
+        "dud:publication_id": "pub.1130397358",
+        "identifier": "10.1007/s11892-020-01332-w"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone‑based survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services in U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and its Impact on Body Weight, Type 2 Diabetes, Cardiovascular Disease, and Mental Health",
+        "dud:publication_id": "pub.1139414250",
+        "identifier": "10.1007/s12170-021-00679-3"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Epidemiology / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, state‑based telephone survey collecting data on health-related risk behaviors, chronic health conditions, and use of preventive services across the United States.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Social Needs and Type 2 Diabetes in Latinos: An Integrative Review",
+        "dud:publication_id": "pub.1188272122",
+        "identifier": "10.1007/s40615-025-02448-z"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Epidemiology / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Relationships Among COVID-19 Contraction, Job Loss, and Food Insecurity in American Indian and Alaska Native Peoples",
+        "dud:publication_id": "pub.1191378644",
+        "identifier": "10.1007/s40615-025-02561-z"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC).",
+      "dud:domain": "Public Health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Nutrition and Health in the Lesbian, Gay, Bisexual, Transgender, Queer/Questioning Community: A Narrative Review",
+        "dud:publication_id": "pub.1162937173",
+        "identifier": "10.1016/j.advnut.2023.07.009"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of new measures to assess household nutrition security, and choice in dietary characteristics",
+        "dud:publication_id": "pub.1150574439",
+        "identifier": "10.1016/j.appet.2022.106288"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An ongoing telephone survey that collects data on health-related risk behaviors, chronic health conditions, and use of preventive services in U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Lowering the impact of food insecurity in African American adults with type 2 diabetes mellitus (LIFT-DM) – Study protocol for a randomized controlled trial",
+        "dud:publication_id": "pub.1132404685",
+        "identifier": "10.1016/j.cct.2020.106206"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based system of health surveys that collects data about health risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Racial and ethnic differences in the prevalence of adverse childhood experiences: Findings from a low-income sample of U.S. women",
+        "dud:publication_id": "pub.1099722849",
+        "identifier": "10.1016/j.chiabu.2017.12.012"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Public health / Surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone survey system that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Health equity in pediatrics: Current concepts for the care of children in the 21st century (Dis Mon)",
+        "dud:publication_id": "pub.1164230672",
+        "identifier": "10.1016/j.disamonth.2023.101631"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone survey collecting data on health-related risk behaviors from U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Effects of maternal depression on family food insecurity",
+        "dud:publication_id": "pub.1031434075",
+        "identifier": "10.1016/j.ehb.2016.04.004"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public Health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Disparities Among Immigrants in the U.S.",
+        "dud:publication_id": "pub.1158724600",
+        "identifier": "10.1016/j.focus.2023.100113"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention",
+      "dud:domain": "Epidemiology / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An ongoing telephone survey by the CDC that tracks health‑related risk behaviors, chronic health conditions, and use of preventive services in the U.S. adult population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Retrospective review of food insecurity screening in an outpatient stroke clinic using electronic and paper-based surveys",
+        "dud:publication_id": "pub.1174669990",
+        "identifier": "10.1016/j.heliyon.2024.e36142"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Prevalence of Food Insecurity Among Cancer Survivors in the United States: A Scoping Review",
+        "dud:publication_id": "pub.1149406378",
+        "identifier": "10.1016/j.jand.2022.07.004"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. CDC",
+      "dud:domain": "Public Health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A standardized questionnaire from the Behavioral Risk Factor Surveillance System that measures fruit and vegetable consumption.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Campus Food Pantry Use May Improve Daily Frequency of Fruit and Vegetable Intake Among California University Students Experiencing Food Insecurity",
+        "dud:publication_id": "pub.1164271845",
+        "identifier": "10.1016/j.jand.2023.09.009"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Behavioral Risk Factor Surveillance System (BRFSS)",
+      "dud:domain": "Nutrition / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationwide health-related telephone survey system collecting data on health behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Campus Food Pantry Use May Improve Daily Frequency of Fruit and Vegetable Intake Among California University Students Experiencing Food Insecurity",
+        "dud:publication_id": "pub.1164271845",
+        "identifier": "10.1016/j.jand.2023.09.009"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A CDC‑run telephone survey collecting data on health-related risk factors across US states.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Associations Among Chronic Disease Status, Participation in Federal Nutrition Programs, Food Insecurity, and Sugar-Sweetened Beverage and Water Intake Among Residents of a Health-Disparate Region",
+        "dud:publication_id": "pub.1020034785",
+        "identifier": "10.1016/j.jneb.2015.01.001"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, ongoing telephone survey conducted by the CDC that captures health‑related risk behaviors, including dietary intake of fruits and vegetables.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household Food Insecurity and Maternal-Toddler Fruit and Vegetable Dietary Concordance",
+        "dud:publication_id": "pub.1167315150",
+        "identifier": "10.1016/j.jneb.2023.10.018"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Epidemiology / Nutrition"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Full subsidy and direct delivery of essential chronic disease medications for low-income populations: A pilot randomized controlled trial",
+        "dud:publication_id": "pub.1193038553",
+        "identifier": "10.1016/j.jnma.2025.08.003"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.4
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.7
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Mentioned in the baseline covariate description and again for the HRQOL instrument.",
+      "dud:domain": "Epidemiology / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity, social needs, and smoking status among patients in a county hospital system",
+        "dud:publication_id": "pub.1150596143",
+        "identifier": "10.1016/j.pmedr.2022.101963"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Epidemiology / Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An annual telephone survey that monitors health‑related risk behaviors, chronic health conditions, and use of preventive services in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Fresh Start to a Healthier You! program improves fruit and vegetable consumption and risk of food insecurity: Findings from Texas",
+        "dud:publication_id": "pub.1190266238",
+        "identifier": "10.1016/j.pmedr.2025.103158"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An ongoing telephone (and now web) survey conducted by the CDC that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services in the U.S. adult population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Socio-demographic risk factors for food insecurity among students at five North Carolina colleges: The influence on fruit and vegetable intake and perceived health and well-being",
+        "dud:publication_id": "pub.1193374741",
+        "identifier": "10.1016/j.pmedr.2025.103243"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Reference to the 2017 BRFSS questionnaire.",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An ongoing, state‑based telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Economic instability, food insecurity, social isolation, and inadequate access to care in adults with epilepsy: A nationwide analysis",
+        "dud:publication_id": "pub.1191217076",
+        "identifier": "10.1016/j.seizure.2025.07.012"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone survey collecting health‑related risk factor data from U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
+        "dud:publication_id": "pub.1105225625",
+        "identifier": "10.1016/j.ssmph.2018.06.006"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health/Survey data"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity and sleep health by race/ethnicity in the United States",
+        "dud:publication_id": "pub.1158155267",
+        "identifier": "10.1017/jns.2023.18"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national telephone survey that collects data on health-related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Nutrition interventions addressing structural racism: a scoping review",
+        "dud:publication_id": "pub.1144633224",
+        "identifier": "10.1017/s0954422422000014"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Cited within the description of a primary study included in the review.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Household and child food insecurity and CVD risk factors in lower-income adolescents aged 12–17 years from the National Health and Nutrition Examination Survey (NHANES) 2007–2016",
+        "dud:publication_id": "pub.1139042042",
+        "identifier": "10.1017/s1368980021002652"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑level telephone health survey that collects core health‑related questions, optional modules, and state‑added questions from a representative sample of non‑institutionalised US adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA",
+        "dud:publication_id": "pub.1148084211",
+        "identifier": "10.1017/s1368980022001240"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Washington State Department of Health, Center for Health Statistics; CDC",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Adverse childhood experiences and food insecurity in emerging adulthood: findings from the EAT 2010–2018 study",
+        "dud:publication_id": "pub.1160582350",
+        "identifier": "10.1017/s1368980023001349"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Epidemiology / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "BRFSS provides state‑level prevalence of various health risk factors, including cardiovascular disease incidence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Geospatial Analysis of Food Insecurity and Adverse Human Health Outcomes in the United States",
+        "dud:publication_id": "pub.1185433555",
+        "identifier": "10.1029/2024gh001198"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC) BRFSS",
+      "dud:domain": "Public health / cardiovascular epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data about health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Psychosocial and structural stressors and engagement in medical care among young sexual minority men across racial identities",
+        "dud:publication_id": "pub.1167216406",
+        "identifier": "10.1080/08964289.2023.2277931"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "State‑ and county‑level health‑behavior survey data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A spatial analyses of food insecurity and disability in the Southeast region of the United States",
+        "dud:publication_id": "pub.1149656458",
+        "identifier": "10.1080/17445647.2022.2092909"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Behavioral risk factors"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A CDC telephone survey collecting data on health-related risk behaviors, chronic disease prevalence, and preventive health practices in U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Evaluating a Nutrition Education Program in an Era of Food Insecurity",
+        "dud:publication_id": "pub.1017133558",
+        "identifier": "10.1080/19320248.2016.1227748"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC BRFSS data (year unspecified).",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services among U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
+        "dud:publication_id": "pub.1175815611",
+        "identifier": "10.1080/19320248.2022.2101414"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Epidemiology / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national telephone survey conducted by the CDC that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Exploring the Relationship Between SNAP Enrollment and Food Insecurity in Rural Appalachia",
+        "dud:publication_id": "pub.1153730181",
+        "identifier": "10.1080/19320248.2022.2157231"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public Health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A Qualitative Examination of Service Satisfaction and Health Status During the COVID-19 Lockdowns Among Recipients of a Community-Based, Home Food Delivery Program in Flint, Michigan",
+        "dud:publication_id": "pub.1169101164",
+        "identifier": "10.1080/19320248.2024.2321233"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Cited as the origin of the health‑condition checklist incorporated into the study’s questionnaire.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationwide telephone survey collecting data on health-related risk behaviors, including diet.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Using Community-Based Participatory Research to Explore Food Insecurity in African American Adults",
+        "dud:publication_id": "pub.1127158542",
+        "identifier": "10.1080/19325037.2020.1744491"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A CDC‑conducted telephone survey collecting health‑related risk factor data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Beyond Groceries: An Analysis of Referral Needs to Address Underlying Causes of Child Hunger among Households Accessing Food Pantries",
+        "dud:publication_id": "pub.1140811818",
+        "identifier": "10.1080/19371918.2021.1943099"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Health behavior / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Differences in Health-Related Quality of Life and Health Behaviors Among Lesbian, Bisexual, and Heterosexual Women Surviving Cancer from the 2013 to 2018 National Health Interview Survey",
+        "dud:publication_id": "pub.1133538891",
+        "identifier": "10.1089/lgbt.2020.0185"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "BRFSS public data",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone survey system that collects data on health‑related risk behaviors, chronic disease prevalence, and preventive health practices in U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Associated with Self-Efficacy and Acculturation",
+        "dud:publication_id": "pub.1059307554",
+        "identifier": "10.1089/pop.2015.0179"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey system that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and the Risk of Obesity, Depression, and Self-Rated Health in Women",
+        "dud:publication_id": "pub.1130837718",
+        "identifier": "10.1089/whr.2020.0049"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Behavioral surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone survey conducted by the CDC that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services among US adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Sexual orientation–based disparities in food security among adults in the United States: results from the 2003–2016 NHANES",
+        "dud:publication_id": "pub.1140354275",
+        "identifier": "10.1093/ajcn/nqab290"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, ongoing telephone survey conducted by CDC that collects health‑related risk factor data from U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Effect of Supplemental Nutrition Assistance Program–Education (SNAP-Ed) on food security and dietary outcomes",
+        "dud:publication_id": "pub.1112862388",
+        "identifier": "10.1093/nutrit/nuz013"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public Health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Large telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "County-Level Associations Between Pregnancy-Related Mortality Ratios and Contextual Sociospatial Indicators",
+        "dud:publication_id": "pub.1147246557",
+        "identifier": "10.1097/aog.0000000000004749"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Behavioral health / Public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "CDC's national telephone survey assessing health‑related risk behaviors among adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Sex, Race, Food Security, and Sugar Consumption Change Efficacy Among Low-Income Parents in an Urban Primary Care Setting",
+        "dud:publication_id": "pub.1101087774",
+        "identifier": "10.1097/fch.0000000000000184"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 8.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / adult behavior"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A continuous, telephone‑based survey of U.S. adults that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Mixed Signals in Child and Adolescent Mental Health and Well‐Being Indicators in the United States: A Call for Improvements to Population Health Monitoring",
+        "dud:publication_id": "pub.1157211852",
+        "identifier": "10.1111/1468-0009.12634"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC – National Center for Health Statistics",
+      "dud:domain": "Public health / adult and young‑adult health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An ongoing telephone survey that collects state‑level data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Key sociodemographic factors and food packaging attributes associated with poor diet quality among rural Americans: a cross-sectional survey study",
+        "dud:publication_id": "pub.1191325979",
+        "identifier": "10.1136/bmjopen-2025-099774"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An annual telephone survey that collects data on health-related risk behaviors, chronic health conditions, and use of preventive services in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Scope and Social Determinants of Food Insecurity Among Adults With Atherosclerotic Cardiovascular Disease in the United States",
+        "dud:publication_id": "pub.1140405631",
+        "identifier": "10.1161/jaha.120.020028"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / behavioral epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity in US Military Veterans",
+        "dud:publication_id": "pub.1134039215",
+        "identifier": "10.1177/0379572120963952"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. CDC/HRSA",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A nationwide telephone survey system collecting data on health‑related risk behaviors.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Association Between Food Insecurity and Intimate Partner Violence Among U.S. Army Soldiers",
+        "dud:publication_id": "pub.1172116666",
+        "identifier": "10.1177/08862605241253024"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Epidemiology / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national telephone survey collecting data on health-related risk behaviors, chronic health conditions, and preventive services in the U.S. adult population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity is associated with serious psychological distress among low-income California adults",
+        "dud:publication_id": "pub.1139318933",
+        "identifier": "10.1177/13591053211028913"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An ongoing telephone health survey system tracking health-related risk behaviors, chronic health conditions, and use of preventive services in the US.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Link Between Intimate Partner Violence and Food Insecurity: A Review of Quantitative and Qualitative Studies",
+        "dud:publication_id": "pub.1162679558",
+        "identifier": "10.1177/15248380231186152"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public Health / Surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Supporting wellness at pantries (SWAP) nutrition stoplight system aids rural food pantry clients living with chronic disease in selecting nutritious options",
+        "dud:publication_id": "pub.1138839230",
+        "identifier": "10.1177/17423953211023976"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Citation in the literature review (Shaw et al., 2013).",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "Annual telephone survey collecting data on health‑related risk behaviors from U.S. adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Impact of a Pediatric Produce Prescription Intervention on Food Security and Perceived Nutrition-Related Behaviors: A Mixed-Methods Study",
+        "dud:publication_id": "pub.1182012113",
+        "identifier": "10.1177/21501319241276780"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Epidemiology / Public Health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An annual telephone survey that collects data on health-related risk behaviors, chronic health conditions, and use of preventive services in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Addressing Dietary-Related Health Disparities in Underserved Communities: Outcomes From a 24-Month Pilot, Subsidized Food Prescription Program in the Mississippi Delta",
+        "dud:publication_id": "pub.1182432412",
+        "identifier": "10.1177/2752535x241301847"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Mentioned as the origin of questionnaire items.",
+      "dud:domain": "Public health / behavioral epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, telephone‑based health survey that monitors health‑related risk behaviors, chronic health conditions, and use of preventive services in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "New measures to assess the “Other” three pillars of food security–availability, utilization, and stability",
+        "dud:publication_id": "pub.1157547909",
+        "identifier": "10.1186/s12966-023-01451-z"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "A community-based health assessment among residents of affordable housing in San Francisco’s Hunters Point",
+        "dud:publication_id": "pub.1186194186",
+        "identifier": "10.1186/s12982-025-00466-0"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC – National Center for Chronic Disease Prevention and Health Promotion",
+      "dud:domain": "Epidemiology / public health"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects information on health behaviors, chronic conditions, and use of preventive services from U.S. adults. The authors used the 2014, 2015, and 2017 waves, extracting the optional social context and social determinants modules for food and housing insecurity.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Relationship between food insecurity and housing instability on quality of care and quality of life in adults with diabetes",
+        "dud:publication_id": "pub.1153401961",
+        "identifier": "10.1371/journal.pone.0278650"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "https://www.cdc.gov/brfss/annual_data/annual_2014.html and https://www.cdc.gov/brfss/annual_data/annual_2017.html",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based system of health‑related telephone surveys that collect data about health risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among Asian Americans: A scoping review protocol",
+        "dud:publication_id": "pub.1160321293",
+        "identifier": "10.1371/journal.pone.0287895"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting data on health risk behaviors and chronic disease prevalence.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity Among Health Care Workers In The US",
+        "dud:publication_id": "pub.1140980196",
+        "identifier": "10.1377/hlthaff.2021.00450"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public Health Survey"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting health‑related risk factor data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Addressing Food Insecurity and Overweight/Obesity in Hospitalized Low-Income Latino Patients",
+        "dud:publication_id": "pub.1120415576",
+        "identifier": "10.1891/1078-4535.25.3.241"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "BRFSS (unspecified year)",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, ongoing telephone survey collecting data on health‑related risk behaviors, including nutrition and food access, from US adults.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Community Gardening as a Way to Build Cross-Cultural Community Resilience in Intersectionally Diverse Gardeners: Community-Based Participatory Research and Campus-Community-Partnered Proposal",
+        "dud:publication_id": "pub.1131086075",
+        "identifier": "10.2196/21218"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 7.5
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An annual telephone survey that collects data on health-related risk behaviors, chronic health conditions, and use of preventive services in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Insecurity and Diabetes: Overview of Intersections and Potential Dual Solutions",
+        "dud:publication_id": "pub.1160045069",
+        "identifier": "10.2337/dci23-0002"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Cited study (reference 70) within the manuscript.",
+      "dud:domain": "Public health / chronic disease surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey of health risk behaviors; specific question items were used in the study.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food insecurity among New York City taxi and for-hire vehicle drivers",
+        "dud:publication_id": "pub.1153761407",
+        "identifier": "10.3233/wor-211471"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A large, ongoing telephone survey conducted by the CDC that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Development of three new multidimensional measures to assess household food insecurity resilience in the United States",
+        "dud:publication_id": "pub.1153613181",
+        "identifier": "10.3389/fpubh.2022.1048501"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 10.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 10.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A telephone survey that collects state‑ and county‑level data on health‑related risk behaviors, including sleep duration.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The indirect effects of food insecurity on obesogenic environments",
+        "dud:publication_id": "pub.1154285080",
+        "identifier": "10.3389/fpubh.2022.1052957"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 9.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "An annual telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services in the US.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Screening for social determinants of health among populations at risk for MASLD: a scoping review",
+        "dud:publication_id": "pub.1170565137",
+        "identifier": "10.3389/fpubh.2024.1332870"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Citation 10.1093/ajh/hpab011 within the manuscript.",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting health‑related risk factor data.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Explaining Racial Inequality in Food Security in Columbus, Ohio: A Blinder–Oaxaca Decomposition Analysis",
+        "dud:publication_id": "pub.1129805907",
+        "identifier": "10.3390/ijerph17155488"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.5
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Empirical Dietary Patterns Associated with Food Insecurity in U.S. Cancer Survivors: NHANES 1999–2018",
+        "dud:publication_id": "pub.1152350586",
+        "identifier": "10.3390/ijerph192114062"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 8.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Characteristics Associated with Being a High Consumer of Sweet Foods and Sugar-Sweetened Beverages among US Adults during the COVID-19 Pandemic, 2021",
+        "dud:publication_id": "pub.1158180357",
+        "identifier": "10.3390/nu15102363"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 6.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "CDC",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey collecting data on health‑related risk behaviors in the U.S. adult population.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Psychological Distress Mediates the Association between Food Insecurity and Suboptimal Sleep Quality in Latinos with Type 2 Diabetes Mellitus 1 , 2",
+        "dud:publication_id": "pub.1071754442",
+        "identifier": "10.3945/jn.116.231365"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 7.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / Epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "State‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Experiences of food insecurity among LGBTQIA+ college students in North Texas: Meaning, experiences, and recommendations for inclusive solutions",
+        "dud:publication_id": "pub.1156282992",
+        "identifier": "10.5304/jafscd.2023.122.021"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 1.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health / epidemiology"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A national telephone survey system collecting data on health-related risk behaviors in the U.S.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Food Bank–Based Diabetes Prevention Intervention to Address Food Security, Dietary Intake, and Physical Activity in a Food-Insecure Cohort at High Risk for Diabetes",
+        "dud:publication_id": "pub.1124001482",
+        "identifier": "10.5888/pcd17.190210"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "Centers for Disease Control and Prevention",
+      "dud:domain": "Public Health / Behavioral Surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "discovery",
+      "reviewBody": "A state‑based telephone survey that collects data on health‑related risk behaviors, chronic health conditions, and use of preventive services.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Employment Loss and Food Insecurity — Race and Sex Disparities in the Context of COVID-19",
+        "dud:publication_id": "pub.1150263504",
+        "identifier": "10.5888/pcd19.220024"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "mention",
+          "ratingValue": 9.0
+        },
+        {
+          "@type": "Rating",
+          "name": "use",
+          "ratingValue": 2.0
+        }
+      ],
+      "dud:dataset_usage_status": "discovered",
+      "dud:source": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "dud:domain": "Public health surveillance"
+    },
+    {
+      "@type": "Review",
+      "reviewAspect": "join",
+      "reviewBody": "The authors cite an analysis of the BRFSS that examines housing, food insecurity, care access, and health status among the chronically ill, and they present parallel prevalence data for chronic conditions among CTK participants, suggesting a joint analysis of the two sources.",
+      "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "Hospital-Based, Community Teaching Kitchen Integrates Diabetes Education, Culinary Medicine, and Food Assistance: Case Study During the COVID-19 Pandemic",
+        "dud:publication_id": "pub.1155892271",
+        "identifier": "10.1007/s11606-022-07931-5"
+      },
+      "dud:joinDetail": {
+        "partnerDataset": "CTK patient health‑condition dataset (obesity, hypertension, diabetes, etc.)",
+        "joinType": "combination",
+        "joinKeys": "[\"year\",\"state\",\"age_group\",\"sex\",\"race_ethnicity\"]",
+        "methodology": "The authors combined publicly available BRFSS survey data with internal CTK patient records by aligning variables that describe demographic groups and chronic condition prevalence. Data were extracted, cleaned, and then merged on common identifiers such as year, state, age_group, sex and race_ethnic"
+      },
+      "reviewRating": [
+        {
+          "@type": "Rating",
+          "name": "join_confidence",
+          "ratingValue": 6.8
+        }
+      ]
+    }
+  ]
+}
