@@ -1,11 +1,15 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "HCUP National (Nationwide) Inpatient Sample (NIS)",
   "identifier": "68ebcf23b68f81f17e36bdb1",
+  "creator": {
+    "@type": "Organization",
+    "name": "Healthcare Cost and Utilization Project (HCUP) – Agency for Healthcare Research and Quality (AHRQ)."
+  },
+  "about": "Health services research / health economics",
   "review": [
     {
       "@type": "Review",
@@ -28,8 +32,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -52,13 +55,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Healthcare Cost and Utilization Project (HCUP) – Agency for Healthcare Research and Quality (AHRQ)."
-      },
-      "about": "Health services research / health economics"
+      ]
     },
     {
       "@type": "Review",
@@ -81,13 +78,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "HCUP"
-      },
-      "about": "Healthcare/Health Services Research"
+      ]
     }
   ]
 }

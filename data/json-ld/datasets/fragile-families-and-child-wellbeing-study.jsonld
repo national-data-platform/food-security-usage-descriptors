@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Fragile Families and Child Wellbeing Study",
@@ -11,6 +10,11 @@
     "FFCWS",
     "Future of Families and Child Wellbeing Study"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "University of Michigan Institute for Social Research"
+  },
+  "about": "Sociology / Child Development",
   "review": [
     {
       "@type": "Review",
@@ -33,13 +37,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Princeton University (Future of Families and Child Well‑Being Study)"
-      },
-      "about": "Sociology / Public health / Child development"
+      ]
     },
     {
       "@type": "Review",
@@ -62,13 +60,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Future of Families and Child Wellbeing Study (princeton.edu)"
-      },
-      "about": "Social science / Child development"
+      ]
     },
     {
       "@type": "Review",
@@ -91,13 +83,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Various academic institutions; not detailed in paper."
-      },
-      "about": "Child development, sociology"
+      ]
     },
     {
       "@type": "Review",
@@ -120,13 +106,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Michigan Institute for Social Research"
-      },
-      "about": "Family and child development"
+      ]
     },
     {
       "@type": "Review",
@@ -149,13 +129,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Michigan Institute for Social Research"
-      },
-      "about": "Sociology / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -178,13 +152,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Future of Families and Child Wellbeing Study website / data repository"
-      },
-      "about": "Public health / social epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -207,13 +175,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Pennsylvania / Johns Hopkins University"
-      },
-      "about": "Child Development/Sociology"
+      ]
     },
     {
       "@type": "Review",
@@ -236,13 +198,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Pennsylvania / Princeton University"
-      },
-      "about": "Sociology / Child Development"
+      ]
     },
     {
       "@type": "Review",
@@ -265,13 +221,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reichman, Teitler, Garfinkel, & McLanahan (2001)"
-      },
-      "about": "Social/Health Sciences, Family and Child Development"
+      ]
     },
     {
       "@type": "Review",
@@ -294,13 +244,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reichman, Teitler, Garfinkel, & McLanahan (2001)"
-      },
-      "about": "Sociology/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -323,13 +267,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Fragile Families and Child Wellbeing Study (FFCWS)"
-      },
-      "about": "Social/Health Sciences – Family and Child Development"
+      ]
     },
     {
       "@type": "Review",
@@ -352,13 +290,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Institute of Child Health and Human Development (NICHD) funded; data available via Princeton University's Office of Population Research archive."
-      },
-      "about": "Social epidemiology / child health"
+      ]
     },
     {
       "@type": "Review",
@@ -381,13 +313,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Publicly available dataset; referenced as \"Fragile Families\" data set is publicly available, institutional review board approval was not needed."
-      },
-      "about": "Social science / public health / child development"
+      ]
     },
     {
       "@type": "Review",
@@ -410,13 +336,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Pennsylvania, etc."
-      },
-      "about": "Family / Child development"
+      ]
     },
     {
       "@type": "Review",
@@ -439,13 +359,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Bendheim‑Thoman Center for Research on Child Wellbeing at Princeton University; funded by NICHD grant R01 HD36916."
-      },
-      "about": "Social science / family well‑being / health and housing outcomes"
+      ]
     },
     {
       "@type": "Review",
@@ -468,13 +382,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Publicly available through Princeton University's Office of Population Research (OPR) data archive (http://opr.princeton.edu/archive/ff/)"
-      },
-      "about": "Social science / Demography / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -497,13 +405,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reichman et al., Fragile Families and Child Wellbeing Study dataset."
-      },
-      "about": "Social Science / Family Health"
+      ]
     },
     {
       "@type": "Review",
@@ -526,13 +428,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Princeton University"
-      },
-      "about": "Family and Child Development / Social Sciences"
+      ]
     },
     {
       "@type": "Review",
@@ -555,13 +451,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Research team of the Fragile Families and Child Wellbeing Study"
-      },
-      "about": "Sociology / Family Studies"
+      ]
     },
     {
       "@type": "Review",
@@ -584,13 +474,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Michigan Institute for Social Research"
-      },
-      "about": "Sociology / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -613,13 +497,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Various academic institutions, funded by NSF and other agencies"
-      },
-      "about": "Sociology / Child Development"
+      ]
     },
     {
       "@type": "Review",
@@ -642,13 +520,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Office of Population Research, Princeton University"
-      },
-      "about": "Social science / Family wellbeing / Child development"
+      ]
     },
     {
       "@type": "Review",
@@ -671,13 +543,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Harvard University"
-      },
-      "about": "Child development and family studies"
+      ]
     },
     {
       "@type": "Review",
@@ -699,300 +565,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 1.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Michigan"
-      },
-      "about": "Health/Social Science"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors linked each participant’s longitudinal demographic and health data from the FFCWS with the caregiver‑reported food‑security status collected via the USDA module to create a single analytic file containing early‑childhood food‑insecurity exposure.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "identifier": "10.1001/jamacardio.2025.1062",
-        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA 18‑item Food Insecurity Survey Module (administered to caregivers at ages 3‑5)",
-        "joinType": "merge",
-        "joinKeys": "[\"child_id\"]",
-        "methodology": "The investigators first extracted the longitudinal core data from the Future of Families and Child Well‑Being Study (FFCWS) and the caregiver‑reported USDA 18‑item Food Insecurity Survey Module collected at child ages 3 and 5. Each dataset was cleaned, variables were recoded to the analytic definiti"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Blood samples collected at the young‑adult examination were processed at the University of Vermont lab for lipid panels, glucose, HbA1c, creatinine, etc., and these biomarker values were merged back into the FFCWS participant records for outcome assessment (LE8 components and CKM stage).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "identifier": "10.1001/jamacardio.2025.1062",
-        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Clinical laboratory results from the Laboratory for Clinical Biochemistry Research at the University of Vermont",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The study extracted participant demographic and questionnaire data from the FFCWS database and laboratory biomarker data from the Vermont lab. Both data sets contain a unique study participant identifier assigned at enrollment. After receiving the lab result files the team performed data cleaning, c"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite the median Life’s Essential 8 (LE8) score for US adults aged 20‑39 derived from NHANES (68.7) to contextualize their own cohort’s LE8 distribution, implying that NHANES data were used alongside the FFCWS results for comparative interpretation.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Early Childhood Food Insecurity and Cardiovascular Health in Young Adulthood",
-        "identifier": "10.1001/jamacardio.2025.1062",
-        "url": "https://app.dimensions.ai/details/publication/pub.1188621823"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) 2013‑2018 dataset",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors extracted publicly available NHANES data for cycles 2013‑2018, selected respondents aged 20 to 39, calculated each of the eight Life’s Essential 8 components using the same definitions applied to the FFCWS cohort, applied NHANES survey weights, and derived the median overall LE8 score (6"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors linked longitudinal parent‑reported household food‑insecurity status collected at multiple childhood ages with the focal child’s self‑reported adult outcomes (BMI, overweight/obesity status, and self‑rated health) measured when the child was 22 years old. This required merging the two se",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Childhood Food Insecurity Trajectories and Adult Weight and Self-Reported Health",
-        "identifier": "10.1016/j.amepre.2025.107647",
-        "url": "https://app.dimensions.ai/details/publication/pub.1188402564"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Future of Families and Child Wellbeing Study – child‑report wave (self‑reported weight, height, and health at age 22)",
-        "joinType": "integration",
-        "joinKeys": "[\"child_id\"]",
-        "methodology": "The researchers extracted the parent‑report food‑insecurity records (ages 3,5,9,15) and the child‑report adult outcomes (age 22) from the FFCWS public data files. Each wave includes a unique respondent identifier (child_id). After loading the files, they performed an ETL process: standardizing the i"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors linked longitudinal parent‑reported household food‑insecurity status collected at multiple childhood ages with the focal child’s self‑reported adult outcomes (BMI, overweight/obesity status, and self‑rated health) measured when the child was 22 years old. This required merging the two se",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Childhood Food Insecurity Trajectories and Adult Weight and Self-Reported Health",
-        "identifier": "10.1016/j.amepre.2025.107647",
-        "url": "https://app.dimensions.ai/details/publication/pub.1188402564"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Future of Families and Child Wellbeing Study – parent‑report wave (food‑insecurity questionnaires at ages 3, 5, 9, 15)",
-        "joinType": "integration",
-        "joinKeys": "[\"child_id\"]",
-        "methodology": "The researchers extracted the parent‑report food‑insecurity records (ages 3,5,9,15) and the child‑report adult outcomes (age 22) from the FFCWS public data files. Each wave includes a unique respondent identifier (child_id). After loading the files, they performed an ETL process: standardizing the i"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Neighborhood poverty at age 5 was defined using the U.S. Census definition of a poverty area (≥20% of census tract population below federal poverty level). The authors linked each child's residential address from the Fragile Families cohort to corresponding census‑tract poverty indicators.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "identifier": "10.1016/j.ssmph.2020.100575",
-        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census tract poverty data",
-        "joinType": "integration",
-        "joinKeys": "[\"census_tract_id\",\"child_address\"]",
-        "methodology": "The researchers extracted each child's residential address from the Fragile Families cohort and geocoded it to obtain the corresponding census tract identifier. Census‑tract poverty data from the U.S. Census were then merged with the child records by matching on the census tract ID, which defines wh"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Children’s BMI measurements at ages 5, 9, 15 were converted to z‑scores using CDC growth charts (Kuczmarski et al., 2000). This required merging the observed height/weight data from Fragile Families with the CDC reference percentile tables.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "identifier": "10.1016/j.ssmph.2020.100575",
-        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "CDC growth chart reference tables",
-        "joinType": "fusion",
-        "joinKeys": "[\"age_years\",\"sex\",\"measurement_date\"]",
-        "methodology": "The researchers first extracted the child height and weight measurements from the Fragile Families dataset for each observation at ages 5, 9, and 15. They then obtained the CDC growth chart reference tables (Kuczmarski et al., 2000) which provide age‑specific percentile values for BMI stratified by "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Baseline covariates such as maternal mental‑health history, pre‑pregnancy overweight/obesity status, and smoking during pregnancy were abstracted from mother and child medical records and combined with survey responses collected in the Fragile Families cohort.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Eviction in early childhood and neighborhood poverty, food security, and obesity in later childhood and adolescence: Evidence from a longitudinal birth cohort",
-        "identifier": "10.1016/j.ssmph.2020.100575",
-        "url": "https://app.dimensions.ai/details/publication/pub.1126148180"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Medical records (maternal health, pregnancy outcomes)",
-        "joinType": "merge",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers extracted baseline covariates from maternal and child medical records and merged them with survey responses collected in the Fragile Families cohort. A unique participant identifier assigned by the Fragile Families study was used to link records across datasets. The process involved "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created an analytic sample by linking mothers’ baseline characteristics (e.g., race/ethnicity, nativity, maternal age, etc.) with their responses at Time 1 (Y3, child age 3) and Time 2 (Y5, child age 5). This longitudinal merge allowed them to model exposure to community violence at Y3, ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "identifier": "10.1097/fch.0000000000000399",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "FFCWS – Wave 3 (Y3) and Wave 5 (Y5) phone‑survey data",
-        "joinType": "integration",
-        "joinKeys": "[\"mother_id\",\"child_id\"]",
-        "methodology": "The researchers linked the baseline mother questionnaire with the wave 3 (child age 3) and wave 5 (child age 5) phone surveys by using the unique mother identifier that is constant across all study waves. After extracting the three files, each dataset was sorted by the identifier and a one‑to‑one me"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created an analytic sample by linking mothers’ baseline characteristics (e.g., race/ethnicity, nativity, maternal age, etc.) with their responses at Time 1 (Y3, child age 3) and Time 2 (Y5, child age 5). This longitudinal merge allowed them to model exposure to community violence at Y3, ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "identifier": "10.1097/fch.0000000000000399",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Future of Families and Child Wellbeing Study (FFCWS) – baseline survey data (collected at childbirth)",
-        "joinType": "integration",
-        "joinKeys": "[\"mother_id\",\"child_id\"]",
-        "methodology": "The researchers linked the baseline mother questionnaire with the wave 3 (child age 3) and wave 5 (child age 5) phone surveys by using the unique mother identifier that is constant across all study waves. After extracting the three files, each dataset was sorted by the identifier and a one‑to‑one me"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study incorporated three distinct instruments into the FFCWS questionnaire: (a) the HFSSM to assess household food insecurity, (b) the My Exposure to Violence items to capture community‑violence exposure, and (c) the collective‑efficacy scale (informal social control and social cohesion/trust). ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "identifier": "10.1097/fch.0000000000000399",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "External measurement instruments – USDA 18‑item Household Food Security Survey Module (HFSSM) and My Exposure to Violence questionnaire, and the 1995 Community Survey of the Project on Human Development in Chicago Neighborhoods (collective efficacy items)",
-        "joinType": "fusion",
-        "joinKeys": "[\"mother_id\",\"wave\"]",
-        "methodology": "The researchers extracted the three supplemental instrument datasets and the core FFCWS wave files, aligned them by the unique mother identifier and survey wave (Y3 or Y5), then merged the records to produce a single analytical file. Composite scores for food insecurity, violence exposure and collec"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To address missing data, the authors performed multiple imputation (30 imputations) and re‑ran the SEMs on each imputed dataset, then combined the results. This process effectively joins the original merged longitudinal data with the set of imputed datasets for inference.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Lower Perceived Neighborhood Collective Efficacy Indirectly Influences the Association Between Perceived Maternal Exposure to Community Violence and Household Food Insecurity",
-        "identifier": "10.1097/fch.0000000000000399",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168965162"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Multiple imputation datasets (30 imputed copies)",
-        "joinType": "combination",
-        "joinKeys": "[\"mother_id\",\"wave\"]",
-        "methodology": "The original longitudinal file (baseline, year 3, year 5) was first merged on the unique mother identifier and wave indicator to create a single panel dataset. Missing values were then imputed using multiple imputation with thirty independent draws. Each imputed draw produced a complete copy of the "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
         }
       ]
     }

@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "USDA 18-item Household Food Security Survey Module (HFSSM)",
@@ -14,6 +13,11 @@
     "18-Item Food Security Survey Module",
     "Food Security Survey Module"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Department of Agriculture (USDA)"
+  },
+  "about": "Nutrition / Food Security",
   "review": [
     {
       "@type": "Review",
@@ -36,13 +40,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -65,13 +63,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -94,13 +86,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -123,13 +109,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service."
-      },
-      "about": "Nutrition, Food Policy"
+      ]
     },
     {
       "@type": "Review",
@@ -152,13 +132,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Food and Nutrition Service"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -181,13 +155,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -210,13 +178,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Center for Immigrant Health and Cancer Disparities"
-      },
-      "about": "Public health / oncology"
+      ]
     },
     {
       "@type": "Review",
@@ -239,13 +201,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service, 2012"
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -268,13 +224,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA) – Food and Nutrition Service"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -297,13 +247,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Mentioned in discussion of measurement tools used in other studies."
-      },
-      "about": "Nutrition / Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -326,13 +270,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -355,13 +293,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) 2012"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -384,13 +316,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA documentation cited in the manuscript."
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -413,13 +339,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -442,13 +362,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)."
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -471,13 +385,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "NHANES questionnaire instrument"
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -500,13 +408,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -529,13 +431,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA (Bickel et al., 2000)"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -558,13 +454,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -587,13 +477,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service (Household Food Security Survey Module)"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -616,13 +500,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -645,13 +523,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -674,13 +546,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -703,13 +569,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA/US Department of Agriculture"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -732,13 +592,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – Food Security Survey Module"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -761,13 +615,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public Health, Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -790,13 +638,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -819,13 +661,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -848,13 +684,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -877,13 +707,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -906,13 +730,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Food Security Survey Module"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -935,13 +753,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Economic Research Service."
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -964,13 +776,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture – Economic Research Service"
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -993,13 +799,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1022,13 +822,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Food security / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1051,13 +845,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – Food Security Survey Module."
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1080,13 +868,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food security / Survey instruments"
+      ]
     },
     {
       "@type": "Review",
@@ -1109,13 +891,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited reference 42 in the manuscript."
-      },
-      "about": "Nutrition security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1138,13 +914,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA / Academic publication (Bickel et al., 2000)"
-      },
-      "about": "Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1167,13 +937,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Public Health / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1196,13 +960,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1225,13 +983,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1254,13 +1006,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1283,13 +1029,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Mentioned by the authors as a tool they would share with participants, not used for data analysis."
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1312,13 +1052,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1341,13 +1075,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1370,13 +1098,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -1399,13 +1121,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited technical document; not a dataset per se."
-      },
-      "about": "Nutrition / food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -1428,13 +1144,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture, Economic Research Service"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1457,13 +1167,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Food Security Survey Module (10‑item, 3‑stage)"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1486,13 +1190,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1515,13 +1213,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1544,13 +1236,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1573,13 +1259,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1602,13 +1282,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1631,13 +1305,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1660,13 +1328,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food and Nutrition Service"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1689,13 +1351,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1718,13 +1374,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture."
-      },
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -1747,13 +1397,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service; embedded in the HRS HCNS questionnaire."
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1776,13 +1420,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1805,13 +1443,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service."
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1834,13 +1466,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1863,13 +1489,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Developed by the United States Department of Agriculture; applied in the DIATROFI study."
-      },
-      "about": "Food security / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1892,13 +1512,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1921,13 +1535,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Survey research"
+      ]
     },
     {
       "@type": "Review",
@@ -1950,13 +1558,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – Household Food Security Survey Module, 2012"
-      },
-      "about": "Public health / Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1979,13 +1581,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2008,13 +1604,7 @@
           "name": "use",
           "ratingValue": 6.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Economic Research Service"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2037,13 +1627,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Blumberg et al., 1999"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -2066,13 +1650,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food and Nutrition Service."
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -2095,13 +1673,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2124,13 +1696,7 @@
           "name": "use",
           "ratingValue": 6.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Food Security Measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -2153,13 +1719,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2182,13 +1742,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Food Security Survey Module"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2211,13 +1765,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2240,13 +1788,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (derived from HFSSM)"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -2269,13 +1811,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture, Food and Nutrition Service"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2298,13 +1834,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Referenced in prior studies cited by the authors."
-      },
-      "about": "Public health / Nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -2327,13 +1857,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference 17 (USDA/USDA Food Security Survey Module)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2356,13 +1880,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -2385,13 +1903,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture Economic Research Service"
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2414,13 +1926,7 @@
           "name": "use",
           "ratingValue": 7.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -2443,13 +1949,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)."
-      },
-      "about": "Public health / nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2472,13 +1972,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Nutrition epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2501,13 +1995,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Food Security Survey Module; adaptation by Nutrition and Food Security in Kugaaruk Survey, Nunavut."
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2530,13 +2018,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Parent survey within Project F‑EAT"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -2559,13 +2041,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2588,13 +2064,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition/Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2617,13 +2087,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2646,13 +2110,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Food security measurement / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2675,13 +2133,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -2704,13 +2156,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2733,13 +2179,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Bickel et al., 2000; USDA, 2012"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2762,13 +2202,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2791,13 +2225,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -2820,13 +2248,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited as part of the measurement tools used in the study."
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2849,13 +2271,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2878,13 +2294,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, USDA Food and Nutrition Service"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -2907,13 +2317,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2936,13 +2340,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2965,13 +2363,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -2994,13 +2386,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3023,13 +2409,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3052,13 +2432,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3081,13 +2455,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited reference; not employed by the authors"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3110,13 +2478,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3139,13 +2501,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3168,13 +2524,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3197,13 +2547,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3226,13 +2570,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / food security research"
+      ]
     },
     {
       "@type": "Review",
@@ -3255,13 +2593,7 @@
           "name": "use",
           "ratingValue": 4.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Food Security Survey Module (Coleman‑Jensen et al., 2014)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3284,13 +2616,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service, 2012"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3313,13 +2639,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Economic Research Service, United States Department of Agriculture"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3342,13 +2662,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3371,13 +2685,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3400,13 +2708,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3429,13 +2731,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3458,13 +2754,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3487,13 +2777,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3516,9 +2800,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -3541,13 +2823,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3570,9 +2846,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3595,13 +2869,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food Security Survey"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3624,13 +2892,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Household Food Security Survey Module"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3653,13 +2915,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3682,13 +2938,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA/Research"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3711,13 +2961,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3740,13 +2984,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition, public policy, survey methodology"
+      ]
     },
     {
       "@type": "Review",
@@ -3769,13 +3007,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Household Food Security Survey Module"
-      },
-      "about": "Public health / nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -3798,13 +3030,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3827,13 +3053,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Primary study data collection instrument referenced in the systematic review"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3856,13 +3076,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3885,13 +3099,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3914,13 +3122,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3943,13 +3145,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3972,13 +3168,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) questionnaire"
-      },
-      "about": "Nutrition / Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -4001,13 +3191,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4030,13 +3214,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food Security Survey Module."
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4059,13 +3237,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Economic Research Service, USDA (2012)"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4088,13 +3260,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Public health / Nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -4117,13 +3283,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service (2012 scoring system)"
-      },
-      "about": "Nutrition / Public Health – Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -4146,13 +3306,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -4175,13 +3329,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4204,13 +3352,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Public health / nutrition surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -4233,13 +3375,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4262,13 +3398,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public Health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4291,13 +3421,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4320,13 +3444,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4349,13 +3467,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Food insecurity assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -4378,13 +3490,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4407,13 +3513,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4436,13 +3536,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Social/Health – Food Security Measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -4465,13 +3559,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -4494,13 +3582,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -4523,13 +3605,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -4552,13 +3628,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -4581,13 +3651,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Developed by the U.S. Department of Agriculture/ERS."
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -4610,13 +3674,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Food Security Measurement Project"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -4639,13 +3697,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – Household Food Security Survey Module (HFSSM)."
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4668,13 +3720,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4697,13 +3743,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4726,13 +3766,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -4755,13 +3789,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Administered by the study investigators to the sample of 103 caregivers (primary data collection)."
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4784,13 +3812,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -4813,13 +3835,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Public Policy"
+      ]
     },
     {
       "@type": "Review",
@@ -4842,13 +3858,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA) Economic Research Service"
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4871,13 +3881,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -4900,13 +3904,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4929,13 +3927,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4958,13 +3950,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA) – Household Food Security Survey Module"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4987,13 +3973,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5016,13 +3996,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5045,13 +4019,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food and Nutrition Service"
-      },
-      "about": "Nutrition / public health surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -5074,13 +4042,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Food Security / Survey Instrument"
+      ]
     },
     {
       "@type": "Review",
@@ -5103,13 +4065,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5132,9 +4088,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5157,13 +4111,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (implied)"
-      },
-      "about": "Public health / nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5186,13 +4134,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food security / Survey instrument"
+      ]
     },
     {
       "@type": "Review",
@@ -5215,13 +4157,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)."
-      },
-      "about": "Nutrition/Social determinants of health"
+      ]
     },
     {
       "@type": "Review",
@@ -5244,13 +4180,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – administered as part of the NHANES interview."
-      },
-      "about": "Nutrition / Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -5273,13 +4203,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Social/Health – Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -5302,13 +4226,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5331,13 +4249,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5360,13 +4272,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -5389,13 +4295,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA) Food Security Survey Module"
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5418,13 +4318,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5447,13 +4341,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA) Economic Research Service"
-      },
-      "about": "Nutrition / Food security research"
+      ]
     },
     {
       "@type": "Review",
@@ -5476,13 +4364,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA 2012"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5505,13 +4387,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5534,13 +4410,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5563,13 +4433,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Embedded within the NHIS questionnaire; not a separate external dataset."
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5592,13 +4456,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA) Food and Nutrition Service; embedded within NHANES questionnaires."
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5621,13 +4479,7 @@
           "name": "use",
           "ratingValue": 8.1
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – Economic Research Service"
-      },
-      "about": "Nutrition / food security research"
+      ]
     },
     {
       "@type": "Review",
@@ -5650,13 +4502,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -5679,13 +4525,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5708,13 +4548,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service (often referred to as HFSSM)."
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5737,13 +4571,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5766,13 +4594,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5795,13 +4617,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food Security Survey Module."
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5824,13 +4640,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5853,13 +4663,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Food and Nutrition Service (FNS)"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5882,13 +4686,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5911,13 +4709,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security, nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5940,13 +4732,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food Security Survey Module"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5969,13 +4755,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – published questionnaire."
-      },
-      "about": "Nutrition / food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -5998,13 +4778,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation (31) in the paper; USDA Economic Research Service instrument."
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -6027,13 +4801,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -6056,13 +4824,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) 2012."
-      },
-      "about": "Nutrition, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -6085,13 +4847,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) / USDA Economic Research Service"
-      },
-      "about": "Social determinants of health"
+      ]
     },
     {
       "@type": "Review",
@@ -6114,13 +4870,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service."
-      },
-      "about": "Nutrition, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -6143,13 +4893,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -6172,13 +4916,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -6201,13 +4939,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -6230,13 +4962,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -6259,13 +4985,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA (United States Department of Agriculture)."
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -6288,13 +5008,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -6317,13 +5031,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA), 2012 version of the Adult Food Security Survey Module."
-      },
-      "about": "Nutrition / Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -6346,13 +5054,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Food Security Survey Module"
-      },
-      "about": "Public health / Nutrition / Social determinants of health"
+      ]
     },
     {
       "@type": "Review",
@@ -6375,13 +5077,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – Guide to Measuring Household Food Security; referenced as (26,27) in the paper."
-      },
-      "about": "Public health / Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -6404,13 +5100,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food Security Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -6433,13 +5123,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / Food Security Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -6462,13 +5146,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Administered directly to study participants; data stored in REDCap."
-      },
-      "about": "Public health / Nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -6490,1260 +5168,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 9.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition/Public Health"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors applied the USDA six‑item short‑form food‑security questionnaire—originally developed by USDA—to the SIPP interview data in order to create a binary food‑hardship outcome for each household.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Economic well-being for households with children with disabilities: evidence from the SIPP",
-        "identifier": "10.1007/s10826-024-02948-2",
-        "url": "https://app.dimensions.ai/details/publication/pub.1183170417"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Survey of Income and Program Participation (SIPP) 2018‑2020 panels",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"person_id\",\"wave\"]",
-        "methodology": "The researchers extracted the 2018 to 2020 SIPP panels, selected households with at least one child, identified the USDA six item food security questions that are included in the SIPP interview, recoded response categories to affirmative or negative according to USDA scoring, created a binary food h"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The three separate FI assessments were combined to compute a single ‘frequency of reported FI’ variable (count of time periods with FI).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Prolonged Early Food Insecurity and Child Feeding Practices among a Low-Income Hispanic Population: Role of Parenting Stress",
-        "identifier": "10.1016/j.acap.2024.06.013",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173265232"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA HFSSM data (infancy wave, 10‑month)",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The three USDA food security assessments (pregnancy, 10 month infant, 19 month toddler) were merged by first extracting each wave from the trial database. Each record was cleaned, converted to a binary food insecure flag and linked by the unique participant identifier. A key based join on participan"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The three separate FI assessments were combined to compute a single ‘frequency of reported FI’ variable (count of time periods with FI).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Prolonged Early Food Insecurity and Child Feeding Practices among a Low-Income Hispanic Population: Role of Parenting Stress",
-        "identifier": "10.1016/j.acap.2024.06.013",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173265232"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA HFSSM data (pregnancy wave)",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The three USDA food security assessments (pregnancy, 10 month infant, 19 month toddler) were merged by first extracting each wave from the trial database. Each record was cleaned, converted to a binary food insecure flag and linked by the unique participant identifier. A key based join on participan"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household food insecurity was assessed using the USDA‑validated 10‑item Adult Food Security Survey Module. The module’s scoring algorithm (from USDA) was applied to the participants’ responses to create a binary food‑security variable used in the analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community Investments and Diet-Related Outcomes: A Longitudinal Study of Residents of Two Urban Neighborhoods",
-        "identifier": "10.1016/j.amepre.2023.11.005",
-        "url": "https://app.dimensions.ai/details/publication/pub.1165945997"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "PHRESH household survey data (food‑security module responses)",
-        "joinType": "merge",
-        "joinKeys": "[\"household_id\",\"wave\"]",
-        "methodology": "The researchers combined the PHRESH household survey data with the USDA Food Security Survey Module by performing a deterministic key based merge. Household records were linked using the unique household identifier assigned during the PHRESH enrollment and the survey wave timestamp to ensure that th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food security status was measured using the USDA’s 10‑item Adult Food Security Survey Module, which was incorporated into the PHRESH household survey to classify households as high, marginal, low, or very low food security.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Can the introduction of a full-service supermarket in a food desert improve residents' economic status and health?",
-        "identifier": "10.1016/j.annepidem.2017.10.011",
-        "url": "https://app.dimensions.ai/details/publication/pub.1093089922"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "PHRESH study survey dataset",
-        "joinType": "fusion",
-        "joinKeys": "[\"household_id\",\"survey_date\"]",
-        "methodology": "The USDA 10‑item Adult Food Security Survey Module was embedded directly into the PHRESH household questionnaire, so each respondent’s record already contained both the PHRESH survey data and the food security responses. The integration therefore consisted of a straightforward key‑based merge using "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food insecurity status was measured using the USDA’s validated six‑item Food Security Survey Module, coding responses into a binary variable for analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Associations between cooking self-efficacy, attitude, and behaviors among people living alone: A cross-sectional survey analysis",
-        "identifier": "10.1016/j.appet.2023.106999",
-        "url": "https://app.dimensions.ai/details/publication/pub.1163123270"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Primary cross‑sectional survey data",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The food‑security module was added to the primary cross‑sectional survey by merging the two questionnaire sections on the unique respondent identifier generated by Qualtrics. After exporting the raw Qualtrics data to CSV, the files were imported into Stata 14.0. The merge command was used to perform"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Both instruments were administered to the same parent‑child dyads; the researchers combined the food‑security scores with the FV intake scores to assess how changes in security status related to changes in fruit and vegetable consumption.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Pediatric Produce Prescription Program grounded in community connection improves food security and fruit intake in Hawaiʻi.",
-        "identifier": "10.1016/j.focus.2025.100365",
-        "url": "https://app.dimensions.ai/details/publication/pub.1188531655"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Cancer Institute (NCI) Dietary Screener Questionnaire Responses",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\",\"survey_date\"]",
-        "methodology": "The research team extracted the USDA 6‑Item Food Security responses and the NCI Dietary Screener Questionnaire responses from the REDCap database. Each record was assigned a unique participant identifier at enrollment. The two data files were loaded into a pandas dataframe, cleaned, and then merged "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Both the full USDA‑FSS and the abbreviated two‑item screen were administered to each participant; the two‑item responses were extracted from the USDA questionnaires and used together for comparative analysis (sensitivity, specificity, PPV/NPV).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population",
-        "identifier": "10.1016/j.jadohealth.2015.08.013",
-        "url": "https://app.dimensions.ai/details/publication/pub.1039813511"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Two‑item food insecurity screen (Hager et al.)",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers administered all three versions of the USDA Food Security Survey Module (18‑item Household, 10‑item Adult, 9‑item Youth) to each participant and extracted the two items used in the Hager et al. two‑item screen from those questionnaires. The extraction was performed after data cleanin"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The Online Advocate system incorporated questions drawn from several national surveys to assess health‑related social domains (e.g., CRAFFT from Youth Risk Behavior Survey, housing items from American Housing Survey). These disparate questionnaire data were merged into a single participant record fo",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population",
-        "identifier": "10.1016/j.jadohealth.2015.08.013",
-        "url": "https://app.dimensions.ai/details/publication/pub.1039813511"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Validated social‑problem questionnaires from national surveys (Youth Risk Behavior Survey, Growing Up Today Study, Adolescent Longitudinal Study of Health)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\",\"survey_timestamp\"]",
-        "methodology": "The study combined questionnaire data from the USDA Food Security Survey Module and validated social‑problem items drawn from national surveys (Youth Risk Behavior Survey, Growing Up Today Study, Adolescent Longitudinal Study of Health) into a single participant record using an electronic web‑based "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household food insecurity measures were derived using the USDA 18‑item Food Security Survey Module, which was administered to caregivers within the SOL Youth study and then merged with other child‑level variables (e.g., BMI, depression).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity Among Hispanic/Latino Youth: Who Is at Risk and What Are the Health Correlates?",
-        "identifier": "10.1016/j.jadohealth.2018.10.302",
-        "url": "https://app.dimensions.ai/details/publication/pub.1111764285"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SOL Youth participant questionnaire data",
-        "joinType": "fusion",
-        "joinKeys": "[\"household_id\",\"participant_id\"]",
-        "methodology": "The household food insecurity measures were obtained by administering the USDA 18‑item Food Security Survey Module to caregivers within the SOL Youth study. These caregiver responses were linked to each child’s record using the unique household identifier that appears in both the caregiver questionn"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The systematic review notes that some studies analyzed data from the Early Childhood Longitudinal Study cohort, applying a USDA food‑security questionnaire to assess household food insecurity and then relating those results to later BMI z‑scores and obesity outcomes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Pediatric Malnutrition Related to Under- and Overweight in the United States: An Evidence Analysis Center Systematic Review",
-        "identifier": "10.1016/j.jand.2020.03.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127502875"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Early Childhood Longitudinal Study – Kindergarten (ECLS‑K)",
-        "joinType": "fusion",
-        "joinKeys": "[\"household_id\",\"child_id\",\"survey_wave_timestamp\"]",
-        "methodology": "The researchers extracted the Early Childhood Longitudinal Study‑Kindergarten (ECLS‑K) cohort data and separately obtained responses to the USDA Food Security Survey Module (either the 6‑item or 2‑item version). Both datasets contain a household identifier that links each child to his/her family uni"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "One study cited in the review used data from the Panel Study of Income Dynamics Child Development Supplement, applying a USDA 6‑item food security questionnaire to evaluate household food insecurity and linking those responses with child weight status (overweight/obesity).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Pediatric Malnutrition Related to Under- and Overweight in the United States: An Evidence Analysis Center Systematic Review",
-        "identifier": "10.1016/j.jand.2020.03.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127502875"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Panel Study of Income Dynamics – Child Development Supplement (PSID‑CDS)",
-        "joinType": "combination",
-        "joinKeys": "[\"household_id\",\"child_id\",\"wave_year\"]",
-        "methodology": "The investigators merged the Panel Study of Income Dynamics Child Development Supplement (PSID‑CDS) records with responses to the USDA 6‑item Food Security Survey Module that were administered within the same PSID wave. The merge was performed by matching household identifiers and child identifiers "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Child‑level food‑security status was derived by applying the USDA child‑specific food‑security questionnaire (a separate module) to NHANES respondents, combining the demographic/clinical data with food‑security responses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "An Increase in SNAP Benefits Did Not Impact Food Security or Diet Quality in Youth",
-        "identifier": "10.1016/j.jand.2020.09.030",
-        "url": "https://app.dimensions.ai/details/publication/pub.1132456558"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) 2007‑2008 to 2011‑2012 waves",
-        "joinType": "combination",
-        "joinKeys": "[\"SEQN\"]",
-        "methodology": "The researchers extracted the NHANES core data set and the USDA child food security module, then merged them on the unique participant identifier. Records were filtered for children age 2 to 18 and household income ratio 130 to 250 percent of the poverty line. Food security categories were created f"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study administered the standard 18‑item HFSSM together with the 3‑item instability supplement (HFSSM‑IS) to each participant and scored both instruments jointly to derive the four food‑security‑instability (FS‑I) types. The two instruments were merged at the participant‑level to create a combine",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring Sociodemographic and Chronic Disease Factors Associated With Chronic, Seasonal, Intramonthly, and Intermittent Presentations of Food Security Instability",
-        "identifier": "10.1016/j.jand.2023.12.002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1166828079"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Food Security Survey Module (HFSSM) core questionnaire",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The two survey instruments (the 18‑item HFSSM core and the 3‑item HFSSM‑IS) were collected from the same respondents in a single data collection wave. After the raw survey files were extracted, each record was assigned a unique participant identifier generated during data capture. The datasets were "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Six items from the USDA Food Security Survey Module were embedded in the CFHS questionnaire to classify households as Very Low Food Security (VLFS) or non‑VLFS. The coded food‑security status was then joined to the rest of the CFHS dataset for subgroup analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "COVID-19 Benefits and Dietary Behaviors Among Mothers From Low-Income, Food-Insecure Households",
-        "identifier": "10.1016/j.jneb.2022.10.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155104719"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "CFHS questionnaire data",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The six USDA food security items were collected as part of the CFHS questionnaire. Responses were coded into a VLFS indicator. The indicator was then merged with the remaining CFHS records using the unique respondent identifier that links all questionnaire modules. The merge was performed in SPSS us"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite CPS‑FSS as the source of the HFSSM and reference national prevalence estimates to contextualize their findings, implying that they juxtaposed their SEARCH‑derived prevalence with CPS‑FSS benchmarks.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Properties of the Household Food Security Survey Module Scale in Young Adults with Diabetes",
-        "identifier": "10.1016/j.tjnut.2024.01.028",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168489589"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS) data (external reference)",
-        "joinType": "comparison/secondary integration",
-        "joinKeys": "[\"year\",\"age_group\",\"diabetes_type\"]",
-        "methodology": "The authors performed a secondary integration by comparing prevalence estimates from the national Current Population Survey Food Security Supplement (CPS FSS) with the prevalence derived from the SEARCH cohort. No individual level identifiers were shared, so the join was conducted at the aggregate l"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Responses from the demographic questionnaire were combined with the food‑security module scores to classify each household as food secure, low food secure, or very low food secure, which were later used as a covariate in ANCOVA models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nutritional contributions of food pantries and other sources to the diets of rural, Midwestern food pantry users in the USA",
-        "identifier": "10.1017/s0007114520003372",
-        "url": "https://app.dimensions.ai/details/publication/pub.1130512390"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Participant questionnaire data (demographics, pantry visitation, food‑assistance program participation)",
-        "joinType": "merge",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The demographic questionnaire data and the 18‑item food‑security module were merged at the participant level. A unique participant identifier assigned during data collection served as the primary key. After extracting both datasets, records were filtered to retain only participants with complete que"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑security status at 3 months postpartum was derived by applying the USDA 10‑item Food Security Survey Module to the Nurture participants during the 3‑month home visit.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security and diet quality in a racially diverse cohort of postpartum women in the USA",
-        "identifier": "10.1017/s0007114522001143",
-        "url": "https://app.dimensions.ai/details/publication/pub.1147627419"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Nurture longitudinal birth‑cohort study (primary participant data)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The food security module was administered to each Nurture participant during the 3 month home visit. Responses were recorded in a separate questionnaire file. The questionnaire records were linked to the main participant dataset by matching the unique participant identifier that was collected at enr"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Participant survey responses were linked to their EMR data to obtain insurance type, ZIP‑code location, and obesity‑related comorbidities for analysis of demographic and clinical correlates of food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity in a pre-bariatric surgery sample: prevalence, demographics and food shopping behaviour",
-        "identifier": "10.1017/s1368980019001320",
-        "url": "https://app.dimensions.ai/details/publication/pub.1117290764"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Electronic Medical Records (patient insurance information, zip code of residence, clinical comorbidities)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\",\"medical_record_number\"]",
-        "methodology": "Survey participants were identified by a unique study ID that was also recorded in the electronic medical record (EMR) system. The researchers extracted the survey data (USDA food security responses and additional questionnaire items) from the study database and exported the relevant EMR fields (ins"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "ZIP‑code data were merged with participant survey responses to classify participants as urban vs rural, city centre vs suburban, and to assign median income categories for testing demographic correlates of food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity in a pre-bariatric surgery sample: prevalence, demographics and food shopping behaviour",
-        "identifier": "10.1017/s1368980019001320",
-        "url": "https://app.dimensions.ai/details/publication/pub.1117290764"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "ZIP‑code demographic databases (Center for Rural Pennsylvania urban/rural classification & IRS Individual Income Tax Statistics median income)",
-        "joinType": "fusion",
-        "joinKeys": "[\"zip_code\"]",
-        "methodology": "The researchers performed an exact key‑based merge of participant survey records with external ZIP‑code demographic datasets. First, participant ZIP codes were extracted from electronic medical records and used as the primary identifier. The ZIP‑code data from the Center for Rural Pennsylvania (urba"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Demographic variables from the WALI instrument were combined with food‑security scores to conduct χ² analyses of demographic correlates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity in a pre-bariatric surgery sample: prevalence, demographics and food shopping behaviour",
-        "identifier": "10.1017/s1368980019001320",
-        "url": "https://app.dimensions.ai/details/publication/pub.1117290764"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Weight and Lifestyle Inventory (WALI) questionnaire (self‑reported age, gender, race/ethnicity, education)",
-        "joinType": "combination",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers linked each participant's self‑reported demographic data from the Weight and Lifestyle Inventory (WALI) with their USDA adult food security survey scores by matching on a unique participant identifier assigned during study enrollment. After extracting both datasets, they performed an"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Clinical comorbidity information extracted from electronic medical charts was linked to participants’ food‑security status for analysis of clinical correlates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity in a pre-bariatric surgery sample: prevalence, demographics and food shopping behaviour",
-        "identifier": "10.1017/s1368980019001320",
-        "url": "https://app.dimensions.ai/details/publication/pub.1117290764"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Medical chart data (obesity‑related comorbidities: type 2 diabetes, hypertension/heart disease, sleep apnoea)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\",\"patient_record_number\"]",
-        "methodology": "The researchers extracted clinical comorbidity information (type 2 diabetes, hypertension/heart disease, sleep apnoea) from electronic medical charts for each bariatric surgery candidate. Participants completed the USDA ten‑item adult food security survey during their pre‑surgical intake. A unique p"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food insecurity status was assessed using the USDA six‑item module and merged with participants’ HCNS dietary intake records for profile comparisons.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Latent profile analysis of dietary intake in a community-dwelling sample of older Americans",
-        "identifier": "10.1017/s1368980019001496",
-        "url": "https://app.dimensions.ai/details/publication/pub.1117637384"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "HCNS dietary questionnaire data",
-        "joinType": "merge",
-        "joinKeys": "[\"HRS respondent ID\",\"HCNS respondent ID\"]",
-        "methodology": "The researchers merged the USDA six‑item food security module responses with participants’ HCNS dietary intake records by linking each respondent’s unique identifier from the Health and Retirement Study (HRS) to the corresponding record in the Health Care and Nutrition Study (HCNS). After extracting"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The researchers adapted the USDA 10‑item food‑security index (30‑day reference period) to compute food‑security scores for each respondent, merging the respondents’ answers with the USDA scoring algorithm and classification thresholds.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Obstacles to food security, food pantry use, and educational success among university students: a mixed methods approach",
-        "identifier": "10.1080/07448481.2021.1873789",
-        "url": "https://app.dimensions.ai/details/publication/pub.1135343943"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Student survey responses (food‑security items)",
-        "joinType": "fusion",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The researchers first extracted the raw survey file containing each student’s responses to the ten USDA food‑security items. Each item was recoded to a binary indicator (1 = affirmative, 0 = negative). The binary indicators were summed for every respondent to obtain a raw food‑security score. The sc"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The AFSSM employed in the study is described as a 10‑item subset of the broader HFSSM, and the scoring thresholds (0‑2 food secure, 3‑10 food insecure) follow the USDA’s HFSSM guidelines.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Prevalence of Food Insecurity in a Community College District: Relationship Between Food Security and Grade Point Average",
-        "identifier": "10.1080/10668926.2022.2114035",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150360381"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Household Food Security Survey Module (HFSSM) reference instrument",
-        "joinType": "sub‑dataset integration",
-        "joinKeys": "[\"item_id\"]",
-        "methodology": "The Adult Food Security Survey Module (AFSSM) was treated as a sub‑set of the full Household Food Security Survey Module (HFSSM). The integration was performed by aligning the 10 AFSSM items with their corresponding entries in the HFSSM reference instrument. A key‑based join was used where each ques"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Community‑level food insecurity rates were matched to each participant’s zip code using the USDA six‑item short form.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Mental health and well-being for aging adults during the COVID-19 pandemic",
-        "identifier": "10.1080/13607863.2021.1963950",
-        "url": "https://app.dimensions.ai/details/publication/pub.1140379801"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Participant anonymous survey (Qualtrics)",
-        "joinType": "integration",
-        "joinKeys": "[\"zip_code\"]",
-        "methodology": "The researchers extracted community‑level food insecurity rates from the U.S. Household Food Security Survey Module (USDA six‑item short form) at the zip‑code level. Each participant’s survey record contained a self‑reported zip code collected via Qualtrics. The zip code served as the common identif"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study’s questionnaire was built on the USDA Household Food Security Module, and responses from the 32 MSHS parent participants were merged with the module’s standard items to assess food insecurity levels.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hunger in the fields: Food insecurity and food access among farmworker families in Migrant and Seasonal Head Start",
-        "identifier": "10.1080/15348431.2018.1500291",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106101423"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Primary survey of Migrant and Seasonal Head Start (MSHS) Policy Council parents",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers built a custom questionnaire that incorporated the USDA Household Food Security Module items and added additional questions specific to migrant farmworker families. Responses from the 32 Migrant and Seasonal Head Start (MSHS) parent participants were collected via paper/online survey"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "For each of the 144 parent‑adolescent dyads, the researchers paired the nine CFSSM items completed by the adolescent with the nine corresponding HFSSM items completed by the parent. The combined dyadic dataset was then used for cross‑tabulations, Cohen’s κ, and chi‑square tests to assess agreement a",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Multi-Informant Assessment of Food Security in Adolescents: Discordance in Self-Report and Parent-Proxy Report",
-        "identifier": "10.1080/19320248.2022.2117002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150752371"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Parent‑proxy Household Food Security Survey Module (HFSSM) responses",
-        "joinType": "integration",
-        "joinKeys": "[\"dyad_id\"]",
-        "methodology": "The researchers first extracted the adolescent responses from the CFSSM file and the parent responses from the HFSSM file. Each record contained a unique dyad identifier that linked the adolescent to the corresponding parent. After verifying that the identifier was present and consistent in both fil"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare the prevalence of food insecurity observed in their own survey (41 % Wave 1, 26 % Wave 2) with the national prevalence reported by the USDA’s Household Food Security Survey (≈10.5 % in 2019‑2020). This requires merging the study’s dataset with the external national dataset for co",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Health Behaviors Among a Sample of Undergraduate Students at an Urban University",
-        "identifier": "10.1080/19320248.2022.2119119",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150752374"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NYU Undergraduate Pilot Survey (food‑security, sociodemographic, health‑behavior responses)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The pilot survey data were combined with the USDA national food security statistics for contextual benchmarking. Because there was no participant level identifier common to both sources, the national data were first aggregated to a single prevalence figure (approximately 10.5 percent for 2019‑2020)."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The survey incorporated the USDA Short Form Food Security Survey Module questions (the same instrument used in CPS‑FSS) alongside custom demographic and priority‑ranking items, effectively fusing a standardized national questionnaire with a locally‑designed questionnaire.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Every Poke Nourished: Assessing University of Wyoming Students’ Experiences with and Priorities for Addressing Food Insecurity",
-        "identifier": "10.1080/19320248.2024.2343309",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170770473"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "University of Wyoming student survey (2020)",
-        "joinType": "fusion",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The researchers combined the University of Wyoming student survey data with the USDA Short Form Food Security Survey Module by first extracting the raw survey responses from the Microsoft Forms export and the USDA module items from the same file. After loading both tables into a pandas DataFrame, th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare the 43 % prevalence found among nursing students to the national U.S. household food‑security rate of 10.2 % reported by USDA, using the external USDA dataset as a benchmark.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Prevalence of Low or Very Low Food Security in Undergraduate Nursing Students",
-        "identifier": "10.1097/01.nep.0000000000001257",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170575893"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "US Department of Agriculture (USDA) national food‑security statistics (2021)",
-        "joinType": "comparison",
-        "joinKeys": "[]",
-        "methodology": "The study prevalence was derived from the survey responses using the USDA six item short form. The national benchmark was taken from the USDA Economic Research Service 2021 report. Because both values are aggregate prevalence rates, the integration was performed at the summary level without record l"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑security status is derived from the 18‑item USDA Household Food Security Survey Module that is collected as part of the PSID. The authors integrate the PSID wealth and income variables with the USDA food‑security responses to create the dependent variable.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Net worth poverty and food insecurity",
-        "identifier": "10.1111/ajae.12537",
-        "url": "https://app.dimensions.ai/details/publication/pub.1186487065"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Panel Study of Income Dynamics (PSID) – Household Data",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"person_id\",\"wave_year\"]",
-        "methodology": "The authors combined the family level PSID file with the individual level PSID file for the years 2015 2017 2019 and 2021. They used the household identifier and the reference person identifier to align each household record with the corresponding demographic information for the primary respondent. "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food insecurity exposure variables were derived from parental responses to the validated USDA HFSSM administered within each wave of the ECLS‑K survey.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Timing of household food insecurity exposures and asthma in a cohort of US school-aged children",
-        "identifier": "10.1136/bmjopen-2018-021683",
-        "url": "https://app.dimensions.ai/details/publication/pub.1110338148"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Early Childhood Longitudinal Study‑Kindergarten (ECLS‑K) cohort data",
-        "joinType": "integration",
-        "joinKeys": "[\"child_id\",\"wave_year\"]",
-        "methodology": "The integration was performed by linking the ECLS‑K longitudinal cohort records with the USDA HFSSM responses collected within each survey wave. A deterministic key‑based join was used, matching on the unique child identifier (child_id) and the survey wave timestamp (wave_year). The HFSSM items were"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Longitudinal pre‑post analysis merged each participant’s baseline and post‑intervention food‑security scores to assess change over the 6‑month produce‑prescription program.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of a Pediatric Produce Prescription Intervention on Food Security and Perceived Nutrition-Related Behaviors: A Mixed-Methods Study",
-        "identifier": "10.1177/21501319241276780",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182012113"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Follow‑up (post‑intervention) HFSSM survey data",
-        "joinType": "merge",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "Baseline and follow‑up HFSSM surveys were exported from REDCap, each record containing a unique participant identifier assigned at enrollment. Records were first cleaned to remove incomplete or duplicate entries, and the food‑security scores were normalized to the 0‑18 scale used by the USDA module."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Longitudinal pre‑post analysis merged each participant’s baseline and post‑intervention food‑security scores to assess change over the 6‑month produce‑prescription program.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of a Pediatric Produce Prescription Intervention on Food Security and Perceived Nutrition-Related Behaviors: A Mixed-Methods Study",
-        "identifier": "10.1177/21501319241276780",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182012113"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Baseline (pre‑intervention) HFSSM survey data",
-        "joinType": "merge",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "Baseline and follow‑up HFSSM surveys were exported from REDCap, each record containing a unique participant identifier assigned at enrollment. Records were first cleaned to remove incomplete or duplicate entries, and the food‑security scores were normalized to the 0‑18 scale used by the USDA module."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "A convergent mixed‑methods design combined quantitative changes in food‑security scores with thematic analysis of post‑intervention interviews to contextualize the observed improvements.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of a Pediatric Produce Prescription Intervention on Food Security and Perceived Nutrition-Related Behaviors: A Mixed-Methods Study",
-        "identifier": "10.1177/21501319241276780",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182012113"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Qualitative interview dataset (transcripts coded in Dedoose)",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\",\"survey_id\",\"interview_id\",\"timestamp\"]",
-        "methodology": "The quantitative HFSSM survey data were exported from REDCap as a CSV file and the qualitative interview data were exported from Dedoose with participant identifiers. An ETL pipeline extracted both files, transformed identifier fields to a common format (numeric participant_id), removed leading zero"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.6
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The discussion references NHANES findings on the relationship between food insecurity and diet quality to compare the magnitude of the program’s effect with national trends.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of a Pediatric Produce Prescription Intervention on Food Security and Perceived Nutrition-Related Behaviors: A Mixed-Methods Study",
-        "identifier": "10.1177/21501319241276780",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182012113"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) food‑security and diet‑quality data (cited for contextual comparison)",
-        "joinType": "combination",
-        "joinKeys": "[\"year\",\"age_category\",\"race_ethnicity\",\"household_size\"]",
-        "methodology": "The researchers extracted the HFSSM food security scores from the study dataset and the NHANES food security and diet quality variables from the public NHANES files. Both sources were loaded into a Python pandas environment. Variables were harmonized by mapping year age group race ethnicity and hous"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study combined NHANES interview, examination, and laboratory data with responses to the USDA‑developed Household Food Security Survey Module, which is administered as part of the NHANES questionnaire, to classify participants into full, marginal, low, and very low food‑security categories.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Trends and disparities in prevalence of cardiometabolic diseases by food security status in the United States",
-        "identifier": "10.1186/s12937-023-00910-4",
-        "url": "https://app.dimensions.ai/details/publication/pub.1167582317"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) core data",
-        "joinType": "integration",
-        "joinKeys": "[\"SEQN\"]",
-        "methodology": "The investigators used the NHANES participant identifier (SEQN) to merge the core interview, examination and laboratory files with the USDA Household Food Security Survey Module responses. The merge was performed as an exact key based join after extracting the relevant cycles, subsetting to particip"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The USDA food security module is incorporated into the survey to calculate household food security status, effectively combining external USDA questionnaire data with the respondents' answers.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity, fruit and vegetable consumption, and use of the Supplemental Nutrition Assistance Program (SNAP) in Appalachian Ohio",
-        "identifier": "10.1371/journal.pone.0295171",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168658937"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Consumer household survey data",
-        "joinType": "fusion",
-        "joinKeys": "[\"respondent_id\",\"household_id\"]",
-        "methodology": "The USDA 18‑item Household Food Security Survey Module was administered as part of the consumer household survey. Responses to the external USDA questionnaire were merged with the core survey records for each household using a respondent identifier that uniquely links the questionnaire data to the h"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑security scores were calculated using the USDA‑validated ten‑item Adult Food Security Survey Module, while SNAP participation was captured via a separate self‑report question. Analyses examined food‑security outcomes *among* continuous SNAP participants, effectively fusing the two data elements",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "SNAP Participants Improved Food Security And Diet After A Full-Service Supermarket Opened In An Urban Food Desert",
-        "identifier": "10.1377/hlthaff.2019.01309",
-        "url": "https://app.dimensions.ai/details/publication/pub.1129846784"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Self‑reported SNAP participation data (survey question on SNAP receipt)",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The join was performed by merging the two survey datasets on the unique participant identifier that was assigned to each respondent during data collection. After extracting the raw files the data were cleaned, duplicate records removed, and variables recoded. The SNAP participation variable and the "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The food security outcome (VLFS‑C) was measured using the USDA’s 18‑item module, which is noted as an “annual supplement to the Current Population Survey”, indicating that the SEBTC survey incorporated this CPS‑based instrument.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Summer Nutrition Benefit Pilot Program and Low-income Children’s Food Security",
-        "identifier": "10.1542/peds.2017-1657",
-        "url": "https://app.dimensions.ai/details/publication/pub.1101829320"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) supplemental data",
-        "joinType": "combination",
-        "joinKeys": "[\"household_id\",\"interview_timestamp\"]",
-        "methodology": "The evaluation combined the USDA 18‑item Household Food Security Survey Module (the annual CPS supplement) with the SEBTC household survey data collected via computer‑assisted telephone interviews. A key‑based merge was performed using the unique CPS household identifier and interview timestamp to a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Responses from the USDA food‑security module and the PSS were merged at the participant level so that each individual had a food‑security status (secure vs insecure) and a stress score. These combined variables were used in logistic‑ and linear‑regression models to examine how food insecurity and pe",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring Food Insecurity and Perceived Stress on Daytime Sleepiness among Older Adults in New York City",
-        "identifier": "10.3390/foods13172831",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175563939"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Perceived Stress Scale (PSS‑10)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The two survey datasets were combined at the participant level after extracting the raw responses. Each record was assigned a unique participant identifier generated from the Qualtrics respondent ID. The identifier was used as the primary key to join the food security responses with the perceived st"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑security status (low/very low vs high/marginal) was linked with participants’ daytime sleepiness totals derived from the seven ESS items. The combined dataset enabled two‑way factorial ANCOVA and regression analyses assessing the effect of food insecurity on sleepiness.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring Food Insecurity and Perceived Stress on Daytime Sleepiness among Older Adults in New York City",
-        "identifier": "10.3390/foods13172831",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175563939"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Epworth Sleepiness Scale (ESS‑7 items)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\",\"survey_timestamp\"]",
-        "methodology": "The study collected both the food security responses and the Epworth Sleepiness Scale responses from each participant in a single online Qualtrics survey. After exporting the data to CSV files, the two datasets were merged on a unique participant identifier that was generated at the start of the sur"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The Family Map’s food insecurity module incorporates two items taken directly from the USDA six‑item short form, merging the external survey instrument into the internal Head Start interview tool.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Maternal Depression: Relationship to Food Insecurity and Preschooler Fruit/Vegetable Consumption",
-        "identifier": "10.3390/ijerph17010123",
-        "url": "https://app.dimensions.ai/details/publication/pub.1123654675"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Family Map Inventory",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers merged the Family Map Inventory data with the USDA six‑item food security module by embedding the two USDA items directly into the Family Map interview questionnaire. During data extraction, each household record from the Family Map was assigned a unique participant identifier. The f"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The raw responses from the USDA food‑security module were combined with the parent questionnaire responses to create a dichotomous food‑security variable (food‑secure vs. food‑insecure) that was then used in all subsequent analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Barriers to Preparing and Cooking Vegetables Are Associated with Decreased Home Availability of Vegetables in Low-Income Households",
-        "identifier": "10.3390/nu12061823",
-        "url": "https://app.dimensions.ai/details/publication/pub.1128617889"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "TX Sprouts parent questionnaire data (food‑security items, vegetable‑availability items, barriers items)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers merged the parent questionnaire data with the USDA food security module responses by using the unique participant identifier that was collected on each paper form. After extracting the two files, the data were read into a dataframe, cleaned, and then an inner join was performed on th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The six‑item HFSSM, a standardized instrument from USDA, was embedded in the survey and later used to calculate food‑security status (high, low, very low) for each respondent.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Effects of COVID-19 on University Student Food Security",
-        "identifier": "10.3390/nu13061932",
-        "url": "https://app.dimensions.ai/details/publication/pub.1138676969"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Survey responses (including HFSSM food‑security items)",
-        "joinType": "fusion",
-        "joinKeys": "[\"respondent_id\",\"food_security_score\"]",
-        "methodology": "The survey responses were extracted from the online questionnaire and the USDA reference data were loaded from the public CSV file. An ETL pipeline was built in a script. First the raw files were read and missing values were identified and rows with incomplete food security items were removed. The s"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study combined NHANES participants' lung function measurements (spirometry) with their household food insecurity status derived from the USDA Food Security Survey Module embedded within NHANES questionnaires.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Household Food Insecurity, Lung Function, and COPD in US Adults",
-        "identifier": "10.3390/nu13062098",
-        "url": "https://app.dimensions.ai/details/publication/pub.1139029133"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES) – spirometry and demographic/clinical data",
-        "joinType": "integration",
-        "joinKeys": "[\"SEQN\"]",
-        "methodology": "The researchers extracted the NHANES public data files for the 2007‑2012 cycles. Spirometry measurements and demographic/clinical variables were obtained from the examination data set, while household food insecurity status was retrieved from the questionnaire data set that contains the USDA Food Se"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Both instruments were administered to each participant (baseline and post‑training) and the authors used the two scores together to characterize changes in food security across multiple dimensions (financial, quantitative, psychological, social).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Delivering Food Resources and Kitchen Skills (FoRKS) to Adults with Food Insecurity and Hypertension: A Pilot Study",
-        "identifier": "10.3390/nu15061452",
-        "url": "https://app.dimensions.ai/details/publication/pub.1156309782"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Four‑Domain Food Insecurity Scale (4D‑FIS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"study_id\"]",
-        "methodology": "The researchers extracted the USDA HFSSM responses and the 4D FIS responses from the same participant questionnaires at baseline and post training. Each participant record contained a study ID that was assigned at enrollment. The two datasets were merged on this study ID using an inner join so that "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Across multiple primary studies, the HFSSM scores were analyzed together with demographic characteristics to identify significant contributors to food insecurity (e.g., limited financial resources, meal‑plan status).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Prevalence of and Contributors to Food Insecurity among College Athletes: A Scoping Review",
-        "identifier": "10.3390/nu16091346",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171294993"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Demographic variables (race/ethnicity, sex, income, Pell‑grant status, first‑generation status, meal‑plan status)",
-        "joinType": "combination",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers merged the US Household Food Security Survey Module scores with a separate demographic questionnaire by using the unique participant identifier assigned during data collection. After extracting the two datasets they performed data cleaning standardized variable names and aligned codi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors collected household‑level food‑security status using the HFSSM and merged those scores with the broader AIQ dataset to analyze how food insecurity relates to dietary‑quality outcomes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Factors and Perceptions Associated with Post-Pandemic Food Sourcing and Dietary Patterns among Urban Corner Store Customers in Baltimore, Maryland",
-        "identifier": "10.3390/nu16142196",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173726436"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Adult Impact Questionnaire (AIQ) survey responses",
-        "joinType": "integration",
-        "joinKeys": "[\"household_identifier\"]",
-        "methodology": "The AIQ survey data and the six item food security scores were first exported from the online Qualtrics system and from the food security module. Each file was cleaned to remove incomplete rows and to standardize variable names. A common household identifier was created by concatenating the responde"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The researchers merged the FI questionnaire scores with the demographic variables to compute prevalence tables, perform chi‑squared tests, and run multiple linear regression models predicting change in FI scores.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Feasibility of an Emergency Department-based Food Insecurity Screening and Referral Program",
-        "identifier": "10.5811/westjem.40006",
-        "url": "https://app.dimensions.ai/details/publication/pub.1186638871"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Participant demographic dataset (age, gender, race/ethnicity, language, education, marital status, etc.)",
-        "joinType": "integration",
-        "joinKeys": "[\"study_id\"]",
-        "methodology": "The research team exported the USDA Adult Food Security Module responses and the participant demographic data from REDCap as flat files (CSV). A unique study identifier assigned at enrollment was used as the primary key in both files. After loading the files into a data‑analysis environment, the two"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑insecurity status for each beneficiary was derived by applying the USDA six‑item short form to MCBS respondents, effectively merging MCBS respondent data with the USDA food‑security questionnaire scoring rules.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in Cardiovascular Disease Prevalence by Race and Ethnicity, Socioeconomic Status, Urbanicity, and Social Determinants of Health Among Medicare Beneficiaries With Diabetes",
-        "identifier": "10.5888/pcd22.240270",
-        "url": "https://app.dimensions.ai/details/publication/pub.1186273135"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Medicare Current Beneficiary Survey (MCBS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The researchers used the Medicare Current Beneficiary Survey (MCBS) respondent records as the base dataset. The six food‑security items from the USDA Short Form were extracted from each respondent’s MCBS interview. A scoring algorithm defined by the USDA (affirmative response to 2 or more items = fo"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
         }
       ]
     }

@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "American College Health Association - National College Health Assessment III (ACHA-NCHA III)",
@@ -15,6 +14,11 @@
     "National College Health Assessment",
     "American College Health Association-National College Health Assessment"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "American College Health Association (ACHA)"
+  },
+  "about": "Higher Education / Public Health",
   "review": [
     {
       "@type": "Review",
@@ -37,13 +41,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "Higher‑education health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -66,13 +64,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation to the ACHA‑NCHA III executive summary."
-      },
-      "about": "Higher‑education health assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -95,13 +87,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "College health / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -124,13 +110,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association"
-      },
-      "about": "Higher Education Health Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -153,13 +133,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA) website; codebook available at https://acha.org"
-      },
-      "about": "Higher education health and wellbeing"
+      ]
     },
     {
       "@type": "Review",
@@ -182,13 +156,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association"
-      },
-      "about": "Higher Education / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -211,13 +179,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association"
-      },
-      "about": "Higher education health / student wellbeing"
+      ]
     },
     {
       "@type": "Review",
@@ -240,13 +202,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "Higher‑Education Health / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -269,13 +225,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "Higher‑education health / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -298,13 +248,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "Student health, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -327,13 +271,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "Higher Education / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -356,13 +294,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association"
-      },
-      "about": "Higher‑education health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -385,13 +317,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association (ACHA)"
-      },
-      "about": "Higher education health/behavioral survey"
+      ]
     },
     {
       "@type": "Review",
@@ -414,13 +340,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National College Health Association"
-      },
-      "about": "Public Health / Higher Education"
+      ]
     },
     {
       "@type": "Review",
@@ -442,60 +362,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 8.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "American College Health Association"
-      },
-      "about": "College health"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Student‑level survey records were linked to the corresponding institutional‑level variables so that each respondent could be assigned the minority‑serving vs. predominantly‑White status and other school‑level covariates used in the multivariable Poisson models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
-        "identifier": "10.1016/j.tjnut.2024.06.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173392453"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Institutional characteristics dataset supplied by ACHA (anonymized indices of institution type, public‑vs‑private status, Carnegie classification, U.S. region, etc.)",
-        "joinType": "integration",
-        "joinKeys": "[\"institution_id\"]",
-        "methodology": "Student‑level records from the ACHA‑NCHA III survey were linked to the institutional‑level dataset supplied by ACHA by matching the anonymized institution identifier present in both files. The merge was performed deterministically; each student record received the corresponding institutional attribu"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite national USDA food‑security rates to contextualize the 38 % prevalence observed among college students and to compare institutional inequities with population‑level trends.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Comparison of Food Insecurity Prevalence among Students Attending Minority Serving Versus Predominantly White Institutions in Pre, Earlier, and Later Phases of the COVID-19 Pandemic",
-        "identifier": "10.1016/j.tjnut.2024.06.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173392453"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA national food‑insecurity prevalence statistics (e.g., 10 % prevalence in 2021, regional trends)",
-        "joinType": "combination",
-        "joinKeys": "[\"year\",\"region\"]",
-        "methodology": "The authors extracted the USDA national food security prevalence figures from USDA reports for each year and US census region. They aggregated the ACHA NCHA III student level data to the same temporal (academic year) and geographic (region) level. Using these common dimensions they performed a key b"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
         }
       ]
     }

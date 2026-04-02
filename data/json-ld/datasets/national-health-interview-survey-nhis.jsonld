@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "National Health Interview Survey (NHIS)",
@@ -10,6 +9,11 @@
     "National Health Interview Survey",
     "NHIS"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "National Center for Health Statistics (NCHS)"
+  },
+  "about": "Public health / epidemiology",
   "review": [
     {
       "@type": "Review",
@@ -32,8 +36,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -56,8 +59,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -80,8 +82,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -104,8 +105,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -128,8 +128,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -152,8 +151,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -176,8 +174,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -200,8 +197,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -224,8 +220,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -248,8 +243,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -272,8 +266,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -296,8 +289,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -320,8 +312,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -344,8 +335,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -368,8 +358,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -392,8 +381,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -416,8 +404,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -440,8 +427,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -464,8 +450,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -488,8 +473,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -512,8 +496,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -536,8 +519,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -560,8 +542,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -584,8 +565,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -608,8 +588,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -632,8 +611,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -656,8 +634,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -680,8 +657,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -704,8 +680,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -728,8 +703,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -752,8 +726,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -776,8 +749,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -800,8 +772,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -824,8 +795,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -848,8 +818,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -872,8 +841,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -896,8 +864,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -920,8 +887,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -944,8 +910,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -968,8 +933,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -992,8 +956,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1016,8 +979,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1040,8 +1002,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1064,8 +1025,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1088,13 +1048,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) / U.S. Census Bureau"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1117,13 +1071,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1146,13 +1094,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1175,13 +1117,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Created by the National Center for Health Statistics through probabilistic linkage of NHIS and NDI records."
-      },
-      "about": "Epidemiology / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -1204,13 +1140,7 @@
           "name": "use",
           "ratingValue": 7.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -1233,13 +1163,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1262,13 +1186,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1291,13 +1209,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1320,13 +1232,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1349,13 +1255,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "AHRQ Data Center (link files created by MEPS investigators)"
-      },
-      "about": "Health services research / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1378,13 +1278,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1407,13 +1301,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1436,13 +1324,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1465,13 +1347,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC National Center for Health Statistics, National Health Interview Survey"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1494,13 +1370,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Centers for Disease Control and Prevention, National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1523,13 +1393,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS, University of Minnesota"
-      },
-      "about": "Public health data infrastructure"
+      ]
     },
     {
       "@type": "Review",
@@ -1552,13 +1416,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1581,13 +1439,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Health, disability, food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1610,13 +1462,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Health & Demographic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -1639,13 +1485,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1668,13 +1508,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1697,13 +1531,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1726,13 +1554,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1755,13 +1577,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – NCHS Mortality Linkage files."
-      },
-      "about": "Public health / mortality surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1784,13 +1600,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau/NCHS"
-      },
-      "about": "Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1813,13 +1623,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1842,13 +1646,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1871,13 +1669,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC/NCHS"
-      },
-      "about": "Public Health / Demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -1900,13 +1692,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1929,13 +1715,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference to published study using NHIS data (not provided in full within the excerpt)."
-      },
-      "about": "Public health and epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1958,13 +1738,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1987,13 +1761,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (Integrated Public Use Microdata Series)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2016,13 +1784,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2045,13 +1807,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited publication (not accessed by the authors of the present study)."
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -2074,13 +1830,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2103,13 +1853,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC National Center for Health Statistics (NHIS)."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2132,13 +1876,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Referenced study by Brucker et al."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2161,9 +1899,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2186,13 +1922,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, Centers for Disease Control and Prevention"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2215,13 +1945,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2244,13 +1968,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2273,13 +1991,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2302,13 +2014,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / CDC"
-      },
-      "about": "Health Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2331,13 +2037,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2360,13 +2060,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -2389,13 +2083,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics."
-      },
-      "about": "Health Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2418,13 +2106,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2447,13 +2129,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Health epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2476,13 +2152,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, National Health Interview Survey (2011‑2018)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2505,13 +2175,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC/National Center for Health Statistics"
-      },
-      "about": "Health & Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -2534,13 +2198,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2563,13 +2221,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2592,9 +2244,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2617,13 +2267,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau/National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2646,13 +2290,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC/NCHS"
-      },
-      "about": "Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2675,13 +2313,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2704,13 +2336,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2733,13 +2359,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2762,13 +2382,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2791,13 +2405,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2820,13 +2428,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2849,13 +2451,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2878,13 +2474,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2907,13 +2497,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Health/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -2936,9 +2520,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2961,13 +2543,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention"
-      },
-      "about": "Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2990,13 +2566,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Center for Disease Control and Prevention (CDC)"
-      },
-      "about": "Health / Public Health Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3019,13 +2589,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Health epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3048,13 +2612,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Health & Nutrition Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3077,13 +2635,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3106,13 +2658,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3135,13 +2681,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3164,13 +2704,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Public health / Health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -3193,13 +2727,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) – NHIS website (https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3222,13 +2750,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3251,13 +2773,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -3280,13 +2796,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Coleman‑Jensen, 2017"
-      },
-      "about": "Health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -3309,13 +2819,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3338,13 +2842,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Health Interview Survey (NHIS) 2019"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3367,13 +2865,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Center for Diseases Control and Prevention (CDC) website: https://www.cdc.gov/nchs/nhis/2020nhis.htm"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3396,13 +2888,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics; data accessed via https://www.cdc.gov/nchs/nhis/2020nhis.htm"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3425,13 +2911,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3454,13 +2934,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Mentioned as part of prior work; not used for primary data analysis in this paper."
-      },
-      "about": "Public health / Health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -3483,13 +2957,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Health / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -3512,13 +2980,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Paper text"
-      },
-      "about": "Health survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3541,13 +3003,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention, National Center for Health Statistics, NHIS 2019 public‑use data file (https://www.cdc.gov/nchs/nhis/2019nhis.htm)."
-      },
-      "about": "Public health / nutrition / health survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3570,13 +3026,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3599,13 +3049,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – NHIS"
-      },
-      "about": "Public health / socioeconomic measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -3628,13 +3072,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "2022 NHIS public use files (CDC/NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3657,13 +3095,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Public Health, Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3686,13 +3118,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -3715,13 +3141,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Figshare repository (doi:10.6084/m9.figshare.28789592.v1)"
-      },
-      "about": "Public health research documentation"
+      ]
     },
     {
       "@type": "Review",
@@ -3744,13 +3164,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Health / Population Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3773,13 +3187,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, 2014 NHIS"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3802,13 +3210,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, 2014 NHPI‑NHIS"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3831,13 +3233,7 @@
           "name": "use",
           "ratingValue": 8.8
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited in the baseline covariate section of the methods."
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -3860,13 +3256,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "NHIS (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3889,13 +3279,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), United States."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3918,13 +3302,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -3947,13 +3325,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -3976,13 +3348,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics / CDC"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4005,13 +3371,7 @@
           "name": "use",
           "ratingValue": 8.2
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)"
-      },
-      "about": "Social science / Health survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -4034,13 +3394,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4063,13 +3417,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention & National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4092,13 +3440,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -4121,13 +3463,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4150,13 +3486,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Health and epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4179,13 +3509,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Cancer Institute (as part of NHIS)"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4208,13 +3532,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4237,13 +3555,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / Survey research"
+      ]
     },
     {
       "@type": "Review",
@@ -4266,13 +3578,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4295,13 +3601,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -4324,13 +3624,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4353,13 +3647,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited in the bibliography (reference to CDC report)."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4382,13 +3670,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, CDC"
-      },
-      "about": "Health Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -4411,13 +3693,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -4440,13 +3716,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4469,13 +3739,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4498,13 +3762,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4527,13 +3785,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health and Human Services"
-      },
-      "about": "Health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -4556,13 +3808,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4585,13 +3831,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4614,13 +3854,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4643,13 +3877,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4672,13 +3900,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4701,13 +3923,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4730,13 +3946,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -4759,13 +3969,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / Aging"
+      ]
     },
     {
       "@type": "Review",
@@ -4788,13 +3992,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4817,13 +4015,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota), which curates NHIS data."
-      },
-      "about": "Public health / social science data archives"
+      ]
     },
     {
       "@type": "Review",
@@ -4846,13 +4038,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citations (17,24) within the systematic review."
-      },
-      "about": "Health survey"
+      ]
     },
     {
       "@type": "Review",
@@ -4875,13 +4061,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS) / Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4904,13 +4084,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4933,13 +4107,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4962,13 +4130,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -4991,13 +4153,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5020,13 +4176,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5049,13 +4199,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5078,13 +4222,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5107,13 +4245,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC (Centers for Disease Control and Prevention) online data files for 2016 NHIS"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5136,13 +4268,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) / National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5165,13 +4291,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Health & Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -5194,13 +4314,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5223,13 +4337,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health and Human Services (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5252,13 +4360,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Health / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -5281,13 +4383,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5310,13 +4406,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5339,13 +4429,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited as a reference for national prevalence rates."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5368,13 +4452,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5397,13 +4475,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5426,13 +4498,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Health, Demography, Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5455,13 +4521,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS Health Surveys (University of Minnesota)"
-      },
-      "about": "Health, Demography, Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5484,13 +4544,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Health Interview Survey (NHIS) – Family Core"
-      },
-      "about": "Nutrition, Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5513,13 +4567,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. CDC/NIH"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5542,13 +4590,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5571,13 +4613,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5600,9 +4636,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -5625,13 +4659,7 @@
           "name": "use",
           "ratingValue": 9.8
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. CDC & National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5654,13 +4682,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "NHIS public data files (2013‑2018)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5683,13 +4705,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited in background references (e.g., Patel et al.)"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -5712,13 +4728,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5741,13 +4751,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5770,13 +4774,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)"
-      },
-      "about": "Data repository / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5799,13 +4797,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "NHIS linked to National Death Index"
-      },
-      "about": "Epidemiology / mortality research"
+      ]
     },
     {
       "@type": "Review",
@@ -5828,9 +4820,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health, epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5853,13 +4843,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5882,13 +4866,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5911,13 +4889,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Health / public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -5940,13 +4912,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health/health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -5969,13 +4935,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -5998,13 +4958,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6027,13 +4981,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / National Center for Health Statistics."
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6056,13 +5004,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6085,13 +5027,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)"
-      },
-      "about": "Public health / data infrastructure"
+      ]
     },
     {
       "@type": "Review",
@@ -6114,13 +5050,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS) – NHIS Linked Mortality File"
-      },
-      "about": "Epidemiology / mortality research"
+      ]
     },
     {
       "@type": "Review",
@@ -6143,13 +5073,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6172,13 +5096,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC/NCHS"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6201,13 +5119,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6230,13 +5142,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6259,13 +5165,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, United States"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6288,13 +5188,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6317,13 +5211,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -6346,13 +5234,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Zablotsky et al., 2019 citation"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6375,13 +5257,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics / U.S. Centers for Disease Control and Prevention"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6404,13 +5280,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Institute for Social Research and Data Innovation at the University of Minnesota; publicly available via CDC/NCHS."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6433,13 +5303,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6462,13 +5326,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6491,13 +5349,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6520,13 +5372,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -6549,13 +5395,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6578,13 +5418,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6607,13 +5441,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, CDC."
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6636,13 +5464,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited reference (Brucker 2016)."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6665,13 +5487,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6694,9 +5510,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -6719,13 +5533,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6748,13 +5556,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6777,13 +5579,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Health Interview Survey (NHIS) public use files"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6806,13 +5602,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau/CDC – accessed through the Integrated Public Use Microdata Series (IPUMS) NHIS version 7.4."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6835,13 +5625,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)."
-      },
-      "about": "Social science / health survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -6864,13 +5648,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)."
-      },
-      "about": "Public health / survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -6893,13 +5671,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "NHIS website (publicly available)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6922,13 +5694,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6951,13 +5717,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. CDC/NCHS"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -6980,13 +5740,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS) / Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7009,13 +5763,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics, Centers for Disease Control and Prevention (https://www.cdc.gov/nchs/nhis/2021nhis.htm)"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -7038,13 +5786,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7067,13 +5809,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Division of Health Interview Statistics, National Center for Health Statistics (U.S. CDC)."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7096,13 +5832,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -7125,13 +5855,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7154,13 +5878,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS) – https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7183,13 +5901,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC/NCHS website (https://www.cdc.gov/nchs/nhis/data-quest …)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7212,13 +5924,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference citation (doi:10.1016/j.focus.2023.100069)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7241,13 +5947,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "https://www.cdc.gov/nchs/nhis/index.htm"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7270,13 +5970,7 @@
           "name": "use",
           "ratingValue": 9.2
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) – NHIS program"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7299,13 +5993,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "NHIS website (https://archive.cdc.gov/www_cdc_gov/nchs/nhis/nhis_2016_data_release.htm and https://archive.cdc.gov/www_cdc_gov/nchs/nhis/1997-2018.htm)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7328,13 +6016,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited in background literature review."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7357,13 +6039,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Center for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -7386,13 +6062,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7415,13 +6085,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7444,13 +6108,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / CDC"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -7473,13 +6131,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics"
-      },
-      "about": "Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7502,13 +6154,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Health/Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -7531,13 +6177,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics / Centers for Disease Control and Prevention; accessed via IPUMS."
-      },
-      "about": "Health/Survey epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7560,13 +6200,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -7589,13 +6223,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7618,13 +6246,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)"
-      },
-      "about": "Public health / social science data infrastructure"
+      ]
     },
     {
       "@type": "Review",
@@ -7647,13 +6269,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS Health Surveys"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7676,13 +6292,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Health / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -7705,13 +6315,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7734,13 +6338,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. CDC/NCHS"
-      },
-      "about": "Health / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -7763,13 +6361,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) and Agency for Healthcare Research and Quality (AHRQ)"
-      },
-      "about": "Health Economics / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -7792,13 +6384,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited study (reference 15) within the manuscript."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7821,13 +6407,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics"
-      },
-      "about": "Public Health, Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7850,13 +6430,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS) – publicly available at the CDC website."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7879,13 +6453,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7908,13 +6476,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7937,13 +6499,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation 10.1007/s11606-022-07933-3 and other references within the manuscript."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7966,13 +6522,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health, epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -7995,13 +6545,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "https://www.cdc.gov/nchs/nhis/dataquestionnaires-documentation.htm"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8024,13 +6568,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -8053,13 +6591,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC) – National Center for Health Statistics."
-      },
-      "about": "Public health / health services research"
+      ]
     },
     {
       "@type": "Review",
@@ -8082,13 +6614,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8111,13 +6637,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8140,13 +6660,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics / Census Bureau"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8169,13 +6683,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (CDC)"
-      },
-      "about": "Health and Demographic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -8198,13 +6706,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8227,13 +6729,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation only; the present study does not analyse NHIS data."
-      },
-      "about": "Public health / Survey research"
+      ]
     },
     {
       "@type": "Review",
@@ -8256,13 +6752,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Public health / health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -8285,13 +6775,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8314,13 +6798,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Agency for Healthcare Research and Quality (AHRQ) Data Center"
-      },
-      "about": "Health economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -8343,13 +6821,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference 16 in the paper."
-      },
-      "about": "Health Survey / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8372,13 +6844,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8401,13 +6867,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS)"
-      },
-      "about": "Epidemiology/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -8430,13 +6890,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Center for Health Statistics (NCHS), CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8459,13 +6913,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics."
-      },
-      "about": "Public Health/Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -8487,636 +6935,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 1.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health / Epidemiology"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare food‑insecurity prevalence and odds ratios derived from CPS‑FSS with those obtained from NHIS, aligning estimates across the two surveys for the same reference periods (12‑month and 30‑day). This constitutes a multi‑dataset analytical combination rather than a record‑level merge.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among those with disability: Cross‐survey comparison of estimates and implications for future research",
-        "identifier": "10.1002/aepp.13336",
-        "url": "https://app.dimensions.ai/details/publication/pub.1153365239"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey - Food Security Supplement (CPS-FSS)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "The authors performed an analytical combination of summary statistics from the CPS‑FSS and NHIS rather than a record‑level merge. They extracted weighted prevalence estimates and odds ratios for food insecurity (FI) by disability status from each survey, aligning the reference periods (12‑month and "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors suggest future research that could link NHIS data with MEPS to explore health‑care utilization and its relationship to food insecurity among adults with disabilities.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among those with disability: Cross‐survey comparison of estimates and implications for future research",
-        "identifier": "10.1002/aepp.13336",
-        "url": "https://app.dimensions.ai/details/publication/pub.1153365239"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Medical Expenditure Panel Survey (MEPS)",
-        "joinType": "integration",
-        "joinKeys": "[\"year\",\"household_id\",\"respondent_id\",\"geographic_region\"]",
-        "methodology": "The authors propose linking the National Health Interview Survey (NHIS) with the Medical Expenditure Panel Survey (MEPS) by matching individual respondents across the two datasets using common identifiers such as year of interview, household identifier and respondent demographic characteristics. The"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors augment each respondent’s NHIS record with macro‑economic controls – regional unemployment rates and food‑price indices – by matching on the respondent’s census region and interview quarter. These variables (Y_rt) are included in the regression models to control for time‑varying economic",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The protective effect of SNAP during economic downturns: Evidence from the COVID‐19 pandemic",
-        "identifier": "10.1002/aepp.13345",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155184884"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Bureau of Labor Statistics (BLS) region‑quarter unemployment rates and food‑price CPI series (FAH CPI and FAFH CPI)",
-        "joinType": "integration",
-        "joinKeys": "[\"census_region\",\"interview_quarter\"]",
-        "methodology": "The authors first extracted the 2019‑2020 NHIS longitudinal panel and the BLS regional unemployment and food price CPI series. BLS series were aggregated to the census region‑quarter level. A key based merge was then performed by matching each NHIS respondent to the corresponding region‑quarter macr"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis combined respondents’ demographic and health information from the NHIS with their food‑security responses from the USDA 10‑item module to create a single analytical file for prevalence estimation and regression modeling.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among adult females with a history of breast cancer compared to adult females without cancer in the USA",
-        "identifier": "10.1007/s11764-023-01481-3",
-        "url": "https://app.dimensions.ai/details/publication/pub.1165706556"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA 10‑item Household Food Security Survey Module (embedded within NHIS)",
-        "joinType": "integration",
-        "joinKeys": "[\"person_id\"]",
-        "methodology": "The researchers extracted the 2019 NHIS Sample Adult file and the USDA 10 item food security module which is stored as separate variables within the same respondent record. They merged the two data sources by the unique person identifier provided by NHIS using a Stata merge command. After merging th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Within the Methods section the authors state that they “merged child, person, and family files within each year” of the National Health Interview Survey before concatenating the eight years of data. This is a classic file‑level merge of three separate NHIS datasets to create a single analytical data",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Association Between Child Food Allergy and Family Food Insecurity in a Nationally Representative US Sample",
-        "identifier": "10.1016/j.acap.2024.08.010",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174978103"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NHIS person and family files",
-        "joinType": "merge",
-        "joinKeys": "[\"household_id\",\"family_id\",\"person_id\"]",
-        "methodology": "The authors first extracted the annual NHIS child, person, and family data sets for each survey year (2011‑2018). Within each year they performed a file‑level merge using the common NHIS identifiers (household ID, family ID and person ID). The merge was executed in SAS using a BY statement that alig"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Within the Methods section the authors state that they “merged child, person, and family files within each year” of the National Health Interview Survey before concatenating the eight years of data. This is a classic file‑level merge of three separate NHIS datasets to create a single analytical data",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Association Between Child Food Allergy and Family Food Insecurity in a Nationally Representative US Sample",
-        "identifier": "10.1016/j.acap.2024.08.010",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174978103"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NHIS child file",
-        "joinType": "merge",
-        "joinKeys": "[\"household_id\",\"family_id\",\"person_id\"]",
-        "methodology": "The authors first extracted the annual NHIS child, person, and family data sets for each survey year (2011‑2018). Within each year they performed a file‑level merge using the common NHIS identifiers (household ID, family ID and person ID). The merge was executed in SAS using a BY statement that alig"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis uses the ratio of family income to the poverty threshold as a key variable. The poverty thresholds are derived from USDA’s annual FPL guidelines, which are linked to the NHIS income variables to create categorical income‑to‑poverty groups (<200%, 200‑399%, ≥400%).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Association Between Child Food Allergy and Family Food Insecurity in a Nationally Representative US Sample",
-        "identifier": "10.1016/j.acap.2024.08.010",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174978103"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "US Department of Agriculture Federal Poverty Level (FPL) guideline dataset",
-        "joinType": "integration",
-        "joinKeys": "[\"family_id\",\"person_id\",\"sample_child_id\"]",
-        "methodology": "The NHIS child, person, and family files were merged separately for each survey year using the unique household identifier and person identifier. An exact key‑based join linked each sampled child to the corresponding family record that contained income variables. After the within‑year merges, the ye"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors accessed both the publicly available NHIS data and the restricted geographic variables (state, county) through the Census Research Data Center, then combined these to create a single analytical dataset that includes demographic, health, and location information.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security and health in transition to adulthood for individuals with disabilities",
-        "identifier": "10.1016/j.dhjo.2020.100937",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127379265"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) restricted geographic data",
-        "joinType": "integration",
-        "joinKeys": "[\"NHIS_person_id\",\"household_id\"]",
-        "methodology": "The authors obtained the publicly‑available NHIS public‑use files and the restricted geographic variables (state, county) from the Census Research Data Center. Both datasets contain a common respondent identifier (the NHIS person/household ID). After extracting the two files, they performed an exact"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors accessed both the publicly available NHIS data and the restricted geographic variables (state, county) through the Census Research Data Center, then combined these to create a single analytical dataset that includes demographic, health, and location information.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security and health in transition to adulthood for individuals with disabilities",
-        "identifier": "10.1016/j.dhjo.2020.100937",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127379265"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) public‑use files",
-        "joinType": "integration",
-        "joinKeys": "[\"NHIS_person_id\",\"household_id\"]",
-        "methodology": "The authors obtained the publicly‑available NHIS public‑use files and the restricted geographic variables (state, county) from the Census Research Data Center. Both datasets contain a common respondent identifier (the NHIS person/household ID). After extracting the two files, they performed an exact"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study pools five years of NHIS data (2011‑2015) to form a combined sample of low‑income individuals ages 13‑25, enabling longitudinal cross‑sectional analysis across multiple survey waves.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security and health in transition to adulthood for individuals with disabilities",
-        "identifier": "10.1016/j.dhjo.2020.100937",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127379265"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2012‑2015 datasets",
-        "joinType": "fusion",
-        "joinKeys": "[\"person_id\",\"household_id\",\"year\"]",
-        "methodology": "The researchers performed a vertical data fusion of the five annual NHIS files (2011‑2015) by stacking records from each survey wave into a single analytical dataset. Each year’s public‑use and restricted files were extracted, cleaned, and standardized to ensure consistent variable names, coding sch"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study pools five years of NHIS data (2011‑2015) to form a combined sample of low‑income individuals ages 13‑25, enabling longitudinal cross‑sectional analysis across multiple survey waves.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security and health in transition to adulthood for individuals with disabilities",
-        "identifier": "10.1016/j.dhjo.2020.100937",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127379265"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2011 dataset",
-        "joinType": "fusion",
-        "joinKeys": "[\"person_id\",\"household_id\",\"year\"]",
-        "methodology": "The researchers performed a vertical data fusion of the five annual NHIS files (2011‑2015) by stacking records from each survey wave into a single analytical dataset. Each year’s public‑use and restricted files were extracted, cleaned, and standardized to ensure consistent variable names, coding sch"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors extracted the Six‑Item Food Security Scale (a subset of the HFSSM) from the 2019 NHIS questionnaire to create a food‑security variable for each respondent. This required merging the HFSSM item responses into the NHIS respondent records so that food‑security status could be analyzed along",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Association Between Food Security and Mammography Screening: Cross-Sectional Survey Results From the National Health Interview Survey",
-        "identifier": "10.1016/j.jacr.2024.05.005",
-        "url": "https://app.dimensions.ai/details/publication/pub.1172370731"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Household Food Security Survey Module (HFSSM) – Six‑Item Short Form",
-        "joinType": "integration",
-        "joinKeys": "[\"person_id\"]",
-        "methodology": "The authors used the 2019 NHIS public use file which already contains responses to the six‑item food security module. They extracted the six food‑security items, applied the standard scoring algorithm to create a categorical food‑security variable, and merged this variable back into the main NHIS re"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors combined the general NHIS sample with the oversampled NHPI‑NHIS to create a single analytic dataset representing all racial/ethnic groups, ensuring unique stratum and PSU identifiers and applying appropriate sampling weights.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Security Status of Native Hawaiians and Pacific Islanders in the US: Analysis of a National Survey",
-        "identifier": "10.1016/j.jneb.2020.01.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1125662981"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Native Hawaiian and Pacific Islander National Health Interview Survey (NHPI‑NHIS) 2014",
-        "joinType": "integration",
-        "joinKeys": "[\"stratum_id\",\"psu_id\"]",
-        "methodology": "The authors combined the general NHIS 2014 sample with the oversampled NHPI‑NHIS 2014 by creating unique stratum and primary sampling unit (PSU) identifiers for each record, ensuring that these identifiers remained distinct after merging. They then merged the two datasets using these identifiers as "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors combined the general NHIS sample with the oversampled NHPI‑NHIS to create a single analytic dataset representing all racial/ethnic groups, ensuring unique stratum and PSU identifiers and applying appropriate sampling weights.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Security Status of Native Hawaiians and Pacific Islanders in the US: Analysis of a National Survey",
-        "identifier": "10.1016/j.jneb.2020.01.009",
-        "url": "https://app.dimensions.ai/details/publication/pub.1125662981"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2014",
-        "joinType": "integration",
-        "joinKeys": "[\"stratum_id\",\"psu_id\"]",
-        "methodology": "The authors combined the general NHIS 2014 sample with the oversampled NHPI‑NHIS 2014 by creating unique stratum and primary sampling unit (PSU) identifiers for each record, ensuring that these identifiers remained distinct after merging. They then merged the two datasets using these identifiers as "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study used the IPUMS Health Survey, which is a harmonized and integrated version of the NHIS data spanning multiple years, to extract the 2015 NHIS records for African immigrant households.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Household Food Insecurity among African Immigrants of the United States: Evidence from the National Health Interview Survey",
-        "identifier": "10.1080/19320248.2019.1640828",
-        "url": "https://app.dimensions.ai/details/publication/pub.1118014922"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Integrated Public Use Microdata Series (IPUMS) Health Survey",
-        "joinType": "integration",
-        "joinKeys": "[\"person_id\"]",
-        "methodology": "The researchers extracted the 2015 NHIS records from the IPUMS Health Survey which provides harmonized variables across years. They used the common respondent identifier person_id present in both datasets to perform an inner join, selecting only households where place of birth indicated African regi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The USDA HFSSM, a 10‑item food security questionnaire, was embedded within the NHIS dataset and used as the dependent variable for analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Household Food Insecurity among African Immigrants of the United States: Evidence from the National Health Interview Survey",
-        "identifier": "10.1080/19320248.2019.1640828",
-        "url": "https://app.dimensions.ai/details/publication/pub.1118014922"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Household Food Security Survey Module (HFSSM)",
-        "joinType": "fusion",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The USDA Household Food Security Survey Module (HFSSM) was embedded within the NHIS 2015 dataset through the IPUMS harmonization process. Researchers extracted the HFSSM items from the NHIS public use microdata and merged them with immigration‑related variables using a key‑based join on the responde"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors pooled data from the two consecutive years of NHIS to create a single analytic sample (N = 13,589). This required merging the yearly datasets into one combined dataset for analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Health Care Utilization Among Older Adults in the United States",
-        "identifier": "10.1080/21551197.2016.1200334",
-        "url": "https://app.dimensions.ai/details/publication/pub.1051620580"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2012",
-        "joinType": "merge",
-        "joinKeys": "[\"respondent_id\",\"sample_adult_id\"]",
-        "methodology": "The authors combined the NHIS 2011 and NHIS 2012 yearly files by stacking the two annual records into a single analytic dataset. Each year’s Sample Adult file contains a unique respondent identifier that is consistent across years, allowing a straightforward row‑wise concatenation (merge) of the two"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors pooled data from the two consecutive years of NHIS to create a single analytic sample (N = 13,589). This required merging the yearly datasets into one combined dataset for analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Health Care Utilization Among Older Adults in the United States",
-        "identifier": "10.1080/21551197.2016.1200334",
-        "url": "https://app.dimensions.ai/details/publication/pub.1051620580"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2011",
-        "joinType": "merge",
-        "joinKeys": "[\"respondent_id\",\"sample_adult_id\"]",
-        "methodology": "The authors combined the NHIS 2011 and NHIS 2012 yearly files by stacking the two annual records into a single analytic dataset. Each year’s Sample Adult file contains a unique respondent identifier that is consistent across years, allowing a straightforward row‑wise concatenation (merge) of the two"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study combined variables from the Sample Adult core (health status, utilization) with food insecurity measures obtained from the FFS supplement, which was added to the Family module in both 2011 and 2012.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Health Care Utilization Among Older Adults in the United States",
-        "identifier": "10.1080/21551197.2016.1200334",
-        "url": "https://app.dimensions.ai/details/publication/pub.1051620580"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Family Food Security (FFS) supplement (U.S. Department of Agriculture)",
-        "joinType": "fusion",
-        "joinKeys": "[\"family_id\",\"person_id\"]",
-        "methodology": "The researchers merged the NHIS Sample Adult core module with the Family Food Security (FFS) supplement by linking records that belong to the same household and the same sampled adult respondent. Both modules contain a unique family identifier (family ID) and a person identifier for the selected sam"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑security status was measured with the 18‑item HFSSM, while diet‑quality (servings per day) was derived from an adapted version of the NHIS multifactor screener. Both instruments were administered to each trial participant and combined in the same analytic file to assess secondary outcomes such ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Is Medicine for Human Immunodeficiency Virus: Improved Health and Hospitalizations in the Changing Health Through Food Support (CHEFS-HIV) Pragmatic Randomized Trial",
-        "identifier": "10.1093/infdis/jiae195",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171283987"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Household Food Security Survey Module (HFSSM) data",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The two instruments were collected in the same interview session for each participant. After extraction from the study database, records were merged on the unique participant identifier assigned by the study. The identifier was verified for consistency across the two files and duplicate entries were"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.6
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑insecurity scores were analyzed together with participants’ self‑reported COVID‑19 infection status (derived from the EPII) to test whether infection mediates the link between food insecurity and depression.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity, COVID-19 Infection, Discrimination, Critical Consciousness, and Depression Among AfroLatinxs in the US",
-        "identifier": "10.1177/00957984241311771",
-        "url": "https://app.dimensions.ai/details/publication/pub.1190388853"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Household Food Security Survey Module (Six‑Item Short Form) responses",
-        "joinType": "combination",
-        "joinKeys": "[\"participant_id\",\"response_timestamp\"]",
-        "methodology": "The join was performed using a staged ETL pipeline; first the two source files were extracted; then records were cleaned and normalized; a unique participant identifier was constructed from survey response id and timestamp; exact matching on this key was applied using pandas merge; unmatched records"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The USDA food security module was administered as part of the NHIS interview and its responses were merged into the NHIS respondent records to create a combined dataset containing both health interview variables and household food‑security status.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security status and cardiometabolic health by sex/gender and race/ethnicity among adults in the United States",
-        "identifier": "10.1186/s12889-024-18655-y",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171316005"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Department of Agriculture's Household Food Security Survey Module (10‑item screener)",
-        "joinType": "integration",
-        "joinKeys": "[\"caseid\"]",
-        "methodology": "The USDA Household Food Security Survey Module was administered during the NHIS interview. The food‑security responses were extracted from the module data file and merged with the main NHIS respondent record file using the unique respondent identifier assigned by NHIS (caseid). This merge was perfor"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors pooled three consecutive yearly NHIS data sets (2019, 2020, 2021) to create a single analytical file covering the pre‑pandemic and pandemic periods.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity between sexual minority and heterosexual adults – a higher burden on bisexual individuals",
-        "identifier": "10.3389/fpubh.2023.1237091",
-        "url": "https://app.dimensions.ai/details/publication/pub.1163082230"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2020 cycle",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\",\"household_id\",\"year\"]",
-        "methodology": "The authors downloaded the publicly available NHIS data files for the 2019, 2020 and 2021 cycles. Each yearly file was first imported into R and the variable names and coding schemes were harmonized across years because the survey redesign in 2019 introduced a common structure. Records with missing "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors pooled three consecutive yearly NHIS data sets (2019, 2020, 2021) to create a single analytical file covering the pre‑pandemic and pandemic periods.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity between sexual minority and heterosexual adults – a higher burden on bisexual individuals",
-        "identifier": "10.3389/fpubh.2023.1237091",
-        "url": "https://app.dimensions.ai/details/publication/pub.1163082230"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS) 2019 cycle",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\",\"household_id\",\"year\"]",
-        "methodology": "The authors downloaded the publicly available NHIS data files for the 2019, 2020 and 2021 cycles. Each yearly file was first imported into R and the variable names and coding schemes were harmonized across years because the survey redesign in 2019 introduced a common structure. Records with missing "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food insecurity (FI) was measured using the USDA’s 10‑item Household Food Security Survey Module, which is administered as part of the NHIS questionnaire. The authors linked the respondents’ survey responses to the FI module items to create the binary FI outcome variable.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity between sexual minority and heterosexual adults – a higher burden on bisexual individuals",
-        "identifier": "10.3389/fpubh.2023.1237091",
-        "url": "https://app.dimensions.ai/details/publication/pub.1163082230"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA 10‑item Household Food Security Survey Module (embedded within NHIS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"person_id\"]",
-        "methodology": "The authors used the NHIS public data files which already contain the USDA 10 item food security module. They extracted the respondent level records and merged the module items with the core questionnaire variables using the unique person identifier provided in the NHIS data. The merge was performed"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Individual respondents from the health interview survey were linked to their residential neighborhoods and to neighborhood‑level food environment characteristics (e.g., low access to healthy food, prevalence of corner stores) derived from the food environment assessment.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Association Between Food Distress and Smoking Among Racially and Ethnically Diverse Adults, Schenectady, New York, 2013–2014",
-        "identifier": "10.5888/pcd14.160548",
-        "url": "https://app.dimensions.ai/details/publication/pub.1091277639"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Food Environment Assessment (store and neighborhood-level data collected in 2014, including retailer lists and in‑store surveys)",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_address_geocode_id\",\"neighborhood_id\"]",
-        "methodology": "The researchers first extracted individual‑level data from the 2013 health interview survey and neighborhood‑level data from the 2014 food environment assessment. Residential addresses of survey respondents were geocoded to assign each respondent a neighborhood identifier (the administratively defin"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
         }
       ]
     }

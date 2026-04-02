@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Rural-Urban Continuum Codes (RUCC)",
@@ -11,6 +10,11 @@
     "Rural-Urban Continuum Codes",
     "www.ers.usda.gov/data-products/rural-urban-continuum-codes"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "USDA Economic Research Service"
+  },
+  "about": "Geography / Socio‑economic classification",
   "review": [
     {
       "@type": "Review",
@@ -33,8 +37,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -57,8 +60,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -81,8 +83,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -105,8 +106,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -129,8 +129,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -153,8 +152,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -177,8 +175,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -201,8 +198,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -225,8 +221,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -249,8 +244,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -273,8 +267,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -297,8 +290,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -321,8 +313,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -345,8 +336,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -369,8 +359,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -393,8 +382,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -417,8 +405,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -441,13 +428,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service (ERS)"
-      },
-      "about": "Geography / Rural‑urban studies"
+      ]
     },
     {
       "@type": "Review",
@@ -470,13 +451,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service, www.ers.usda.gov/data-products/rural-urban-continuum-codes"
-      },
-      "about": "Geography / Socio‑economic classification"
+      ]
     },
     {
       "@type": "Review",
@@ -499,13 +474,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Geography/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -528,13 +497,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Geography / Socio‑economic classification"
+      ]
     },
     {
       "@type": "Review",
@@ -557,13 +520,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Geography / Socio‑economic classification"
+      ]
     },
     {
       "@type": "Review",
@@ -586,13 +543,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service (www.ers.usda.gov/data-products/rural-urban-continuum-codes)"
-      },
-      "about": "Geography / socio‑economic classification"
+      ]
     },
     {
       "@type": "Review",
@@ -615,13 +566,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Rural-Urban Continuum Codes (www.ers.usda.gov/data-products/rural-urban-continuum-codes)"
-      },
-      "about": "Geography / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -644,13 +589,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Geography / Rural classification"
+      ]
     },
     {
       "@type": "Review",
@@ -673,13 +612,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Geography/Urban‑Rural Classification"
+      ]
     },
     {
       "@type": "Review",
@@ -702,13 +635,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Economic Research Service (ERS)"
-      },
-      "about": "Geography, socioeconomic analysis"
+      ]
     },
     {
       "@type": "Review",
@@ -731,13 +658,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service (RUCC)"
-      },
-      "about": "Geography / Rural‑Urban Classification"
+      ]
     },
     {
       "@type": "Review",
@@ -760,13 +681,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Geography / Socio‑demographic classification"
+      ]
     },
     {
       "@type": "Review",
@@ -789,13 +704,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Geography / Rural health"
+      ]
     },
     {
       "@type": "Review",
@@ -818,13 +727,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Geography / Rural studies"
+      ]
     },
     {
       "@type": "Review",
@@ -847,13 +750,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service (ERS)"
-      },
-      "about": "Geography / Socio‑economic classification"
+      ]
     },
     {
       "@type": "Review",
@@ -875,252 +772,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 8.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service (ERS)"
-      },
-      "about": "Geography / Rural Studies"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Urbanicity was assigned to each zip code using the 2013 USDA Rural‑Urban Continuum Codes, and this classification was added to the main analytic dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2022.06.002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "DCFS‑MMG merged dataset (zip‑code‑year panel)",
-        "joinType": "join",
-        "joinKeys": "[\"zip_code\",\"year\"]",
-        "methodology": "The researchers first extracted zip code level food insecurity estimates from the MMG dataset and urbanicity codes from the USDA Rural‑Urban Continuum dataset. Both sources contain a common geographic identifier (5‑digit zip code) and a year variable. After loading the two files, they filtered out r"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Spatial linear models required geographic coordinates; the authors obtained latitude‑longitude coordinates from the Census Gazetteer Files and attached them to each zip code in the analytic dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2022.06.002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Census Gazetteer Files (latitude‑longitude coordinates)",
-        "joinType": "fusion",
-        "joinKeys": "[\"zip_code\"]",
-        "methodology": "The researchers first extracted zip code level food insecurity estimates from the Feeding America Map the Meal Gap dataset and child maltreatment report counts from the Illinois DCFS records. They then obtained latitude and longitude coordinates for every US zip code from the Census Gazetteer Files."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Zip‑code‑level urbanicity (large urban, small urban, rural) was assigned using RUCC codes, which were merged with the MMG FI rates to allow stratified analyses by urbanicity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2023.01.008",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Food‑insecurity rates (MMG estimates)",
-        "joinType": "fusion",
-        "joinKeys": "[\"zip_code\",\"year\"]",
-        "methodology": "The researchers first extracted zip‑code level food‑insecurity estimates from the MMG dataset and county‑level RUCC codes from the USDA dataset. They aggregated the RUCC codes to the zip‑code level by computing a population‑weighted average of the county codes for zip codes that span more than one c"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors note that the six counties have RUCC values ranging from 5 to 9 and use this classification to define the study area as rural.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
-        "identifier": "10.1016/j.jrurstud.2024.103256",
-        "url": "https://app.dimensions.ai/details/publication/pub.1169898660"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Western Upper Peninsula mixed‑mode survey (household‑level responses)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"county_name\"]",
-        "methodology": "The authors linked the household‑level survey data (Dataset 1) with the county‑level Rural‑Urban Continuum Codes (RUCC) (Dataset 2) by first extracting the county identifier for each respondent (e.g., county name or FIPS code) from the survey metadata. The RUCC file contains a unique county identifi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The Rural‑Urban Continuum Codes were incorporated as an urban/rural indicator in the regression analyses to assess their association with overlapping clusters.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "identifier": "10.1016/j.ssmph.2018.06.006",
-        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Combined county‑level dataset of food insecurity, health constructs, and ACS socio‑demographic variables",
-        "joinType": "merge",
-        "joinKeys": "[\"FIPS_code\"]",
-        "methodology": "The researchers merged the USDA Rural‑Urban Continuum Codes (Beale codes) dataset with the combined county‑level food insecurity, health, and ACS variables by performing a key‑based join on the common county identifier (FIPS code). The process began with extracting each source file, standardizing co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Provider zip codes were used to assign each FCCH a rural or urban status based on the 2013 RUCC classification.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Family child care home providers’ perceived difficulty in serving vegetables to children: findings from a multi-method study",
-        "identifier": "10.1017/jns.2025.9",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185866809"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "FCCH provider survey dataset (primary quantitative data)",
-        "joinType": "merge",
-        "joinKeys": "[\"zip_code\",\"county_fips\"]",
-        "methodology": "The FCCH provider survey file was first loaded and the zip code field was cleaned and validated. A lookup table that maps zip codes to county fips and 2013 RUCC codes was created from the RUCC dataset. The zip code was converted to a five‑digit string, matched to the lookup, and the corresponding RU"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors matched survey participants to county‑level classifications (nonmetro, transitional, distressed) from the OMB Rural‑Urban Continuum Codes and ARC economic distress rankings to contextualize poverty and food‑insecurity rates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Interest in Nutrition and Local Food Systems among Food-Insecure Households in an Appalachian Community",
-        "identifier": "10.1080/19320248.2016.1146191",
-        "url": "https://app.dimensions.ai/details/publication/pub.1050483147"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Community Food Assessment Survey (demographic and food‑security responses)",
-        "joinType": "fusion",
-        "joinKeys": "",
-        "methodology": ""
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Urbanicity classification (large urban, small urban, rural) was added to the analytic file by joining the USDA Rural‑Urban Continuum Codes to each county‑year record.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "identifier": "10.1177/08862605221080148",
-        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Combined county‑level dataset (NCANDS + MMG + ACS)",
-        "joinType": "join",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "The researchers first prepared each source file at the county‑year level. County identifiers were standardized to the three‑digit FIPS code; records with suppressed FIPS (000) were reassigned to a pseudo county using the state FIPS. Year variables were aligned across all files. The USDA Rural‑Urban "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The final vulnerability map combined four distinct layers—rurality, veteran proportion, community health, and food‑desert status—to score counties for high risk of rural veteran food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Identifying Areas of High Vulnerability for Rural Veteran Food Insecurity",
-        "identifier": "10.1177/21501319241277411",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182665748"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey veteran‑population data",
-        "joinType": "multi‑layer fusion",
-        "joinKeys": "[\"FIPS\"]",
-        "methodology": "The project first extracted the Rural Urban Continuum Codes from the USDA ERS data set and the veteran proportion data from the American Community Survey. Both data sets contain a common geographic identifier (FIPS code) at the county level. The USDA data were loaded into ArcGIS Pro as a polygon lay"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Counties were classified as rural or non‑rural based on RUCC values (≥4 = rural). This classification was applied to the combined county‑level dataset for subsequent t‑tests and mapping.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "identifier": "10.13023/jah.0303.09",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "All county‑level datasets (ACS, Map the Meal Gap, Food Environment Atlas, County Health Rankings, foodbank service counts)",
-        "joinType": "categorization / join",
-        "joinKeys": "[\"FIPS\",\"county_name\"]",
-        "methodology": "Counties were first classified as rural or non rural using the Rural Urban Continuum Codes with a threshold of four or greater indicating rural. The classification key was then merged with the assembled county level dataset that included ACS poverty counts, Map the Meal Gap food insecurity percentag"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.6
         }
       ]
     }

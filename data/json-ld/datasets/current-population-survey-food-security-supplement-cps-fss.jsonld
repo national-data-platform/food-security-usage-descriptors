@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Current Population Survey Food Security Supplement (CPS-FSS)",
@@ -10,6 +9,11 @@
     "Current Population Survey Food Security Supplement",
     "Cps-fss"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Census Bureau / USDA"
+  },
+  "about": "Public health / nutrition",
   "review": [
     {
       "@type": "Review",
@@ -32,8 +36,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -56,8 +59,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -80,8 +82,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -104,8 +105,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -128,8 +128,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -152,8 +151,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -176,8 +174,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -200,8 +197,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -224,8 +220,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -248,8 +243,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -272,8 +266,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -296,8 +289,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -320,8 +312,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -344,8 +335,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -368,8 +358,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -392,8 +381,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -416,8 +404,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -440,8 +427,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -464,8 +450,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -488,8 +473,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -512,8 +496,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -536,8 +519,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -560,8 +542,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -584,8 +565,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -608,8 +588,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -632,8 +611,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -656,8 +634,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -680,8 +657,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -704,8 +680,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -728,8 +703,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -752,8 +726,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -776,8 +749,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -800,8 +772,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -824,8 +795,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -848,8 +818,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -872,8 +841,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -896,8 +864,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -920,8 +887,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -944,8 +910,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -968,8 +933,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -992,8 +956,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1016,8 +979,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1040,8 +1002,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1064,8 +1025,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1088,8 +1048,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1112,8 +1071,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1136,8 +1094,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1160,8 +1117,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1184,8 +1140,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1208,8 +1163,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1232,8 +1186,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1256,8 +1209,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1280,8 +1232,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1304,8 +1255,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1328,8 +1278,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1352,8 +1301,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1376,8 +1324,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1400,8 +1347,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1424,8 +1370,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1448,8 +1393,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1472,8 +1416,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1496,8 +1439,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1520,8 +1462,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1544,8 +1485,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1568,8 +1508,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1592,8 +1531,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1616,8 +1554,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1640,8 +1577,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1664,8 +1600,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1688,8 +1623,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1712,8 +1646,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1736,8 +1669,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1760,8 +1692,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1784,8 +1715,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1808,8 +1738,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1832,8 +1761,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1856,8 +1784,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1880,8 +1807,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1904,8 +1830,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1928,8 +1853,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1952,8 +1876,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -1976,8 +1899,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2000,8 +1922,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2024,8 +1945,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2048,8 +1968,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2072,8 +1991,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2096,8 +2014,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2120,8 +2037,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2144,8 +2060,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2168,8 +2083,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2192,8 +2106,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2216,8 +2129,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2240,8 +2152,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2264,8 +2175,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2288,8 +2198,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2312,8 +2221,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2336,8 +2244,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2360,8 +2267,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2384,8 +2290,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2408,8 +2313,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2432,8 +2336,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2456,8 +2359,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2480,8 +2382,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2504,8 +2405,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2528,8 +2428,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2552,8 +2451,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2576,8 +2474,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -2600,13 +2497,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Public health / Nutrition surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2629,13 +2520,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Public health / nutrition / socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -2658,13 +2543,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Household food‑security and time‑use research"
+      ]
     },
     {
       "@type": "Review",
@@ -2687,13 +2566,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Constructed by the authors from CPS‑FSS and ATUS (via IPUMS)"
-      },
-      "about": "Household food‑security and time‑use"
+      ]
     },
     {
       "@type": "Review",
@@ -2716,13 +2589,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (CPS) + USDA Food and Nutrition Service (Food Security Supplement)"
-      },
-      "about": "Demography / Social‑policy"
+      ]
     },
     {
       "@type": "Review",
@@ -2745,13 +2612,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, Current Population Survey (CPS) – Food Security Supplement"
-      },
-      "about": "Social science / Public health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2774,13 +2635,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau (monthly CPS) + USDA Economic Research Service (FSS)"
-      },
-      "about": "Food security, socioeconomic demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -2803,13 +2658,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor & Food‑Security Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2832,13 +2681,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2861,13 +2704,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food security / Household surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -2890,13 +2727,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food security, public health, labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2919,13 +2750,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic – Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -2948,13 +2773,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2977,13 +2796,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, public health, economics"
+      ]
     },
     {
       "@type": "Review",
@@ -3006,13 +2819,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Food security, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3035,13 +2842,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Household survey / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3064,13 +2865,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, public health, economics"
+      ]
     },
     {
       "@type": "Review",
@@ -3093,13 +2888,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Social/Economic – Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3122,13 +2911,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey) with Food Security Supplement administered by USDA."
-      },
-      "about": "Social science / Demography / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3151,13 +2934,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food security / social survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3180,13 +2957,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food Security / Demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -3209,13 +2980,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Bureau of Labor Statistics (BLS) Current Population Survey"
-      },
-      "about": "Labor‑market / Food‑security surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -3238,13 +3003,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Survey / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3267,13 +3026,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau (Current Population Survey)"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -3296,13 +3049,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, economics, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3325,13 +3072,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (CPS) and USDA Economic Research Service (FSS)"
-      },
-      "about": "Social/Economic surveys – food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3354,13 +3095,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau and Bureau of Labor Statistics"
-      },
-      "about": "Economics / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3383,13 +3118,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Food security research"
+      ]
     },
     {
       "@type": "Review",
@@ -3412,13 +3141,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Food security research"
+      ]
     },
     {
       "@type": "Review",
@@ -3441,13 +3164,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (CPS Food Security Supplement)"
-      },
-      "about": "Food Security Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3470,13 +3187,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security / Labor statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -3499,13 +3210,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey)"
-      },
-      "about": "Demographics / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3528,13 +3233,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3557,13 +3256,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA) – national survey data."
-      },
-      "about": "Social science / nutrition / food insecurity"
+      ]
     },
     {
       "@type": "Review",
@@ -3586,13 +3279,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, household economics"
+      ]
     },
     {
       "@type": "Review",
@@ -3615,13 +3302,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA – CPS Food Security Supplement."
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -3644,13 +3325,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey)"
-      },
-      "about": "Food Security Measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -3673,13 +3348,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Economics / Public Health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3702,13 +3371,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau/USDA"
-      },
-      "about": "Food security, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3731,13 +3394,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -3760,13 +3417,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3789,13 +3440,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation in the reference list (Jernigan et al., 2017)."
-      },
-      "about": "Public health / nutrition surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -3818,13 +3463,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service."
-      },
-      "about": "Economics / Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -3847,13 +3486,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)"
-      },
-      "about": "Public health / nutrition surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -3876,13 +3509,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Paper text"
-      },
-      "about": "Survey research / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3905,13 +3532,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography and Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -3934,9 +3555,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Food security / public health surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -3959,13 +3578,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security / socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -3988,13 +3601,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / USDA"
-      },
-      "about": "Public health / socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -4017,13 +3624,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / USDA"
-      },
-      "about": "Food security surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -4046,9 +3647,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Social science / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4071,13 +3670,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4100,13 +3693,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Food security / Social economics"
+      ]
     },
     {
       "@type": "Review",
@@ -4129,13 +3716,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Social science, public health, nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4158,13 +3739,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Public health / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -4187,13 +3762,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau (Current Population Survey) with USDA Economic Research Service supplement."
-      },
-      "about": "Public health / nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4216,13 +3785,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Economics / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4245,13 +3808,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food security / Demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -4274,13 +3831,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Background citation (not numbered in the excerpt)."
-      },
-      "about": "Food security survey"
+      ]
     },
     {
       "@type": "Review",
@@ -4303,13 +3854,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Socio‑economic / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4332,13 +3877,7 @@
           "name": "use",
           "ratingValue": 7.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) via CPS"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -4361,13 +3900,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, 2016"
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4390,13 +3923,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4419,13 +3946,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Census Bureau Data Repository (https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/ cps-food-security.html#cpssupps)"
-      },
-      "about": "Demography / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -4448,13 +3969,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4477,13 +3992,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Economic Research Service"
-      },
-      "about": "Food security, public health, economics"
+      ]
     },
     {
       "@type": "Review",
@@ -4506,13 +4015,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau Current Population Survey"
-      },
-      "about": "Public health / Food Assistance"
+      ]
     },
     {
       "@type": "Review",
@@ -4535,13 +4038,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Socio‑economic / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4564,13 +4061,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -4593,13 +4084,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Current Population Survey"
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4622,13 +4107,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Census and U.S. Bureau of Labor Statistics (2001‑2012)"
-      },
-      "about": "Household economics / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4651,13 +4130,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, accessed via the Atlanta Research Data Center (restricted version)."
-      },
-      "about": "Demography / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -4680,13 +4153,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security / demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -4709,9 +4176,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Nutrition, public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -4734,13 +4199,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -4763,13 +4222,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service."
-      },
-      "about": "Food security, national survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -4792,13 +4245,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey) and USDA Economic Research Service"
-      },
-      "about": "Food security / Public health / Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -4821,13 +4268,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Social science, public health, poverty measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -4850,13 +4291,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Minnesota Population Center"
-      },
-      "about": "Demography, economics, public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -4879,13 +4314,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4908,13 +4337,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA, administered with the Current Population Survey"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -4937,13 +4360,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service."
-      },
-      "about": "Public health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -4966,13 +4383,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Current Population Survey"
-      },
-      "about": "Social/Health/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -4995,13 +4406,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau – Current Population Survey Food Security Supplement"
-      },
-      "about": "Labor & Food‑security statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -5024,13 +4429,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Household food‑security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -5053,13 +4452,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Food security, public health, economics"
+      ]
     },
     {
       "@type": "Review",
@@ -5082,13 +4475,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA (via Coleman‑Jensen et al., 2020)."
-      },
-      "about": "Survey research / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5111,13 +4498,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, Bureau of Labor Statistics"
-      },
-      "about": "Economics / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5140,13 +4521,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Food security / labor statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -5169,13 +4544,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau; USDA Food Security Survey Module."
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5198,13 +4567,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Survey / Social‑economic"
+      ]
     },
     {
       "@type": "Review",
@@ -5227,13 +4590,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -5256,13 +4613,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Social/Health – Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -5285,13 +4636,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau; cited via Coleman‑Jensen et al., 2018."
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5314,13 +4659,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -5343,13 +4682,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5372,13 +4705,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5401,13 +4728,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Socio‑economic / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5430,13 +4751,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference citation (doi:10.1080/19320248.2016.1227750)"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5459,13 +4774,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Nord 2006 study within the scoping review"
-      },
-      "about": "Social science / Nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -5488,13 +4797,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)."
-      },
-      "about": "Food security / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -5517,13 +4820,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Economics / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -5546,9 +4843,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / nutrition economics"
+      ]
     },
     {
       "@type": "Review",
@@ -5571,13 +4866,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau and U.S. Department of Agriculture"
-      },
-      "about": "Economics / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5600,13 +4889,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Census Bureau"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -5629,13 +4912,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security / Social surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -5658,13 +4935,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Food security / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5687,13 +4958,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food Security / Household Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -5716,9 +4981,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -5741,13 +5004,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & USDA Economic Research Service"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -5770,13 +5027,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5799,13 +5050,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security, labor economics, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -5828,13 +5073,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey) with Food Security Supplement"
-      },
-      "about": "Social science / Public health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -5857,13 +5096,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (conducted for the USDA Economic Research Service)."
-      },
-      "about": "Labor economics / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -5886,13 +5119,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Food security / Public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -5915,13 +5142,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Current Population Survey"
-      },
-      "about": "Food security / Social statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -5944,13 +5165,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Economics, nutrition, public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -5973,13 +5188,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public policy, economics"
+      ]
     },
     {
       "@type": "Review",
@@ -6002,13 +5211,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, USDA"
-      },
-      "about": "Food security / public health economics"
+      ]
     },
     {
       "@type": "Review",
@@ -6031,13 +5234,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Social‑science / Food‑security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -6060,13 +5257,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Food security / Survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -6089,13 +5280,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation of prior study; no data from CPS‑FSS were collected or analyzed in the current paper."
-      },
-      "about": "Public health / Survey research"
+      ]
     },
     {
       "@type": "Review",
@@ -6117,1572 +5302,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 2.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture, CPS-FSS December 2017"
-      },
-      "about": "Public health / nutrition"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The household‑level food insecurity outcomes from the CPS‑FSS were linked to the state‑specific minimum wage values for each December of the study years (2005‑2022) to assess the effect of wage changes on food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "State Minimum Wage and Food Insecurity Among US Households With Children",
-        "identifier": "10.1001/jamanetworkopen.2025.2043",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187020275"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State Minimum Wage Dataset (legal sources, logged inflation‑adjusted wage by state and year)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_id\",\"year\"]",
-        "methodology": "The researchers linked the household‑level food insecurity records from the CPS‑FSS to the state minimum wage values by matching each household’s reported state of residence and survey year (December) with the corresponding inflation‑adjusted minimum wage for that state in the same calendar year. Th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑specific time‑varying confounders were incorporated into the regression models alongside household characteristics, requiring a join of CPS‑FSS household records with the state‑level socioeconomic and policy variables for each year.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "State Minimum Wage and Food Insecurity Among US Households With Children",
-        "identifier": "10.1001/jamanetworkopen.2025.2043",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187020275"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level covariates from University of Kentucky Center for Poverty Research (unemployment rate, real income per capita, poverty rate, Medicaid expansion status, Earned Income Tax Credit generosity, TANF/SNAP benefit caps)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\",\"survey_year\"]",
-        "methodology": "The researchers merged the household‑level CPS‑FSS data with state‑level socioeconomic and policy variables by aligning each record on the state identifier and survey year. The CPS‑FSS provides a state code and the interview month (December) for each household, while the University of Kentucky Cente"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a matched household sample by linking CPS‑FSS observations from year t with ATUS observations from year t + 1. This produced a combined dataset of 53,491 households that contain both food‑security information and 24‑hour time‑use diaries.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity and time use in elderly vs. non‐elderly: An exploratory analysis",
-        "identifier": "10.1002/aepp.13275",
-        "url": "https://app.dimensions.ai/details/publication/pub.1147386484"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Time Use Survey (ATUS)",
-        "joinType": "merge",
-        "joinKeys": "[\"household_serial_number\",\"year\"]",
-        "methodology": "The authors extracted CPSFSS and ATUS public use files from IPUMS, filtered records to household heads or spouses, created a binary food insecurity indicator, transformed ATUS 24 hour diaries into weekly totals for meal preparation, grocery shopping, non grocery shopping and eating. Because ATUS rep"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors link each child‑level observation from the CPS‑FSS (2001‑2017) to the corresponding state‑year value of oil‑and‑gas employee compensation per capita in order to estimate the effect of the fracking boom on child food‑security outcomes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Resource booms, state economic conditions, and child food security",
-        "identifier": "10.1002/aepp.13327",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151581478"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level oil and gas employee compensation per capita (constructed from BEA compensation data and Census population counts)",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"year\"]",
-        "methodology": "The authors first extracted child level records from the CPS Food Security Supplement (2001‑2017) using IPUMS. They also constructed a state‑year panel of oil and gas employee compensation per capita from BEA and Census data. Both datasets contain a state identifier and a calendar year. A determinis"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors map the eight child‑specific questionnaire items from the CPS‑FSS onto USDA definitions (food secure, low food security, very low food security) to create binary and score outcome variables.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Resource booms, state economic conditions, and child food security",
-        "identifier": "10.1002/aepp.13327",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151581478"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA food‑security classification rules",
-        "joinType": "integration",
-        "joinKeys": "[\"child_id\",\"household_id\",\"survey_year\"]",
-        "methodology": "The authors first extracted the eight child‑specific food‑security items from the CPS‑FSS micro‑data set for each child respondent. After cleaning the raw responses (re‑coding \"yes\"/\"no\" answers as binary, handling missing values, and applying survey weights), they created a summed score ranging fro"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare food‑insecurity prevalence and odds ratios derived from CPS‑FSS with those obtained from NHIS, aligning estimates across the two surveys for the same reference periods (12‑month and 30‑day). This constitutes a multi‑dataset analytical combination rather than a record‑level merge.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among those with disability: Cross‐survey comparison of estimates and implications for future research",
-        "identifier": "10.1002/aepp.13336",
-        "url": "https://app.dimensions.ai/details/publication/pub.1153365239"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health Interview Survey (NHIS)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "The authors performed an analytical combination of summary statistics from the CPS‑FSS and NHIS rather than a record‑level merge. They extracted weighted prevalence estimates and odds ratios for food insecurity (FI) by disability status from each survey, aligning the reference periods (12‑month and "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study presents weighted prevalence of food insecurity for households with disability from CPS‑FSS alongside individual‑level estimates from NHANES, and conducts cross‑survey odds‑ratio comparisons. The two datasets are combined at the analysis level to assess consistency of findings.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among those with disability: Cross‐survey comparison of estimates and implications for future research",
-        "identifier": "10.1002/aepp.13336",
-        "url": "https://app.dimensions.ai/details/publication/pub.1153365239"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "The study did not perform a physical data merge between the CPS‑FSS and NHANES datasets. Instead, each survey was analyzed separately using its own sampling weights and design variables. Weighted prevalence estimates of food insecurity were calculated for households (CPS‑FSS) and individuals (NHANES"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Throughout the Introduction and Discussion, the authors compare their observed food‑insecurity prevalence (≈29%) with national rates derived from the CPS‑FSS (10.2% in 2021). While the two datasets are not merged, the analysis combines them conceptually to contextualize the college‑student findings ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Adapting the USDA Food Security Survey Module for use with college students: Can we improve model fit?",
-        "identifier": "10.1002/aepp.13425",
-        "url": "https://app.dimensions.ai/details/publication/pub.1169263560"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Penn State student AFSSM survey data",
-        "joinType": "comparison/combination",
-        "joinKeys": "[\"year\",\"survey_measure\"]",
-        "methodology": "The authors extracted the national food insecurity prevalence from the Current Population Survey Food Security Supplement for the year 2021 and extracted the prevalence from the Penn State student survey. Both estimates were based on the 10‑item adult food security module with a 30‑day reference per"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The CPS‑FSS is used as the donor data set to estimate a logistic model of household food insecurity. The fitted model is then applied to the much larger ACS sample (the recipient) to impute food‑security status for each ACS household.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "identifier": "10.1002/aepp.13441",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) Public‑Use Microdata Sample 2017‑2019",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors performed a cross‑survey multiple imputation (CSMI) to integrate the CPS‑FSS donor sample with the ACS recipient sample. First, they estimated a logistic regression model of household food insecurity using the CPS‑FSS (2016‑2019) and a set of covariates that are also available in the ACS"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors combine CPS‑FSS household-level food security responses with state‑level EITC policy variables to construct a panel dataset for difference‑in‑differences analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hungry no More? The Joint Impact of Minimum Wages and the Earned Income Tax Credit on Food Insecurity",
-        "identifier": "10.1002/hec.70001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1189561723"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State Earned Income Tax Credit (EITC) data from IRS annual reports",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\",\"year\"]",
-        "methodology": "The authors linked the household‑level observations from the Current Population Survey Food Security Supplement (CPS‑FSS) with state‑level Earned Income Tax Credit (EITC) policy variables obtained from IRS annual reports. The merge was performed by matching each CPS record to the corresponding state"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Minimum wage values are merged with CPS‑FSS observations to create a state‑year panel where each household is linked to the real minimum wage in its state and year.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hungry no More? The Joint Impact of Minimum Wages and the Earned Income Tax Credit on Food Insecurity",
-        "identifier": "10.1002/hec.70001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1189561723"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State minimum wage data from the Bureau of Labor Statistics (BLS)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\",\"survey_year\"]",
-        "methodology": "The researchers combined the Current Population Survey Food Security Supplement (CPS‑FSS) data with state minimum wage information from the Bureau of Labor Statistics by creating a panel at the state‑year level. Each household record in CPS‑FSS was assigned the real minimum wage applicable to its re"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors link each household record from the CPS‑FSS to the Medicaid eligibility rule that applies to the child’s age, state of residence, and survey year. This creates the key treatment variable – whether the household contains a Medicaid‑eligible child.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Medicaid generosity and food hardship among children",
-        "identifier": "10.1002/pam.22557",
-        "url": "https://app.dimensions.ai/details/publication/pub.1166624456"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level Medicaid income‑eligibility thresholds (Kaiser Family Foundation State Health Facts)",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"year\",\"age\"]",
-        "methodology": "The authors merged the household‐level CPS‑FSS records with state‑level Medicaid income‑eligibility thresholds. For each child in a household they identified the applicable rule by matching on the state of residence, the survey year, and the child’s age. Household income was converted to a midpoint "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "For each observation the authors attach a suite of state‑level covariates – unemployment rate, minimum wage, governor party, EITC rate, median earnings, rental prices, and Medicaid beneficiary counts – in order to control for the broader policy environment.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Medicaid generosity and food hardship among children",
-        "identifier": "10.1002/pam.22557",
-        "url": "https://app.dimensions.ai/details/publication/pub.1166624456"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level economic and policy data (University of Kentucky Center for Poverty Research National Welfare Database, Tax Policy Center EITC rates, BLS Local Area Unemployment Statistics, American Community Survey earnings and rental prices)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"year\"]",
-        "methodology": "The authors first extracted household level records from the CPS Food Security Supplement for each December survey year. State level covariates were obtained from the National Welfare Database, Tax Policy Center, BLS Local Area Unemployment Statistics and ACS. Both datasets contain a common geograph"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors transform the CPS‑reported income bins into midpoint, minimum, and maximum income values and then compare these to the Medicaid eligibility thresholds to determine eligibility.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Medicaid generosity and food hardship among children",
-        "identifier": "10.1002/pam.22557",
-        "url": "https://app.dimensions.ai/details/publication/pub.1166624456"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household income bin mid‑point calculations (derived from CPS income bins)",
-        "joinType": "combination",
-        "joinKeys": "[\"state\",\"year\",\"child_age\",\"household_id\"]",
-        "methodology": "The authors first transformed the CPS income variable from categorical bins to numeric estimates using the bin midpoint, minimum and maximum. State‑level Medicaid eligibility thresholds for children were obtained for each state, year and child age. An eligibility indicator was created by comparing t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors pool the two subsamples of the April 1999 CPS‑FSS (standard and experimental split‑ballot) with the TCS items to estimate Rasch calibration parameters for a combined set of food‑security questions, enabling comparable thresholds between the TCS and the CPS‑FSS.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Rasch Analyses of Very Low Food Security among Households and Children in the Three City Study",
-        "identifier": "10.1002/soej.12081",
-        "url": "https://app.dimensions.ai/details/publication/pub.1027657425"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Three City Study (TCS)",
-        "joinType": "integration",
-        "joinKeys": "[\"item_text\",\"question_identifier\"]",
-        "methodology": "The authors combined the two subsamples of the April 1999 CPS‑FSS (the standard split‑ballot sample and the experimental split‑ballot sample) with the food‑hardship items from the Three City Study (TCS). They first identified overlapping questionnaire items by matching item wording and content, noti"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The text mentions the “Recent USDA Economic Research Service Population Survey cites… using data from the Current Population Survey Food Security Supplement” and later discusses CTK participants’ food‑insecurity levels, implying that CPS‑FSS data were merged with CTK data to contextualize local find",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hospital-Based, Community Teaching Kitchen Integrates Diabetes Education, Culinary Medicine, and Food Assistance: Case Study During the COVID-19 Pandemic",
-        "identifier": "10.1007/s11606-022-07931-5",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155892271"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Providence CTK internal patient and food‑insecurity data",
-        "joinType": "fusion",
-        "joinKeys": "[\"year\",\"zip_code\"]",
-        "methodology": "The researchers first extracted national food insecurity estimates from the Current Population Survey Food Security Supplement and the local patient level data from the Providence teaching kitchen database. Both sources were filtered to the same calendar years and geographic units. A common geograph"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.6
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the methods section the authors augment household‑level CPS‑FSS records with characteristics of the immigrants’ source countries (population, education levels, number of immigrants admitted) to test whether these country‑level factors explain heterogeneity in food‑security outcomes across immigra",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among immigrant populations in the United States",
-        "identifier": "10.1007/s12571-022-01322-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151706316"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Country‑of‑origin socioeconomic data (e.g., national population size, average educational attainment, historical immigration admission quotas)",
-        "joinType": "integration",
-        "joinKeys": "[\"country_of_origin_code\",\"survey_year\"]",
-        "methodology": "The authors linked each household record from the CPS Food Security Supplement to country‑of‑origin socioeconomic indicators (population size, average education level, historic immigration admission quotas). The merge was performed by matching the immigrant’s reported country of birth (or country co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "When constructing the Coarsened Exact Matching (CEM) sample, the authors match immigrant households to native households on exact county of residence, as well as survey year and month, to ensure comparable local food‑access conditions.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among immigrant populations in the United States",
-        "identifier": "10.1007/s12571-022-01322-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151706316"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "County‑level geographic identifiers (used to match on county, year and month of survey)",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_fips\",\"survey_year\",\"survey_month\"]",
-        "methodology": "The researchers performed a fusion of the CPS‑FSS microdata with a county‑level geographic file. First the county identifiers, survey year and month were harmonized between the two sources (e.g., converting county names to FIPS codes, standardizing year‑month formats). An exact key‑based join was th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "National and state CPS‑FSS estimates are used as benchmarks to validate the newly constructed tract‑level HLB food‑insecurity measure for Washington, D.C.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A novel approach to assessing food insecurity for small geographic areas using household living budgets",
-        "identifier": "10.1007/s12571-024-01494-5",
-        "url": "https://app.dimensions.ai/details/publication/pub.1181289696"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Census‑tract level HLB‑based food‑insecurity estimates",
-        "joinType": "comparison/combination",
-        "joinKeys": "[\"state_fips\"]",
-        "methodology": "The authors first obtained CPS‑FSS national and state food‑insecurity rates for the target year. They then generated tract‑level HLB food‑insecurity estimates using public ACS, BEA RPP and USDA price data. To compare the two sources they aggregated the tract estimates to the state level using the st"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a historical food‑security measure by matching each HPS respondent to two CPS‑FSS respondents using propensity‑score matching on a set of common demographic variables. The matched CPS records were then merged with the HPS file to provide a pre‑pandemic food‑security baseline.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "identifier": "10.1007/s40615-022-01447-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey (HPS)",
-        "joinType": "integration",
-        "joinKeys": "[\"race\",\"ethnicity\",\"gender\",\"age\",\"marital_status\",\"employment_status\",\"household_size\",\"state\",\"income\"]",
-        "methodology": "The authors constructed a pre‑pandemic food security baseline by linking each Household Pulse Survey respondent to two individuals from the 2018 Current Population Survey Food Security Supplement. Because no unique identifiers exist across the two surveys, they used propensity score matching on a se"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The author links the food‑security supplement responses to the core CPS questionnaire to obtain household‑level covariates (e.g., number of children, education, employment, SNAP receipt). This is required to construct the analytic dataset used in the linear probability models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities and Determinants of Food Insecurity for New Mexico’s Unique Populations",
-        "identifier": "10.1007/s41996-023-00113-3",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155949241"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey basic monthly data (December CPS core)",
-        "joinType": "integration",
-        "joinKeys": "[\"HHID\",\"YEAR\",\"MONTH\"]",
-        "methodology": "The author extracted the December CPS core files and the CPS Food Security Supplement files for each survey year 2000‑2018. Both files contain the same household identifier HHID together with YEAR and MONTH variables. After loading the two datasets, the variables were standardized, numeric formats a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑level poverty and income statistics from SAIPE and QuickFacts are cited to contextualize New Mexico’s poverty and food‑insecurity rates alongside the CPS‑FSS analysis. The author uses these external aggregates to augment interpretation of the CPS results.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities and Determinants of Food Insecurity for New Mexico’s Unique Populations",
-        "identifier": "10.1007/s41996-023-00113-3",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155949241"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census Bureau Small Area Income and Poverty Estimates (SAIPE) / Census QuickFacts",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_name\",\"year\"]",
-        "methodology": "The analyst first downloaded the CPS Food Security Supplement microdata for New Mexico and the SAIPE/QuickFacts state level tables. Both sources contain a common geographic identifier (state name) and a common temporal identifier (year). The data were loaded into a pandas data frame. State names wer"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household‑level food insecurity outcomes from the CPS were linked to state‑year EITC generosity indicators to assess policy effects.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
-        "identifier": "10.1016/j.amepre.2025.04.007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187737700"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State Earned Income Tax Credit (EITC) policy data (legal sources)",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"year\"]",
-        "methodology": "The researchers linked household‑level food insecurity observations from the Current Population Survey (CPS) Food Security Supplement with state‑year Earned Income Tax Credit (EITC) policy indicators. The join was performed by matching on two key variables: the respondent's state of residence and th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis controlled for state-specific confounders such as unemployment rate, real income per capita, poverty rate, Medicaid expansion, TANF/SNAP benefits, and minimum wage by merging these variables with the CPS household records.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
-        "identifier": "10.1016/j.amepre.2025.04.007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187737700"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State-level time‑varying covariates from the University of Kentucky Center for Poverty Research",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_id\",\"survey_year\"]",
-        "methodology": "The researchers merged the Current Population Survey (CPS) Food Security Supplement household records with state‑level time‑varying covariates from the University of Kentucky Center for Poverty Research by aligning observations on common geographic and temporal identifiers. Specifically, each CPS re"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The CPS supplement incorporates the USDA’s standardized 18‑item food security questionnaire to assess household food insecurity status.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "State Earned Income Tax Credit and Food Security: Results Among Economically At-Risk Households With Children",
-        "identifier": "10.1016/j.amepre.2025.04.007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187737700"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Department of Agriculture 18‑item food insecurity measure",
-        "joinType": "combination",
-        "joinKeys": "[\"state_code\",\"year\"]",
-        "methodology": "The researchers combined the Current Population Survey (CPS) Food Security Supplement household records with state‑level Earned Income Tax Credit (EITC) policy data by aligning each CPS observation to the corresponding state and tax year. The CPS dataset provides a unique identifier for each househo"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors longitudinally linked household members who completed the TUS at Time 1 to their responses to the FSS at Time 2, ensuring a 10‑13 month interval between the two supplements.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of smoking cessation on household food security",
-        "identifier": "10.1016/j.annepidem.2023.01.007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154571084"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Tobacco Use Supplement (TUS)",
-        "joinType": "integration",
-        "joinKeys": "[\"panel_id\",\"person_id\",\"age\",\"sex\",\"race_ethnicity\"]",
-        "methodology": "The authors used the IPUMS CPS linking infrastructure to longitudinally connect household members who completed the Tobacco Use Supplement (TUS) at Time 1 with their responses to the Food Security Supplement (FSS) at Time 2. The linkage was performed by matching unique panel identifiers and person i"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The author creates a “unique, nationally representative dataset linking households with children across the December 2008 CPS‑FSS and the January 2009 CPS‑FDIC”. Households are matched across the two adjacent CPS months so that each record contains both food‑security measures (from the FSS) and alte",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Non-bank credit and food hardship: The association between payday loans, pawn loans, rent-to-own contracts and food hardship in households with children",
-        "identifier": "10.1016/j.childyouth.2023.107418",
-        "url": "https://app.dimensions.ai/details/publication/pub.1167282998"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey FDIC‑sponsored supplement (CPS‑FDIC) – January 2009",
-        "joinType": "merge",
-        "joinKeys": "[\"household_serial_number\",\"interview_month\",\"interview_year\"]",
-        "methodology": "The author linked the December 2008 CPS Food Security Supplement with the January 2009 CPS FDIC supplement by using the CPS longitudinal household identifier. The two files were first filtered to retain only records that contain children. The household serial number together with the interview month"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the regression specifications the author controls for “state characteristics” including the state‑level unemployment rate in 2008, the maximum state EITC rate for a family with two dependents in 2008, and the state minimum wage. These variables must be merged onto the household‑level CPS data usi",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Non-bank credit and food hardship: The association between payday loans, pawn loans, rent-to-own contracts and food hardship in households with children",
-        "identifier": "10.1016/j.childyouth.2023.107418",
-        "url": "https://app.dimensions.ai/details/publication/pub.1167282998"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level contextual data (2008 state unemployment rates, maximum state Earned Income Tax Credit (EITC) rates, and state minimum wage levels)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_of_residence\",\"year\"]",
-        "methodology": "The household level CPS file was first cleaned to ensure a consistent state identifier. The state of residence variable was recoded to a two letter abbreviation and matched to the state level contextual file that used the same coding. Both files were restricted to the year 2008. A left join was perf"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a county‑year panel by matching the combined state‑and‑county grocery tax rate to each CPS‑FSS respondent’s county of residence and survey year. This merged dataset is used for the main econometric analysis linking tax rates to the probability of food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Putting grocery food taxes on the table: Evidence for food security policy-makers",
-        "identifier": "10.1016/j.foodpol.2021.102098",
-        "url": "https://app.dimensions.ai/details/publication/pub.1138035068"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "County‑level grocery tax rates (2006‑2017)",
-        "joinType": "merge",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "The researchers built a county‑year panel by first standardizing the county identifiers in both datasets to a common coding system (FIPS). They also aligned the calendar year variable so that each observation represented the same fiscal year. After these steps the two files were merged on the exact "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The instrumental‑variable probit model uses four SNAP‑policy variables as instruments. These policy variables are collected from state‑level administrative sources and are merged with the CPS‑FSS panel (by state and year) to serve as exogenous instruments in the estimation of the effect of grocery t",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Putting grocery food taxes on the table: Evidence for food security policy-makers",
-        "identifier": "10.1016/j.foodpol.2021.102098",
-        "url": "https://app.dimensions.ai/details/publication/pub.1138035068"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level SNAP policy variables (eligibility criteria, online application, reporting options, outreach spending)",
-        "joinType": "join",
-        "joinKeys": "[\"state\",\"year\"]",
-        "methodology": "The researchers aligned the state level SNAP policy dataset with the CPS FSS panel by matching on state identifier and survey year. Both files were first cleaned to ensure consistent two‑letter state codes, numeric year fields, and removal of rows with missing identifiers. After standardization the "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Figures and discussion compare states’ food‑insecurity rankings (based on CPS‑FSS averages) with whether those states impose grocery taxes. The authors fuse the aggregated food‑insecurity statistics with the tax status of each state to illustrate geographic patterns.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Putting grocery food taxes on the table: Evidence for food security policy-makers",
-        "identifier": "10.1016/j.foodpol.2021.102098",
-        "url": "https://app.dimensions.ai/details/publication/pub.1138035068"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "County‑level grocery tax rates (2006‑2017)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"state_abbreviation\"]",
-        "methodology": "The researchers first extracted the county‑level grocery tax panel (2006‑2017) and the state‑level food‑insecurity prevalence estimates (CPS‑FSS three‑year averages 2014‑2016). Each dataset was cleaned, standardized and enriched with geographic identifiers (state abbreviation, state FIPS code and co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the regression specifications, SNAP participation (or benefit amount) is included as a control alongside the grocery‑tax variable. Both variables originate from the CPS‑FSS, but SNAP is treated as a distinct dataset (administrative SNAP records) merged with the tax panel for analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Putting grocery food taxes on the table: Evidence for food security policy-makers",
-        "identifier": "10.1016/j.foodpol.2021.102098",
-        "url": "https://app.dimensions.ai/details/publication/pub.1138035068"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "County‑level grocery tax rates (2006‑2017)",
-        "joinType": "combination",
-        "joinKeys": "[\"FIPS_code\",\"year\"]",
-        "methodology": "The researchers built a county year panel by first cleaning the tax data and the CPS FSS data. County identifiers were standardized to Federal Information Processing Standards (FIPS) codes and the survey year was extracted. After ensuring both datasets used the same geographic and temporal granulari"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors merge individual‑level CPS‑FSS data (household food insecurity and SNAP participation) with state‑level policy indicators collected for the year preceding the survey to identify instrumental variables for SNAP participation.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Supplemental Nutrition Assistance Program and food insecurity among families with children",
-        "identifier": "10.1016/j.jpolmod.2016.05.003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1041904252"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State SNAP policy variables (e.g., proportion of SNAP units with earnings, simplified reporting, broad‑based categorical eligibility)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_id\",\"year_minus_one\"]",
-        "methodology": "The authors merged the household‑level Current Population Survey Food Security Supplement (CPS‑FSS) records with state‑level SNAP policy variables collected for the calendar year preceding the survey interview. Each CPS observation contains a respondent’s state of residence and the survey year; thes"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The sample is restricted to SNAP‑eligible husband‑wife families with children, where eligibility is determined by applying the income threshold to CPS‑FSS household income data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Supplemental Nutrition Assistance Program and food insecurity among families with children",
-        "identifier": "10.1016/j.jpolmod.2016.05.003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1041904252"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SNAP eligibility criteria derived from income thresholds (130% of federal poverty level)",
-        "joinType": "combination",
-        "joinKeys": "[\"household_id\",\"family_type_indicator\",\"income_variable\"]",
-        "methodology": "The study merged the Current Population Survey Food Security Supplement (CPS‑FSS) dataset with a derived SNAP eligibility indicator based on federal poverty level thresholds. Household records from CPS‑FSS were filtered to include only husband‑wife families with children. For each household, annual "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite CPS‑FSS as the source of the HFSSM and reference national prevalence estimates to contextualize their findings, implying that they juxtaposed their SEARCH‑derived prevalence with CPS‑FSS benchmarks.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Properties of the Household Food Security Survey Module Scale in Young Adults with Diabetes",
-        "identifier": "10.1016/j.tjnut.2024.01.028",
-        "url": "https://app.dimensions.ai/details/publication/pub.1168489589"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SEARCH participant data with HFSSM responses",
-        "joinType": "comparison/secondary integration",
-        "joinKeys": "[\"year\",\"age_group\",\"diabetes_type\"]",
-        "methodology": "The authors performed a secondary integration by comparing prevalence estimates from the national Current Population Survey Food Security Supplement (CPS FSS) with the prevalence derived from the SEARCH cohort. No individual level identifiers were shared, so the join was conducted at the aggregate l"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare the prevalence of marginal food insecurity among Army households before the pandemic with estimates from the CPS‑Food Security Supplement to assess similarity with civilian households.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among active duty soldiers and their families during the coronavirus disease 2019 pandemic",
-        "identifier": "10.1017/s1368980022000192",
-        "url": "https://app.dimensions.ai/details/publication/pub.1144940543"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Behavioral Health Epidemiological Consultation survey of active duty Army households (June 2020)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors performed a comparative integration by aggregating prevalence estimates from two independent surveys: the Behavioral Health Epidemiological Consultation survey of active duty Army households (June 2020) and the 2019 Current Population Survey – Food Security Supplement for civilian househ"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Sections 3‑4 of the questionnaire explicitly adapted questions from the CPS Food Security Supplement to assess provider perceptions of participants’ food security; these external items were merged with the internally collected survey responses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Professionals’ Perceptions of Food Insecurity Among Their Low-Income Clients",
-        "identifier": "10.1080/01488376.2018.1532942",
-        "url": "https://app.dimensions.ai/details/publication/pub.1111308553"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "IDA program provider survey data",
-        "joinType": "integration",
-        "joinKeys": "[\"null\"]",
-        "methodology": "The integration was performed by manually merging the external food‑security items from the U.S. Current Population Survey Food Security Supplement into the internally collected IDA program provider questionnaire. Researchers identified the corresponding CPS questions (e.g., food sufficiency screene"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare the prevalence of food‑insecure households (from CPS‑FSS) with the proportion of congregations providing food (from NCS) across three time points (1998, 2006, 2012). This requires aligning the two independent national surveys by year to produce parallel trend analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "National Trends in Food Insecurity and Congregation-Based Food Provision between 1998 and 2012",
-        "identifier": "10.1080/03670244.2019.1598979",
-        "url": "https://app.dimensions.ai/details/publication/pub.1113378957"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Congregations Study (NCS)",
-        "joinType": "integration",
-        "joinKeys": "[\"year\"]",
-        "methodology": "The researchers aligned the two independent national surveys by matching the survey collection years (1998, 2006, and 2012). For each year they calculated aggregate prevalence estimates: the percentage of food‑insecure households from the CPS‑FSS and the percentage of congregations reporting food pr"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compared item severity parameters and discrimination statistics from their Chinese‑translated HFSSM to those derived from the CPS Food Security Supplement to assess comparability of the measure.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The San Francisco Chinese Food Security Module: Validation of a Translation of the US Household Food Security Survey Module",
-        "identifier": "10.1080/19320248.2014.962776",
-        "url": "https://app.dimensions.ai/details/publication/pub.1004806015"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "San Francisco Chinese Food Security Module (survey data from 483 participants)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors performed a statistical integration rather than a record‑level merge. Item severity and discrimination parameters estimated from the San Francisco Chinese Food Security Module (derived via Rasch/item response theory on the 483 respondents) were compared with the corresponding parameters "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare the 46.8 % food‑insecurity prevalence observed in their UW sample to the 10.5 % prevalence reported for the U.S. population in the CPS‑FSS, using the national CPS‑FSS figures as a benchmark.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Every Poke Nourished: Assessing University of Wyoming Students’ Experiences with and Priorities for Addressing Food Insecurity",
-        "identifier": "10.1080/19320248.2024.2343309",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170770473"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "University of Wyoming student survey (2020)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors compared the aggregate food insecurity prevalence from the UW student survey with the national prevalence reported in the CPS FSS. Because no individual level identifiers were shared between the two sources, a record level join was not performed. Instead the two summary statistics were e"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors performed a chi‑square goodness‑of‑fit test comparing the observed 27.1% food insecurity prevalence in their Filipino sample to the 1.6% Asian‑only rate reported by the CPS for Clark County. This required merging the primary survey results with external CPS data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "An Evaluation of Food Insecurity and Its Correlates in a Filipino American Study Sample Residing in Clark County, Nevada",
-        "identifier": "10.1089/heq.2019.0074",
-        "url": "https://app.dimensions.ai/details/publication/pub.1122014966"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Filipino American survey data (USDA Short Form Food Security Module administered to 192 participants)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors did not perform a record‑level merge of the two datasets. Instead they extracted the aggregate food insecurity prevalence for Filipino respondents (27.1%) from their primary survey and obtained the published Asian‑only prevalence (1.6%) from the CPS Food Security Supplement for Clark Cou"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "For each household’s census tract, the distance to the nearest Walmart Supercenter is computed using the store location dataset; this distance variable becomes the key explanatory variable in the regression models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Walmart Supercenters Improve Food Security?",
-        "identifier": "10.1093/aepp/ppy023",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106860255"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Walmart Supercenter entry dates and locations",
-        "joinType": "fusion",
-        "joinKeys": "[\"census_tract_id\",\"year\"]",
-        "methodology": "The researchers merged the restricted CPS‑FSS household data with Walmart Supercenter location data by linking each household to its census tract identifier. Using the Census TIGER/Line shapefiles, they assigned a geographic centroid (latitude and longitude) to every tract. Store locations were also"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household respondents are linked to their census‑tract by matching the restricted CPS‑FSS geographic identifiers with the TIGER/Line shapefile centroids, enabling calculation of distances to Walmart stores.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Walmart Supercenters Improve Food Security?",
-        "identifier": "10.1093/aepp/ppy023",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106860255"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census Bureau TIGER/Line Shapefiles (census tract geographic data)",
-        "joinType": "integration",
-        "joinKeys": "[\"census_tract_id\",\"restricted_geographic_identifier\"]",
-        "methodology": "The authors used the restricted CPS‑FSS geographic identifiers (census tract IDs) to link each household respondent to its corresponding census‑tract polygon in the TIGER/Line shapefile. For each tract, the internal point (centroid) latitude and longitude were extracted from the TIGER/Line data. The"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Additional distance variables to the nearest Sam’s Club, Neighborhood Market, and Costco are constructed using the same geodetic method and included as control covariates in the regression models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Walmart Supercenters Improve Food Security?",
-        "identifier": "10.1093/aepp/ppy023",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106860255"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Store location datasets for Sam’s Club, Walmart Neighborhood Market, and Costco",
-        "joinType": "combination",
-        "joinKeys": "[\"census_tract_id\",\"year\"]",
-        "methodology": "The researchers merged the restricted CPS‑FSS household panel data with geographic store location datasets for Sam’s Club, Walmart Neighborhood Market, and Costco using a spatial join based on census tract identifiers. First, the CPS‑FSS records were linked to Census TIGER/Line shapefiles to obtain "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The economic control variables include “median income in the census tract,” which is derived by joining the CPS‑FSS household records with tract‑level income aggregates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Walmart Supercenters Improve Food Security?",
-        "identifier": "10.1093/aepp/ppy023",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106860255"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Median income at the census tract level",
-        "joinType": "integration",
-        "joinKeys": "[\"census_tract_id\"]",
-        "methodology": "The researchers used the restricted version of the CPS‑FSS household panel which contains precise census tract identifiers for each respondent. These tract IDs were matched to a separate dataset containing median income values aggregated at the census‑tract level. The join was performed as an exact "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare the prevalence of marginal food insecurity observed in their survey (32.8%) with national estimates from the USDA CPS‑FSS (17.9% marginally insecure in 2019) to contextualize findings.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Association between Food Insecurity, Mental Health, and Intentions to Leave the US Army in a Cross-Sectional Sample of US Soldiers",
-        "identifier": "10.1093/jn/nxab089",
-        "url": "https://app.dimensions.ai/details/publication/pub.1136273490"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "US Army installation cross‑sectional survey (primary study dataset)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors did not perform a record‑level merge between the Army survey data and the CPS‑FSS dataset. Instead they used a descriptive statistical comparison: prevalence of marginal food insecurity was calculated from the Army cross‑sectional survey (32.8%) and then compared to the published nationa"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors construct an analytic file that contains the food‑security items from the December supplement together with the respondent’s age, sex, race/ethnicity, education, and other covariates that come from the core CPS monthly interview. This join is required to apply the panel‑weight and to con",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
-        "identifier": "10.1093/poq/nfae001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170042926"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Core CPS basic‑monthly questionnaire (demographic, labor‑force, and household variables)",
-        "joinType": "join",
-        "joinKeys": "[\"cpsid_hh\",\"cpsid_person\",\"year\",\"month\"]",
-        "methodology": "The authors merged the food security supplement records with the core monthly CPS records using the CPS household and person identifiers and the survey year and month. An inner merge was performed after cleaning and restricting to households with complete supplement and core data. The merge was exec"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All analyses are weighted by the IPUMS‑provided panel weight. The weight file is a separate data object that must be merged with the respondent‑level FSS data before any descriptive or regression analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
-        "identifier": "10.1093/poq/nfae001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170042926"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "IPUMS‑provided panel weight variables",
-        "joinType": "merge",
-        "joinKeys": "[\"CPSIDP\",\"YEAR\",\"MONTH\"]",
-        "methodology": "The panel weight file was merged with the CPS‑FSS respondent records prior to any descriptive or regression analysis. The merge was performed as an exact, one‑to‑one join on the unique person identifier supplied by IPUMS (CPSIDP) together with the survey year (YEAR) and month (MONTH) to ensure that "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study builds a longitudinal dataset that stacks 17 years of CPS‑FSS data and then links each household/person to its record in the prior (or subsequent) year to create the “experienced” vs. “inexperienced” groups.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
-        "identifier": "10.1093/poq/nfae001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170042926"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Longitudinal panel identifier linking the same household across consecutive years",
-        "joinType": "fusion",
-        "joinKeys": "[\"panel_id\",\"person_id\",\"survey_year\"]",
-        "methodology": "The researchers first extracted the annual CPS Food Security Supplement files for each year from 2003 to 2019 using the IPUMS‑CPS extraction tool. Each yearly file was appended to create a single stacked dataset containing one record per household‑person per survey month. A separate longitudinal pan"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To translate the percentage‑point bias into an absolute number of households and people, the authors combine their CPS‑based bias estimate with USDA‑published counts of total U.S. households and population.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
-        "identifier": "10.1093/poq/nfae001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170042926"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA official national food‑insecurity prevalence figures and population totals (e.g., 130 million households, 325 million people)",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors first estimated the panel‑conditioning bias as a difference in percentage points between the treatment (experienced) and control (inexperienced) groups using CPS‑FSS data. To express this bias in absolute terms they then combined the estimated percentage‑point bias with USDA published co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors extracted household‑level data from the CPS‑FSS and the concurrent monthly core CPS, then obtained these records through IPUMS, which provides a harmonized version of CPS over time. This step merges the raw CPS survey data with the IPUMS platform to create a consistent, longitudinal data",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children",
-        "identifier": "10.1093/sf/soz020",
-        "url": "https://app.dimensions.ai/details/publication/pub.1112419761"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Integrated Public Use Microdata Series (IPUMS) harmonized CPS files",
-        "joinType": "merge",
-        "joinKeys": "[\"caseid\",\"year\",\"state\"]",
-        "methodology": "The authors first extracted household‑level records from the CPS Food Security Supplement (CPS‑FSS) and the concurrent monthly core CPS survey. These raw CPS files were accessed through the Integrated Public Use Microdata Series (IPUMS), which provides harmonized CPS data across years. Using the uni"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To test the relationship between state-level cash assistance reach (TANF‑to‑poverty ratio) and household food insecurity, the authors merged the individual‑household CPS‑FSS dataset with state‑level TANF coverage statistics. This integration enables a multilevel analysis linking household outcomes t",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children",
-        "identifier": "10.1093/sf/soz020",
-        "url": "https://app.dimensions.ai/details/publication/pub.1112419761"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level TANF coverage data from the Center on Budget and Policy Priorities (CBPP)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\",\"survey_year\"]",
-        "methodology": "The authors merged the individual‑household CPS‑FSS dataset with the state‑level TANF coverage statistics by aligning records on common geographic and temporal identifiers. Each household observation contains a state code (e.g., two‑letter abbreviation) and the survey year, while the TANF data provi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors state that their primary indicators (e.g., food insecurity, food practices) were drawn from the CPS‑FSS, while demographic and employment variables came from the basic CPS interview. The analysis required linking each household’s core CPS record with its corresponding CPS‑FSS record to c",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Food Practices among Child Care Workers During COVID-19",
-        "identifier": "10.1101/2025.02.20.25322598",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185809527"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) basic household interview data",
-        "joinType": "integration",
-        "joinKeys": "[\"SERIAL\",\"PID\"]",
-        "methodology": "The authors first extracted the core CPS household interview file and the CPS Food Security Supplement file for the December 2020 rotation. Both files contain a common household serial number (SERIAL) and person identifier (PID). After loading the files, they filtered the CPS-FSS records to retain o"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Child‑care workers were identified using the labor code “child day care services” (industry code 6244) from the U.S. Census Bureau classification. This external classification was applied to the CPS‑FSS records to select the subset of respondents who work in child‑care.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Food Practices among Child Care Workers During COVID-19",
-        "identifier": "10.1101/2025.02.20.25322598",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185809527"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census Bureau industry classification data (2020)",
-        "joinType": "fusion",
-        "joinKeys": "[\"industry_code\"]",
-        "methodology": "The researchers obtained the December 2020 Current Population Survey Food Security Supplement (CPS‑FSS) file and the 2020 U.S. Census Bureau industry classification table. They used the industry code field present in the CPS‑FSS to filter records that have the code 6244 which corresponds to child da"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors merge household‑level CPS‑FSS observations with the contemporaneous state‑level UI benefit parameters to exploit policy variation across states and over time as the key explanatory variable.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
-        "identifier": "10.1111/ajae.12322",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148831422"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level UI policy data (maximum weekly UI benefits and benefit durations from the U.S. Department of Labor’s “Comparison of State Unemployment Laws”)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\",\"year\"]",
-        "methodology": "The authors merged the household‑level CPS‑FSS observations with the state‑level UI policy dataset by aligning records on the common geographic identifier (state) and the calendar year. Each CPS record contains the respondent's state of residence and interview year; the UI policy file provides the m"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the regression specifications the authors control for a “wide range of state‑level SNAP policy instruments and a series of local welfare policies,” implying that these policy datasets are merged with the CPS‑FSS micro‑data by state‑year.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
-        "identifier": "10.1111/ajae.12322",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148831422"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level SNAP policy data (U.S. Department of Agriculture SNAP Policy Datasets) and other welfare‑policy variables (e.g., EITC, Medicaid, WIC from the University of Kentucky Center for Poverty Research National Welfare Database)",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"year\"]",
-        "methodology": "The researchers extracted the CPS Food Security Supplement micro data and the USDA SNAP policy and other welfare policy tables. They first standardized state names to a common coding scheme and created a numeric year variable. After cleaning missing values and removing duplicate records they perform"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The PFS cut‑off probability (P_t) is set so that the proportion of households classified as food‑secure in each PSID wave exactly matches the USDA‑reported national prevalence from the CPS‑FSS.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food security dynamics in the United States, 2001–2017",
-        "identifier": "10.1111/ajae.12433",
-        "url": "https://app.dimensions.ai/details/publication/pub.1165215177"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "PSID‑derived Probability of Food Security (PFS) estimates",
-        "joinType": "integration",
-        "joinKeys": "[\"year\"]",
-        "methodology": "The authors first estimate a household‑year specific probability of food security (PFS) using a conditional gamma model of per‑capita food expenditures. For each survey year they compute the USDA CPS‑FSS national food‑insecurity prevalence. They then set a cut‑off probability P_t for that year such "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study merged the main CPS household data with the supplemental food‑security module to create a single analytical file containing demographic, income, SNAP receipt, employment variables together with the USDA three‑stage food‑security scores.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Utilization of Informal Food Support Among Low-Income Households: Application of Andersen’s Service Use Model",
-        "identifier": "10.1177/1044389419860636",
-        "url": "https://app.dimensions.ai/details/publication/pub.1120549780"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) 2016",
-        "joinType": "integration",
-        "joinKeys": "[\"cps_serial_number\",\"survey_year\"]",
-        "methodology": "The researchers extracted the main CPS household file for 2016 and the CPS Food Security Supplement module for the same year. Both datasets contain a common household identifier (CPS serial number) and survey year, which were used as primary keys to merge the records. The merge was performed using a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite prior validation studies that show the single BRFSS food‑related stress question correlates highly with the USDA CPS Food Security Supplement, using the external CPS data to justify the BRFSS measure of food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Adult Food Security and the Relationship with Adverse Childhood Experiences Among Residents of Appalachian North Carolina",
-        "identifier": "10.13023/jah.0103.03",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149003514"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "North Carolina 2012 Behavioral Risk Factor Surveillance System (BRFSS) dataset",
-        "joinType": "validation/combination",
-        "joinKeys": "[]",
-        "methodology": "The authors did not perform a direct record level join between the NC 2012 BRFSS and the USDA CPS Food Security Supplement. Instead they relied on published validation studies that compared the single BRFSS food‑related stress question with the CPS Food Security Supplement. The validation evidence w"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compute the distance from each household’s census tract to the nearest Walmart Supercenter by linking the CPS‑FSS respondents (which contain restricted geographic identifiers) with the Walmart store location data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Walmart Supercenters Improve Food Security?",
-        "identifier": "10.2139/ssrn.3205856",
-        "url": "https://app.dimensions.ai/details/publication/pub.1142634649"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Walmart Supercenter location dataset (addresses, opening dates)",
-        "joinType": "integration",
-        "joinKeys": "[\"census_tract_id\",\"store_latitude_longitude\"]",
-        "methodology": "The authors linked the restricted CPS‑FSS microdata to the Walmart Supercenter location dataset by performing a spatial join at the census tract level. Each respondent in the CPS‑FSS is assigned a unique census‑tract identifier (restricted geographic code). The Walmart store file contains latitude a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To obtain distance measures and control variables, the CPS‑FSS respondents are linked to census tract centroids from Tiger/Line shapefiles; additionally, median income at the tract level is merged as an economic characteristic.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Walmart Supercenters Improve Food Security?",
-        "identifier": "10.2139/ssrn.3205856",
-        "url": "https://app.dimensions.ai/details/publication/pub.1142634649"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census Bureau Tiger/Line Shapefiles (census tract geographic data) and median income data for census tracts",
-        "joinType": "fusion",
-        "joinKeys": "[\"census_tract_id\",\"walmart_location_coordinates\"]",
-        "methodology": "The CPS‑FSS respondents were linked to census tract geographic information by matching the restricted‐access census tract identifier present in the survey data with the corresponding tract ID in the TIGER/Line shapefile. For each matched tract, the latitude and longitude of the internal point (centr"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To examine the impact of vaccination on SNAP participation, the authors combine CPS‑FSS data (which provides monthly SNAP receipt information) with the CUSP policy data on vaccine eligibility. The merge is done at the state‑month level to align SNAP receipt with the timing of eligibility changes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "identifier": "10.2139/ssrn.4390226",
-        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "COVID‑19 U.S. State Policy (CUSP) database",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"year_month\"]",
-        "methodology": "The researchers first extracted monthly SNAP receipt information from the CPS‑FSS and created a panel at the state‑month level. They then extracted vaccine eligibility dates from the CUSP database and constructed a binary eligibility variable for each state‑month. Both data sets were cleaned to ensu"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study juxtaposes outcomes from HPS (vaccination status and food‑insecurity) with SNAP receipt measured in CPS‑FSS to discuss broader welfare implications. While the two surveys are not merged at the individual level, the authors combine their findings in a joint analytical narrative, treating th",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "identifier": "10.2139/ssrn.4390226",
-        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey (HPS)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "the study does not perform a technical merge of hps and cpsfss records instead the authors treat the two surveys as separate data sources and combine their results in a narrative synthesis findings from hps on vaccination status and food insecurity are presented alongside snap receipt estimates from"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors merged individual‑level CPS‑FSS microdata (household food security, education, income) with country‑by‑year conflict data from the Center for Systemic Peace to create premigration armed‑conflict variables (any exposure, years of exposure, years since last exposure) for each immigrant res",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Armed Conflict in Central America and Immigrant Food Insecurity in the United States",
-        "identifier": "10.2991/j.jegh.2018.02.005",
-        "url": "https://app.dimensions.ai/details/publication/pub.1111755539"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Center for Systemic Peace – Integrated Network for Societal Conflict Research, Major Episodes of Political Violence file",
-        "joinType": "fusion",
-        "joinKeys": "[\"country_code\",\"year_of_birth_to_immigration_range\"]",
-        "methodology": "The authors performed a fusion join by linking individual‑level CPS‑FSS microdata with country‑by‑year conflict data from the Center for Systemic Peace. First, the CPS‑FSS dataset was extracted for respondents aged 19‑69 who were born in Central America and had recorded year of immigration to the Un"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite CPS‑FSS prevalence figures to contextualize the baseline food‑security status of their sample and to compare the proportion of food‑insecure households in their pilot program with national estimates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Engagement in a pilot produce prescription program in rural and urban counties in the Southeast United States",
-        "identifier": "10.3389/fpubh.2024.1390737",
-        "url": "https://app.dimensions.ai/details/publication/pub.1172685556"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Study participant survey data (including HFSSM responses, sociodemographic and health measures)",
-        "joinType": "integration",
-        "joinKeys": "[\"geographic_classification\",\"survey_year\"]",
-        "methodology": "The researchers first extracted the participant survey data and the national prevalence estimates from their source files. The survey data contained the USDA six item food security module responses along with demographic variables. The CPS‑FSS data provided aggregate prevalence rates by region and u"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.7
         }
       ]
     }

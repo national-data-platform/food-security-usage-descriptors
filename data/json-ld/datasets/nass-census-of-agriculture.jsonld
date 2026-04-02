@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "NASS Census of Agriculture",
@@ -14,6 +13,11 @@
     "USDA Census",
     "AG Census"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Department of Agriculture, National Agricultural Statistics Service"
+  },
+  "about": "Agriculture",
   "review": [
     {
       "@type": "Review",
@@ -36,8 +40,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -60,8 +63,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -84,8 +86,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -108,8 +109,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -132,8 +132,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -156,8 +155,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -180,8 +178,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -204,8 +201,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -228,8 +224,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -252,8 +247,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -276,8 +270,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -300,8 +293,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -324,8 +316,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -348,8 +339,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -372,8 +362,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -396,8 +385,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -420,8 +408,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -444,8 +431,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -468,8 +454,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -492,8 +477,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -516,8 +500,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -540,8 +523,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -564,8 +546,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -588,8 +569,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -612,8 +592,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -636,8 +615,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -660,8 +638,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -684,8 +661,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -708,8 +684,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -732,8 +707,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -756,8 +730,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -780,8 +753,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -804,8 +776,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -828,8 +799,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -852,8 +822,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -876,13 +845,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA (United States Department of Agriculture)"
-      },
-      "about": "Agriculture / Rural Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -905,13 +868,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA/NASS"
-      },
-      "about": "Aquaculture production statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -934,13 +891,7 @@
           "name": "use",
           "ratingValue": 2.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA/NASS"
-      },
-      "about": "Agricultural and aquaculture statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -963,13 +914,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, National Agricultural Statistics Service (NASS)"
-      },
-      "about": "Agriculture / Rural Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -992,13 +937,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA National Agricultural Statistics Service"
-      },
-      "about": "Agriculture"
+      ]
     },
     {
       "@type": "Review",
@@ -1021,13 +960,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture (USDA)"
-      },
-      "about": "Agriculture / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1050,13 +983,7 @@
           "name": "use",
           "ratingValue": 6.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (Food Access Research Atlas)"
-      },
-      "about": "Geography / Food environment"
+      ]
     },
     {
       "@type": "Review",
@@ -1079,13 +1006,7 @@
           "name": "use",
           "ratingValue": 7.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture / National Agricultural Statistics Service (NASS)"
-      },
-      "about": "Agriculture – Census Data"
+      ]
     },
     {
       "@type": "Review",
@@ -1108,13 +1029,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)"
-      },
-      "about": "Agriculture / Rural Sociology"
+      ]
     },
     {
       "@type": "Review",
@@ -1137,13 +1052,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture, 2017"
-      },
-      "about": "Agriculture"
+      ]
     },
     {
       "@type": "Review",
@@ -1166,13 +1075,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, National Agricultural Statistics Service"
-      },
-      "about": "Agriculture / Census"
+      ]
     },
     {
       "@type": "Review",
@@ -1195,13 +1098,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA-NASS Census of Agriculture (years 1977, 1981, 1984, 1989, 1994, 1999, 2004, 2009, 2014)"
-      },
-      "about": "Agricultural statistics / livestock and land use"
+      ]
     },
     {
       "@type": "Review",
@@ -1224,13 +1121,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA, 2017 (Food Environment Atlas) and USDA Quick Stats citations throughout the paper."
-      },
-      "about": "Agriculture"
+      ]
     },
     {
       "@type": "Review",
@@ -1253,13 +1144,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, National Agricultural Statistics Service"
-      },
-      "about": "Agriculture/Farm Census"
+      ]
     },
     {
       "@type": "Review",
@@ -1282,13 +1167,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) – NASS"
-      },
-      "about": "Agricultural statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -1310,1500 +1189,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 1.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA NASS"
-      },
-      "about": "Agriculture"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Table 1 and accompanying text report total U.S. cropland area (derived from the NASS Census) alongside percentages of global production and export contributions for maize, soybean, and wheat sourced from USDA Foreign Agricultural Service data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Soil health considerations for global food security",
-        "identifier": "10.1002/agj2.20783",
-        "url": "https://app.dimensions.ai/details/publication/pub.1139209831"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Foreign Agricultural Service (export shares)",
-        "joinType": "fusion",
-        "joinKeys": "",
-        "methodology": ""
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The discussion on the role of U.S. agricultural production in global food security references both national crop‑land statistics (NASS) and local market practices (from the Local Food Marketing Practices Survey) to contextualize how domestic production feeds into broader food systems.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Soil health considerations for global food security",
-        "identifier": "10.1002/agj2.20783",
-        "url": "https://app.dimensions.ai/details/publication/pub.1139209831"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"county_fips\",\"commodity_code\",\"year\"]",
-        "methodology": "The integration combined the USDA NASS Census of Agriculture crop‑land statistics with the Local Food Marketing Practices Survey by first extracting relevant variables from each source, cleaning and normalizing geographic identifiers (state, county FIPS codes) and year stamps. A key‑based join was p"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The publication lists NASS Census of Agriculture and the Local Food Marketing Practices Survey as known datasets, suggesting they may be used together to contextualize agricultural production with local marketing practices, though explicit join details are not present in the excerpt.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The rise of food banks and the challenge of matching food assistance with potential need: towards a spatially specific, rapid assessment approach",
-        "identifier": "10.1007/s10460-017-9783-y",
-        "url": "https://app.dimensions.ai/details/publication/pub.1084740529"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey (mentioned in publication metadata)",
-        "joinType": "potential_fusion",
-        "joinKeys": "[\"census_tract_id\",\"geographic_coordinates\",\"buffer_distance\"]",
-        "methodology": "The study combined household demographic data from the US Census ACS with geocoded locations of food pantries and soup kitchens provided by Second Harvest. A spatial join was performed by overlaying point locations (latitude/longitude) of each food assistance site onto polygon boundaries of census t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors used GIS‑based approaches that combined geographic food environment data with socioeconomic variables derived from the NASS Census and ARMS to define potential food deserts.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Theoretical issues in the ‘food desert’ debate and ways forward",
-        "identifier": "10.1007/s10708-015-9634-6",
-        "url": "https://app.dimensions.ai/details/publication/pub.1028305293"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"census_tract_id\",\"county_fips\",\"zip_code\",\"latitude_longitude\"]",
-        "methodology": "The authors performed a GIS‑based integration of the NASS Census of Agriculture and the Agricultural Resource Management Survey (ARMS) by first extracting geographic identifiers (e.g., county, census tract, ZIP code, latitude/longitude) from both datasets. They cleaned and standardized these spatial"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The Monfreda dataset itself is a combination of remotely‑sensed land‑cover data and national agricultural censuses (primarily FAO), producing a gridded dataset of harvested area and yields for 175 crops.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The association between crop diversity and children’s dietary diversity: multi-scalar and cross-national comparisons",
-        "identifier": "10.1007/s12571-024-01458-9",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173515345"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Crop production estimates (Monfreda et al. 2008) – also hosted on Harvard Dataverse as the spatially‑disaggregated crop production statistics for Africa",
-        "joinType": "combination",
-        "joinKeys": "[\"cluster_id\",\"latitude\",\"longitude\",\"buffer_radius\"]",
-        "methodology": "The researchers first extracted the geographic coordinates of each DHS cluster and created circular buffers of 10 km, 25 km and 50 km radius around each point. Raster layers from the Monfreda gridded crop production dataset (circa 2000) were re‑projected to match the DHS coordinate system. For each "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare U.S. shellfish production figures from the USDA Census of Aquaculture with global production totals reported by FAO to illustrate the United States’ share of world mollusk production and trade.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Supporting scenario for small-scale shellfish aquaculture and food security in the United States of America",
-        "identifier": "10.1007/s12571-025-01522-y",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185395216"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "FAO Global Aquaculture Production Statistics (2023)",
-        "joinType": "integration",
-        "joinKeys": "[\"species\",\"year\"]",
-        "methodology": "The authors extracted production figures for shellfish from the USDA Census of Aquaculture (2019) and global mollusk totals from the FAO Global Aquaculture Production Statistics (2023). Both tables were loaded into a data analysis environment, species names were standardized to a common taxonomy and"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Production‑related indicators (e.g., number of farms, revenue tiers) from the USDA Census are combined with employment figures from OECD to assess the economic and social sustainability pillars (e.g., farm revenue, employment) of small‑scale shellfish aquaculture.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Supporting scenario for small-scale shellfish aquaculture and food security in the United States of America",
-        "identifier": "10.1007/s12571-025-01522-y",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185395216"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "OECD International Employment Database (2022)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state\",\"year\"]",
-        "methodology": "The integration began by extracting the USDA Census of Aquaculture (2019) records and the OECD International Employment Database (2022) into separate data frames. Both datasets were pre‑processed to harmonize geographic identifiers (state names) and temporal granularity (year). After standardizing t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To evaluate farm‑size, land‑use, and economic characteristics of shellfish operations, the authors draw on the NASS Census of Agriculture for farm typology and on ARMS for detailed resource‑management variables, merging the two to create a richer profile of small‑scale farms.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Supporting scenario for small-scale shellfish aquaculture and food security in the United States of America",
-        "identifier": "10.1007/s12571-025-01522-y",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185395216"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "combination",
-        "joinKeys": "[\"state_fips\",\"county_fips\",\"year\",\"farm_id\"]",
-        "methodology": "The authors first extracted the USDA Census of Agriculture tables and the ARMS survey files from public repositories. Both data sets were converted to a tabular format with consistent column names. Records were cleaned by removing rows with missing farm identifiers, standardizing state and county co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "While not explicitly described in the excerpt, the overall research aims to map agroecosystem health across landscapes and assess local food supply chains; this likely involves linking NASS agricultural production statistics with survey data on local marketing practices to evaluate economic and soci",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Agroecosystem health, agroecosystem resilience, and food security",
-        "identifier": "10.1007/s13412-015-0322-0",
-        "url": "https://app.dimensions.ai/details/publication/pub.1032417256"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey (market and supply chain information)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"census_tract_id\",\"survey_location_id\"]",
-        "methodology": "The integration was performed by linking the NASS Census of Agriculture production statistics to the Local Food Marketing Practices Survey records using common geographic identifiers (e.g., county FIPS codes and census tract IDs). An ETL pipeline extracted raw data from public databases and survey f"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "When discussing technology adoption and food security in the United States, the authors reference both NASS agricultural production data and ARMS household‑level resource management information to assess the impact of post‑harvest technologies on income and food security.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Chapter 2 Implications of technological change, postharvest technology, and technology adoption for improved food security—application of t-statistic",
-        "identifier": "10.1016/b978-0-12-820477-1.00029-2",
-        "url": "https://app.dimensions.ai/details/publication/pub.1141362126"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS) – United States",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_code\",\"county_fips\",\"year\"]",
-        "methodology": "The researchers performed a fusion of the NASS Census of Agriculture data with the ARMS household survey by first extracting both datasets, then aligning them on common geographic identifiers such as state code, county FIPS, and year of observation. After loading the files into a data frame environm"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The census provides county‑level statistics on total farmland, proportion of rain‑fed versus irrigated land, and cash‑receipt values. These variables were combined with the time‑series yield data to calculate percentages of rain‑fed cropland, to filter counties with insufficient data, and to context",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Probabilistic estimates of drought-induced yield loss in the Southeastern United States",
-        "identifier": "10.1016/j.agsy.2025.104418",
-        "url": "https://app.dimensions.ai/details/publication/pub.1189908235"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NASS crop yield data (1990‑2018)",
-        "joinType": "merge",
-        "joinKeys": "[\"county_fips\"]",
-        "methodology": "The 2017 NASS Census file and the annual NASS yield series were first downloaded from the NASS website. County identifiers (FIPS codes) were extracted, trimmed to a standard length and checked for consistency across the two sources. Records with missing or incomplete values were removed. An inner me"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.6
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "National statistics on the proportion of irrigated farms and their contribution to U.S. farm sales were cited to contextualize the importance of the study’s irrigation‑management results.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Inter-relationships between water depletion and temperature differential in row crop canopies in a sub-humid climate",
-        "identifier": "10.1016/j.agwat.2021.107061",
-        "url": "https://app.dimensions.ai/details/publication/pub.1139557473"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Study findings (irrigation scheduling, CWSI baselines)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"county_fips\",\"year\"]",
-        "methodology": "The researchers combined the study‑specific irrigation measurements with national statistics from the USDA NASS 2012 Census of Agriculture. A key‑based merge was performed using geographic identifiers (state, county FIPS codes) and the year of the census. First the census data were filtered to retai"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level census data were incorporated with the composite land‑use layers to delineate current cultivated cropland (CLU) for the three crops.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Regional food production and land redistribution as adaptation to climate change in the U.S. Northeast Seaboard",
-        "identifier": "10.1016/j.compag.2018.08.026",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106857130"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Composite land‑use dataset (NLCD + CDL + Common‑Land‑Unit)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"county_id\",\"geographic_polygon\"]",
-        "methodology": "The integration was performed by overlaying the county‑level Census of Agriculture data (NASS) with a composite land‑use dataset that combined NLCD, CDL and Common‑Land‑Unit layers. Each dataset was first processed to a common spatial reference (30 m raster/grid) and linked through the shared geogra"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Patient addresses were anonymized and cross‑referenced with USDA census‑tract information to determine whether each patient resided in a low‑income, low‑access area (i.e., a food‑desert designation). This spatial linkage allowed the authors to create a second FI indicator (geographic‑based FI) along",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity among youth seeking eating disorder treatment",
-        "identifier": "10.1016/j.eatbeh.2023.101738",
-        "url": "https://app.dimensions.ai/details/publication/pub.1158196198"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Clinical treatment dataset (patient‐level records from the virtual family‑based treatment program)",
-        "joinType": "integration",
-        "joinKeys": "",
-        "methodology": ""
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Corn price data (derived from NASS) were used together with PV installation, O&M, and electricity‑price data to calculate net‑present‑value changes and break‑even PV costs for each treatment.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The viability of photovoltaics on agricultural land: Can PV solve the food vs fuel debate?",
-        "identifier": "10.1016/j.jclepro.2024.143191",
-        "url": "https://app.dimensions.ai/details/publication/pub.1173866766"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Economic analysis of PV‑Agri‑electric systems (NPV, break‑even calculations)",
-        "joinType": "combination",
-        "joinKeys": "[\"year\",\"county_fips\"]",
-        "methodology": "The authors first extracted corn price and acreage data from the USDA NASS Census of Agriculture and extracted PV system cost, operation and maintenance, and electricity price data from published economic analyses. Both datasets were cleaned to remove missing or inconsistent records, and numeric fie"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level farm numbers from the Census of Agriculture (e.g., 9 farms in Keweenaw, 208 in Houghton) were reported alongside the survey‑derived demographic and food‑security variables to describe the study area.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
-        "identifier": "10.1016/j.jrurstud.2024.103256",
-        "url": "https://app.dimensions.ai/details/publication/pub.1169898660"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Western Upper Peninsula mixed‑mode survey (household‑level responses)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_name\"]",
-        "methodology": "The researchers first extracted the county name from each household survey record and loaded the USDA NASS farm count table that already contains a county field. Both datasets were cleaned by converting county names to lower case, trimming white space and removing punctuation. A lookup table of offi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors use the 2015 Local Food Marketing Practices Survey to report nationwide figures on direct‑market farms and then reference the 2012 Census of Agriculture for regional farm counts, sizes, and sales, merging these sources to characterize the prevalence and economic impact of direct‑market f",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Land access for direct market food farmers in Oregon, USA",
-        "identifier": "10.1016/j.landusepol.2018.01.018",
-        "url": "https://app.dimensions.ai/details/publication/pub.1101522533"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"state_code\"]",
-        "methodology": "The researchers extracted the 2015 Local Food Marketing Practices Survey data and the 2012 Census of Agriculture data, performed cleaning to remove incomplete records and standardize variable names, then aligned both datasets at the county level using common geographic identifiers (FIPS codes). Afte"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors merged USDA agricultural statistics with the Agrilyst survey data to characterize the commercial sector of controlled‑environment agriculture in New York City.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Will the urban agricultural revolution be vertical and soilless? A case study of controlled environment agriculture in New York City",
-        "identifier": "10.1016/j.landusepol.2018.12.038",
-        "url": "https://app.dimensions.ai/details/publication/pub.1112089451"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agrilyst International Survey of CEA Businesses (2016)",
-        "joinType": "integration",
-        "joinKeys": "[\"borough\",\"zip_code\",\"company_name\",\"address\"]",
-        "methodology": "The researchers extracted USDA agricultural statistics (county‑level production, land use, employment) and the Agrilyst 2016 international survey of CEA businesses. They first cleaned each dataset, standardizing geographic identifiers (NYC boroughs, zip codes) and company names. A spatial join was p"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Employment figures for green‑sector jobs were derived by combining agricultural production data from USDA with labor statistics from BLS.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Will the urban agricultural revolution be vertical and soilless? A case study of controlled environment agriculture in New York City",
-        "identifier": "10.1016/j.landusepol.2018.12.038",
-        "url": "https://app.dimensions.ai/details/publication/pub.1112089451"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Bureau of Labor Statistics (BLS) Employment Data",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_fips\",\"zip_code\",\"naics_code\"]",
-        "methodology": "The researchers extracted agricultural production data from the USDA NASS Census of Agriculture and employment statistics from the BLS. Both datasets were standardized to common geographic identifiers (county FIPS codes, ZIP codes) and industry classification codes (NAICS). After cleaning and normal"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Manure nitrogen excretion estimates from the NANI toolbox were combined with county‑level crop production and cropland area from the Census of Agriculture to calculate total nitrogen inputs (I) for each region.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nitrogen use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "identifier": "10.1016/j.scitotenv.2018.04.027",
-        "url": "https://app.dimensions.ai/details/publication/pub.1103524732"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NANI toolbox livestock data (derived from ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"farm_resource_region_id\"]",
-        "methodology": "The integration was performed by first extracting county‑level manure nitrogen excretion estimates from the NANI toolbox and county‑level crop production and cropland area from the U.S. Census of Agriculture. Both datasets contain a common geographic identifier – the USDA county FIPS code – which se"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State fertilizer totals were disaggregated to counties by assuming proportionality to county‑level fertilizer expenditures reported in the agricultural census, creating county‑level fertilizer use estimates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nitrogen use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "identifier": "10.1016/j.scitotenv.2018.04.027",
-        "url": "https://app.dimensions.ai/details/publication/pub.1103524732"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level fertilizer consumption data (AAPFCO/TFI)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_id\",\"county_fips\",\"year\"]",
-        "methodology": "The integration was performed by first extracting the state‑level annual fertilizer consumption totals from the AAPFCO/TFI datasets. County‑level fertilizer expenditure figures were obtained from the U.S. Census of Agriculture (five‑year intervals). The two datasets share a common geographic hierarc"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Counties were aggregated into farm resource regions and further into uniform subregions, using FRR classifications together with county‑level agricultural statistics.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nitrogen use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "identifier": "10.1016/j.scitotenv.2018.04.027",
-        "url": "https://app.dimensions.ai/details/publication/pub.1103524732"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Economic Research Service Farm Resource Regions (FRR) definitions",
-        "joinType": "combination",
-        "joinKeys": "[\"county_fips\",\"fr_region_id\"]",
-        "methodology": "The integration began by extracting county‑level agricultural statistics from the U.S. Census of Agriculture and the list of counties assigned to each USDA Farm Resource Region (FRR) provided by USDA‑ARS. County identifiers (FIPS codes) served as the primary keys for both datasets. After loading the"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The NANI/NAPI toolbox combines crop production data from the USDA Census of Agriculture with livestock excretion estimates derived from ARMS to calculate manure phosphorus inputs for each county.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Phosphorus use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "identifier": "10.1016/j.scitotenv.2019.05.228",
-        "url": "https://app.dimensions.ai/details/publication/pub.1114810683"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "The integration was performed by linking county‑level data from the USDA Census of Agriculture (crop production) with livestock excretion estimates derived from the Agricultural Resource Management Survey (ARMS). County identifiers (FIPS codes) served as the primary join keys, enabling a direct key‑"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level agricultural census data are aggregated into the nine USDA‑ERS farm resource regions to assess regional variation in phosphorus use efficiency.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Phosphorus use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "identifier": "10.1016/j.scitotenv.2019.05.228",
-        "url": "https://app.dimensions.ai/details/publication/pub.1114810683"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Economic Research Service (ERS) Farm Resource Regions",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_fips\",\"region_id\"]",
-        "methodology": "County-level data from the NASS Census of Agriculture were first extracted and cleaned, then each county was matched to its corresponding USDA‑ERS farm resource region using a lookup table that maps county FIPS codes to the nine FRR identifiers. The mapping was performed as an ETL process: extract t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Feed grain production categories (e.g., corn for ethanol) from the USDA‑ERS Feed Grain Yearbook are combined with census crop data to evaluate livestock feed demand and its impact on phosphorus inputs.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Phosphorus use efficiency and crop production: Patterns of regional variation in the United States, 1987–2012",
-        "identifier": "10.1016/j.scitotenv.2019.05.228",
-        "url": "https://app.dimensions.ai/details/publication/pub.1114810683"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Economic Research Service Feed Grain Yearbook",
-        "joinType": "merge",
-        "joinKeys": "[\"FIPS_code\",\"year\"]",
-        "methodology": "The authors merged the USDA NASS Census of Agriculture data with the USDA‑ERS Feed Grain Yearbook using a county‐level identifier (FIPS code) and year as join keys. The datasets were first extracted from their original formats, cleaned to remove missing or inconsistent records, and then transformed "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors combined the FAO‑derived census figures with the HLPE report’s estimates of farm size categories to calculate total agricultural land held by family farms, using the HLPE methodology (multiplying farm counts by mean size) where census data lacked disaggregation.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The State of Family Farms in the World",
-        "identifier": "10.1016/j.worlddev.2015.05.012",
-        "url": "https://app.dimensions.ai/details/publication/pub.1001749726"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "HLPE smallholder holdings and land area data",
-        "joinType": "integration",
-        "joinKeys": "[]",
-        "methodology": "The authors first extracted farm count data from the FAO World Census of Agriculture (WCA) for each country. For countries where the census provided disaggregated land‑area by farm size, those values were used directly. In cases where size‑disaggregation was missing, the authors applied the High Lev"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study compares its own estimates of the proportion of agricultural land held by family farms with the findings from Lowder et al. (2014), which analyzed a subset of census data for 31 countries. The authors use both datasets to benchmark and validate their results.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The State of Family Farms in the World",
-        "identifier": "10.1016/j.worlddev.2015.05.012",
-        "url": "https://app.dimensions.ai/details/publication/pub.1001749726"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Lowder et al. (2014) farm ownership and landholding statistics",
-        "joinType": "fusion",
-        "joinKeys": "[\"country_code\",\"country_name\"]",
-        "methodology": "The authors performed a fusion of two agricultural census datasets by first extracting the relevant variables (farm ownership status, landholding size, and family farm definitions) from each source. They applied an ETL pipeline: extraction of country‑level records, transformation using a stepwise cl"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors combined land‑use and irrigation data from the NASS Census with farm‑financial and crop‑production variables from ARMS to estimate total agricultural output, manure generation, and nutrient flows in the US food system model.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "identifier": "10.1073/pnas.1707322114",
-        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_county_fips\",\"survey_year\"]",
-        "methodology": "The integration combined land‑use and irrigation variables from the NASS Census with farm‑financial, crop‑production and livestock data from ARMS. First both datasets were extracted, cleaned and standardized to a common geographic identifier (state‑county FIPS code) and year. Missing values were imp"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study linked farm‑level production data from the NASS Census with market‑channel information from the Local Food Marketing Practices Survey to assess how produced commodities move through regional food markets and affect domestic consumption patterns.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nutritional and greenhouse gas impacts of removing animals from US agriculture",
-        "identifier": "10.1073/pnas.1707322114",
-        "url": "https://app.dimensions.ai/details/publication/pub.1092669592"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey",
-        "joinType": "fusion",
-        "joinKeys": "",
-        "methodology": ""
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The publication lists both NASS and ARMS as known datasets; although the text does not detail a specific join, they are likely combined to provide agricultural land use information for urban agriculture planning.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Strategically Siting Urban Agriculture: A Socioeconomic Analysis of Roanoke, Virginia",
-        "identifier": "10.1080/00330124.2016.1157496",
-        "url": "https://app.dimensions.ai/details/publication/pub.1018922544"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"GEOID\",\"block_group_id\"]",
-        "methodology": "The study used a geographic information system (GIS) workflow to integrate multiple datasets at the census block group level. Block group boundaries were obtained as a shapefile from the TIGER/Line database and served as the primary spatial unit. Socioeconomic variables (poverty, employment, educati"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Table 1 aggregates counts of large‑and medium‑sized corporate farms and private farms across regions, using census figures for farm numbers and Epshtein’s analysis of agroholdings’ presence and performance.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The insecurity of food security in Russia’s Far North",
-        "identifier": "10.1080/1088937x.2018.1522383",
-        "url": "https://app.dimensions.ai/details/publication/pub.1107108729"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Epshtein agroholding dataset",
-        "joinType": "integration",
-        "joinKeys": "[\"region_name\",\"administrative_code\"]",
-        "methodology": "The integration combined the Russian Agricultural Census data (Rosstat 2006/2016) with the Epshtein agroholding dataset by aligning records at the regional level. First, both sources were extracted and loaded into a relational environment. Region identifiers (official names and administrative codes)"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The discussion on smallholder production references comparative figures from the U.S. NASS and ARMS to contextualize Russian household plot sizes and productivity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The insecurity of food security in Russia’s Far North",
-        "identifier": "10.1080/1088937x.2018.1522383",
-        "url": "https://app.dimensions.ai/details/publication/pub.1107108729"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "combination",
-        "joinKeys": "[\"state_code\",\"county_code\",\"survey_year\"]",
-        "methodology": "The authors combined the United States NASS Census of Agriculture and the USDA Agricultural Resource Management Survey (ARMS) by aligning records on common geographic identifiers such as state, county, and year. First, raw files from both sources were extracted in CSV format, cleaned to remove missi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Agricultural and rural characteristics derived from the NASS Census were incorporated into analyses of food insecurity and community closeness for each respondent.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Mental health and well-being for aging adults during the COVID-19 pandemic",
-        "identifier": "10.1080/13607863.2021.1963950",
-        "url": "https://app.dimensions.ai/details/publication/pub.1140379801"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Participant anonymous survey (Qualtrics)",
-        "joinType": "merge",
-        "joinKeys": "[\"zip_code\"]",
-        "methodology": "The researchers merged the individual survey responses (Qualtrics dataset) with county‑level agricultural and rural characteristics from the NASS Census. The merge was performed by matching each participant's reported ZIP code to the corresponding NASS geographic unit (county or zip‑code aggregate)."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The paper cites USDA demographic figures (e.g., 67% born in Mexico, citizenship rates) to contextualize and compare the survey findings on food insecurity among migrant farmworker families.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hunger in the fields: Food insecurity and food access among farmworker families in Migrant and Seasonal Head Start",
-        "identifier": "10.1080/15348431.2018.1500291",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106101423"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Primary MSHS parent survey results",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_code\",\"county_fips\",\"birth_country\"]",
-        "methodology": "The integration was performed as a fusion of the USDA Census of Agriculture demographic dataset with the primary MSHS parent survey results. First, both datasets were extracted from their source files (CSV for USDA and Excel for the survey) using an ETL pipeline. The data were cleaned to remove miss"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors combine the 2016 Russian agricultural census with yearly official statistics to construct a ten‑year time series for 20 regions, identify top‑ten and rank‑11‑20 regions, and generate maps showing production narrowness.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The fragility of Russia’s agricultural production and implications for food security",
-        "identifier": "10.1080/15387216.2021.2002170",
-        "url": "https://app.dimensions.ai/details/publication/pub.1143826084"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Official annual agricultural statistics from Rosstat (regional production data, poverty and consumption figures)",
-        "joinType": "integration",
-        "joinKeys": "[\"region_code\",\"year\"]",
-        "methodology": "The authors merged the 2016 Russian agricultural census with yearly Rosstat regional production, poverty, and consumption statistics to build a ten‑year panel for 20 regions. They first extracted region identifiers (region code) and year from both sources, cleaned and standardized naming conventions"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The paper compares narrowness in Russian agriculture with that observed in the United States, citing U.S. farm‑size concentration statistics derived from the NASS Census alongside Russian regional production figures.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The fragility of Russia’s agricultural production and implications for food security",
-        "identifier": "10.1080/15387216.2021.2002170",
-        "url": "https://app.dimensions.ai/details/publication/pub.1143826084"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Russia’s regional agricultural production data (Rosstat and 2016 census)",
-        "joinType": "fusion",
-        "joinKeys": "[\"region_code\",\"region_name\"]",
-        "methodology": "The authors performed a fusion of two national agricultural datasets – the United States NASS Census of Agriculture and Russia’s regional production data from Rosstat (including the 2016 census). First, each dataset was extracted from its source files (CSV/Excel) and loaded into a Python‑pandas envi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Although not explicitly detailed in the excerpt, the study’s background references state‑wide agricultural demographics and local food marketing practices to contextualize the prevalence of nutrition assistance programs in Maricola County.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nativity, Not Acculturation, Predicts SNAP Usage Among Low-income Hispanics With Food Insecurity",
-        "identifier": "10.1080/19320248.2014.962779",
-        "url": "https://app.dimensions.ai/details/publication/pub.1049012797"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey (regional market data)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_name\",\"county_name\"]",
-        "methodology": "The integration of the NASS Census of Agriculture state‑level statistics with the Local Food Marketing Practices Survey was performed by aligning records on common geographic identifiers (state and county). The researchers first extracted the relevant variables from each source, cleaned and standard"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To justify the relevance of a Farm‑to‑Clinic program, the manuscript links state‑level fruit and vegetable production statistics from the NASS Census of Agriculture (North Carolina ranking in the top‑10 for produce) with demographic and socioeconomic indicators from the ACS that describe the local, ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Perceptions, Satisfaction, and Experience of Low-Socioeconomic, Rural Patients Who Participated in a Pilot Farm to Clinic (F2C) Program Utilizing Local, Donated Produce",
-        "identifier": "10.1080/19320248.2020.1860848",
-        "url": "https://app.dimensions.ai/details/publication/pub.1134009679"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates (2013‑2017)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"county_fips\"]",
-        "methodology": "The two public data sets were first downloaded as CSV files. State and county FIPS codes were extracted from the NASS table and from the ACS table. Records were filtered to include only North Carolina counties and to keep the most recent five year ACS estimate. The FIPS codes were cleaned to a five "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The NASS vegetable‑acreage data were combined with County Health Rankings variables (e.g., diabetes prevalence, low‑access to stores, poverty rate) to create a single county‑level analytical file.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Surrogates? County-Level Association Between Vegetable Production and Food Insecurity in the Rural South",
-        "identifier": "10.1080/19320248.2024.2412561",
-        "url": "https://app.dimensions.ai/details/publication/pub.1181358049"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "County Health Rankings (county‑level health & demographic variables)",
-        "joinType": "integration",
-        "joinKeys": "[\"FIPS\"]",
-        "methodology": "The researchers extracted county level vegetable acreage from the USDA NASS Census of Agriculture for 2017 and extracted health and demographic variables from the County Health Rankings and USDA ERS Food Environment Index for the same year. All datasets contain a standard county identifier (FIPS cod"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The NASS vegetable production figures were joined with ERS food‑insecurity data (the dependent variable) and additional food‑environment covariates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Surrogates? County-Level Association Between Vegetable Production and Food Insecurity in the Rural South",
-        "identifier": "10.1080/19320248.2024.2412561",
-        "url": "https://app.dimensions.ai/details/publication/pub.1181358049"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Economic Research Service (ERS) Food Environment Index (food‑insecurity percentages and other food‑environment metrics)",
-        "joinType": "integration",
-        "joinKeys": "[\"FIPS_code\"]",
-        "methodology": "The authors performed a county‑level integration of three public data sources: (1) USDA NASS Census of Agriculture 2017 vegetable acreage, (2) USDA ERS Food Environment Index 2017 food‑insecurity percentages, and (3) County Health Rankings covariates. Each dataset contains a standard geographic iden"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Census‑derived demographic percentages (e.g., % non‑Hispanic White, % African American, % under 18) appear in Table 1 and were used alongside agricultural and health variables in the regression analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Surrogates? County-Level Association Between Vegetable Production and Food Insecurity in the Rural South",
-        "identifier": "10.1080/19320248.2024.2412561",
-        "url": "https://app.dimensions.ai/details/publication/pub.1181358049"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census 2020 (demographic data – race, ethnicity, population counts)",
-        "joinType": "fusion",
-        "joinKeys": "[\"FIPS code\"]",
-        "methodology": "The researchers extracted county level data from the US Census 2020, USDA NASS census of agriculture and the County Health Rankings and USDA ERS data sets. Each data set was saved as a csv file. A common geographic identifier was the Federal Information Processing Standard county code which was pres"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Descriptive statistics of the survey sample (sex, farm size, income, education) were compared to figures from the USDA agricultural census to assess representativeness.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Social-ecological interactions in a disaster context: Puerto Rican farmer households’ food security after Hurricane Maria",
-        "identifier": "10.1088/1748-9326/ac6004",
-        "url": "https://app.dimensions.ai/details/publication/pub.1146483303"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Puerto Rican farmer household survey (405 respondents)",
-        "joinType": "comparison/combination",
-        "joinKeys": "[]",
-        "methodology": "The authors did not perform a row‑level database join. Instead they aggregated the farmer household survey (n=405) and the USDA Puerto Rico Agricultural Census to the same descriptive dimensions (sex, farm size, household income, education level, and municipality). Each dataset was first cleaned and"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite national agricultural production and resource‑management statistics derived from the NASS Census of Agriculture together with data from the ARMS to support background statements on farm‑to‑school supply capacity and farmer participation.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Farm-to-school education grants reach low-income children and encourage them to learn about fruits and vegetables",
-        "identifier": "10.1093/tbm/ibz092",
-        "url": "https://app.dimensions.ai/details/publication/pub.1121407211"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_fips\",\"survey_year\"]",
-        "methodology": "The authors combined the NASS Census of Agriculture and the Agricultural Resource Management Survey (ARMS) by aligning records at the county‑level for each reporting year. First, both datasets were extracted from their original sources and loaded into a data warehouse. Standardization steps included"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the background discussion the authors cite national agricultural statistics to contextualize food‑insecurity prevalence, drawing on both the NASS Census of Agriculture (crop‑production and farm‑type data) and the ARMS (farm‑level resource use and financial data). The two federal datasets are comb",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Systematic Review of Interventions for Obesity Among Adults With Food Insecurity",
-        "identifier": "10.1097/jcn.0000000000001028",
-        "url": "https://app.dimensions.ai/details/publication/pub.1166654453"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"county_fips\",\"year\"]",
-        "methodology": "The researchers extracted county level data from the NASS Census of Agriculture and the ARMS for the same reference years. After standardizing geographic identifiers state_fips county_fips and year and handling missing values they performed an inner join on the combined key state_fips county_fips ye"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The paper compares the share of organic and ecological producers among donors (61 % of donors, 85 % of donated weight) with county‑wide organic farm rates from the NASS Census (≈10 %). This requires merging the donor‑level data with NASS aggregate statistics for Yolo County.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Farm to Food Bank: Exploring the Ties between Local Food Producers and Charitable Food Assistance☆",
-        "identifier": "10.1111/ruso.12489",
-        "url": "https://app.dimensions.ai/details/publication/pub.1157545443"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Yolo Food Bank donation records (local producer donors)",
-        "joinType": "fusion",
-        "joinKeys": "[\"donor_id\",\"farm_id\",\"county\",\"year\"]",
-        "methodology": "The join was performed as part of an ETL workflow. First the Yolo Food Bank donation records were extracted and cleaned. Farm identifiers and addresses were standardized and geocoded. USDA NASS county level statistics were downloaded and reshaped to a long format with one row per farm and year. Exac"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study’s six indicators include variables related to agricultural production and resource availability; these were derived by merging NASS crop‑type counts with ARMS farm‑resource metrics to form a single GIS layer used in the HUNGER submodel.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Using participatory and mixed-methods approaches in GIS to develop a Place-Based Food Insecurity and Vulnerability Index",
-        "identifier": "10.1177/0308518x16686352",
-        "url": "https://app.dimensions.ai/details/publication/pub.1039947645"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS) data",
-        "joinType": "fusion",
-        "joinKeys": "[\"census_tract_id\",\"parcel_id\"]",
-        "methodology": "The fusion of NASS Census of Agriculture crop‑type counts with ARMS farm‑resource metrics was performed by first converting both datasets into GIS shapefile format and then rasterizing them to a common spatial grid (e.g., census tract or parcel level). A key‑based spatial join was executed using the"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The discussion references the broader agricultural context of the Upper Peninsula, implying that national agricultural production and farm‑resource data were used to frame the local food‑system environment that supports the farmers’ market program.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "“Something Fun to Look Forward to”: Lessons From Implementing the Prescription for Health Farmers’ Market Initiative in Rural Upper Michigan",
-        "identifier": "10.1177/15248399221093966",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148759450"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Agricultural Resource Management Survey (ARMS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"fips\",\"year\"]",
-        "methodology": "The two national agricultural datasets were merged by first extracting the year, state abbreviation and county identifier from each source. The county identifier was converted to the standard five digit FIPS code. Records were then aligned on the composite key of FIPS and calendar year. Where county"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Although not directly described in the methods, the background references cite both NASS and ARMS as national agricultural datasets that underpin the broader context of food supply and distribution analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Participatory mapping to address neighborhood level data deficiencies for food security assessment in Southeastern Virginia, USA",
-        "identifier": "10.1186/s12942-022-00314-3",
-        "url": "https://app.dimensions.ai/details/publication/pub.1152553896"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "combination",
-        "joinKeys": "[\"county_fips\",\"census_tract_id\",\"year\"]",
-        "methodology": "The authors combined the NASS Census of Agriculture and the Agricultural Resource Management Survey (ARMS) by aligning them on common geographic identifiers such as county FIPS codes, census tract numbers, and year of observation. The datasets were first extracted from their respective repositories,"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Although NASS is mentioned among known datasets, the manuscript does not provide explicit evidence of its use; it may have been considered for future data fusion with agricultural land‑use variables.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Integrating geo-linked electronic health records with neighborhood data to identify place-based barriers for diabetes management in a public healthcare system",
-        "identifier": "10.21203/rs.3.rs-913499/v1",
-        "url": "https://app.dimensions.ai/details/publication/pub.1141733356"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Electronic Health Records (EHR) – patient-level addresses and diabetes outcomes",
-        "joinType": "potential integration",
-        "joinKeys": "[\"geocoded_latitude_longitude\",\"census_tract_polygon\"]",
-        "methodology": "Patient residential addresses from the EHR were geocoded to obtain latitude‑longitude coordinates using ArcGIS Pro. These point locations were then spatially joined to census‑tract polygon layers that contain neighborhood‐level social determinant variables (e.g., race/ethnicity composition, poverty,"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Livestock population estimates (e.g., numbers of cattle and pigs) were derived from the census data and combined with ARMS‑derived management practices (e.g., manure application rates, tile drainage prevalence) to assess manure loading per watershed.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Regional Variations of Bovine and Porcine Fecal Pollution as a Function of Landscape, Nutrient, and Hydrological Factors",
-        "identifier": "10.2134/jeq2017.11.0438",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106092544"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"hydrologic_unit_code\",\"county_id\",\"state_fips\"]",
-        "methodology": "The authors first extracted livestock head counts from the USDA 2012 Census of Agriculture at the county level and manure application rates, tile drainage prevalence, and other management practices from the Agricultural Resource Management Survey (ARMS). Both datasets were aggregated to the watershe"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite the Local Food Marketing Practices Survey to contextualize regional manure application practices and combine its qualitative insights with quantitative census/ARMS data on animal numbers and manure volumes for interpreting watershed‑scale impacts.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Regional Variations of Bovine and Porcine Fecal Pollution as a Function of Landscape, Nutrient, and Hydrological Factors",
-        "identifier": "10.2134/jeq2017.11.0438",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106092544"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey",
-        "joinType": "integration",
-        "joinKeys": "[\"watershed_id\",\"county_fips\",\"state_code\"]",
-        "methodology": "The integration combined the Local Food Marketing Practices Survey (qualitative, region‑specific manure application descriptions) with USDA Census of Agriculture and ARMS livestock/manure data (quantitative animal counts and manure volumes). First, both datasets were extracted from their source file"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The independent variable ‘adoption of biotech seeds’ is constructed from the percent of corn and soybeans planted that are genetically engineered, which relies on USDA crop statistics typically derived from NASS census data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
-        "identifier": "10.2139/ssrn.3297176",
-        "url": "https://app.dimensions.ai/details/publication/pub.1110915630"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Department of Agriculture (USDA) – Crop Data on Genetically Engineered Corn and Soybeans",
-        "joinType": "integration",
-        "joinKeys": "[\"state_id\",\"year\"]",
-        "methodology": "The integration was performed by first extracting the USDA crop statistics on genetically engineered corn and soybeans and the NASS Census of Agriculture data for each state and year. Both datasets were cleaned to ensure consistent naming of states, years, and measurement units. A key‑based join was"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors reference USDA NASS data to contextualize the scale of almond production (e.g., “the five highest almond‑producing counties… are in the central and southern San Joaquin Valley (USDA NASS, 2019)”) and likely combine these county‑level statistics with their survey responses for regional an",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Regional, Honey Bee-Centered Approach Is Needed to Incentivize Grower Adoption of Bee-Friendly Practices in the Almond Industry",
-        "identifier": "10.3389/fsufs.2021.628802",
-        "url": "https://app.dimensions.ai/details/publication/pub.1140243310"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Almond Grower Survey (primary dataset)",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_name\",\"survey_county_id\",\"nass_county_id\"]",
-        "methodology": "The researchers first cleaned the almond grower survey data by removing incomplete, implausible, and duplicate responses. They then extracted county identifiers from each respondent based on the address information provided in the survey. USDA NASS census data was obtained at the county level for al"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study likely integrated national agricultural census data with the ARMS survey to provide a comprehensive view of farm characteristics and production trends in Puerto Rico.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Land Use, Conservation, Forestry, and Agriculture in Puerto Rico",
-        "identifier": "10.3390/f8070242",
-        "url": "https://app.dimensions.ai/details/publication/pub.1090364662"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "combination",
-        "joinKeys": "[\"CLU_ID\",\"parcel_id\",\"geographic_coordinate\"]",
-        "methodology": "The study combined the NASS Census of Agriculture with the Agricultural Resource Management Survey (ARMS) by first extracting farm-level records from both sources and then linking them through common land unit identifiers provided by the USDA Farm Service Agency (CLU IDs). Spatial attributes such as"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors likely merged local food marketing survey results with census agricultural production data to assess the relationship between local production and market practices.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Land Use, Conservation, Forestry, and Agriculture in Puerto Rico",
-        "identifier": "10.3390/f8070242",
-        "url": "https://app.dimensions.ai/details/publication/pub.1090364662"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey",
-        "joinType": "merge",
-        "joinKeys": "[\"CLU_code\",\"municipality_id\",\"parcel_name\",\"latitude_longitude\"]",
-        "methodology": "The authors merged the Local Food Marketing Practices Survey data with the NASS Census of Agriculture by performing a spatial join based on common geographic identifiers such as USDA Farm Service Agency Common Land Unit (CLU) codes and municipality boundaries. First, both datasets were extracted fro"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors used harvested crop data from the Wyoming agricultural census (NASS) and profitability estimates derived from ARMS‑based farm resource surveys, UNL crop budgets, and Lee et al. profit calculations to compute per‑acre net present values for each crop rotation in Goshen County.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Understanding Pollinator Habitat Conservation under Current Policy Using Economic Experiments",
-        "identifier": "10.3390/land6030057",
-        "url": "https://app.dimensions.ai/details/publication/pub.1091321717"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_name\",\"year\",\"crop_type\"]",
-        "methodology": "The authors merged harvested crop acreage from the NASS Census of Agriculture with profitability estimates derived from the Agricultural Resource Management Survey (ARMS) and supplemental sources (UNL crop budgets, Lee et al. profit calculations). They first extracted county‑level data for Goshen Co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑level specialty‑crop production shares from NASS (e.g., California 57 %) were referenced alongside the geographic distribution of Food Hubs to discuss the centralization of specialty‑crop production.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Are Food Hubs Sustainable? An Analysis of Social and Environmental Objectives of U.S. Food Hubs",
-        "identifier": "10.3390/su15032308",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154983690"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Food Hub sample locations",
-        "joinType": "combination",
-        "joinKeys": "[\"state\"]",
-        "methodology": "The researchers first extracted state level specialty crop production percentages from the NASS Census of Agriculture and compiled a list of Food Hub locations with their associated state identifiers. Both datasets were cleaned to ensure consistent state naming (full name and two letter abbreviation"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Demographic and poverty data from NASS were combined with USDA food desert classifications to identify high‑poverty census block groups for urban agriculture suitability analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Geospatial Evaluation for Urban Agriculture Land Inventory: Roanoke, Virginia USA",
-        "identifier": "10.4018/ijagr.2017010103",
-        "url": "https://app.dimensions.ai/details/publication/pub.1047979751"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Food Access Research Atlas (census tract food desert classification)",
-        "joinType": "integration",
-        "joinKeys": "[\"census_block_group_id\",\"census_tract_id\"]",
-        "methodology": "The integration was performed within a GIS environment (Esri ArcMap) by first extracting spatial layers from each source (NASS Census of Agriculture demographic tables and USDA Food Access Research Atlas) and converting them to compatible shapefile formats. The NASS data were linked to census block "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The harvested‑cropland figures for each parish were combined with the corresponding parish‑level production totals for each of the four crops. Both datasets were loaded into an attribute table and linked to a parish shapefile in ArcGIS to create the graduated‑color maps.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Impacts of Louisiana’s Changing Climate on Food Crop Production",
-        "identifier": "10.4236/as.2024.1511065",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182362809"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA crop‑production data for corn, cotton, rice, and soybean (2007 & 2017) – NASS Census of Agriculture",
-        "joinType": "merge",
-        "joinKeys": "[\"parish_name\",\"parish_fips\"]",
-        "methodology": "Both USDA harvested‑cropland tables (2007, 2012, 2017) and USDA crop‑production tables (2007, 2017) were imported into ArcGIS as separate attribute tables. Parish identifiers (either parish name or parish FIPS code) were standardized across the tables, missing values were removed and duplicate recor"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The harvested‑cropland figures for each parish were combined with the corresponding parish‑level production totals for each of the four crops. Both datasets were loaded into an attribute table and linked to a parish shapefile in ArcGIS to create the graduated‑color maps.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Impacts of Louisiana’s Changing Climate on Food Crop Production",
-        "identifier": "10.4236/as.2024.1511065",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182362809"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA harvested‑cropland data (2007, 2012, 2017) – NASS Census of Agriculture",
-        "joinType": "merge",
-        "joinKeys": "[\"parish_name\",\"parish_fips\"]",
-        "methodology": "Both USDA harvested‑cropland tables (2007, 2012, 2017) and USDA crop‑production tables (2007, 2017) were imported into ArcGIS as separate attribute tables. Parish identifiers (either parish name or parish FIPS code) were standardized across the tables, missing values were removed and duplicate recor"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Although ARMS is not named directly in the excerpt, the study cites USDA reports from 2009, 2014 and 2019, which are the typical release years for the NASS Census and ARMS. It is reasonable to infer that farm‑management variables from ARMS were merged with the census production numbers to enrich the",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Impacts of Louisiana’s Changing Climate on Food Crop Production",
-        "identifier": "10.4236/as.2024.1511065",
-        "url": "https://app.dimensions.ai/details/publication/pub.1182362809"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Agricultural Resource Management Survey (ARMS) – farm‑level management and input data",
-        "joinType": "integration",
-        "joinKeys": "[\"parish_name\",\"fips_code\"]",
-        "methodology": "The researchers downloaded tabular crop‑production data for the years 2007, 2012 and 2017 from USDA NASS Census reports and farm‑management variables (inferred from ARMS) and stored them as CSV files. Parallel GIS shapefiles containing parish boundaries were obtained. In a preprocessing stage the ta"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors used national agricultural statistics from the NASS Census together with detailed farm‑level management data from ARMS to characterize the size, sales, and subsidy receipt of small urban farms in Salt Lake City.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Farms and gardens everywhere but not a bite to eat? A critical geographic approach to food apartheid in Salt Lake City",
-        "identifier": "10.5304/jafscd.2022.112.013",
-        "url": "https://app.dimensions.ai/details/publication/pub.1145837617"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Agricultural Resource Management Survey (ARMS)",
-        "joinType": "integration",
-        "joinKeys": "[\"USDA_Farm_ID\",\"county_code\",\"census_tract\",\"gps_coordinates\"]",
-        "methodology": "The authors combined national agricultural statistics from the NASS Census of Agriculture with detailed farm‑level management data from the Agricultural Resource Management Survey (ARMS). They first extracted relevant records for farms located in Salt Lake City’s Westside using geographic identifier"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
         }
       ]
     }

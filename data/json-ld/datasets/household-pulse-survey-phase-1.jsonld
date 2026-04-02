@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Household Pulse Survey (Phase 1)",
@@ -13,6 +12,11 @@
     "COVID-19 Household Pulse Survey",
     "Pulse Survey"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Census Bureau"
+  },
+  "about": "Public health / Social science",
   "review": [
     {
       "@type": "Review",
@@ -35,13 +39,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -64,13 +62,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Social science"
+      ]
     },
     {
       "@type": "Review",
@@ -93,13 +85,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Social research"
+      ]
     },
     {
       "@type": "Review",
@@ -122,13 +108,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Economic/Health impacts of COVID‑19"
+      ]
     },
     {
       "@type": "Review",
@@ -151,13 +131,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social & Economic Impact Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -180,13 +154,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -209,13 +177,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health, economics, pandemic impact assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -238,13 +200,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socioeconomic monitoring"
+      ]
     },
     {
       "@type": "Review",
@@ -267,13 +223,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health, sociology, food security"
+      ]
     },
     {
       "@type": "Review",
@@ -296,13 +246,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Socio‑economic monitoring, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -325,13 +269,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Social science survey"
+      ]
     },
     {
       "@type": "Review",
@@ -354,13 +292,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Economic well‑being"
+      ]
     },
     {
       "@type": "Review",
@@ -383,13 +315,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau (Experimental Data webpage)"
-      },
-      "about": "Public health / Social science"
+      ]
     },
     {
       "@type": "Review",
@@ -412,13 +338,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Public health / socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -441,13 +361,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -470,13 +384,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health, economics, sociology"
+      ]
     },
     {
       "@type": "Review",
@@ -499,13 +407,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -528,13 +430,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social, Economic, Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -557,13 +453,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -586,13 +476,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -615,13 +499,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Economic impacts of COVID‑19"
+      ]
     },
     {
       "@type": "Review",
@@ -644,13 +522,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -673,13 +545,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau – Household Pulse Survey public‑use files."
-      },
-      "about": "Social science / public health / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -702,13 +568,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau – Small Business Pulse Survey."
-      },
-      "about": "Economics / Business"
+      ]
     },
     {
       "@type": "Review",
@@ -731,13 +591,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social Sciences / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -760,13 +614,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -789,13 +637,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Public health, economics, social science"
+      ]
     },
     {
       "@type": "Review",
@@ -818,13 +660,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic monitoring"
+      ]
     },
     {
       "@type": "Review",
@@ -847,13 +683,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -876,13 +706,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Social science"
+      ]
     },
     {
       "@type": "Review",
@@ -905,13 +729,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Paper text"
-      },
-      "about": "Survey research"
+      ]
     },
     {
       "@type": "Review",
@@ -934,13 +752,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health/Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -963,13 +775,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Social science"
+      ]
     },
     {
       "@type": "Review",
@@ -992,13 +798,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / Public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -1021,13 +821,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / social epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1050,13 +844,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / social epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1079,13 +867,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Public health / socioeconomic monitoring"
+      ]
     },
     {
       "@type": "Review",
@@ -1108,13 +890,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Social science"
+      ]
     },
     {
       "@type": "Review",
@@ -1137,13 +913,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1166,13 +936,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -1195,13 +959,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Demography, economics, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1224,13 +982,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/health economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1253,13 +1005,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic Research"
+      ]
     },
     {
       "@type": "Review",
@@ -1282,13 +1028,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Social science / public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -1311,13 +1051,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1340,13 +1074,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1369,13 +1097,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau, 2021 citation"
-      },
-      "about": "Social science / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1398,13 +1120,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1427,13 +1143,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic impacts"
+      ]
     },
     {
       "@type": "Review",
@@ -1456,13 +1166,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau 2023"
-      },
-      "about": "Public health / sociology / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1485,13 +1189,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Survey research / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1514,13 +1212,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social / Economic"
+      ]
     },
     {
       "@type": "Review",
@@ -1543,13 +1235,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau (Household Pulse Survey) website and technical documentation."
-      },
-      "about": "Public health / Social science survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -1572,13 +1258,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau (external dataset)."
-      },
-      "about": "Social science / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1601,13 +1281,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -1630,13 +1304,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health / Socioeconomic Research"
+      ]
     },
     {
       "@type": "Review",
@@ -1659,13 +1327,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic impacts of COVID‑19"
+      ]
     },
     {
       "@type": "Review",
@@ -1688,13 +1350,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -1717,13 +1373,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1746,13 +1396,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / Public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -1775,9 +1419,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Health care quality assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -1800,13 +1442,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public‑health / Economic behavior"
+      ]
     },
     {
       "@type": "Review",
@@ -1829,13 +1465,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1858,13 +1488,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social epidemiology / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1887,13 +1511,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health/Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1916,13 +1534,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Section 2.5.5"
-      },
-      "about": "Public health and socioeconomic monitoring"
+      ]
     },
     {
       "@type": "Review",
@@ -1945,13 +1557,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1974,13 +1580,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (public use files available at https://www.census.gov/programs‑surveys/household‑pulse‑survey/datasets.html)"
-      },
-      "about": "Public health / Socio‑economic monitoring"
+      ]
     },
     {
       "@type": "Review",
@@ -2003,13 +1603,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Socio‑economic impacts of COVID‑19"
+      ]
     },
     {
       "@type": "Review",
@@ -2032,13 +1626,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic Research"
+      ]
     },
     {
       "@type": "Review",
@@ -2061,13 +1649,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social‑science / Public‑health"
+      ]
     },
     {
       "@type": "Review",
@@ -2090,13 +1672,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public Health / Socioeconomic"
+      ]
     },
     {
       "@type": "Review",
@@ -2119,13 +1695,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Public health / Survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -2148,13 +1718,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (citation not provided)."
-      },
-      "about": "Public health / social science"
+      ]
     },
     {
       "@type": "Review",
@@ -2176,564 +1740,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 10.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Public health / Socio‑economic survey"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis clusters respondents by the four Census regions and the 50 states/DC, using the Census geographic hierarchy to define clustering variables for Generalized Estimating Equation (GEE) models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Mental Cost of Food Insecurity among LGBTQ+Americans",
-        "identifier": "10.1007/s11113-024-09881-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170963330"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census geographic classifications (census regions and state identifiers)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"region_code\"]",
-        "methodology": "The Household Pulse Survey microdata were linked to the Census geographic classification file by matching the state identifier present in both sources. A direct key based join was performed to attach the four Census region label and the state code to each respondent record. The merged file was then "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the methods section, the authors state they control for the respondent’s state and month‑specific unemployment rate by incorporating seasonally adjusted monthly state unemployment data from the St. Louis Federal Reserve Bank into their regression models alongside the Household Pulse Survey respon",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Current and Future Food Insufficiency During Covid-19: Examining Disparities by Race/Ethnicity and Recent Work Loss",
-        "identifier": "10.1007/s40615-021-01116-2",
-        "url": "https://app.dimensions.ai/details/publication/pub.1140096436"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State-level monthly unemployment rates from the St. Louis Federal Reserve Bank",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"month\"]",
-        "methodology": "The authors merged the Household Pulse Survey records with state‑level monthly unemployment rates by matching each respondent’s reported state and the survey week (converted to month) to the corresponding seasonally adjusted unemployment figure from the St. Louis Federal Reserve Bank. The integratio"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a historical food‑security measure by matching each HPS respondent to two CPS‑FSS respondents using propensity‑score matching on a set of common demographic variables. The matched CPS records were then merged with the HPS file to provide a pre‑pandemic food‑security baseline.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "identifier": "10.1007/s40615-022-01447-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS)",
-        "joinType": "integration",
-        "joinKeys": "[\"race\",\"ethnicity\",\"gender\",\"age\",\"marital_status\",\"employment_status\",\"household_size\",\"state\",\"income\"]",
-        "methodology": "The authors constructed a pre‑pandemic food security baseline by linking each Household Pulse Survey respondent to two individuals from the 2018 Current Population Survey Food Security Supplement. Because no unique identifiers exist across the two surveys, they used propensity score matching on a se"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "During weighting of the HPS, the authors applied an adjustment that aligns the survey weights to occupied housing‑unit counts derived from the ACS. This requires merging the ACS housing‑unit estimates with the HPS weighting process.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "identifier": "10.1007/s40615-022-01447-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) 2014‑2018 5‑year estimates",
-        "joinType": "merge",
-        "joinKeys": "[\"state_fips\",\"county_fips\",\"census_tract\"]",
-        "methodology": "The authors first extracted the occupied housing‑unit counts from the 2014‑2018 5‑year American Community Survey (ACS) at the finest geographic level available (state‑FIPS, county‑FIPS, and census‑tract). The Household Pulse Survey (HPS) records also contain the same geographic identifiers for each "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The sampling frame for the HPS was drawn from the Census Bureau Master Address File, and the HPS data were linked to that address file to enable geographic identifiers (MSA, state, nation) and to apply non‑response adjustments.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID-19 Pandemic",
-        "identifier": "10.1007/s40615-022-01447-8",
-        "url": "https://app.dimensions.ai/details/publication/pub.1152755048"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Census Master Address File (MAF)",
-        "joinType": "integration",
-        "joinKeys": "[\"address_id\",\"census_tract\",\"state_fips\",\"msa_code\"]",
-        "methodology": "The Household Pulse Survey sample was drawn from the Census Master Address File. Records from the survey were linked to the address file by matching the standardized address identifier that is common to both data sources. The link provided geographic attributes such as metropolitan statistical area "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors pooled Pulse observations from all weeks (Phase 1‑3.5) to create a single analytical sample. They obtained the raw weekly files from the Census Bureau and used the Urban Institute’s harmonized version, which combined the separate weekly files into a consistent format before merging them ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Racial and Ethnic Disparities in Food Insufficiency in Families with Children During the COVID-19 Pandemic: the Role of Risk and Protective Factors",
-        "identifier": "10.1007/s40615-023-01881-2",
-        "url": "https://app.dimensions.ai/details/publication/pub.1167139769"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Urban Institute harmonized Pulse dataset",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\",\"week_number\",\"panel_id\",\"timestamp\"]",
-        "methodology": "The researchers downloaded the raw weekly Household Pulse Survey files from the Census website and obtained the harmonized weekly files provided by the Urban Institute. The harmonized files already used a common set of variable names and coding schemes across all weeks. They then performed an extrac"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑level percentage of small businesses that temporarily closed (April–June 2020) was linked to each respondent’s record to model the impact of pandemic‑induced business disruptions on individual food‑insecurity outcomes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Small Business Pulse Survey (SBPS) state‑level closure data",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"week\"]",
-        "methodology": "The researchers linked the Small Business Pulse Survey (SBPS) state‑level closure percentages to each Household Pulse Survey (HPS) respondent by matching on common geographic and temporal identifiers. First the SBPS data were aggregated to the state level for the period April‑June 2020 and a variabl"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑level percentage of small businesses that temporarily closed (April–June 2020) was linked to each respondent’s record to model the impact of pandemic‑induced business disruptions on individual food‑insecurity outcomes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey (HPS) microdata",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"week\"]",
-        "methodology": "The researchers linked the Small Business Pulse Survey (SBPS) state‑level closure percentages to each Household Pulse Survey (HPS) respondent by matching on common geographic and temporal identifiers. First the SBPS data were aggregated to the state level for the period April‑June 2020 and a variabl"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Year‑by‑year percentage changes in retail sales for each state were merged with the HPS respondent data to assess how state‑wide food‑and‑beverage market conditions relate to personal food‑insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Monthly State Retail Sales (MSRS) reports",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"survey_week\"]",
-        "methodology": "The researchers extracted the Household Pulse Survey microdata and the Monthly State Retail Sales data, cleaned both sets, created a common state identifier and a temporal key such as survey week, calculated the annual percent change in retail sales for each state, and then performed an inner join o"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑level COVID‑19 case counts per 100 people were calculated from CDC data and attached to each HPS respondent to examine the association between pandemic prevalence and food‑insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "CDC COVID‑19 case data (state‑level infection rates)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"survey_week\"]",
-        "methodology": "State‑level COVID‑19 case counts per 100 people were first computed from CDC daily reports by aggregating to weekly totals for each state. The Household Pulse Survey microdata already contain a state identifier (e.g., state FIPS code) and the survey week. A deterministic key‑based merge was performe"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Participation rates for major food‑assistance programs were attached to each respondent’s record to test whether higher program uptake at the state level reduces individual food‑insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level SNAP, WIC, and TANF participation rates (derived from USDA/administrative sources)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"week\"]",
-        "methodology": "The researchers first extracted the Household Pulse Survey microdata and the state level participation rates for SNAP WIC and TANF. State identifiers (FIPS code) and survey week numbers were aligned in both files. The state level rates were aggregated to the same bi‑weekly period as the survey. Afte"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Monthly state unemployment rates were merged with HPS records to control for labor‑market conditions in the multilevel logistic models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Bureau of Labor Statistics (BLS) state unemployment rates",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"year_month\"]",
-        "methodology": "The researchers linked the Household Pulse Survey microdata with monthly state unemployment rates by matching on the state identifier and the calendar month of each survey wave. After extracting the HPS records and the BLS unemployment series, they performed standard data cleaning, ensured consisten"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "State‑level affordability metrics (median rent ÷ median renter income) and demographic composition (Black share) from the ACS were merged with HPS respondents to explore socioeconomic context effects on food‑insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) 2019 data – median rent, median renter income, and Black‑population share",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"state_name\"]",
-        "methodology": "The authors first extracted state‑level variables (median gross rent, median renter household income, and Black‑population share) from the 2019 American Community Survey. They calculated an affordability ratio (median rent ÷ median renter income) for each of the 50 states plus DC. The Household Puls"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Both datasets provide complementary state‑level economic indicators (business closures and retail sales) that were combined into a single state‑level covariate set for inclusion in the multilevel models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities in food insecurity during the COVID-19 pandemic: A two-year analysis",
-        "identifier": "10.1016/j.cities.2022.104003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151271369"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Monthly State Retail Sales (MSRS) data",
-        "joinType": "fusion",
-        "joinKeys": "[\"state\",\"year_month\"]",
-        "methodology": "The authors first extracted the state‑level closure percentages from the Small Business Pulse Survey (SBPS) and the monthly retail sales figures from the Monthly State Retail Sales (MSRS) reports. Both datasets were cleaned, standardized to use the same two‑letter state abbreviation and a common Yea"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The manuscript references CHPS figures (e.g., “the Census Household Pulse Survey (CHPS) carried out between April 23 and May 13, 2020 indicated that 23% of all American households were food insecure…”) and juxtaposes them with the RAPID survey results to discuss national trends.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and COVID-19 Food-Related Perceptions, Practices, and Problems: A 3-State Descriptive Study",
-        "identifier": "10.1017/dmp.2022.250",
-        "url": "https://app.dimensions.ai/details/publication/pub.1152412062"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "RAPID Multi‑Wave Risk Perception Study (online survey data)",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"survey_week\"]",
-        "methodology": "The RAPID online survey data and the Census Household Pulse Survey estimates were combined by first extracting the relevant variables from each source, standardising variable names and formats, and then performing an exact match on the state and the survey week identifier. The two data extracts were"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Each weekly HPS public‑use file was merged with its corresponding weight file so that the survey‑design variables could be applied before analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "identifier": "10.1111/soc4.70042",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey weekly weight files (rpweight, r2pweight, etc.)",
-        "joinType": "merge",
-        "joinKeys": "[\"case_id\",\"week\"]",
-        "methodology": "Each weekly Household Pulse Survey public‑use file was combined with its matching weekly weight file before any analysis. The merge was performed in Stata using the built‑in merge command, joining on the unique case identifier (case_id) and the survey week variable that appear in both files. After t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Each weekly HPS public‑use file was merged with its corresponding weight file so that the survey‑design variables could be applied before analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "identifier": "10.1111/soc4.70042",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey weekly data (weeks 13‑60)",
-        "joinType": "merge",
-        "joinKeys": "[\"case_id\",\"week\"]",
-        "methodology": "Each weekly Household Pulse Survey public‑use file was combined with its matching weekly weight file before any analysis. The merge was performed in Stata using the built‑in merge command, joining on the unique case identifier (case_id) and the survey week variable that appear in both files. After t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "After merging each week with its weight file, the authors compiled the 48 weekly datasets into one complete dataset covering 182 calendar weeks.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "identifier": "10.1111/soc4.70042",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "All weeks combined into a single analytical dataset",
-        "joinType": "combination",
-        "joinKeys": "[\"respondent_id\",\"week\"]",
-        "methodology": "Each weekly Household Pulse Survey file (weeks 13 to 60) was first read, then merged with its corresponding weight file using the respondent identifier supplied by the Census Bureau. The merge was performed as an inner join on the respondent id and the week variable so that only records with a match"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a binary variable indicating whether a respondent’s state of residence has a grocery tax by linking the HPS state identifier to an external list of states that impose grocery taxes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Price Is Not Right: Grocery Taxation, Race and Food Insecurity During COVID‐19",
-        "identifier": "10.1111/soc4.70042",
-        "url": "https://app.dimensions.ai/details/publication/pub.1187119034"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level grocery tax dataset (list of 13 states and tax rates)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\"]",
-        "methodology": "The researchers extracted the state identifier from each Household Pulse Survey record and compared it to a curated list of the thirteen states that impose grocery taxes. A binary flag was created where the flag equals 1 if the state identifier matches one of the tax states and 0 otherwise. The matc"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors link individual‑level HPS responses on vaccination status, food‑security, and financial optimism with state‑level, time‑varying policy variables that indicate when each state made COVID‑19 vaccines eligible for specific age groups. The merge is performed on state and survey wave (date) i",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "identifier": "10.2139/ssrn.4390226",
-        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "COVID‑19 U.S. State Policy (CUSP) database",
-        "joinType": "integration",
-        "joinKeys": "[\"state\",\"wave_date\"]",
-        "methodology": "The authors linked individual level survey records with state policy records by aligning the state identifier and the survey wave date They first standardized state codes and converted wave dates to a common format Then they performed an inner join on state and wave using a data frame merge operatio"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study juxtaposes outcomes from HPS (vaccination status and food‑insecurity) with SNAP receipt measured in CPS‑FSS to discuss broader welfare implications. While the two surveys are not merged at the individual level, the authors combine their findings in a joint analytical narrative, treating th",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "From Syringes to Dishes: Improving Food Security Through Vaccination",
-        "identifier": "10.2139/ssrn.4390226",
-        "url": "https://app.dimensions.ai/details/publication/pub.1156304476"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey – Food Security Supplement (CPS‑FSS)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "the study does not perform a technical merge of hps and cpsfss records instead the authors treat the two surveys as separate data sources and combine their results in a narrative synthesis findings from hps on vaccination status and food insecurity are presented alongside snap receipt estimates from"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All weekly public‑use files (weeks 1‑57) were downloaded from the Census Bureau’s Household Pulse Survey website and concatenated into a single analytical file representing the entire public‑health‑emergency period (23 Apr 2020 – 8 May 2023). The merged dataset was then weighted and used for all des",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity across Age Groups in the United States during the COVID-19 Pandemic",
-        "identifier": "10.3390/ijerph21081078",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174849929"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey weekly microdata (Weeks 2‑57)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "All publicly available weekly micro‑data files (weeks 1 through 57) were downloaded from the Census Bureau Household Pulse Survey website. Each weekly file has an identical set of variables and column structure. The files were read into the analysis environment, any week‑specific variable recoding w"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All weekly public‑use files (weeks 1‑57) were downloaded from the Census Bureau’s Household Pulse Survey website and concatenated into a single analytical file representing the entire public‑health‑emergency period (23 Apr 2020 – 8 May 2023). The merged dataset was then weighted and used for all des",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity across Age Groups in the United States during the COVID-19 Pandemic",
-        "identifier": "10.3390/ijerph21081078",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174849929"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household Pulse Survey weekly microdata (Week 1)",
-        "joinType": "combination",
-        "joinKeys": "[]",
-        "methodology": "All publicly available weekly micro‑data files (weeks 1 through 57) were downloaded from the Census Bureau Household Pulse Survey website. Each weekly file has an identical set of variables and column structure. The files were read into the analysis environment, any week‑specific variable recoding w"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
         }
       ]
     }

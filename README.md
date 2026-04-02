@@ -79,18 +79,21 @@ Dataset-centric JSON-LD files using [schema.org](https://schema.org/) vocabulary
 
 | File | Description |
 |------|-------------|
-| `context.jsonld` | Shared `@context` definition (`schema.org` + `dud:` namespace) |
+| `context.jsonld` | Shared `@context` definition (pure schema.org) |
 | `catalog.jsonld` | `DataCatalog` listing all 31 datasets with reviews |
 | `datasets/*.jsonld` | One file per dataset (34 total, 31 with reviews) |
 
-**Schema mapping:**
+**Schema mapping — uses only native schema.org vocabulary (no custom namespace):**
 
-| schema.org Type | Usage |
-|----------------|-------|
+| schema.org Type/Property | Usage |
+|--------------------------|-------|
 | `Dataset` | Root entity — one per file |
 | `Review` | Each publication's assessment of the dataset |
 | `Rating` | Confidence scores (`mention` and `use`, 0–10 scale) |
 | `ScholarlyArticle` | Publication cited in the review |
+| `creator` | Organization responsible for the dataset (on root `Dataset`) |
+| `about` | Research domain classification (on root `Dataset`) |
+| `url` | Dimensions page for the cited publication (on `ScholarlyArticle`) |
 
 **Review aspects** distinguish how the dataset-publication link was identified:
 
@@ -98,16 +101,6 @@ Dataset-centric JSON-LD files using [schema.org](https://schema.org/) vocabulary
 |----------------|--------|-------------|
 | `"validation"` | File A | Dataset confirmed by LLM against known seed/additional list |
 | `"discovery"` | File B | Dataset discovered by LLM from full-text extraction |
-| `"join"` | File C | Dataset identified as part of a multi-dataset integration |
-
-**Native schema.org properties on discovery reviews:**
-- `sdPublisher` — organization responsible for the dataset (`{"@type": "Organization", "name": "..."}`)
-- `about` — research domain classification (e.g., "Public health / Nutrition")
-- `url` — Dimensions page for the cited publication (on `ScholarlyArticle`)
-
-**Custom namespace** (`dud:` = `https://nationaldataplatform.org/data-usage-descriptor/`), minimized to 2 properties:
-- `dud:dataset_usage_status` — validation status (`validated`, `discovered`)
-- `dud:joinDetail` — join metadata: `partnerDataset`, `joinType`, `joinKeys`, `methodology`
 
 **Regenerate:**
 ```bash
@@ -123,7 +116,7 @@ python code/csv-to-jsonld/convert.py
 Converts the CSV data files into dataset-centric JSON-LD using schema.org vocabulary.
 
 ```bash
-python code/csv-to-jsonld/convert.py [--data-dir data/] [--no-joins]
+python code/csv-to-jsonld/convert.py [--data-dir data/]
 ```
 
 ### Data Extraction (`code/data-extraction/`)

@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Food Environment Atlas (USDA ERS)",
@@ -12,6 +11,11 @@
     "ERS Food Environment Atlas",
     "FEA"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "USDA Economic Research Service"
+  },
+  "about": "Agriculture / public health",
   "review": [
     {
       "@type": "Review",
@@ -34,13 +38,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Food Environment Atlas"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -63,13 +61,7 @@
           "name": "use",
           "ratingValue": 6.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -92,13 +84,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Economic Research Service"
-      },
-      "about": "Agriculture / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -121,13 +107,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Agricultural Marketing Service"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -150,13 +130,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / food‑environment research"
+      ]
     },
     {
       "@type": "Review",
@@ -179,13 +153,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (Food Environment Atlas, 2019)"
-      },
-      "about": "Agriculture / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -208,13 +176,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -237,13 +199,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Public health / Food environment"
+      ]
     },
     {
       "@type": "Review",
@@ -266,13 +222,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Environmental / Geography"
+      ]
     },
     {
       "@type": "Review",
@@ -295,13 +245,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Parents/guardians of adolescents in the EAT 2010 cohort"
-      },
-      "about": "Public health / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -324,13 +268,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Public health / Nutrition / Food environment"
+      ]
     },
     {
       "@type": "Review",
@@ -353,13 +291,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / food environment"
+      ]
     },
     {
       "@type": "Review",
@@ -382,13 +314,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Food access / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -411,13 +337,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA, 2017"
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -440,13 +360,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Food Access / Geography"
+      ]
     },
     {
       "@type": "Review",
@@ -468,348 +382,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 2.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Food Environment / Nutrition"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The paper cites Pueblo County’s food‑environment characteristics from the USDA Food Environment Atlas (e.g., low‑income households, low access to stores) alongside their own survey findings to frame the study context.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Analyzing the Role of Community and Individual Factors in Food Insecurity: Identifying Diverse Barriers Across Clustered Community Members",
-        "identifier": "10.1007/s10900-016-0171-0",
-        "url": "https://app.dimensions.ai/details/publication/pub.1044764715"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Community Food Security Assessment Survey",
-        "joinType": "fusion",
-        "joinKeys": "[\"County_Name\"]",
-        "methodology": "The researchers combined the community food security assessment survey data with the USDA Food Environment Atlas metrics for Pueblo County by first extracting the county identifier from both sources. After cleaning each dataset (removing missing values, standardizing column names, and ensuring consi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the discussion the authors propose extending the analysis by linking LTR cancer cases with additional USDA Food Environment Atlas variables (e.g., food assistance program participation, restaurant density).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Living in a food desert in Louisiana and its effects on gynecologic cancer outcomes",
-        "identifier": "10.1016/j.ygyno.2024.12.001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1183405145"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Louisiana Tumor Registry (LTR) patient data",
-        "joinType": "combination",
-        "joinKeys": "[\"census_tract_id\"]",
-        "methodology": "The authors linked cancer cases from the Louisiana Tumor Registry to the USDA Food Access Research Atlas by matching the census tract identifier of each patient’s residential address to the corresponding tract‑level food environment variables. After excluding records with missing or invalid tract co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Each participant’s county was matched to the natural amenity rank from the USDA Food Environment Atlas, providing a continuous environmental covariate for analysis.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "identifier": "10.1017/s1368980017003391",
-        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household food security data (SNAP‑Ed intervention study participants)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_name\"]",
-        "methodology": "The integration was performed by linking each SNAP‑Ed participant record to the USDA Food Environment Atlas natural amenity index using the county identifier. County names were standardized across both datasets, and a direct key‑based join was executed in an ETL workflow. The joined dataset served a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The number of recreational facilities per county was merged with participant data to explore potential links between physical activity resources and food security.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "identifier": "10.1017/s1368980017003391",
-        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Household food security data (SNAP‑Ed intervention study participants)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_id\",\"county_name\"]",
-        "methodology": "The researchers linked the household‑level SNAP‑Ed participant records to county‑level environmental data by matching each participant’s residence county identifier (e.g., county name or FIPS code) with the corresponding county record in the USDA Food Environment Atlas. The integration was performed"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All county‑level environmental variables were combined into a single analytical dataset before being merged with the participant-level data for regression modelling.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring the association of urban or rural county status and environmental, nutrition- and lifestyle-related resources with the efficacy of SNAP-Ed (Supplemental Nutrition Assistance Program-Education) to improve food security",
-        "identifier": "10.1017/s1368980017003391",
-        "url": "https://app.dimensions.ai/details/publication/pub.1093156383"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "HUD Fair Market Rent dataset",
-        "joinType": "fusion",
-        "joinKeys": "[\"FIPS_code\",\"county_name\"]",
-        "methodology": "County‑level environmental variables from the USDA Food Environment Atlas, HUD Fair Market Rent dataset and other sources were first extracted and cleaned to create a unified county‑level table. Each record was identified by the standard county identifier (FIPS code) which served as the primary key."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Adolescent respondents from the EAT 2010 study were linked to their primary parent/guardian respondents from the Project F‑EAT survey using a deterministic algorithm that selected the parent most likely to represent the household food environment (based on residence time, relationship, and gender). ",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Household food insecurity: associations with disordered eating behaviours and overweight in a population-based sample of adolescents",
-        "identifier": "10.1017/s1368980020000464",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127991324"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Project EAT 2010 adolescent survey (EAT 2010)",
-        "joinType": "integration",
-        "joinKeys": "[\"adolescent_id\",\"parent_id\"]",
-        "methodology": "Adolescent participants from the EAT 2010 survey were linked to parent/guardian respondents from Project F‑EAT using a deterministic rule‑based algorithm. Each adolescent record contained a unique participant identifier that was matched to one or two parent identifiers collected in the parent survey"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors linked county‑level food‑environment metrics from the USDA Food Environment Atlas with health outcome percentages (obesity, diabetes) obtained from the BRFSS to run regression models assessing how food‑environment characteristics relate to these outcomes.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "identifier": "10.1080/19320248.2022.2101414",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Behavioral Risk Factor Surveillance System (BRFSS) county‑level prevalence of adult obesity and diabetes",
-        "joinType": "integration",
-        "joinKeys": "[\"FIPS\"]",
-        "methodology": "The authors extracted county level variables from the USDA Food Environment Atlas and adult obesity and diabetes prevalence from the BRFSS, both sources provide a standard county identifier FIPS code, after loading the two tables into the analysis environment the data were filtered to the ten states"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level demographic and socioeconomic variables were combined with USDA food‑access indicators to compare counties with high vs. low percentages of Native American residents and to adjust regression models for these covariates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "identifier": "10.1080/19320248.2022.2101414",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census / American Community Survey (county‑level sociodemographic variables: percent Native American residents, poverty rate, median household income, metropolitan status, age distribution)",
-        "joinType": "fusion",
-        "joinKeys": "[\"FIPS_code\"]",
-        "methodology": "The authors extracted county‑level variables from the USDA Food Environment Atlas and from the U.S. Census / American Community Survey. Both sources include a standard county identifier (FIPS code). After standardizing variable names and formats, the two tables were merged on the common FIPS key to "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis treats food‑insecurity prevalence as both an outcome and a covariate, integrating USDA‑derived food‑insecurity rates with other food‑environment variables for the same counties.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "identifier": "10.1080/19320248.2022.2101414",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "County‑level food‑insecurity data from USDA Economic Research Service (ERS) or the Current Population Survey‑Food Security Supplement",
-        "joinType": "combination",
-        "joinKeys": "[\"FIPS_code\"]",
-        "methodology": "The researchers extracted county‑level food‑environment variables from the USDA Food Environment Atlas and county‑level food‑insecurity prevalence from the USDA ERS or CPS‑FSS. Both sources contain a standard county identifier (FIPS code). After harmonising year and geographic scope, the two tables "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The percentage of the population with limited access to healthy food (from the USDA Food Environment Atlas) was added to the county‑level dataset that already contained ACS poverty and population figures.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "identifier": "10.13023/jah.0303.09",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates",
-        "joinType": "merge",
-        "joinKeys": "[\"FIPS\"]",
-        "methodology": "County level ACS 5 year estimates and USDA Food Environment Atlas variables were combined by matching each record on the official county FIPS identifier. The ACS data set provided population and poverty counts, while the USDA data set supplied the percent of population with limited access to healthy"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The participants’ geographic locations were matched to the Food Environment Atlas to determine urban versus rural classification and other food‑environment metrics.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Determinants of Food Insecurity Among Congregate Meal Participants: A Cross-Sectional Study Using Participant Information Matched to Geographic and Service Provider Data",
-        "identifier": "10.14283/jarlife.2020.7",
-        "url": "https://app.dimensions.ai/details/publication/pub.1143615191"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NSP participant data (geocoded addresses)",
-        "joinType": "integration",
-        "joinKeys": "[\"address\",\"latitude_longitude\",\"census_tract_id\"]",
-        "methodology": "The participants’ residential addresses were first cleaned and standardized, then geocoded to obtain latitude‑longitude coordinates using a commercial geocoding service (e.g., Google Maps API or US Census TIGER geocoder). The resulting geographic points were linked to the USDA Economic Research Serv"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The two study neighborhoods were designated as “low access to supermarket” areas using USDA’s 2015 Food Environment Atlas, integrating this external geographic dataset with the selection of study sites.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Correlates of Healthy Eating in Urban Food Desert Communities",
-        "identifier": "10.21203/rs.3.rs-41433/v1",
-        "url": "https://app.dimensions.ai/details/publication/pub.1129567199"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Study area definition for Philadelphia and Trenton neighborhoods",
-        "joinType": "integration",
-        "joinKeys": "[\"census_tract_id\",\"latitude_longitude\",\"address_point\"]",
-        "methodology": "The study defined the two urban neighborhoods as low‑access food desert areas by overlaying the USDA Food Environment Atlas low‑access designation polygons onto the geographic boundaries of the selected three‑square‑mile study zones in Philadelphia and Trenton. Geographic identifiers (census tract I"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "After aggregating tweets to the census‑tract level, each tract was labeled as a food desert or non‑desert according to USDA’s official classification.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
-        "identifier": "10.2196/34285",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149237728"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Food Access Research Atlas classification of low‑income, low‑access food deserts",
-        "joinType": "merge",
-        "joinKeys": "[\"GEOID\"]",
-        "methodology": "The researchers first aggregated all geolocated food‑related tweets to the census‑tract level using point‑to‑polygon spatial mapping based on latitude and longitude coordinates. Each tract was assigned a unique Census Tract GEOID (the standard identifier used by the US Census). The USDA Food Access "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Demographic and SES characteristics at the census‑tract level were pulled from the ACS and merged onto the tweet‑derived dataset for regression and classification modeling.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Using Social Media to Predict Food Deserts in the United States: Infodemiology Study of Tweets",
-        "identifier": "10.2196/34285",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149237728"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "2019 American Community Survey (ACS) demographic and socioeconomic variables",
-        "joinType": "fusion",
-        "joinKeys": "[\"census_tract_fips\",\"geoid\"]",
-        "methodology": "The researchers first filtered the Twitter stream to retain only geolocated tweets containing food‑related keywords. Each tweet’s latitude and longitude were mapped to a census tract using point‑to‑polygon spatial overlay, yielding a tract identifier (FIPS code). Demographic and socioeconomic variab"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
         }
       ]
     }

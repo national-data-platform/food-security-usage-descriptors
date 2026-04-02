@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Integrated Public Use Microdata Series Current Population Survey (IPUMS CPS)",
@@ -12,6 +11,11 @@
     "ipums-cps",
     "https://cps.ipums.org/cps/"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "IPUMS (University of Minnesota)"
+  },
+  "about": "Survey data infrastructure / statistical methodology",
   "review": [
     {
       "@type": "Review",
@@ -34,13 +38,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Minnesota"
-      },
-      "about": "Social‑science micro‑data"
+      ]
     },
     {
       "@type": "Review",
@@ -63,13 +61,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Minnesota Population Center (IPUMS)"
-      },
-      "about": "Social science / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -92,13 +84,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)"
-      },
-      "about": "Demographics / Microdata"
+      ]
     },
     {
       "@type": "Review",
@@ -121,13 +107,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota)"
-      },
-      "about": "Demographics / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -150,13 +130,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Minnesota’s IPUMS project."
-      },
-      "about": "Demography / public health statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -179,13 +153,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota) with original data from the U.S. Census Bureau"
-      },
-      "about": "Survey microdata / Demography / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -208,13 +176,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS website (http://www.ipums.org)"
-      },
-      "about": "Survey data infrastructure / statistical methodology"
+      ]
     }
   ]
 }

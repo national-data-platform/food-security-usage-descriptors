@@ -1,11 +1,15 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Environmental Quality Index (EQI)",
   "identifier": "68ea7742b68f81f17e35eb18",
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. EPA"
+  },
+  "about": "Environmental health",
   "review": [
     {
       "@type": "Review",
@@ -28,8 +32,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -52,13 +55,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited study within the scoping review"
-      },
-      "about": "Environmental health / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -81,13 +78,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. EPA"
-      },
-      "about": "Environmental health"
+      ]
     }
   ]
 }

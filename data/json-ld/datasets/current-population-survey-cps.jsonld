@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Current Population Survey (CPS)",
@@ -13,6 +12,11 @@
     "Current Population Survey",
     "https://www.census.gov/programs-surveys/cps.html"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Census Bureau"
+  },
+  "about": "Labor economics / Demography",
   "review": [
     {
       "@type": "Review",
@@ -35,13 +39,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Social statistics / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -64,13 +62,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Economic / poverty research"
+      ]
     },
     {
       "@type": "Review",
@@ -93,13 +85,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -122,13 +108,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota) – CPS extracts"
-      },
-      "about": "Demography / Survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -151,13 +131,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics."
-      },
-      "about": "Labor Economics, Poverty Measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -180,13 +154,7 @@
           "name": "use",
           "ratingValue": 4.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor market, employment statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -209,13 +177,7 @@
           "name": "use",
           "ratingValue": 3.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor economics, macro‑economics"
+      ]
     },
     {
       "@type": "Review",
@@ -238,13 +200,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic – Income & Tax Simulations"
+      ]
     },
     {
       "@type": "Review",
@@ -267,13 +223,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA Economic Research Service"
-      },
-      "about": "Economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -296,13 +246,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Household survey / Labor & income"
+      ]
     },
     {
       "@type": "Review",
@@ -325,13 +269,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Household income data"
+      ]
     },
     {
       "@type": "Review",
@@ -354,13 +292,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / BLS"
-      },
-      "about": "Labor economics, demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -383,13 +315,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -412,13 +338,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey)"
-      },
-      "about": "Labor/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -441,13 +361,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & U.S. Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / social statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -470,13 +384,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography / household economics"
+      ]
     },
     {
       "@type": "Review",
@@ -499,13 +407,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Social science / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -528,13 +430,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -557,13 +453,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau and Bureau of Labor Statistics"
-      },
-      "about": "Labor Economics / Demography / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -586,13 +476,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "IPUMS (University of Minnesota) – draws from BLS CPS"
-      },
-      "about": "Survey micro‑data"
+      ]
     },
     {
       "@type": "Review",
@@ -615,13 +499,7 @@
           "name": "use",
           "ratingValue": 6.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -644,13 +522,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics."
-      },
-      "about": "Labor Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -673,13 +545,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -702,9 +568,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Demographics/Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -727,13 +591,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -756,13 +614,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / Household surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -785,13 +637,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor/Economic Statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -814,9 +660,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -839,13 +683,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau (Current Population Survey)"
-      },
-      "about": "Labor economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -868,9 +706,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Labor/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -893,13 +729,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -922,13 +752,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -951,13 +775,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / demography"
+      ]
     },
     {
       "@type": "Review",
@@ -980,13 +798,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics."
-      },
-      "about": "Labor economics / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1009,13 +821,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics"
-      },
-      "about": "Labor economics, public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -1038,13 +844,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics / U.S. Census Bureau"
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -1067,13 +867,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics (BLS)"
-      },
-      "about": "Economics / Labor Market"
+      ]
     },
     {
       "@type": "Review",
@@ -1096,13 +890,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics (BLS)"
-      },
-      "about": "Labor economics / Employment statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -1125,13 +913,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor / Economic Statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -1154,13 +936,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor and demographic statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -1183,13 +959,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Current Population Survey (CPS)"
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -1212,13 +982,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -1241,13 +1005,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / BLS"
-      },
-      "about": "Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -1270,13 +1028,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics, public health, nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1299,13 +1051,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food security / Survey methodology"
+      ]
     },
     {
       "@type": "Review",
@@ -1328,13 +1074,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Socio‑economic / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1357,13 +1097,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1386,13 +1120,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "United States Census Bureau – Current Population Survey"
-      },
-      "about": "Socio‑economic / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1415,13 +1143,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau"
-      },
-      "about": "Economics / Labor statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -1444,13 +1166,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography / Labor Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1473,13 +1189,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics."
-      },
-      "about": "Labor economics, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1502,13 +1212,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Food security measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -1531,13 +1235,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demographics, economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1560,13 +1258,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau CPS (2005‑2006)."
-      },
-      "about": "Demography / Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1589,13 +1281,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics / Census Bureau"
-      },
-      "about": "Economics / Public Policy"
+      ]
     },
     {
       "@type": "Review",
@@ -1618,13 +1304,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -1647,13 +1327,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics"
-      },
-      "about": "Socio‑economic / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1676,13 +1350,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / Social statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -1705,13 +1373,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1734,13 +1396,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Economic / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1763,13 +1419,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1792,13 +1442,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demographics / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1821,13 +1465,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Census and U.S. Bureau of Labor Statistics (2001‑2012)"
-      },
-      "about": "Labor economics / household surveys"
+      ]
     },
     {
       "@type": "Review",
@@ -1850,13 +1488,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Bureau of Labor Statistics"
-      },
-      "about": "Labor Economics/Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1879,13 +1511,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -1908,13 +1534,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1937,13 +1557,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & BLS."
-      },
-      "about": "Labor economics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1966,13 +1580,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & BLS"
-      },
-      "about": "Social science / Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1995,13 +1603,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Nutrition / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2024,13 +1626,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Social statistics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -2053,13 +1649,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -2082,13 +1672,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Justice / ICPSR"
-      },
-      "about": "Criminology / Social environment"
+      ]
     },
     {
       "@type": "Review",
@@ -2111,13 +1695,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / Bureau of Labor Statistics."
-      },
-      "about": "Labor economics / Social science"
+      ]
     },
     {
       "@type": "Review",
@@ -2140,13 +1718,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2169,13 +1741,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau – Current Population Survey (March supplement)"
-      },
-      "about": "Labor & Social‑program participation"
+      ]
     },
     {
       "@type": "Review",
@@ -2198,13 +1764,7 @@
           "name": "use",
           "ratingValue": 5.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics / Census Bureau."
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -2227,9 +1787,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Survey statistics / Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2252,13 +1810,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2281,13 +1833,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics / Census Bureau"
-      },
-      "about": "Labor economics / Demographics"
+      ]
     },
     {
       "@type": "Review",
@@ -2310,13 +1856,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor/Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2339,13 +1879,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "OpenICPSR (Institute for Social Research)"
-      },
-      "about": "Public policy / COVID‑19 response"
+      ]
     },
     {
       "@type": "Review",
@@ -2368,13 +1902,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / USDA"
-      },
-      "about": "Public health / Socioeconomic research"
+      ]
     },
     {
       "@type": "Review",
@@ -2397,13 +1925,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Economic / Demographic statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -2426,13 +1948,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography / economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2455,13 +1971,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social science / Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2484,13 +1994,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Public health / nutrition surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2513,13 +2017,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Socio‑economic / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -2542,13 +2040,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demographics/Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2571,13 +2063,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2600,13 +2086,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "BLS (Current Population Survey)"
-      },
-      "about": "Labor statistics / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -2629,13 +2109,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics / Socio‑economic indicators"
+      ]
     },
     {
       "@type": "Review",
@@ -2658,13 +2132,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Social/Economic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -2687,13 +2155,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics / Census Bureau"
-      },
-      "about": "Labor Economics / Public Policy"
+      ]
     },
     {
       "@type": "Review",
@@ -2716,13 +2178,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Social and economic statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -2745,13 +2201,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Not directly accessed; cited for external comparison."
-      },
-      "about": "Economics / public‑policy"
+      ]
     },
     {
       "@type": "Review",
@@ -2774,13 +2224,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Demography / Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2803,13 +2247,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Current Population Survey"
-      },
-      "about": "Food Security Measurement"
+      ]
     },
     {
       "@type": "Review",
@@ -2832,13 +2270,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau."
-      },
-      "about": "Labor economics"
+      ]
     },
     {
       "@type": "Review",
@@ -2861,13 +2293,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Bureau of Labor Statistics"
-      },
-      "about": "Labor economics, social science, public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -2890,13 +2316,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Section 2.5.1"
-      },
-      "about": "Labor and demographic data"
+      ]
     },
     {
       "@type": "Review",
@@ -2919,13 +2339,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / BLS"
-      },
-      "about": "Labor economics / Demography"
+      ]
     },
     {
       "@type": "Review",
@@ -2948,13 +2362,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau & Bureau of Labor Statistics"
-      },
-      "about": "Labor & demographic statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -2977,13 +2385,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor economics / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -3006,13 +2408,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor and demographic statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -3035,13 +2431,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Labor Force, Demographic Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -3064,13 +2454,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Economics / labor statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -3093,13 +2477,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau; part of MMG methodology."
-      },
-      "about": "Labor/Economic Data"
+      ]
     },
     {
       "@type": "Review",
@@ -3121,972 +2499,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 2.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau"
-      },
-      "about": "Demography / Labor Economics"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors used CPS respondent records and classified households as ECTC or non‑ECTC based on the Census Bureau’s tax‑return simulation that estimates who received the credit for tax year 2021.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Expanded Child Tax Credit and Food Insecurity",
-        "identifier": "10.1001/jamainternmed.2024.3972",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174803730"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Estimated Expanded Child Tax Credit (ECTC) receipt from Census Bureau tax model",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"year\",\"family_size\",\"total_income\",\"child_eligibility\"]",
-        "methodology": "The authors linked individual CPS respondent records from the IPUMS Current Population Survey with the Census Bureau’s tax‑return simulation that estimates Expanded Child Tax Credit receipt for tax year 2021. The integration was performed by matching each CPS household to its corresponding simulated"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Inflation was adjusted for by incorporating state‑specific PCE change values relative to 2020, which were sourced from the BEA and merged with the CPS individual records.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Expanded Child Tax Credit and Food Insecurity",
-        "identifier": "10.1001/jamainternmed.2024.3972",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174803730"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level inflation estimates (Personal Consumption Expenditure change) from the Bureau of Economic Analysis",
-        "joinType": "integration",
-        "joinKeys": "[\"state_code\",\"year\"]",
-        "methodology": "The researchers merged state‑level inflation estimates (Personal Consumption Expenditure change) from the Bureau of Economic Analysis with individual records from the Current Population Survey obtained via IPUMS. The BEA data were organized by state identifier and calendar year, representing the PCE"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis includes state‑specific unemployment percentages and GDP indices as covariates, which were obtained from BLS/BEA datasets and combined with CPS observations.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Expanded Child Tax Credit and Food Insecurity",
-        "identifier": "10.1001/jamainternmed.2024.3972",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174803730"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level macroeconomic indicators (unemployment rate, GDP index) from the Bureau of Labor Statistics / Bureau of Economic Analysis",
-        "joinType": "integration",
-        "joinKeys": "[\"state_id\",\"year\"]",
-        "methodology": "The researchers merged the CPS microdata (obtained via IPUMS) with state‑level macroeconomic indicators from BLS and BEA by aligning records on common geographic and temporal identifiers. First, CPS observations were extracted for each respondent’s state of residence and survey year (derived from th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All analyses were weighted using IPUMS CPS longitudinal representativeness weights to account for survey non‑response and attrition, effectively combining the raw CPS data with a weighting dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Expanded Child Tax Credit and Food Insecurity",
-        "identifier": "10.1001/jamainternmed.2024.3972",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174803730"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Longitudinal representativeness weights provided by IPUMS for CPS",
-        "joinType": "combination",
-        "joinKeys": "[\"person_id\",\"year\"]",
-        "methodology": "The researchers extracted the raw CPS microdata and the longitudinal representativeness weight file from IPUMS. Both files contain a unique panel identifier (person_id) that tracks respondents across survey waves, as well as year variables indicating the calendar year of each observation. The weight"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All analyses were weighted using IPUMS CPS longitudinal representativeness weights to account for survey non‑response and attrition, effectively combining the raw CPS data with a weighting dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Expanded Child Tax Credit and Food Insecurity",
-        "identifier": "10.1001/jamainternmed.2024.3972",
-        "url": "https://app.dimensions.ai/details/publication/pub.1174803730"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) via IPUMS",
-        "joinType": "combination",
-        "joinKeys": "[\"person_id\",\"year\"]",
-        "methodology": "The researchers extracted the raw CPS microdata and the longitudinal representativeness weight file from IPUMS. Both files contain a unique panel identifier (person_id) that tracks respondents across survey waves, as well as year variables indicating the calendar year of each observation. The weight"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The manuscript notes that \"the PSID has shown lower cross‑sectional rates of food insecurity compared with the benchmark Current Population Survey across time,\" implying that PSID estimates were juxtaposed with CPS estimates to assess relative prevalence.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Chronic Food Insecurity in US Families With Children",
-        "identifier": "10.1001/jamapediatrics.2022.5820",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155096176"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Panel Study of Income Dynamics (PSID)",
-        "joinType": "comparison/combination",
-        "joinKeys": "[]",
-        "methodology": "The study did not perform a record level join. PSID prevalence estimates were calculated using survey weights and compared to CPS cross sectional estimates reported in published tables. The comparison was based on aligning the same definition of food insecurity and the same calendar years."
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household‑level food insecurity outcomes from CPS‑FSS are merged with state‑level variables (e.g., number of congregate/home‑delivered meals per low‑income older adult, SNAP participation rates, CSFP and SFMNP participation rates) to conduct multilevel logistic regression analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Older adults and the food security infrastructure",
-        "identifier": "10.1002/aepp.13238",
-        "url": "https://app.dimensions.ai/details/publication/pub.1145693854"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level contextual datasets (including AGID meal data, American Community Survey 1% estimates, USDA SNAP participation reports, USDA CSFP profiles, USDA SFMNP profiles)",
-        "joinType": "integration",
-        "joinKeys": "[\"State\",\"Year\"]",
-        "methodology": "The household‑level food insecurity data from the CPS‑FSS (2008‑2018) were first extracted and weighted using the supplement weight. State‑level contextual variables (e.g., number of congregate meals, home‑delivered meals, SNAP participation rates, CSFP participants, SFMNP participants, residential "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "CPS data are used to generate official poverty rates and food‑insecurity statistics that serve as benchmarks for the HRS‑based analyses. The authors compare trends observed in the HRS with those reported from the CPS.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The dynamic nature of poverty and food insecurity among older adults: Evidence from the Health and Retirement Study",
-        "identifier": "10.1002/aepp.13329",
-        "url": "https://app.dimensions.ai/details/publication/pub.1151888645"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Health and Retirement Study (HRS)",
-        "joinType": "combination",
-        "joinKeys": "[\"year\",\"age_group\"]",
-        "methodology": "The authors first extracted annual poverty and food insecurity rates from the CPS public tables. Then they computed comparable rates from the HRS by aggregating respondents by survey year and age group. The two datasets were aligned on the calendar year and age group variables and merged as a simple"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The ASEC is used to illustrate overlap between low‑educated earners, simulated EITC eligibility, and wages relative to the minimum wage, combining tax‑simulation outputs with wage data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hungry no More? The Joint Impact of Minimum Wages and the Earned Income Tax Credit on Food Insecurity",
-        "identifier": "10.1002/hec.70001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1189561723"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Simulated EITC benefits from Census Bureau tax model and hourly wage information",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_code\",\"year\",\"household_id\"]",
-        "methodology": "The researchers merged the Annual Social and Economic Supplement (ASEC) of the CPS with simulated Earned Income Tax Credit (EITC) benefits derived from the Census Bureau tax model and hourly wage data. First, they extracted relevant records from ASEC for individuals with at most a high school educat"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Financial food‑insecurity at the local level was estimated by adjusting the national CPS‑derived rate using the proportion of adults 65+ below poverty in each ZIP‑code from the ACS, effectively joining the national survey estimate with local poverty data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "identifier": "10.1007/s12603-022-1816-6",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "ACS‑derived poverty percentages (financial constraint proxy)",
-        "joinType": "combination",
-        "joinKeys": "[\"ZIP_code\"]",
-        "methodology": "The researchers first extracted the national older‑adult food insecurity rate from the Current Population Survey (CPS) which is based on the USDA HFSSM. Separately they obtained American Community Survey (ACS) 5‑year estimates at the ZIP‑code level for the percentage of residents age 65+ living belo"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The final Older Adult Food Insecurity Index (OAFII) is expressed as a multiple of the national CPS food‑insecurity rate, requiring the CPS baseline to be merged with the locally computed index.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Development of Older Adult Food Insecurity Index to Assess Food Insecurity of Older Adults",
-        "identifier": "10.1007/s12603-022-1816-6",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149272027"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "ACS‑derived overall OAFII (financial + non‑financial components)",
-        "joinType": "merge",
-        "joinKeys": "[\"ZIP_code\"]",
-        "methodology": "The researchers first extracted CPS national food insecurity rates and the locally computed OAFII values for each ZIP code. ZIP code identifiers were standardized to five digit format. A key based merge was then performed linking the CPS baseline to each ZIP code record using the ZIP code as the joi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The author links the food‑security supplement responses to the core CPS questionnaire to obtain household‑level covariates (e.g., number of children, education, employment, SNAP receipt). This is required to construct the analytic dataset used in the linear probability models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Disparities and Determinants of Food Insecurity for New Mexico’s Unique Populations",
-        "identifier": "10.1007/s41996-023-00113-3",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155949241"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey – Food Security Supplement (CPS‑FSS)",
-        "joinType": "integration",
-        "joinKeys": "[\"HHID\",\"YEAR\",\"MONTH\"]",
-        "methodology": "The author extracted the December CPS core files and the CPS Food Security Supplement files for each survey year 2000‑2018. Both files contain the same household identifier HHID together with YEAR and MONTH variables. After loading the two datasets, the variables were standardized, numeric formats a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors longitudinally linked household members who completed the TUS at Time 1 to their responses to the FSS at Time 2, ensuring a 10‑13 month interval between the two supplements.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of smoking cessation on household food security",
-        "identifier": "10.1016/j.annepidem.2023.01.007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154571084"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (FSS)",
-        "joinType": "integration",
-        "joinKeys": "[\"panel_id\",\"person_id\",\"age\",\"sex\",\"race_ethnicity\"]",
-        "methodology": "The authors used the IPUMS CPS linking infrastructure to longitudinally connect household members who completed the Tobacco Use Supplement (TUS) at Time 1 with their responses to the Food Security Supplement (FSS) at Time 2. The linkage was performed by matching unique panel identifiers and person i"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Covariates such as sex, age, household size, presence of children, and number of current smokers were drawn from the basic monthly survey administered alongside the TUS at Time 1.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of smoking cessation on household food security",
-        "identifier": "10.1016/j.annepidem.2023.01.007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154571084"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Basic Monthly Survey (core CPS demographic and employment data)",
-        "joinType": "fusion",
-        "joinKeys": "[\"household_id\",\"person_id\",\"panel_wave\",\"age\",\"sex\",\"race_ethnicity\"]",
-        "methodology": "The researchers used the IPUMS CPS longitudinal linking framework to fuse records from the Tobacco Use Supplement (TUS) and the Food Security Supplement (FSS). Records were matched across a 10‑13 month interval by aligning household identifiers and individual attributes (age, sex, race/ethnicity) re"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The Map the Meal Gap model first built state‑level FI models using CPS data, then applied those models to ACS zip‑code‑level determinants to generate zip‑code FI estimates used in the study.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2023.01.008",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) zip‑code‑level socioeconomic indicators",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"zip_code\"]",
-        "methodology": "The authors first built state level food insecurity prediction models using the CPS official food insecurity measure and a set of socioeconomic determinants (poverty, unemployment, median income, homeownership, disability, percent Black, percent Latino). The models were estimated with regression on "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The author creates a “unique, nationally representative dataset linking households with children across the December 2008 CPS‑FSS and the January 2009 CPS‑FDIC”. Households are matched across the two adjacent CPS months so that each record contains both food‑security measures (from the FSS) and alte",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Non-bank credit and food hardship: The association between payday loans, pawn loans, rent-to-own contracts and food hardship in households with children",
-        "identifier": "10.1016/j.childyouth.2023.107418",
-        "url": "https://app.dimensions.ai/details/publication/pub.1167282998"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS) – December 2008",
-        "joinType": "merge",
-        "joinKeys": "[\"household_serial_number\",\"interview_month\",\"interview_year\"]",
-        "methodology": "The author linked the December 2008 CPS Food Security Supplement with the January 2009 CPS FDIC supplement by using the CPS longitudinal household identifier. The two files were first filtered to retain only records that contain children. The household serial number together with the interview month"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors used the CPS 1999 data to construct a reference USDA VLFS indicator and then compared it with the TCS‑derived VLFS definition based on only eight questions, selecting the cutoff that best matched the CPS classification.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Child age and gender differences in food security in a low-income U.S. inner-city population",
-        "identifier": "10.1016/j.euroecorev.2018.04.005",
-        "url": "https://app.dimensions.ai/details/publication/pub.1104044547"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Three‑City Study (TCS) survey data",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"city_code\",\"income_level\",\"child_presence\"]",
-        "methodology": "The authors did not perform a direct key‑based join between the two datasets. Instead they used a record‑linkage approach based on demographic attributes to create a comparable subsample from the CPS 1999 Food Security Supplement. They filtered the CPS records to households that had at least one chi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "PSID‑provided weights were post‑stratified using demographic distributions from the March CPS Annual Demographic Survey to produce nationally representative estimates.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "High Prevalence of Food Insecurity and Related Disparities Among US College and University Students From 2015–2019",
-        "identifier": "10.1016/j.jneb.2023.10.013",
-        "url": "https://app.dimensions.ai/details/publication/pub.1166292116"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Panel Study of Income Dynamics (PSID) cross‑sectional individual weights",
-        "joinType": "fusion",
-        "joinKeys": "[\"age_group\",\"sex\",\"race_ethnicity\",\"education_level\",\"region\",\"survey_year\"]",
-        "methodology": "The PSID cross‑sectional individual weights were adjusted by post‑stratifying to match the demographic distribution of the March Current Population Survey Annual Demographic Survey. The process involved identifying common demographic cells (age groups, sex, race/ethnicity, education level, and geogr"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis treats food‑insecurity prevalence as both an outcome and a covariate, integrating USDA‑derived food‑insecurity rates with other food‑environment variables for the same counties.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Association of Food Environment Characteristics with Health Outcomes in Counties with a High Proportion of Native American Residents",
-        "identifier": "10.1080/19320248.2022.2101414",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175815611"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Food Environment Atlas (food‑insecurity prevalence by county, derived from USDA ERS surveys)",
-        "joinType": "combination",
-        "joinKeys": "[\"FIPS_code\"]",
-        "methodology": "The researchers extracted county‑level food‑environment variables from the USDA Food Environment Atlas and county‑level food‑insecurity prevalence from the USDA ERS or CPS‑FSS. Both sources contain a standard county identifier (FIPS code). After harmonising year and geographic scope, the two tables "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study links the annual food‑security supplement (collected in December) with the monthly core CPS data for the same households across adjacent years to create a short‑panel that tracks teen employment and child food‑security status over time.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Security and Teenage Labor Supply",
-        "identifier": "10.1093/aepp/ppv007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1059354082"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) Monthly Core Data",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"person_id\",\"age\",\"gender\",\"race\"]",
-        "methodology": "The researchers constructed a short‑panel by linking the December CPS Food Security Supplement (FSS) records to the monthly core CPS data for the same households in adjacent years. They used the unique household identifier and person identifier provided by the CPS, together with demographic variable"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study links the annual food‑security supplement (collected in December) with the monthly core CPS data for the same households across adjacent years to create a short‑panel that tracks teen employment and child food‑security status over time.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Security and Teenage Labor Supply",
-        "identifier": "10.1093/aepp/ppv007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1059354082"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) Annual Food Security Supplement (FSS)",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"person_id\",\"age\",\"gender\",\"race\"]",
-        "methodology": "The researchers constructed a short‑panel by linking the December CPS Food Security Supplement (FSS) records to the monthly core CPS data for the same households in adjacent years. They used the unique household identifier and person identifier provided by the CPS, together with demographic variable"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To create a low‑income subsample, the authors compare each household’s reported income bracket (from CPS) with year‑specific FPG thresholds based on family size, removing households that unambiguously exceed 300 % of the poverty line.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Security and Teenage Labor Supply",
-        "identifier": "10.1093/aepp/ppv007",
-        "url": "https://app.dimensions.ai/details/publication/pub.1059354082"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Federal Poverty Guidelines (FPG) tables from the Department of Health and Human Services",
-        "joinType": "fusion",
-        "joinKeys": "[\"household_id\",\"year\",\"family_size\"]",
-        "methodology": "The authors first extracted the CPS household identifiers, year of interview, and reported family size from the Current Population Survey (CPS) data set. They then obtained the Federal Poverty Guidelines (FPG) tables for each survey year, which provide poverty thresholds by family size. For each hou"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The SNAP participation study merged individual‑level CPS responses with state‑level policy indicators to assess how state SNAP enrollment characteristics influence SNAP participation and food‑insecurity outcomes among low‑income adults, including those with disabilities.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "THE RELEVANCE OF SNAP PROGRAM ACCESSIBILITY FOR FOOD INSECURITY, FOCUSING ON ADULTS WITH DISABILITIES",
-        "identifier": "10.1093/geroni/igad104.0350",
-        "url": "https://app.dimensions.ai/details/publication/pub.1167197470"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level SNAP enrollment accessibility measures (flexibility, efficiency, categorical eligibility, Combined Application Project)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"year\"]",
-        "methodology": "The researchers linked the 2021 CPS micro‑data to a state‑level SNAP policy file by matching on the respondent's state of residence and survey year. After extracting the low‑income subsample (income ≤185% of the poverty line) they merged the individual records with the policy indicators (flexibility"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors construct an analytic file that contains the food‑security items from the December supplement together with the respondent’s age, sex, race/ethnicity, education, and other covariates that come from the core CPS monthly interview. This join is required to apply the panel‑weight and to con",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Panel Conditioning Biases in the Current Population Survey’s Food Security Supplement",
-        "identifier": "10.1093/poq/nfae001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170042926"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS) responses",
-        "joinType": "join",
-        "joinKeys": "[\"cpsid_hh\",\"cpsid_person\",\"year\",\"month\"]",
-        "methodology": "The authors merged the food security supplement records with the core monthly CPS records using the CPS household and person identifiers and the survey year and month. An inner merge was performed after cleaning and restricting to households with complete supplement and core data. The merge was exec"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors extracted household‑level data from the CPS‑FSS and the concurrent monthly core CPS, then obtained these records through IPUMS, which provides a harmonized version of CPS over time. This step merges the raw CPS survey data with the IPUMS platform to create a consistent, longitudinal data",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children",
-        "identifier": "10.1093/sf/soz020",
-        "url": "https://app.dimensions.ai/details/publication/pub.1112419761"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) – Food Security Supplement (CPS‑FSS)",
-        "joinType": "merge",
-        "joinKeys": "[\"caseid\",\"year\",\"state\"]",
-        "methodology": "The authors first extracted household‑level records from the CPS Food Security Supplement (CPS‑FSS) and the concurrent monthly core CPS survey. These raw CPS files were accessed through the Integrated Public Use Microdata Series (IPUMS), which provides harmonized CPS data across years. Using the uni"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors state that their primary indicators (e.g., food insecurity, food practices) were drawn from the CPS‑FSS, while demographic and employment variables came from the basic CPS interview. The analysis required linking each household’s core CPS record with its corresponding CPS‑FSS record to c",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food Insecurity and Food Practices among Child Care Workers During COVID-19",
-        "identifier": "10.1101/2025.02.20.25322598",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185809527"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (CPS‑FSS)",
-        "joinType": "integration",
-        "joinKeys": "[\"SERIAL\",\"PID\"]",
-        "methodology": "The authors first extracted the core CPS household interview file and the CPS Food Security Supplement file for the December 2020 rotation. Both files contain a common household serial number (SERIAL) and person identifier (PID). After loading the files, they filtered the CPS-FSS records to retain o"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "For the analysis of UI‑SNAP interconnections the authors use the March CPS sample of actual UI recipients and link it to the state‑level maximum weekly UI benefit schedule to identify the effect of UI generosity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
-        "identifier": "10.1111/ajae.12322",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148831422"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level UI policy data (maximum weekly UI benefits from the U.S. Department of Labor)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"year\"]",
-        "methodology": "The authors merged the March CPS micro‑data on UI recipients with the state‑level UI policy file by aligning observations on the respondent’s state of residence and the survey year. After extracting the relevant variables, they performed an exact deterministic join on the two keys, creating a panel "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "When estimating the impact of UI on SNAP enrollment and benefit amounts, the authors control for a suite of state‑level SNAP and welfare policy variables, indicating a merge of these macro‑policy datasets with the March CPS micro‑data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Unemployment benefits, food insecurity, and supplemental nutrition assistance program spending",
-        "identifier": "10.1111/ajae.12322",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148831422"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "State‑level SNAP policy data (USDA SNAP Policy Datasets) and other welfare‑policy datasets (UKCPR National Welfare Database, AFRED)",
-        "joinType": "integration",
-        "joinKeys": "[\"state_fips\",\"year\"]",
-        "methodology": "The researchers combined the March CPS micro‑data with state level SNAP and welfare policy datasets by constructing a panel keyed on state and year. First the CPS file was filtered to retain only households that reported UI receipt and the relevant variables (state code, survey year, SNAP participat"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In addition to ACS, the CPS was used as a reference frame for the survey weighting process, aligning the WBNS sample with CPS demographic distributions.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Material hardship and use of social safety net programs among LGBT adults and their families",
-        "identifier": "10.1111/asap.12432",
-        "url": "https://app.dimensions.ai/details/publication/pub.1181082564"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "WBNS respondent data (pooled 2018‑2020)",
-        "joinType": "integration",
-        "joinKeys": "[\"age_group\",\"sex\",\"race_ethnicity\",\"education\",\"region\",\"urbanicity\"]",
-        "methodology": "The WBNS respondent file was merged with CPS benchmark tables by aligning marginal distributions of key demographic variables. First the CPS data were extracted for the adult population (age 18‑64) and the same variables were recoded in the WBNS dataset. Variables used for alignment included age gro"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.6
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "MMG estimated county‑level food‑insecurity rates by first fitting a state‑level model using CPS predictors, then applying that model to county‑level ACS predictors. This two‑step process fuses CPS and ACS data within the MMG product used in the study.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "identifier": "10.1177/08862605221080148",
-        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Map the Meal Gap (MMG) modeling framework",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"county_fips\"]",
-        "methodology": "The study fused CPS and ACS data by first estimating a state‑level food‑insecurity regression using CPS variables (poverty, unemployment, median income, homeowner rate, disability rate, % Black, % Latino). The fitted coefficients were then applied to the corresponding county‑level ACS predictors to "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study merged the main CPS household data with the supplemental food‑security module to create a single analytical file containing demographic, income, SNAP receipt, employment variables together with the USDA three‑stage food‑security scores.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Utilization of Informal Food Support Among Low-Income Households: Application of Andersen’s Service Use Model",
-        "identifier": "10.1177/1044389419860636",
-        "url": "https://app.dimensions.ai/details/publication/pub.1120549780"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey Food Security Supplement (2016)",
-        "joinType": "integration",
-        "joinKeys": "[\"cps_serial_number\",\"survey_year\"]",
-        "methodology": "The researchers extracted the main CPS household file for 2016 and the CPS Food Security Supplement module for the same year. Both datasets contain a common household identifier (CPS serial number) and survey year, which were used as primary keys to merge the records. The merge was performed using a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The food security outcome (VLFS‑C) was measured using the USDA’s 18‑item module, which is noted as an “annual supplement to the Current Population Survey”, indicating that the SEBTC survey incorporated this CPS‑based instrument.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "A Summer Nutrition Benefit Pilot Program and Low-income Children’s Food Security",
-        "identifier": "10.1542/peds.2017-1657",
-        "url": "https://app.dimensions.ai/details/publication/pub.1101829320"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "US Household Food Security Survey Module (18‑item USDA module)",
-        "joinType": "combination",
-        "joinKeys": "[\"household_id\",\"interview_timestamp\"]",
-        "methodology": "The evaluation combined the USDA 18‑item Household Food Security Survey Module (the annual CPS supplement) with the SEBTC household survey data collected via computer‑assisted telephone interviews. A key‑based merge was performed using the unique CPS household identifier and interview timestamp to a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors state “We merged the data from these sources together” to create a state‑level panel that includes food insecurity rates and the number of certified organic operations per state.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
-        "identifier": "10.2139/ssrn.3297176",
-        "url": "https://app.dimensions.ai/details/publication/pub.1110915630"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Department of Agriculture (USDA) – Certified Organic Operations List",
-        "joinType": "merge",
-        "joinKeys": "[\"state_id\",\"year\"]",
-        "methodology": "The authors merged the CPS Food Insecurity Supplement data with the USDA Certified Organic Operations list by aligning observations at the state‑year level. Both datasets contain a common geographic identifier (state name or FIPS code) and a temporal indicator (survey year). The merge was performed "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Control variables include poverty rate, unemployment rate, and gross state product; these economic indicators are drawn from the U.S. Census Bureau and combined with CPS‑derived food insecurity data for panel regressions.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
-        "identifier": "10.2139/ssrn.3297176",
-        "url": "https://app.dimensions.ai/details/publication/pub.1110915630"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census Bureau – Unemployment Rate & Gross State Product",
-        "joinType": "combination",
-        "joinKeys": "[\"state_id\",\"year\"]",
-        "methodology": "The authors merged the CPS food insecurity and poverty measures with economic indicators from the U.S. Census Bureau (unemployment rate and gross state product) at the state‑year level to construct a balanced panel dataset for regression analysis. The integration was performed by extracting annual o"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors control for the proportion of people on food stamps and receiving WIC supplements, which are merged with CPS household demographic data to capture social safety net variables at the state level.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Unintended Consequences of Biotechnology Innovation Adoption",
-        "identifier": "10.2139/ssrn.3297176",
-        "url": "https://app.dimensions.ai/details/publication/pub.1110915630"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Department of Agriculture (USDA) – Food Stamp and WIC Participation Data",
-        "joinType": "merge",
-        "joinKeys": "[\"state_code\",\"year\"]",
-        "methodology": "The authors merged the USDA food stamp and WIC participation data with the CPS household demographic data at the state‑year level. Both datasets were first extracted, cleaned, and standardized to a common format (state identifier and calendar year). After ensuring consistent naming conventions for t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All outcome and control variables used in the labor‑supply and food‑security analyses are drawn from the CPS‑FSS, which is merged with the main CPS micro‑data to obtain respondent demographics, employment histories, and weights.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
-        "identifier": "10.2139/ssrn.3778325",
-        "url": "https://app.dimensions.ai/details/publication/pub.1135477069"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Food Security Supplement of the CPS (CPS‑FSS)",
-        "joinType": "integration",
-        "joinKeys": "[\"hhid\",\"person_id\",\"year\",\"month\"]",
-        "methodology": "The CPS core questionnaire and the CPS Food Security Supplement were obtained as separate micro‑data files. Both files contain the standard CPS identifiers (household serial number, person number, year and month). After extracting the two files, the identifiers were standardized to the same format a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "All outcome and control variables used in the labor‑supply and food‑security analyses are drawn from the CPS‑FSS, which is merged with the main CPS micro‑data to obtain respondent demographics, employment histories, and weights.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
-        "identifier": "10.2139/ssrn.3778325",
-        "url": "https://app.dimensions.ai/details/publication/pub.1135477069"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) core questionnaire",
-        "joinType": "integration",
-        "joinKeys": "[\"hhid\",\"person_id\",\"year\",\"month\"]",
-        "methodology": "The CPS core questionnaire and the CPS Food Security Supplement were obtained as separate micro‑data files. Both files contain the standard CPS identifiers (household serial number, person number, year and month). After extracting the two files, the identifiers were standardized to the same format a"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compile state‑year benefit information from the WRD and attach it to each CPS respondent in order to construct the treatment indicator (NH post‑reform) and to control for state‑specific benefit generosity in the difference‑in‑differences models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
-        "identifier": "10.2139/ssrn.3778325",
-        "url": "https://app.dimensions.ai/details/publication/pub.1135477069"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Welfare Reform Database (WRD) – historical maximum TANF benefit levels by state and family size",
-        "joinType": "merge",
-        "joinKeys": "[\"state\",\"year\"]",
-        "methodology": "The authors first extracted the historical maximum TANF benefit levels from the Welfare Reform Database, creating a panel of state‑year observations for each family size. They then prepared the CPS micro‑data (including the Food Security Supplement) by selecting respondents, assigning the survey yea"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the triple‑differences specifications, the same CPS respondents are used to estimate both labor‑supply outcomes and consumption outcomes, requiring the fusion of the employment/earnings records with the food‑security supplement variables.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
-        "identifier": "10.2139/ssrn.3778325",
-        "url": "https://app.dimensions.ai/details/publication/pub.1135477069"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) – food‑expenditure and food‑security variables (CPS‑FSS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"year\",\"month\",\"state\",\"household_serial\",\"person_number\"]",
-        "methodology": "The authors combined the core Current Population Survey (CPS) micro‑data containing labor‑supply variables with the CPS Food Security Supplement (CPS‑FSS) micro‑data that contain food‑expenditure and food‑security variables. The merge was performed by matching on the unique CPS identifiers that are "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the triple‑differences specifications, the same CPS respondents are used to estimate both labor‑supply outcomes and consumption outcomes, requiring the fusion of the employment/earnings records with the food‑security supplement variables.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Quasi-Experimental Evidence on the Effects of Expanding Cash Welfare",
-        "identifier": "10.2139/ssrn.3778325",
-        "url": "https://app.dimensions.ai/details/publication/pub.1135477069"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) – labor‑supply variables",
-        "joinType": "fusion",
-        "joinKeys": "[\"year\",\"month\",\"state\",\"household_serial\",\"person_number\"]",
-        "methodology": "The authors combined the core Current Population Survey (CPS) micro‑data containing labor‑supply variables with the CPS Food Security Supplement (CPS‑FSS) micro‑data that contain food‑expenditure and food‑security variables. The merge was performed by matching on the unique CPS identifiers that are "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
         }
       ]
     }

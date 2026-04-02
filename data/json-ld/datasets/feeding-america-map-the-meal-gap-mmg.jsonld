@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Feeding America Map the Meal Gap (MMG)",
@@ -12,6 +11,11 @@
     "Feeding America Map the Meal Gap",
     "Map the Meal Gap Study"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Feeding America"
+  },
+  "about": "Nutrition / Food security",
   "review": [
     {
       "@type": "Review",
@@ -34,13 +38,7 @@
           "name": "use",
           "ratingValue": 6.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -63,13 +61,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food‑Security Mapping"
+      ]
     },
     {
       "@type": "Review",
@@ -92,13 +84,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America and academic collaborators"
-      },
-      "about": "Food‑security estimation / Geographic analysis"
+      ]
     },
     {
       "@type": "Review",
@@ -121,13 +107,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Nutrition / food security"
+      ]
     },
     {
       "@type": "Review",
@@ -150,13 +130,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food prices / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -179,13 +153,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -208,13 +176,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America – Map the Meal Gap project"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -237,13 +199,7 @@
           "name": "use",
           "ratingValue": 9.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -266,13 +222,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America (non‑profit organization)"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -295,13 +245,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America (2020) report \"Map the Meal Gap\""
-      },
-      "about": "Nutrition / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -324,13 +268,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Map the Meal Gap report (2023)"
-      },
-      "about": "Public Health / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -353,13 +291,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America (non‑profit organization)."
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -382,13 +314,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America (non‑profit organization)"
-      },
-      "about": "Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -411,9 +337,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Food Security / Geographic Mapping"
+      ]
     },
     {
       "@type": "Review",
@@ -436,13 +360,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Three Square Food Bank / Feeding America"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -465,13 +383,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America (non‑profit hunger‑relief organization)"
-      },
-      "about": "Social determinants of health / nutrition security"
+      ]
     },
     {
       "@type": "Review",
@@ -494,13 +406,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America – Map the Meal Gap"
-      },
-      "about": "Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -523,13 +429,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food Security / Public Policy"
+      ]
     },
     {
       "@type": "Review",
@@ -552,13 +452,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service (Map the Meal program)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -581,13 +475,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -610,13 +498,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Map the Meal (non‑profit research organization)"
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -639,13 +521,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Map the Meal Gap (non‑profit organization)"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -668,13 +544,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food Security / Public Policy"
+      ]
     },
     {
       "@type": "Review",
@@ -697,13 +567,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Publicly available; likely derived from USDA’s Food Access Research Atlas."
-      },
-      "about": "Public health / nutrition / socio‑economic indicators"
+      ]
     },
     {
       "@type": "Review",
@@ -726,13 +590,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -755,13 +613,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -784,13 +636,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America’s Map the Meal Gap project (Gundersen et al.)"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -813,13 +659,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Nutrition / public policy"
+      ]
     },
     {
       "@type": "Review",
@@ -842,13 +682,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Map the Meal Gap (Feeding America initiative)"
-      },
-      "about": "Food insecurity / Nutrition policy"
+      ]
     },
     {
       "@type": "Review",
@@ -871,13 +705,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America & USDA Economic Research Service"
-      },
-      "about": "Food security / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -900,13 +728,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food insecurity estimation"
+      ]
     },
     {
       "@type": "Review",
@@ -929,13 +751,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -958,13 +774,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Public health / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -987,13 +797,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America (Map the Meal Gap project)"
-      },
-      "about": "Food security / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1016,13 +820,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Map the Meal Gap project (University of Washington)"
-      },
-      "about": "Food security / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1045,13 +843,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food Insecurity"
+      ]
     },
     {
       "@type": "Review",
@@ -1074,13 +866,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Public health / Nutrition / Socio‑economic research"
+      ]
     },
     {
       "@type": "Review",
@@ -1103,13 +889,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Map the Meal Gap (University of Tennessee, Knoxville)"
-      },
-      "about": "Food Security / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1132,13 +912,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "https://www.feedingamerica.org/"
-      },
-      "about": "Food security / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1161,13 +935,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Feeding America"
-      },
-      "about": "Food Insecurity / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1189,348 +957,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 9.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference 10 in the paper; MMG website http://map.feedingamerica.org/."
-      },
-      "about": "Food Security / Public Health"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compare their ACS‑based county estimates with the publicly available MMG county estimates to assess consistency and validate the new approach.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Can the American Community Survey provide new insight into household food security? An illustration of cross‐survey multiple imputation",
-        "identifier": "10.1002/aepp.13441",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171707895"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Imputed ACS food‑security estimates (household‑level)",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_fips\"]",
-        "methodology": "The authors first generated household level food‑security predictions in the ACS using cross‑survey multiple imputation. These predictions were then aggregated to the county level by summing the predicted insecure households and dividing by the weighted county population. County identifiers (FIPS co"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Pre‑policy county‑level child food insecurity estimates were incorporated into the analytic models to control for baseline differences across counties before SMFA implementation.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Statewide Universal School Meal Policies and Food Insecurity in Households with Children",
-        "identifier": "10.1016/j.amepre.2025.107942",
-        "url": "https://app.dimensions.ai/details/publication/pub.1189644647"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Primary caregiver survey data (Galloway Research Service)",
-        "joinType": "fusion",
-        "joinKeys": "[\"FIPS_code\"]",
-        "methodology": "The researchers linked the pre‑policy county‑level child food insecurity estimates from the Map the Meal Gap project to each survey respondent by matching on the Federal Information Processing Standards (FIPS) county code. After extracting the county‐level data, they transformed it into a flat table"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors linked zip‑code‑level child maltreatment report (CMR) rates derived from DCFS administrative records (2011‑2018) with zip‑code‑level food‑insecurity rates provided by the MMG model to examine their association.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2022.06.002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Illinois Department of Children and Family Services (DCFS) child maltreatment records",
-        "joinType": "integration",
-        "joinKeys": "[\"zip_code\",\"year\"]",
-        "methodology": "The authors first extracted DCFS child maltreatment records, aggregated them to the zip‑code‑year level and computed rates per 1,000 children. They then obtained Feeding America’s Map the Meal Gap food‑insecurity estimates for the same zip codes and years. Both datasets were aligned on the geographi"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Urbanicity was assigned to each zip code using the 2013 USDA Rural‑Urban Continuum Codes, and this classification was added to the main analytic dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2022.06.002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Rural‑Urban Continuum Codes (RUCC)",
-        "joinType": "join",
-        "joinKeys": "[\"zip_code\",\"year\"]",
-        "methodology": "The researchers first extracted zip code level food insecurity estimates from the MMG dataset and urbanicity codes from the USDA Rural‑Urban Continuum dataset. Both sources contain a common geographic identifier (5‑digit zip code) and a year variable. After loading the two files, they filtered out r"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "MMG estimates are generated by applying state‑level food‑insecurity models (built on ACS determinants) to zip‑code‑level ACS data; the study uses these derived estimates as a dataset representing community food insecurity.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2022.06.002",
-        "url": "https://app.dimensions.ai/details/publication/pub.1148761956"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) determinants of food insecurity",
-        "joinType": "integration",
-        "joinKeys": "[\"zip_code\",\"year\"]",
-        "methodology": "The researchers first obtained zip code level socioeconomic variables from the American Community Survey. They then used the state level food insecurity regression coefficients published by the Map the Meal Gap project. For each zip code and each year the ACS variables were merged with the state coe"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food‑insecurity rates from MMG were linked to zip‑code‑level child maltreatment report (CMR) rates derived from DCFS records for each year (2011‑2018) to assess their association.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community food insecurity predicts child maltreatment report rates across Illinois zip codes, 2011–2018",
-        "identifier": "10.1016/j.annepidem.2023.01.008",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154510004"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Illinois Department of Children and Family Services (DCFS) child maltreatment records",
-        "joinType": "join",
-        "joinKeys": "[\"zip_code\",\"year\"]",
-        "methodology": "The researchers first aggregated DCFS child maltreatment records to the zip code‑year level and obtained food insecurity estimates from Feeding America Map the Meal Gap at the same geographic and temporal resolution. They then performed an exact match join on the common identifiers zip code and year"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level food insecurity percentages were merged with county‑level health indicators to create spatial maps and to compute four health constructs for each US county.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Overlapping geographic clusters of food security and health: Where do social determinants and health outcomes converge in the U.S?",
-        "identifier": "10.1016/j.ssmph.2018.06.006",
-        "url": "https://app.dimensions.ai/details/publication/pub.1105225625"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Robert Wood Johnson Foundation County Health Rankings (CHRs) health variables (2014)",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\"]",
-        "methodology": "The authors merged the 2014 Feeding America Map the Meal Gap (MMG) food insecurity percentages with the 2014 Robert Wood Johnson Foundation County Health Rankings (CHRs) health variables at the county level. Both datasets contain a common geographic identifier – the U.S. county Federal Information P"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Patient-level firearm injury records were linked to county‑level food insecurity estimates from the MMG dataset based on each patient’s parish of residence.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The association between food insecurity and gun violence in a major metropolitan city",
-        "identifier": "10.1097/ta.0000000000003578",
-        "url": "https://app.dimensions.ai/details/publication/pub.1145980582"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "University Medical Center (UMC) Trauma Registry",
-        "joinType": "integration",
-        "joinKeys": "[\"parish_of_residence\"]",
-        "methodology": "The researchers performed a key‑based integration by linking each firearm injury record from the University Medical Center trauma registry to the corresponding food insecurity estimate from the Map the Meal Gap (MMG) dataset using the patient’s parish of residence as the common identifier. Records w"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level child maltreatment report (CMR) counts were aggregated from NCANDS and then linked to the MMG food‑insecurity rates by matching county FIPS code and year (2009‑2018) to create the primary analytical dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "identifier": "10.1177/08862605221080148",
-        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Child Abuse and Neglect Data System (NCANDS) Child Files",
-        "joinType": "merge",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "County level child maltreatment counts were first aggregated from the NCANDS child files by summing unique child records for each county and year. Food insecurity percentages were obtained from the Map the Meal Gap study, which provides estimates for every county and year. Both datasets were then me"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "MMG’s county‑level food‑insecurity rates were aligned with ACS‑derived covariates (e.g., % foreign‑born, % moved within a year) for each county‑year to allow simultaneous modeling of exposure and confounders.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "identifier": "10.1177/08862605221080148",
-        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) control variables",
-        "joinType": "integration",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "The researchers first prepared each source file by cleaning and standardizing geographic identifiers, county level food insecurity estimates from the Map the Meal Gap were linked to ACS control variables using the five digit county fips code and the calendar year, records with suppressed county code"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "MMG estimated county‑level food‑insecurity rates by first fitting a state‑level model using CPS predictors, then applying that model to county‑level ACS predictors. This two‑step process fuses CPS and ACS data within the MMG product used in the study.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Community Food Insecurity and Child Maltreatment Reports: County-Level Analysis of U.S. National Data From 2009 to 2018",
-        "identifier": "10.1177/08862605221080148",
-        "url": "https://app.dimensions.ai/details/publication/pub.1146568849"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey (CPS) variables (poverty, unemployment, median income, etc.)",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_fips\",\"county_fips\"]",
-        "methodology": "The study fused CPS and ACS data by first estimating a state‑level food‑insecurity regression using CPS variables (poverty, unemployment, median income, homeowner rate, disability rate, % Black, % Latino). The fitted coefficients were then applied to the corresponding county‑level ACS predictors to "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "For each of the 15 counties the percent of the population that is food insecure was taken from the 2017 Map the Meal Gap estimates and combined with ACS‑derived demographic variables for analysis and comparison.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Geospatial Analysis of Rurality and Food Banks in Appalachian Ohio",
-        "identifier": "10.13023/jah.0303.09",
-        "url": "https://app.dimensions.ai/details/publication/pub.1149003588"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS) 5‑Year Estimates",
-        "joinType": "merge",
-        "joinKeys": "[\"FIPS\"]",
-        "methodology": "The researchers extracted county level variables from the American Community Survey 5 year tables and the food insecurity percentages from the USDA Map the Meal Gap 2017 release. Both sources contain a Federal Information Processing Standards county code. After loading the files into a data frame th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "County‑level food insecurity rates and relative food price indices from the Map the Meal Gap are merged with ACS demographic and socioeconomic variables for each county‑year.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "identifier": "10.2139/ssrn.3954513",
-        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "American Community Survey (ACS)",
-        "joinType": "merge",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "The authors merged all datasets at the county‑year level by aligning each observation on a common geographic identifier (county FIPS code) and the calendar year. They first extracted the relevant variables from each source, cleaned and standardized the county identifiers to ensure consistency across"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis jointly examines food insecurity, DI receipt rates, and disability prevalence within the same county‑year observations.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Relationship Between Disability Insurance Receipt and Food Insecurity",
-        "identifier": "10.2139/ssrn.3954513",
-        "url": "https://app.dimensions.ai/details/publication/pub.1142347961"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Social Security Administration (SSA) DI award data",
-        "joinType": "fusion",
-        "joinKeys": "[\"county_fips\",\"year\"]",
-        "methodology": "The researchers merged all source datasets at the county‑year level to create a single analytical panel. Each dataset contained a standard geographic identifier (county FIPS code) and a year variable covering 2010‑2019. The merge was performed by aligning these two keys across the files, ensuring th"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
         }
       ]
     }

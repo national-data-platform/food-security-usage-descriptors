@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Food and Nutrient Database for Dietary Studies (FNDDS)",
@@ -11,6 +10,11 @@
     "FNDDS",
     "https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds/"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Department of Agriculture (USDA)"
+  },
+  "about": "Nutrition / Dietary assessment",
   "review": [
     {
       "@type": "Review",
@@ -33,13 +37,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Nutrition, Dietary Data"
+      ]
     },
     {
       "@type": "Review",
@@ -62,13 +60,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -91,13 +83,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)."
-      },
-      "about": "Nutrition / Dietary assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -120,13 +106,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Agricultural Research Service"
-      },
-      "about": "Nutrition / Food Composition"
+      ]
     },
     {
       "@type": "Review",
@@ -149,13 +129,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Agricultural Research Service"
-      },
-      "about": "Nutrition / Food Composition"
+      ]
     },
     {
       "@type": "Review",
@@ -178,13 +152,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Agricultural Research Service"
-      },
-      "about": "Food composition / Nutrition analysis"
+      ]
     },
     {
       "@type": "Review",
@@ -207,13 +175,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition data / food composition"
+      ]
     },
     {
       "@type": "Review",
@@ -236,13 +198,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Agricultural Research Service"
-      },
-      "about": "Nutrition / Food composition"
+      ]
     },
     {
       "@type": "Review",
@@ -265,13 +221,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Nutrition / dietary assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -294,13 +244,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Agricultural Research Service"
-      },
-      "about": "Nutrition data / Food composition"
+      ]
     },
     {
       "@type": "Review",
@@ -323,13 +267,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrient composition data"
+      ]
     },
     {
       "@type": "Review",
@@ -352,13 +290,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Dietary assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -381,13 +313,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Food Surveys Research Group"
-      },
-      "about": "Nutrition / Dietary data"
+      ]
     },
     {
       "@type": "Review",
@@ -410,13 +336,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -439,13 +359,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition data conversion"
+      ]
     },
     {
       "@type": "Review",
@@ -468,13 +382,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Agricultural Research Service"
-      },
-      "about": "Nutrition / Dietary assessment"
+      ]
     },
     {
       "@type": "Review",
@@ -496,228 +404,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 9.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food composition"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The 24‑hour recall responses were linked to the FNDDS nutrient composition tables to translate reported foods into nutrient intakes for each participant.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Evaluating a Food Pantry–Based Intervention to Improve Food Security, Dietary Intake, and Quality in Midwestern Food Pantries",
-        "identifier": "10.1016/j.jand.2022.02.016",
-        "url": "https://app.dimensions.ai/details/publication/pub.1145871447"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Automated Self‑Administered 24‑Hour Dietary Recall (ASA24) data",
-        "joinType": "integration",
-        "joinKeys": "[\"food_code\",\"participant_id\",\"recall_day\"]",
-        "methodology": "The 24‑hour recall data generated by ASA24 includes a USDA food code for each reported item. These food codes were used as the primary key to merge the recall records with the corresponding rows in the FNDDS nutrient composition tables. The merge was performed in SAS using PROC SQL to create a one‑t"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Food items reported in the NHANES 24‑h recalls were matched to their nutrient composition using the FNDDS, enabling calculation of usual nutrient intakes for each participant.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Eating Egg-Rich Diets and Modeling the Addition of One Daily Egg Reduced Risk of Nutrient Inadequacy among United States Adolescents with and without Food Insecurity",
-        "identifier": "10.1016/j.tjnut.2024.09.019",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175861931"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NHANES 24‑hour dietary recall data (2007‑2018)",
-        "joinType": "fusion",
-        "joinKeys": "[\"food_code\",\"survey_cycle\"]",
-        "methodology": "The 24 hour recall records from NHANES were linked to nutrient composition records from the USDA Food and Nutrient Database for Dietary Studies. Each food item in the recall contains a USDA food code that serves as the primary identifier. The food code was matched to the same code in the appropriate"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "When modeling the addition of one medium egg, the nutrient composition of a standard egg (from FNDDS) was added to each participant’s existing intake to estimate the impact on usual nutrient intakes and index scores.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Eating Egg-Rich Diets and Modeling the Addition of One Daily Egg Reduced Risk of Nutrient Inadequacy among United States Adolescents with and without Food Insecurity",
-        "identifier": "10.1016/j.tjnut.2024.09.019",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175861931"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NHANES adolescent sample (dietary intake, food‑security status, egg‑rich diet categorization)",
-        "joinType": "modeling integration",
-        "joinKeys": "[]",
-        "methodology": "The nutrient composition for a standard medium egg (food code 31103010, 50 g) was extracted from the FNDDS database. A single record containing the nutrient amounts for this egg was created. Using SAS the egg record was merged with each participant’s existing 24‑hour recall nutrient totals by perfor"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The NHANES 24‑hour dietary recall data were linked to the FNDDS by food codes to obtain detailed nutrient information and to classify foods using the Nova system as ultra‑processed or non‑ultra‑processed.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Associations between Food Insecurity and Supplemental Nutrition Assistance Program (SNAP) participation with ultra-processed food intake in lower-income U.S. adolescents",
-        "identifier": "10.1017/jns.2025.24",
-        "url": "https://app.dimensions.ai/details/publication/pub.1189393857"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "National Health and Nutrition Examination Survey (NHANES)",
-        "joinType": "integration",
-        "joinKeys": "[\"food_code\",\"participant_id\"]",
-        "methodology": "The NHANES 24‑hour dietary recall records were linked to the USDA Food and Nutrient Database for Dietary Studies (FNDDS) by matching the food code identifier present in both datasets. The food codes served as a primary key that uniquely identifies each reported food item. After extracting the releva"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Each food reported in the ASA24 recall was automatically assigned a unique food code and then linked to the FNDDS to obtain the nutrient composition (e.g., calcium, vitamin D, fibre, sodium) for that item.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nutritional contributions of food pantries and other sources to the diets of rural, Midwestern food pantry users in the USA",
-        "identifier": "10.1017/s0007114520003372",
-        "url": "https://app.dimensions.ai/details/publication/pub.1130512390"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Automated Self‑Administered 24‑Hour Recall (ASA24) food‑item records",
-        "joinType": "integration",
-        "joinKeys": "[\"food_code\"]",
-        "methodology": "The ASA24 recall data were extracted, each reported food item received the ASA24 generated unique food code. The food code was used as the primary key to perform an exact key‑based join with the FNDDS 2013‑2014 nutrient tables (and FPED) to attach nutrient composition. The join was executed within S"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The ASA‑24HR output was linked to FPED and FNDDS to convert reported foods into cup‑ or ounce‑equivalents for fruits, vegetables, dairy, and whole grains.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Diet Quality and Associations with Food Security among Women Eligible for Indiana Supplemental Nutrition Assistance Program-Education",
-        "identifier": "10.1093/jn/nxaa171",
-        "url": "https://app.dimensions.ai/details/publication/pub.1127859718"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Automated Self‑Administered 24‑Hour Dietary Recall (ASA‑24HR) data",
-        "joinType": "integration",
-        "joinKeys": "[\"food_code\"]",
-        "methodology": "The ASA‑24HR output file containing reported foods and their FNDDS food codes was merged with the FPED and FNDDS reference tables. The merge used the standardized food code as the key to retrieve the cup or ounce equivalents for each food item. After the join, the equivalents were summed across all "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Each reported food item was assigned a USDA food code and linked to the FNDDS to obtain nutrient values and WWEIA sub‑category classifications.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Frequently Consumed Foods and Energy Contributions among Food Secure and Insecure U.S. Children and Adolescents",
-        "identifier": "10.3390/nu12020304",
-        "url": "https://app.dimensions.ai/details/publication/pub.1124303944"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "NHANES 2007‑2014 dietary recall records (food codes)",
-        "joinType": "fusion",
-        "joinKeys": "[\"usda_food_code\"]",
-        "methodology": "Each reported food item from the NHANES 24‑hour dietary recall was assigned a USDA food code. The food codes served as primary keys to link records to the Food and Nutrient Database for Dietary Studies (FNDDS) versions 4.1‑6.0. The linkage was performed by matching the USDA food code in the NHANES d"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Each food reported in the ASA‑24 recall was assigned an 8‑digit USDA food code and then matched to the same USDA food code in FNDDS to obtain energy values and food‑group classifications for every item consumed.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Dietary Costs among Midwestern Adult Food-Pantry Users by Food-Security Status",
-        "identifier": "10.3390/nu15030680",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154983123"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "ASA24‑2014 24‑hour dietary recall data (VFF participants)",
-        "joinType": "merge",
-        "joinKeys": "[\"USDA_food_code\"]",
-        "methodology": "Each food item recorded in the ASA24 2014 24‑hour recall was given an eight‑digit USDA food code. The same USDA food code field from the Food and Nutrient Database for Dietary Studies (FNDDS) version 5 was used as the linking key. A direct key‑based merge was performed to attach energy values and fo"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Price information was linked to the dietary data by matching USDA food codes in the CNPP price database to the corresponding codes in FNDDS; 85 items required recoding to a similar code before the price per 100 g could be attached.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Dietary Costs among Midwestern Adult Food-Pantry Users by Food-Security Status",
-        "identifier": "10.3390/nu15030680",
-        "url": "https://app.dimensions.ai/details/publication/pub.1154983123"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "CNPP Food Price Database (2003‑2004) from the USDA Center for Nutrition Policy and Promotion",
-        "joinType": "fusion",
-        "joinKeys": "[\"USDA_food_code\"]",
-        "methodology": "The researchers linked the CNPP Food Price Database (2003‑2004) to the dietary intake records from the Voices for Food study by using the USDA food code that is present in both datasets. An exact match on the numeric food code was performed. For the 85 items where the codes did not align because of "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
         }
       ]
     }

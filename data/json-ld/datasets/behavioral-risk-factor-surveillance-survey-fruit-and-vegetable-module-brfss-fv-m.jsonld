@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Behavioral Risk Factor Surveillance Survey Fruit and Vegetable Module (BRFSS FV module)",
@@ -13,6 +12,11 @@
     "BRFSS Fruit and Vegetable",
     "Behavioral Risk Factor Surveillance Survey Fruit and Vegetable Module"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Centers for Disease Control and Prevention (CDC)"
+  },
+  "about": "Public health / epidemiology",
   "review": [
     {
       "@type": "Review",
@@ -35,13 +39,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -64,13 +62,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Behavioral health / Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -93,13 +85,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -122,13 +108,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -151,13 +131,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / chronic disease"
+      ]
     },
     {
       "@type": "Review",
@@ -180,13 +154,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -209,13 +177,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Epidemiology / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -238,13 +200,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Epidemiology / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -267,13 +223,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)."
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -296,13 +246,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -325,13 +269,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -354,13 +292,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -383,9 +315,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / Surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -408,13 +338,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -437,13 +361,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -466,13 +384,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention"
-      },
-      "about": "Epidemiology / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -495,13 +407,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -524,13 +430,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. CDC"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -553,13 +453,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Behavioral Risk Factor Surveillance System (BRFSS)"
-      },
-      "about": "Nutrition / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -582,13 +476,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -611,9 +499,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -636,13 +522,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Epidemiology / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -665,13 +545,7 @@
           "name": "use",
           "ratingValue": 8.7
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Mentioned in the baseline covariate description and again for the HRQOL instrument."
-      },
-      "about": "Epidemiology / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -694,13 +568,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Epidemiology / Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -723,13 +591,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -752,13 +614,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference to the 2017 BRFSS questionnaire."
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -781,13 +637,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -810,13 +660,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health/Survey data"
+      ]
     },
     {
       "@type": "Review",
@@ -839,13 +683,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -868,13 +706,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited within the description of a primary study included in the review."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -897,13 +729,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -926,13 +752,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Washington State Department of Health, Center for Health Statistics; CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -955,13 +775,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Epidemiology / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -984,13 +798,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC) BRFSS"
-      },
-      "about": "Public health / cardiovascular epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1013,13 +821,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1042,13 +844,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Behavioral risk factors"
+      ]
     },
     {
       "@type": "Review",
@@ -1071,13 +867,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC BRFSS data (year unspecified)."
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1100,13 +890,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Epidemiology / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1129,13 +913,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1158,13 +936,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited as the origin of the health‑condition checklist incorporated into the study’s questionnaire."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1187,13 +959,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1216,13 +982,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Health behavior / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1245,13 +1005,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "BRFSS public data"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1274,13 +1028,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1303,13 +1051,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Behavioral surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1332,13 +1074,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1361,13 +1097,7 @@
           "name": "use",
           "ratingValue": 8.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public Health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1390,13 +1120,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Behavioral health / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1419,13 +1143,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / adult behavior"
+      ]
     },
     {
       "@type": "Review",
@@ -1448,13 +1166,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC – National Center for Health Statistics"
-      },
-      "about": "Public health / adult and young‑adult health"
+      ]
     },
     {
       "@type": "Review",
@@ -1477,13 +1189,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1506,13 +1212,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / behavioral epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1535,13 +1235,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. CDC/HRSA"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1564,13 +1258,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Epidemiology / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1593,9 +1281,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1618,13 +1304,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public Health / Surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1647,13 +1327,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation in the literature review (Shaw et al., 2013)."
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1676,13 +1350,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Epidemiology / Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1705,13 +1373,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Mentioned as the origin of questionnaire items."
-      },
-      "about": "Public health / behavioral epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1734,13 +1396,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1763,13 +1419,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC – National Center for Chronic Disease Prevention and Health Promotion"
-      },
-      "about": "Epidemiology / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1792,13 +1442,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "https://www.cdc.gov/brfss/annual_data/annual_2014.html and https://www.cdc.gov/brfss/annual_data/annual_2017.html"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1821,13 +1465,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1850,13 +1488,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public Health Survey"
+      ]
     },
     {
       "@type": "Review",
@@ -1879,13 +1511,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "BRFSS (unspecified year)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1908,13 +1534,7 @@
           "name": "use",
           "ratingValue": 7.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1937,13 +1557,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited study (reference 70) within the manuscript."
-      },
-      "about": "Public health / chronic disease surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -1966,13 +1580,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -1995,13 +1603,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2024,13 +1626,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2053,13 +1649,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Citation 10.1093/ajh/hpab011 within the manuscript."
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2082,13 +1672,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2111,13 +1695,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2140,13 +1718,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC"
-      },
-      "about": "Public health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2169,13 +1741,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2198,13 +1764,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -2227,13 +1787,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Centers for Disease Control and Prevention"
-      },
-      "about": "Public Health / Behavioral Surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -2255,36 +1809,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 2.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health surveillance"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors cite an analysis of the BRFSS that examines housing, food insecurity, care access, and health status among the chronically ill, and they present parallel prevalence data for chronic conditions among CTK participants, suggesting a joint analysis of the two sources.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Hospital-Based, Community Teaching Kitchen Integrates Diabetes Education, Culinary Medicine, and Food Assistance: Case Study During the COVID-19 Pandemic",
-        "identifier": "10.1007/s11606-022-07931-5",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155892271"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "CTK patient health‑condition dataset (obesity, hypertension, diabetes, etc.)",
-        "joinType": "combination",
-        "joinKeys": "[\"year\",\"state\",\"age_group\",\"sex\",\"race_ethnicity\"]",
-        "methodology": "The authors combined publicly available BRFSS survey data with internal CTK patient records by aligning variables that describe demographic groups and chronic condition prevalence. Data were extracted, cleaned, and then merged on common identifiers such as year, state, age_group, sex and race_ethnic"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
         }
       ]
     }

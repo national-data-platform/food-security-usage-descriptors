@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Food Acquisition and Purchase Survey (FoodAPS)",
@@ -10,6 +9,11 @@
     "food acquisition and purchase survey",
     "FoodAPS"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Department of Agriculture"
+  },
+  "about": "Nutrition / Food economics",
   "review": [
     {
       "@type": "Review",
@@ -32,8 +36,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -56,8 +59,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -80,8 +82,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -104,8 +105,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -128,8 +128,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -152,8 +151,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -176,8 +174,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -200,8 +197,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -224,8 +220,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -248,8 +243,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -272,8 +266,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -296,8 +289,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -320,8 +312,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -344,8 +335,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -368,8 +358,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -392,8 +381,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -416,8 +404,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -440,8 +427,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -464,8 +450,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -488,8 +473,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -512,8 +496,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -536,8 +519,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -560,8 +542,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -584,8 +565,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -608,8 +588,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -632,8 +611,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -656,8 +634,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -680,8 +657,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -704,8 +680,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -728,8 +703,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -752,8 +726,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -776,8 +749,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -800,8 +772,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -824,13 +795,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition, Food Consumption"
+      ]
     },
     {
       "@type": "Review",
@@ -853,13 +818,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food economics"
+      ]
     },
     {
       "@type": "Review",
@@ -882,13 +841,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Food acquisition and purchase behavior"
+      ]
     },
     {
       "@type": "Review",
@@ -911,13 +864,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food Economics/Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -940,13 +887,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / food economics"
+      ]
     },
     {
       "@type": "Review",
@@ -969,13 +910,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service."
-      },
-      "about": "Nutrition / food acquisition"
+      ]
     },
     {
       "@type": "Review",
@@ -998,13 +933,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition/Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1027,13 +956,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA) Economic Research Service"
-      },
-      "about": "Food Economics / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1056,9 +979,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1081,13 +1002,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service."
-      },
-      "about": "Food economics / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1110,13 +1025,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Food purchasing / nutrition research"
+      ]
     },
     {
       "@type": "Review",
@@ -1139,13 +1048,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food economics / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1168,13 +1071,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture's National Household Food Acquisition and Purchase Survey"
-      },
-      "about": "Public health nutrition / food acquisition"
+      ]
     },
     {
       "@type": "Review",
@@ -1197,13 +1094,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition/Household consumption"
+      ]
     },
     {
       "@type": "Review",
@@ -1226,13 +1117,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service; designed by Mathematica Policy Research"
-      },
-      "about": "Nutrition, food acquisition, public health"
+      ]
     },
     {
       "@type": "Review",
@@ -1255,13 +1140,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Nutrition economics / Food policy"
+      ]
     },
     {
       "@type": "Review",
@@ -1284,13 +1163,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service."
-      },
-      "about": "Household food acquisition and purchase behavior"
+      ]
     },
     {
       "@type": "Review",
@@ -1313,13 +1186,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Nutrition / Food purchasing behavior"
+      ]
     },
     {
       "@type": "Review",
@@ -1342,13 +1209,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Nutrition/Food Economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1371,13 +1232,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Food acquisition, nutrition, food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1400,13 +1255,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Nutrition / Food Acquisition"
+      ]
     },
     {
       "@type": "Review",
@@ -1429,13 +1278,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -1458,13 +1301,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Nutrition / Food Security"
+      ]
     },
     {
       "@type": "Review",
@@ -1487,13 +1324,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Nutrition / Food economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1516,13 +1347,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Nutrition / Food security"
+      ]
     },
     {
       "@type": "Review",
@@ -1545,13 +1370,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Food acquisition / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1574,13 +1393,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Department of Agriculture"
-      },
-      "about": "Nutrition / Food Acquisition"
+      ]
     },
     {
       "@type": "Review",
@@ -1603,13 +1416,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Nutrition / food economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1632,13 +1439,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture (USDA)"
-      },
-      "about": "Food acquisition & purchase"
+      ]
     },
     {
       "@type": "Review",
@@ -1661,13 +1462,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture Economic Research Service"
-      },
-      "about": "Nutrition / Food economics"
+      ]
     },
     {
       "@type": "Review",
@@ -1690,13 +1485,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture, Economic Research Service"
-      },
-      "about": "Food economics / nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -1719,13 +1508,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Agriculture"
-      },
-      "about": "Nutrition / food purchasing"
+      ]
     },
     {
       "@type": "Review",
@@ -1747,396 +1530,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 10.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA Economic Research Service"
-      },
-      "about": "Nutrition / Food Security / Consumer Behavior"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors align their cluster findings with patterns observed in the USDA FoodAPS study, noting that households often do not shop at the nearest store and that price, quality, and selection influence shopping behavior.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Analyzing the Role of Community and Individual Factors in Food Insecurity: Identifying Diverse Barriers Across Clustered Community Members",
-        "identifier": "10.1007/s10900-016-0171-0",
-        "url": "https://app.dimensions.ai/details/publication/pub.1044764715"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Community Food Security Assessment Survey",
-        "joinType": "comparison/combination",
-        "joinKeys": "[]",
-        "methodology": "The authors did not perform a literal dataset join between the community food security assessment survey and the USDA FoodAPS data. Instead they used a comparative analytical approach: results from their cluster analysis were qualitatively compared with published findings from the FoodAPS study rega"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors match each household’s reported last SNAP benefit date from the FoodAPS interview to USDA administrative data when self‑reports are missing or infeasible, creating a combined dataset that contains both diary‑based expenditure/consumption and precise benefit‑disbursement timing.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
-        "identifier": "10.1016/j.jpubeco.2018.08.001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106250905"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA administrative SNAP disbursement records",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"benefit_date_timestamp\"]",
-        "methodology": "The authors first used the self‑reported last SNAP benefit receipt date collected during the FoodAPS interview as the primary linkage variable. For households where this date was missing or implausible, they retrieved the corresponding administrative SNAP disbursement record from USDA databases that"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The analysis repeatedly compares SNAP participants to control groups drawn from the same FoodAPS survey—households that are eligible but not participating, and those just above eligibility thresholds—to estimate counterfactual expenditure/consumption trends.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
-        "identifier": "10.1016/j.jpubeco.2018.08.001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106250905"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Non‑SNAP eligible and near‑eligible household samples (control groups)",
-        "joinType": "combination",
-        "joinKeys": "[\"household_id\",\"snap_eligibility_status\",\"disbursement_date\"]",
-        "methodology": "The authors merged the FoodAPS household diary dataset with two control groups drawn from the same survey – households that were SNAP‑eligible but not participating and those just above eligibility thresholds. The merge was performed by matching on the unique FoodAPS household identifier (household "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors compute the Healthy Eating Index (HEI) from FoodAPS expenditure records by mapping purchased food items to USDA’s ERS food groups and nutrient profiles, thereby fusing transaction data with a nutrition classification dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Who feels the calorie crunch and when? The impact of school meals on cyclical food insecurity",
-        "identifier": "10.1016/j.jpubeco.2018.08.001",
-        "url": "https://app.dimensions.ai/details/publication/pub.1106250905"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "USDA Food Group/ERS nutrition database (used for Healthy Eating Index calculation)",
-        "joinType": "fusion",
-        "joinKeys": "[\"barcode_id\",\"product_name\",\"food_group_code\",\"timestamp\"]",
-        "methodology": "The authors first extracted the transaction-level purchase records from FoodAPS, which include detailed item identifiers such as barcodes and product descriptions. They then transformed these identifiers to match the USDA ERS food‑group taxonomy by cleaning product names, standardizing units, and ma"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The manuscript references FoodAPS when discussing national food‑security measurement and uses its USDA food‑security module as a basis for the survey instrument.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Social determinants of rural food security: Findings from Michigan's Upper Peninsula",
-        "identifier": "10.1016/j.jrurstud.2024.103256",
-        "url": "https://app.dimensions.ai/details/publication/pub.1169898660"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Western Upper Peninsula mixed‑mode survey (household‑level responses)",
-        "joinType": "comparison/fusion",
-        "joinKeys": "[]",
-        "methodology": "The authors did not perform a technical data‑level join between the Western Upper Peninsula mixed‑mode survey and FoodAPS. Instead they used the USDA Food Security Module that is implemented in FoodAPS as a conceptual template for their own questionnaire. Survey items from FoodAPS were mapped to the"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.4
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household‑level self‑reported SNAP status from the initial FoodAPS interview was linked to USDA SNAP administrative files to identify discrepancies between reported and actual participation.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Interviewer effects in food acquisition surveys",
-        "identifier": "10.1017/s1368980018000137",
-        "url": "https://app.dimensions.ai/details/publication/pub.1101166546"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SNAP administrative records",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"snap_case_number\",\"consent_flag\"]",
-        "methodology": "The researchers linked the household‑level self‑reported SNAP participation captured in the initial FoodAPS interview to USDA SNAP administrative records. A consent flag obtained during the survey allowed matching of respondents to their administrative case files. The join was performed by matching "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Household‑level covariates derived from the Census 2010 were merged with the FoodAPS dataset to adjust for geographic and socio‑economic characteristics in the multilevel models.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Interviewer effects in food acquisition surveys",
-        "identifier": "10.1017/s1368980018000137",
-        "url": "https://app.dimensions.ai/details/publication/pub.1101166546"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Census 2010 data",
-        "joinType": "fusion",
-        "joinKeys": "[\"census_tract_id\",\"block_group_id\",\"zip_code\",\"household_address\"]",
-        "methodology": "The researchers performed a fusion of household‑level covariates from the 2010 Census with the FoodAPS dataset by linking each FoodAPS household to its corresponding census geographic unit. First, both data sources were extracted and cleaned: missing or inconsistent geographic identifiers (e.g., cen"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors calculated \"days since last SNAP benefit disbursement\" for each respondent and then linked these values to the daily meal‑consumption records from FoodAPS to examine how meal patterns vary across the benefit month.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Meal Consumption Patterns Throughout the SNAP Benefit Cycle",
-        "identifier": "10.1093/cdn/nzab035_016",
-        "url": "https://app.dimensions.ai/details/publication/pub.1138665531"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SNAP administrative benefit disbursement data (or schedule)",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"survey_date\"]",
-        "methodology": "The authors first extracted the SNAP benefit issue dates from the administrative benefit file and the daily meal records from the FoodAPS survey. They then computed a new variable representing the number of days since the most recent benefit issue for each meal observation by subtracting the benefit"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors added rural/metropolitan indicators and Census regions to the FoodAPS household records to control for food‑environment differences. This requires merging the FoodAPS micro‑data with external Census geography tables that map ZIP codes/ counties to region and metro status.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Households Use Food Budget Stretching to Alleviate Food Insecurity?",
-        "identifier": "10.1111/fcsr.12438",
-        "url": "https://app.dimensions.ai/details/publication/pub.1147852507"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census geographic/ demographic data (region, metropolitan‑rural classification, poverty thresholds)",
-        "joinType": "integration",
-        "joinKeys": "[\"ZIP_code\",\"county_fips\"]",
-        "methodology": "The authors first extracted the ZIP code and county FIPS identifiers from each FoodAPS household record. They obtained publicly available Census geography tables that provide a one‑to‑one mapping of ZIP codes and county FIPS to the four Census regions (Northeast, Midwest, South, West) and to metropo"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Households were classified as low‑income (≤185 % of the FPL) or higher‑income (>185 % of the FPL) based on the 185 % FPL cutoff. This classification required linking each FoodAPS household’s income to the official FPL thresholds for the survey year.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Do Households Use Food Budget Stretching to Alleviate Food Insecurity?",
-        "identifier": "10.1111/fcsr.12438",
-        "url": "https://app.dimensions.ai/details/publication/pub.1147852507"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Federal poverty‑level (FPL) reference data (U.S. Department of Health and Human Services) used for SNAP eligibility",
-        "joinType": "merge",
-        "joinKeys": "[\"household_id\",\"survey_year\"]",
-        "methodology": "The FoodAPS public use file was extracted and loaded into a data frame. The federal poverty level (FPL) table for the survey year was downloaded from the HHS website. Household total income was log transformed and the income‑to‑poverty ratio was calculated by dividing the household income by the FPL"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors state that the analysis dataset “combines the FoodAPS's Individual File, Household File, and Access File at the household level” to create a single analytical file for each of the 2 171 households.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
-        "identifier": "10.1111/fcsr.12454",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150121365"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "FoodAPS Household File (and Access File)",
-        "joinType": "merge",
-        "joinKeys": "[\"HHID\"]",
-        "methodology": "The authors merged the three FoodAPS files (Individual, Household, Access) at the household level. Each file contains a common household identifier (HHID). The merge was performed by matching records with identical HHID values across the files, creating one record per household that includes variabl"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors state that the analysis dataset “combines the FoodAPS's Individual File, Household File, and Access File at the household level” to create a single analytical file for each of the 2 171 households.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
-        "identifier": "10.1111/fcsr.12454",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150121365"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "FoodAPS Individual File",
-        "joinType": "merge",
-        "joinKeys": "[\"HHID\"]",
-        "methodology": "The authors merged the three FoodAPS files (Individual, Household, Access) at the household level. Each file contains a common household identifier (HHID). The merge was performed by matching records with identical HHID values across the files, creating one record per household that includes variabl"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "In the methods the authors describe adding eight local‑food‑environment variables such as the number of SNAP‑authorized supermarkets, convenience stores, and fast‑food restaurants within 1‑mile and 10‑mile buffers. These counts must be derived from an external spatial database and linked to each Foo",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Housing Instability, Food Insecurity, and Barriers to Healthy Eating",
-        "identifier": "10.1111/fcsr.12454",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150121365"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "External geocoded food‑environment data (e.g., USDA Food Access Research Atlas or similar store‑count datasets)",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"zip_code\"]",
-        "methodology": "The researchers first extracted the household level file from FoodAPS and selected the ZIP code and street address variables. The external food environment dataset was obtained from USDA Food Access Research Atlas and contained point locations of supermarkets, convenience stores and fast food restau"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.1
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors matched each FoodAPS household to SNAP participation status using administrative records when available, otherwise relying on self‑report. This required linking the survey respondent IDs with SNAP enrollment data.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
-        "identifier": "10.3945/cdn.117.001446",
-        "url": "https://app.dimensions.ai/details/publication/pub.1092259111"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SNAP administrative records",
-        "joinType": "integration",
-        "joinKeys": "[\"household_id\",\"survey_respondent_id\"]",
-        "methodology": "The authors linked each FoodAPS household to SNAP participation status by first attempting to match the survey respondent identifier with administrative SNAP enrollment records. When an administrative record was available and consented, an exact key‑based join on the unique household ID was performe"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Retailers were classified as supermarkets or supercenters using the STARS database, which was linked to FoodAPS respondents’ reported primary retailer names/addresses to compute distances and categorize store types.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
-        "identifier": "10.3945/cdn.117.001446",
-        "url": "https://app.dimensions.ai/details/publication/pub.1092259111"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "SNAP Store Tracking and Redemption System (STARS)",
-        "joinType": "fusion",
-        "joinKeys": "[\"retailer_name\",\"address\",\"geocode_latitude\",\"geocode_longitude\"]",
-        "methodology": "The researchers first extracted retailer information from the SNAP Store Tracking and Redemption System (STARS) database, which includes standardized identifiers for supermarkets and supercenters. They then obtained the primary retailer names and approximate addresses reported by FoodAPS respondents"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The sampling design used primary sampling units (counties or groups of contiguous counties) and secondary sampling units (census block groups). Household addresses from FoodAPS were linked to these geographic units to calculate linear distances to nearest supermarkets.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "For Low-Income Americans, Living ≤1 Mile (≤1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
-        "identifier": "10.3945/cdn.117.001446",
-        "url": "https://app.dimensions.ai/details/publication/pub.1092259111"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "U.S. Census geographic data (census block groups / counties)",
-        "joinType": "combination",
-        "joinKeys": "[\"household_geocode_latitude\",\"household_geocode_longitude\",\"census_block_group_id\"]",
-        "methodology": "The researchers first extracted the household street addresses from the FoodAPS dataset and geocoded them to obtain latitude‑longitude coordinates. Using the U.S. Census geographic shapefiles for block groups (and counties), they performed a spatial join that assigned each household point to its cor"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
         }
       ]
     }

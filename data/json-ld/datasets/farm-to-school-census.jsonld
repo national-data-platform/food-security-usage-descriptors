@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "Farm to School Census",
@@ -30,55 +29,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 1.0
-        }
-      ],
-      "dud:dataset_usage_status": "validated"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study combines ODE grant‑application and reporting data with USDA’s national Farm‑to‑School Census figures to describe the reach of Oregon’s farm‑to‑school education grants (e.g., number of districts, schools, students) in relation to nationwide farm‑to‑school participation trends.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Farm-to-school education grants reach low-income children and encourage them to learn about fruits and vegetables",
-        "identifier": "10.1093/tbm/ibz092",
-        "url": "https://app.dimensions.ai/details/publication/pub.1121407211"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Oregon Department of Education (ODE) Farm-to-School Baseline and Progress Reports",
-        "joinType": "integration",
-        "joinKeys": "",
-        "methodology": ""
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "When describing how local procurement activities were implemented, the study links findings from the Local Food Marketing Practices Survey (e.g., producer‑to‑school marketing channels) with USDA’s census data on the number of schools purchasing local produce.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Farm-to-school education grants reach low-income children and encourage them to learn about fruits and vegetables",
-        "identifier": "10.1093/tbm/ibz092",
-        "url": "https://app.dimensions.ai/details/publication/pub.1121407211"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Local Food Marketing Practices Survey",
-        "joinType": "combination",
-        "joinKeys": "[\"school_id\",\"district_code\",\"school_name\",\"geographic_location\"]",
-        "methodology": "The researchers performed an integration of the Local Food Marketing Practices Survey and the USDA Farm to School Census by first extracting relevant variables from each source (e.g., school identifiers, district codes, and reported procurement activities). The datasets were cleaned and standardized"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
         }
       ]
     }

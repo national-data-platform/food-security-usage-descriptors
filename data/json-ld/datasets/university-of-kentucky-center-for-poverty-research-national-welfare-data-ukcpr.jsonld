@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "University of Kentucky Center for Poverty Research National Welfare Data (UKCPR)",
@@ -12,6 +11,11 @@
     "UK Center for Poverty Research National Welfare Data",
     "UKCPR Welfare Data"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "University of Kentucky Center for Poverty Research"
+  },
+  "about": "Social‑policy & economic statistics",
   "review": [
     {
       "@type": "Review",
@@ -34,13 +38,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Kentucky"
-      },
-      "about": "Economic policy / welfare economics"
+      ]
     },
     {
       "@type": "Review",
@@ -63,13 +61,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Kentucky Center for Poverty Research"
-      },
-      "about": "State‑level policy & economic data"
+      ]
     },
     {
       "@type": "Review",
@@ -92,13 +84,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Kentucky Center for Poverty Research."
-      },
-      "about": "Public policy / Welfare economics"
+      ]
     },
     {
       "@type": "Review",
@@ -121,13 +107,7 @@
           "name": "use",
           "ratingValue": 8.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Kentucky Center for Poverty Research"
-      },
-      "about": "Public policy / Social welfare"
+      ]
     },
     {
       "@type": "Review",
@@ -149,36 +129,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 7.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "University of Kentucky – Center for Poverty Research"
-      },
-      "about": "Social‑policy & economic statistics"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "To control for macro‑economic and policy context, the authors augment the person‑level PSID data with state‑level variables from the UKCPR National Welfare Data for the years 1997 and 2019. These state‑level indicators are merged onto the PSID records based on the respondent’s state of residence.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The intergenerational transmission of food insecurity: Do educational compromises make things worse?",
-        "identifier": "10.1002/soej.12767",
-        "url": "https://app.dimensions.ai/details/publication/pub.1185960059"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Panel Study of Income Dynamics (PSID) longitudinal sample",
-        "joinType": "fusion",
-        "joinKeys": "[\"state_id\",\"year\"]",
-        "methodology": "The researchers extracted person level records from the PSID data set including the respondent state of residence and the survey year. They also extracted state level variables from the UKCPR data set for the years 1997 and 2019. A common key was created by combining the state identifier with the ye"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.4
         }
       ]
     }

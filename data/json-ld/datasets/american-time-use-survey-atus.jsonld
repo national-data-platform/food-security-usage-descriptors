@@ -1,7 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "American Time Use Survey (ATUS)",
@@ -10,6 +9,11 @@
     "American Time Use Survey",
     "ATUS"
   ],
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Bureau of Labor Statistics"
+  },
+  "about": "Behavioral / Time Allocation",
   "review": [
     {
       "@type": "Review",
@@ -32,13 +36,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "USDA"
-      },
-      "about": "Policy implementation data"
+      ]
     },
     {
       "@type": "Review",
@@ -61,13 +59,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics"
-      },
-      "about": "Time‑use research"
+      ]
     },
     {
       "@type": "Review",
@@ -90,13 +82,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Bureau of Labor Statistics"
-      },
-      "about": "Time‑Use / Nutrition"
+      ]
     },
     {
       "@type": "Review",
@@ -119,13 +105,7 @@
           "name": "use",
           "ratingValue": 7.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. DHS Yearbook of Immigration Statistics"
-      },
-      "about": "Immigration statistics"
+      ]
     },
     {
       "@type": "Review",
@@ -148,9 +128,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "about": "Behavioral / Time Allocation"
+      ]
     },
     {
       "@type": "Review",
@@ -172,348 +150,6 @@
           "@type": "Rating",
           "name": "use",
           "ratingValue": 9.0
-        }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Defense"
-      },
-      "about": "Military / Public Health"
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a matched household sample by linking CPS‑FSS observations from year t with ATUS observations from year t + 1. This produced a combined dataset of 53,491 households that contain both food‑security information and 24‑hour time‑use diaries.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Food insecurity and time use in elderly vs. non‐elderly: An exploratory analysis",
-        "identifier": "10.1002/aepp.13275",
-        "url": "https://app.dimensions.ai/details/publication/pub.1147386484"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Current Population Survey – Food Security Supplement (CPS‑FSS)",
-        "joinType": "merge",
-        "joinKeys": "[\"household_serial_number\",\"year\"]",
-        "methodology": "The authors extracted CPSFSS and ATUS public use files from IPUMS, filtered records to household heads or spouses, created a binary food insecurity indicator, transformed ATUS 24 hour diaries into weekly totals for meal preparation, grocery shopping, non grocery shopping and eating. Because ATUS rep"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 9.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Self‑reported general health and health‑outcome items were taken from the CDC BRFSS questionnaire and merged into the authors’ survey dataset to assess convergent validity of the new nutrition‑security scales.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Development of new measures to assess household nutrition security, and choice in dietary characteristics",
-        "identifier": "10.1016/j.appet.2022.106288",
-        "url": "https://app.dimensions.ai/details/publication/pub.1150574439"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Pilot survey responses (household‑level data)",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The authors combined the BRFSS health status items with the pilot survey responses by adding the BRFSS variables as additional columns to each household record. Both sets of items were collected in the same questionnaire so the merge was performed on the respondent row identifier that was generated "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Individual‑level supplement use data from the cohort were linked to each participant’s state of residence to attach the structural‑racism score and Medicaid‑expansion indicator, enabling multilevel GEE models that assess how state policies relate to supplement use.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "The Impact of FNAPs on Young Children's Food Environment in ECEs: A Systematic Review Using the RE-AIM Framework",
-        "identifier": "10.1016/j.jneb.2023.05.092",
-        "url": "https://app.dimensions.ai/details/publication/pub.1160505811"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "COVID‑19 Pandemic Substudy (Nurses' Health Studies 2/3 & Growing Up Today Study cohort data)",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\",\"state_abbreviation\"]",
-        "methodology": "The individual level supplement use records from the COVID19 pandemic substudy were first extracted and the state of residence variable was standardized to two letter state abbreviations. The state policy dataset containing the structural racism index and Medicaid expansion indicator was also format"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.7
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Baseline household characteristics were merged with the dichotomous food‑insecurity measure to examine potential confounders and to stratify analyses by socioeconomic variables.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Changes in household food insecurity are related to changes in BMI and diet quality among Michigan Head Start preschoolers in a sex-specific manner",
-        "identifier": "10.1016/j.socscimed.2017.04.003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1084535112"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Demographic questionnaire (household composition, caregiver race/ethnicity, education, income‑to‑needs ratio, receipt of public assistance)",
-        "joinType": "combination",
-        "joinKeys": "[\"participant_id\",\"time_point\"]",
-        "methodology": "Baseline demographic questionnaire data were merged with the household food‑insecurity status measured at baseline and follow‑up for each child. The merge was performed by matching each child's unique study identifier (participant ID) across the two datasets, aligning records by time point (baseline"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Although treatment group was not adjusted for in the final models, the study’s original trial dataset (cluster‑randomized design) provided the underlying sample structure that was combined with food insecurity status and outcome variables for mixed‑effects analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Changes in household food insecurity are related to changes in BMI and diet quality among Michigan Head Start preschoolers in a sex-specific manner",
-        "identifier": "10.1016/j.socscimed.2017.04.003",
-        "url": "https://app.dimensions.ai/details/publication/pub.1084535112"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Growing Healthy Study randomized trial data (intervention arm assignment, school clustering)",
-        "joinType": "integration",
-        "joinKeys": "[\"child_id\",\"school_cluster_id\",\"visit_timestamp\"]",
-        "methodology": "The researchers merged the Growing Healthy Study trial dataset with the household food insecurity and child outcome data by linking records at the individual child level using unique participant identifiers (child ID) and school cluster IDs. The integration was performed in a two‑step ETL process: f"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Acculturation categories derived from the BAS were cross‑tabulated with SNAP participation rates and food security levels to examine associations via chi‑square analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nativity, Not Acculturation, Predicts SNAP Usage Among Low-income Hispanics With Food Insecurity",
-        "identifier": "10.1080/19320248.2014.962779",
-        "url": "https://app.dimensions.ai/details/publication/pub.1049012797"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Bidimensional Acculturation Scale (BAS) data",
-        "joinType": "integration",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The study combined two survey instruments collected from the same participants: the Bidimensional Acculturation Scale (BAS) and the Core Food Security Module (CFSM) together with SNAP usage questions. Each respondent was assigned a unique identifier during data entry, allowing direct linking of thei"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.8
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study compared objective physical function measures (SPPB components) with categorical variables derived from surveys (frailty phenotype, food‑insecurity status) to test associations via t‑tests and chi‑square analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Impact of Food Insecurity and Undernutrition on Frailty and Physical Functioning in Aging People With HIV in the United States",
-        "identifier": "10.1097/jnc.0000000000000395",
-        "url": "https://app.dimensions.ai/details/publication/pub.1155223421"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Physical performance assessment data (Short Physical Performance Battery, grip strength, gait speed, chair‑rise time)",
-        "joinType": "combination",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The study merged two data sources collected on the same participants: objective physical performance measurements from the Short Physical Performance Battery and related tests, and survey‑derived variables on frailty phenotype and food‑security status. A unique participant identifier assigned at enr"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 6.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "A multiple linear regression model was built with ACE score and high‑school GPA as predictors of overall nutrition knowledge, while food‑security status was examined as an additional covariate in bivariate analyses.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nutrition Knowledge, Food Insecurity, and Adverse Childhood Experiences Among Underserved College Students",
-        "identifier": "10.1097/nt.0000000000000673",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170172331"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "ACE score",
-        "joinType": "fusion",
-        "joinKeys": "[\"student_id\"]",
-        "methodology": "The two survey datasets were merged using an ETL pipeline. First the raw CSV files were extracted, then each file was cleaned to remove incomplete rows and to standardise column names. Because both datasets originated from the same online questionnaire, a unique participant identifier (student_id) w"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.2
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The study compared nutrition‑knowledge scores and other outcomes between participants who used SNAP/EBT and those who did not, stratified by food‑security categories.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Nutrition Knowledge, Food Insecurity, and Adverse Childhood Experiences Among Underserved College Students",
-        "identifier": "10.1097/nt.0000000000000673",
-        "url": "https://app.dimensions.ai/details/publication/pub.1170172331"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Self‑reported SNAP/EBT usage data (yes/no)",
-        "joinType": "combination",
-        "joinKeys": "[\"participant_id\"]",
-        "methodology": "The researchers merged the SNAP/EBT usage variable and the food‑security status variable from the same survey by matching on the unique participant identifier generated during data collection. After extracting the raw CSV files, they loaded them into pandas dataframes, performed cleaning, type conve"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Exploratory analyses compared variance components for participants who were receiving SNAP versus those who were not. This required linking each respondent’s daily FI observations with their SNAP enrollment status.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Characterizing the within-person variability of food insecurity in everyday life",
-        "identifier": "10.1371/journal.pone.0312543",
-        "url": "https://app.dimensions.ai/details/publication/pub.1184597683"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Daily text‑message food‑insecurity survey data",
-        "joinType": "fusion",
-        "joinKeys": "[\"participant_id\",\"survey_date\"]",
-        "methodology": "The daily text message records were first extracted and stored in a flat table with a participant identifier and a survey date. SNAP status data were extracted from a separate source that also contained a participant identifier and a SNAP enrollment flag. Both tables were cleaned, duplicate rows rem"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Demographic variables were merged with food‑security status to assess associations (e.g., logistic regression of food insecurity by age, education).",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Exploring Food Insecurity and Perceived Stress on Daytime Sleepiness among Older Adults in New York City",
-        "identifier": "10.3390/foods13172831",
-        "url": "https://app.dimensions.ai/details/publication/pub.1175563939"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Demographic variables collected via Qualtrics (age, gender, race/ethnicity, income, education, BMI, health‑condition count)",
-        "joinType": "combination",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The researchers collected demographic data and food‑security responses in a single Qualtrics survey. Each participant was assigned a unique Qualtrics respondent ID. After exporting the datasets, the ID field was used as the primary key to combine the two tables. In R the merge function (or dplyr lef"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.5
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Multivariate logistic regression models combined clinical outcome variables with binary indicators of food desert residence and proximity buffers.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Geospatial Analysis of Food Deserts and Their Impact on Health Outcomes in Children with Cystic Fibrosis",
-        "identifier": "10.3390/nu13113996",
-        "url": "https://app.dimensions.ai/details/publication/pub.1143151520"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "CFF patient health outcomes (BMI, ppFEV1, hospitalizations)",
-        "joinType": "combination",
-        "joinKeys": "[\"patient_address_coordinates\",\"census_tract_id\",\"food_desert_indicator\",\"buffer_zone_indicator\"]",
-        "methodology": "The study performed a spatial integration by geocoding each patient’s home address to obtain latitude‑longitude coordinates and then applying a reverse spatial join in ArcGIS Pro. The food desert layer (from the USDA Food Access Research Atlas) and the Child Opportunity Index (COI) layer were overla"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 8.0
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "The authors created a combined dataset that links each participant’s demographic characteristics with their food‑security classifications. This integrated dataset underlies the chi‑square tests comparing FS vs. FI groups and the binary logistic regression where demographic predictors are modeled aga",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Social Determinants of Health and College Food Insecurity",
-        "identifier": "10.3390/nu16091391",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171415268"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Survey‑collected sociodemographic variables (e.g., race/ethnicity, generation status, residence, major)",
-        "joinType": "integration",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The researchers merged the sociodemographic questionnaire data with the food security questionnaire data by using the unique respondent identifier generated for each online survey submission. After extracting the raw CSV files, they loaded them into a data frame, aligned column names, and performed "
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.9
-        }
-      ]
-    },
-    {
-      "@type": "Review",
-      "reviewAspect": "join",
-      "reviewBody": "Well‑being outcomes were modeled using ordinal or binary logistic regression with food‑security status as key independent variables. This required combining the well‑being questionnaire responses with the food‑security classifications into a single analytical dataset.",
-      "citation": {
-        "@type": "ScholarlyArticle",
-        "name": "Social Determinants of Health and College Food Insecurity",
-        "identifier": "10.3390/nu16091391",
-        "url": "https://app.dimensions.ai/details/publication/pub.1171415268"
-      },
-      "dud:joinDetail": {
-        "partnerDataset": "Survey‑collected well‑being measures (stress related to food, general stress, self‑rated health, academic progress, COVID‑impact on food access, difficulty concentrating)",
-        "joinType": "combination",
-        "joinKeys": "[\"respondent_id\"]",
-        "methodology": "The researchers extracted the survey data files, one containing wellbeing responses and one containing food security classifications. Both files were loaded into a pandas data frame. A common respondent identifier generated at survey entry was used as the join key. Prior to joining the data were cle"
-      },
-      "reviewRating": [
-        {
-          "@type": "Rating",
-          "name": "join_confidence",
-          "ratingValue": 7.3
         }
       ]
     }

@@ -1,11 +1,15 @@
 {
   "@context": {
-    "@vocab": "https://schema.org/",
-    "dud": "https://nationaldataplatform.org/data-usage-descriptor/"
+    "@vocab": "https://schema.org/"
   },
   "@type": "Dataset",
   "name": "National Survey of Children's Health (NSCH)",
   "identifier": "68ea7da1b68f81f17e35ef3a",
+  "creator": {
+    "@type": "Organization",
+    "name": "U.S. Census Bureau / Health Resources and Services Administration"
+  },
+  "about": "Public health / Child health",
   "review": [
     {
       "@type": "Review",
@@ -28,8 +32,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -52,8 +55,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -76,8 +78,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -100,8 +101,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -124,8 +124,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -148,8 +147,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -172,8 +170,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -196,8 +193,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -220,8 +216,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -244,8 +239,7 @@
           "name": "use",
           "ratingValue": 0.0
         }
-      ],
-      "dud:dataset_usage_status": "validated"
+      ]
     },
     {
       "@type": "Review",
@@ -268,13 +262,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "HRSA/CDC."
-      },
-      "about": "Child health epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -297,13 +285,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Reference to published NSCH data."
-      },
-      "about": "Child health / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -326,13 +308,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Health Resources & Services Administration (HRSA)"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -355,13 +331,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / HRSA Maternal and Child Health Bureau"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -384,13 +354,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Health Resources and Services Administration (HRSA) and CDC"
-      },
-      "about": "Pediatrics / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -413,13 +377,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC/NIH"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -442,13 +400,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health and Human Services"
-      },
-      "about": "Child health / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -471,13 +423,7 @@
           "name": "use",
           "ratingValue": 1.5
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Centers for Disease Control and Prevention (CDC)"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -500,13 +446,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Health Resources and Services Administration"
-      },
-      "about": "Child health / Public health"
+      ]
     },
     {
       "@type": "Review",
@@ -529,13 +469,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau; HRSA Maternal and Child Health Bureau"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -558,13 +492,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "National Survey of Children's Health (NSCH) 2016-2017 dataset"
-      },
-      "about": "Public health / Pediatrics"
+      ]
     },
     {
       "@type": "Review",
@@ -587,13 +515,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Health Resources and Services Administration's Maternal and Child Health Bureau; data collected by the U.S. Census Bureau."
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -616,13 +538,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Health Resources and Services Administration"
-      },
-      "about": "Public health / child health"
+      ]
     },
     {
       "@type": "Review",
@@ -645,13 +561,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / National Center for Health Statistics; sponsored by the Maternal and Child Health Bureau (HRSA)."
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -674,13 +584,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -703,13 +607,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health & Human Services, CDC’s National Center for Health Statistics"
-      },
-      "about": "Child health / public health"
+      ]
     },
     {
       "@type": "Review",
@@ -732,13 +630,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "CDC / Child and Adolescent Health Measurement Initiative"
-      },
-      "about": "Public health / Child health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -761,13 +653,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health & Human Services, Health Resources and Services Administration"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -790,13 +676,7 @@
           "name": "use",
           "ratingValue": 10.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / National Center for Health Statistics"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -819,13 +699,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "US Census Bureau / Health Resources and Services Administration (HRSA)"
-      },
-      "about": "Public Health / Child Health"
+      ]
     },
     {
       "@type": "Review",
@@ -848,13 +722,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Health Resources and Services Administration (HRSA)"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -877,13 +745,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Census Bureau / Health Resources and Services Administration"
-      },
-      "about": "Public health / Child health surveillance"
+      ]
     },
     {
       "@type": "Review",
@@ -906,13 +768,7 @@
           "name": "use",
           "ratingValue": 9.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Child and Adolescent Health Measurement Initiative (2019); US Census Bureau/CDC"
-      },
-      "about": "Public health / child health epidemiology"
+      ]
     },
     {
       "@type": "Review",
@@ -935,13 +791,7 @@
           "name": "use",
           "ratingValue": 2.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health & Human Services"
-      },
-      "about": "Public health / Child health"
+      ]
     },
     {
       "@type": "Review",
@@ -964,13 +814,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health and Human Services, Maternal and Child Health Bureau."
-      },
-      "about": "Pediatrics/Public Health"
+      ]
     },
     {
       "@type": "Review",
@@ -993,13 +837,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "U.S. Department of Health and Human Services, HRSA, Maternal and Child Health Bureau"
-      },
-      "about": "Public health / child health"
+      ]
     },
     {
       "@type": "Review",
@@ -1022,13 +860,7 @@
           "name": "use",
           "ratingValue": 1.0
         }
-      ],
-      "dud:dataset_usage_status": "discovered",
-      "sdPublisher": {
-        "@type": "Organization",
-        "name": "Cited reference (doi:10.1093/milmed/usae424)"
-      },
-      "about": "Public health / Child health"
+      ]
     }
   ]
 }
