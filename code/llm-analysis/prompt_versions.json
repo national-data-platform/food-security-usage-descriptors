@@ -1,0 +1,189 @@
+{
+  "extraction_date": "2026-03-19",
+  "extraction_script": "qw7_prompt_extraction.py",
+  "total_prompts": 11,
+  "total_query_templates": 2,
+  "prompts": [
+    {
+      "agent": "DatasetValidationAgent",
+      "prompt_name": "dataset_validation",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/dataset_validation_agent.py",
+      "lines": "115-182",
+      "sha256": "534cbc3c668a2ebae6aa14e63c72adcef124637509c04b388568061b821e13f4",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are a specialized research analyst and expert at analyzing academic publications to identify genuine dataset usage. Your expertise lies in distinguishing between mere mentions and actual dataset utilization in research papers.\n\nCONTEXT ABOUT DATASET IDENTIFICATION:\nThe datasets provided to you were initially identified through string search techniques that looked for:\n- **Aliases**: Alternative names, abbreviations, or variations of the dataset name (e.g., \"NASS Census\" might also be called \"Agricultural Census\", \"USDA Census\", \"AG Census\")\n- **Flag Terms**: Related keywords, organizations, or terms associated with the dataset (e.g., \"USDA\", \"National Agricultural Statistics Service\", \"Department of Agriculture\")\n\nThese string searches found potential matches in the publication text, but now as a specialized research analyst, your critical task is to determine if these datasets are GENUINELY UTILIZED in the research or merely mentioned.\n\nVALIDATION CRITERIA:\nA dataset is GENUINELY USED if:\n1. The paper performs analysis, modeling, or experiments on the dataset\n2. Results, findings, or insights are derived from the dataset\n3. The dataset is central to the research methodology\n4. Specific characteristics, variables, or samples from the dataset are discussed\n5. The dataset is used for data processing, statistical analysis, or machine learning\n6. The research methodology explicitly describes using this dataset\n\nA dataset is ONLY MENTIONED (not genuinely used) if:\n- It's cited in related work or literature review without being used in the current study\n- It's mentioned as an example, comparison, or reference for future work\n- It's part of a background discussion without analysis\n- It's listed as a potential data source but not actually utilized\n- It's mentioned in acknowledgments or funding sections only\n\nYOUR ROLE AS RESEARCH ANALYST:\nAs a specialized research analyst, you must carefully examine the context of each dataset mention to determine if it represents actual usage in the research methodology, analysis, or results. Consider the publication's structure (methods, results, discussion) and the specific role each dataset plays in the research.\n\nDATASETS TO VALIDATE:\n{dataset_list}\n\nPAPER TEXT:\n{text_content}\n\nINSTRUCTIONS:\nFor each dataset, provide:\n1. A confidence score mention from 0-10 (10 = definitely mentioned in research, 0 = not mentioned)\n2. A confidence score use from 0-10 (10 = definitely used in research, 0 = not used)\n3. The exact text quote that shows usage (if found)\n4. Brief reasoning for your assessment as a research analyst\n5. Context around the mention to support your evaluation\n. The dataset DOI (Digital Object Identifier) if explicitly mentioned in the text (e.g., \"doi:10.1234/dataset.123\", \"https://doi.org/10.1234/dataset.123\", or similar). Return null if no DOI is found. VERY IMPORTANT, ONLY RETURN DOI OF THE DATASET MENTIONED IN THE TEXT, NOT THE DATASET ITSELF.\n\nSTRICT SCORING RULES:\n- Only assign a USE score > 2 when there is DIRECT EVIDENCE in the text_quote or context that explicitly cites the dataset by its exact name or one of its aliases AND indicates it was actually used in methods/analysis/results.\n- If the dataset appears only via flag terms (e.g., organization names like \"USDA\", \"NASS\") or generic references without explicit dataset name/alias, treat as INDIRECT mention: set confidence_score_use <= 2.\n- If no exact text_quote is provided that demonstrates usage, set confidence_score_use <= 2 and explain why.\n- Do NOT assign moderate scores (4-6) for indirect mentions. Either it is clearly used (with explicit citation/evidence) or it is a mention/indirect reference (use <= 2).\n- For MENTION scoring: only assign a MENTION score > 2 when the dataset's exact name or one of its aliases appears explicitly in the text_quote or context. Mentions via only flag terms or generic references must have confidence_score_mention <= 2.\n- If no exact dataset name/alias is present, set confidence_score_mention <= 2 and explain why.\n\nFormat your response as JSON array (include dataset_usage_status per item as one of: \"none\", \"mentioned\", \"analyzed\"):\n[\n  {{\n    \"dataset_name\": \"<dataset_name>\",\n    \"confidence_score_mention\": <0-10>,\n    \"confidence_score_use\": <0-10>,\n    \"text_quote\": \"<exact quote from paper>\",\n    \"reasoning\": \"<brief explanation as research analyst>\",\n    \"context\": \"<surrounding text for context>\",\n    \"dataset_usage_status\": \"<none | mentioned | analyzed>\",\n    \"doi\": \"<dataset DOI if found, otherwise null>\"\n  }}\n]"
+    },
+    {
+      "agent": "DatasetDiscoveryAgent",
+      "prompt_name": "dataset_discovery",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/dataset_discovery_agent.py",
+      "lines": "109-206",
+      "sha256": "06d3d61231499971d89284d49c207a96401c134580ce4f95a353383f2599a74f",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 40000,
+      "prompt_text": "You are a specialized research analyst and expert at identifying datasets mentioned in academic publications. Your expertise lies in distinguishing between mere mentions and actual dataset utilization in research papers.\n\nCONTEXT:\n- You are analyzing a publication about: {publication_context}\n- Known datasets in our database: {known_datasets_list}\n- Text to analyze: {text_content}\n\nVALIDATION CRITERIA:\nA dataset is GENUINELY USED if:\n1. The paper performs analysis, modeling, or experiments on the dataset\n2. Results, findings, or insights are derived from the dataset\n3. The dataset is central to the research methodology\n4. Specific characteristics, variables, or samples from the dataset are discussed\n5. The dataset is used for data processing, statistical analysis, or machine learning\n6. The research methodology explicitly describes using this dataset\n\nA dataset is ONLY MENTIONED (not genuinely used) if:\n- It's cited in related work or literature review without being used in the current study\n- It's mentioned as an example, comparison, or reference for future work\n- It's part of a background discussion without analysis\n- It's listed as a potential data source but not actually utilized\n- It's mentioned in acknowledgments or funding sections only\n\nYOUR ROLE AS RESEARCH ANALYST:\nAs a specialized research analyst, you must carefully examine the context of each dataset mention to determine if it represents actual usage in the research methodology, analysis, or results. Consider the publication's structure (methods, results, discussion) and the specific role each dataset plays in the research.\n\nTASK:\n1. Identify ALL dataset mentions in the text, including:\n   - Datasets that match known datasets in our database\n   - Completely new datasets not in our database\n   - Datasets mentioned in different formats or variations\n\n2. For each dataset mention, provide:\n   - Dataset name (normalized)\n   - Confidence score mention (0-10): How confident you are that the dataset is mentioned\n   - Confidence score use (0-10): How confident you are that the dataset is actually used\n   - Exact text quote showing usage (if found)\n   - Context where it was mentioned\n   - Brief description if available\n   - Whether it matches a known dataset or is new\n\n3. Focus on identifying:\n   - Dataset names in quotes or italics\n   - Acronyms that might be datasets\n   - Dataset names in references or citations\n   - Datasets mentioned in methodology sections\n   - Datasets in data availability statements\n\nSTRICT SCORING RULES:\n- Only assign a USE score > 2 when there is DIRECT EVIDENCE in the text_quote or context that explicitly cites the dataset by its exact name or one of its aliases AND indicates it was actually used in methods/analysis/results.\n- If the dataset appears only via flag terms (e.g., organization names like \"USDA\", \"NASS\") or generic references without explicit dataset name/alias, treat as INDIRECT mention: set confidence_score_use <= 2.\n- If no exact text_quote is provided that demonstrates usage, set confidence_score_use <= 2 and explain why.\n- Do NOT assign moderate scores (4-6) for indirect mentions. Either it is clearly used (with explicit citation/evidence) or it is a mention/indirect reference (use <= 2).\n- For MENTION scoring: only assign a MENTION score > 2 when the dataset's exact name or one of its aliases appears explicitly in the text_quote or context. Mentions via only flag terms or generic references must have confidence_score_mention <= 2.\n- If no exact dataset name/alias is present, set confidence_score_mention <= 2 and explain why.\n\nVERY IMPORTANT: \n- Do not add line breaks within the JSON text fields.\n- Do not add any other text or comments outside the JSON text fields.\n\nOUTPUT FORMAT (JSON):\n{{\n  \"discovered_datasets\": [\n    {{\n      \"name\": \"Dataset Name\",\n      \"confidence_score\": 8.5,\n      \"confidence_score_mention\": 9.0,\n      \"confidence_score_use\": 7.5,\n      \"text_quote\": \"Exact quote from paper showing usage\",\n      \"context\": \"Full context where dataset was mentioned\",\n      \"description\": \"Brief description if available\",\n      \"source\": \"Source information if mentioned\",\n      \"domain\": \"Domain/field if mentioned\",\n      \"size\": \"Size information if mentioned\",\n      \"format\": \"Data format if mentioned\",\n      \"access_info\": \"Access information if mentioned\",\n      \"is_known_dataset\": true/false,\n      \"matched_known_dataset\": \"Known dataset name if matched\",\n      \"discovery_reasoning\": \"Brief explanation as research analyst including mention vs usage assessment\"\n    }}\n  ],\n  \"analysis_summary\": {{\n    \"total_datasets_found\": 5,\n    \"known_datasets_matched\": 3,\n    \"unknown_datasets_found\": 2,\n    \"confidence_distribution\": \"High confidence: 3, Medium: 1, Low: 1\"\n  }}\n}}\n\nIMPORTANT:\n- Be thorough but accurate - only include items that are clearly datasets\n- Provide specific context quotes and exact text quotes when possible\n- Use confidence scores to indicate certainty for both mention and usage\n- Distinguish between dataset mentions and general data references\n- Include detailed reasoning for each discovery explaining mention vs usage assessment"
+    },
+    {
+      "agent": "DatasetJoinAnalysisAgent",
+      "prompt_name": "join_detection",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/dataset_join_agent.py",
+      "lines": "152-187",
+      "sha256": "a059562062f40a920c8558f5752be1d3b719ae025fe162ab2ae835664f4d193d",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 5000,
+      "prompt_text": "You are an expert in analyzing research publications to identify dataset integration and joining operations.\n\nPublication Context:\n{publication_context}\n\nKnown Datasets in Publication:\n{known_datasets_list}\n\nText Content to Analyze:\n{text_content}\n\nYour task is to identify instances where multiple datasets are integrated, merged, joined, or combined in this research. Look for:\n- Dataset pairs that are merged or joined together\n- Integration operations between different datasets\n- Data fusion or combination activities\n- Multi-dataset analysis scenarios\n\nReturn your analysis as a JSON object with this structure:\n{{\n  \"dataset_joins\": [\n    {{\n      \"dataset1\": \"name of first dataset\",\n      \"dataset2\": \"name of second dataset\", \n      \"join_type\": \"merge|join|fusion|integration|combination\",\n      \"confidence_score\": 8.5,\n      \"context\": \"brief description of the join operation\",\n      \"section\": \"methodology|results|discussion\",\n      \"analysis_reasoning\": \"why you identified this as a join\"\n    }}\n  ]\n}}\n\nFocus on high-confidence joins (confidence >= 6.0) and provide specific context for each identification."
+    },
+    {
+      "agent": "DatasetJoinAnalysisAgent",
+      "prompt_name": "methodology_extraction",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/dataset_join_agent.py",
+      "lines": "190-223",
+      "sha256": "8bb02184f6ebcf13bf88b0e3af3c48b87b26179fa44542241ccc4cd87eac2f44",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are an expert in analyzing dataset integration methodologies in research publications.\n\nJoin Context:\n{join_context}\n\nText Content:\n{text_content}\n\nExtract comprehensive methodology details for this dataset join operation. Consider these integration techniques:\n- Key-based joins (using common identifiers like IDs, timestamps, etc.)\n- Fuzzy matching (approximate string matching, similarity algorithms)\n- Record linkage (probabilistic matching, blocking strategies)\n- Statistical integration (data fusion, ensemble methods)\n- SQL joins (INNER, LEFT, RIGHT, OUTER joins)\n- Machine learning approaches (clustering, classification for matching)\n- ETL processes (Extract, Transform, Load)\n\nVERY IMPORTANT: DO NOT USE ANY SPECIAL CHARACTER (*|\"|'...) WITHIN THE JSON OTHER THAN A COMMA OR SEMICOLON.\nVERY IMPORTANT: DO NOT USE ANY SPECIAL CHARACTER (*|\"|'...) WITHIN THE JSON OTHER THAN A COMMA OR SEMICOLON.\n\nReturn as JSON with ALL fields (use null for missing information):\n{{\n  \"methodology\": \"detailed description of how the join was performed, including technical approach and reasoning\",\n  \"join_keys\": [\"primary_key\", \"foreign_key\", \"timestamp\", \"other_identifiers\"],\n  \"software_tools\": [\"pandas\", \"sql\", \"r\", \"spark\", \"other_tools\"],\n  \"programming_language\": \"Python|R|SQL|Java|Scala|other\",\n  \"data_preprocessing_steps\": [\"cleaning\", \"normalization\", \"deduplication\", \"validation\"],\n  \"quality_control_measures\": [\"cross_validation\", \"data_quality_checks\", \"consistency_validation\"],\n  \"integration_approach\": \"key-based|fuzzy_matching|record_linkage|statistical|sql|ml_based|etl|other\",\n  \"join_algorithm\": \"hash_join|nested_loop|merge_join|blocking|similarity_based|other\",\n  \"matching_strategy\": \"exact_match|fuzzy_match|probabilistic|rule_based|ml_based|other\"\n}}"
+    },
+    {
+      "agent": "DatasetJoinAnalysisAgent",
+      "prompt_name": "challenge_documentation",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/dataset_join_agent.py",
+      "lines": "227-295",
+      "sha256": "37e81cd2629c3d1952afd5f5ea349d1885309458bd81289c326e94629b3751cb",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are an expert in analyzing dataset integration challenges and outcomes in research publications.\n\nJoin Context:\n{join_context}\n\nText Content:\n{text_content}\n\nAnalyze and document comprehensive integration challenges and outcomes. Consider these challenge categories:\n- Schema mismatches (different data structures, field naming, data types)\n- Data quality issues (missing values, inconsistencies, duplicates, outliers)\n- Temporal alignment problems (different time periods, timezone issues, sampling rates)\n- Scale challenges (large datasets, memory constraints, performance bottlenecks)\n- Semantic differences (different definitions, units, classifications)\n- Technical limitations (software constraints, computational resources)\n\nVERY IMPORTANT: DO NOT USE ANY SPECIAL CHARACTER (*|\"|'...) WITHIN THE JSON OTHER THAN A COMMA OR SEMICOLON.\nVERY IMPORTANT: DO NOT USE ANY SPECIAL CHARACTER (*|\"|'...) WITHIN THE JSON OTHER THAN A COMMA OR SEMICOLON.\n\nExtract detailed outcome metrics and validation methods. Return as JSON with ALL fields (use null for missing information):\n{{\n  \"integration_challenges\": [\n    {{\n      \"category\": \"schema_mismatch|data_quality|temporal_alignment|scale|semantic|technical|other\",\n      \"description\": \"detailed description of the challenge\",\n      \"severity\": \"low|medium|high|critical\",\n      \"impact\": \"description of how it affected the integration\"\n    }}\n  ],\n  \"success_metrics\": {{\n    \"data_loss_percentage\": \"5%\",\n    \"integration_success_rate\": \"95%\",\n    \"quality_improvement\": \"description of quality improvements achieved\",\n    \"performance_metrics\": \"processing time, memory usage, throughput\",\n    \"before_integration_stats\": {{\n      \"dataset1_records\": \"10000\",\n      \"dataset2_records\": \"8000\",\n      \"data_quality_score\": \"85%\"\n    }},\n    \"after_integration_stats\": {{\n      \"merged_records\": \"17500\",\n      \"data_quality_score\": \"92%\",\n      \"processing_time\": \"2.5 hours\"\n    }},\n    \"cost_benefit_analysis\": \"description of costs vs benefits\"\n  }},\n  \"lessons_learned\": [\n    {{\n      \"category\": \"technical|methodological|organizational|other\",\n      \"lesson\": \"specific lesson learned\",\n      \"recommendation\": \"actionable recommendation for future projects\"\n    }}\n  ],\n  \"validation_methods\": [\n    {{\n      \"method\": \"cross_validation|manual_review|statistical_test|expert_verification|other\",\n      \"description\": \"how the method was applied\",\n      \"results\": \"what was validated and outcomes\"\n    }}\n  ],\n  \"risk_assessment\": {{\n    \"identified_risks\": [\"risk1\", \"risk2\"],\n    \"mitigation_strategies\": [\"strategy1\", \"strategy2\"],\n    \"residual_risks\": [\"remaining risk1\", \"remaining risk2\"]\n  }}\n}}"
+    },
+    {
+      "agent": "TriageAgent",
+      "prompt_name": "triage_classification",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/triage_agent.py",
+      "lines": "75-112",
+      "sha256": "54104d2d7eb05b34f04bc2206a3f2bb12b1cefd0ee94cdf2bf72764235a7648f",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are an expert research paper classifier. Your task is to determine if a paper is a DATA ANALYSIS paper.\n\nCLASSIFICATION CRITERIA:\n\nA DATA ANALYSIS paper is one that:\n1. Performs statistical analysis, modeling, or computational analysis on datasets\n2. Reports quantitative findings from data analysis\n3. Uses data as the primary source of evidence for conclusions\n4. Applies analytical methods to derive insights from data\n5. Presents results from data processing, visualization, or statistical tests\n\nNOT a data analysis paper if it only:\n- Mentions datasets without analyzing them\n- Describes data collection methods without analysis\n- Cites other studies that used data\n- Proposes theoretical frameworks without empirical analysis\n- Reviews literature without original data analysis\n\nPAPER CONTENT:\n{text_content}\n\nCRITICAL INSTRUCTIONS:\n1. Analyze the content carefully for evidence of actual data analysis\n2. Assign a confidence score from 0-10 (10 = definitely data analysis, 0 = definitely not)\n3. Provide clear reasoning in 2-3 sentences explaining your decision\n4. You MUST respond with ONLY valid JSON in this exact format - no additional text:\n\n{{\n  \"is_data_analysis\": true,\n  \"confidence_score\": 8,\n  \"reasoning\": \"The paper presents statistical analysis of survey data with quantitative results and visualizations.\"\n}}\n\nIMPORTANT: Your response must be valid JSON only. Do not include any text before or after the JSON object."
+    },
+    {
+      "agent": "CodeExtractionAgent",
+      "prompt_name": "content_discovery",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/code_extraction_agent.py",
+      "lines": "268-325",
+      "sha256": "44bb26250fe5a0ee5a523c99bd961d29ee3468c9ccf5ec8de442ff585fe57793",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 3000,
+      "prompt_text": "You are an expert at analyzing research papers to find code snippets, GitHub repositories, and external links. Your task is to comprehensively analyze the publication text and discover ALL code-related content and links.\n\nPUBLICATION TEXT:\n{publication_text}\n\nREGEX FINDINGS (for validation):\nGitHub Repositories Found: {found_github_repos}\nExternal Links Found: {found_external_links}\n\nTASKS:\n1. **VALIDATE REGEX FINDINGS**: Review the regex-detected items above. Are they correct? Are any false positives?\n\n2. **COMPREHENSIVE LINK DISCOVERY**: Thoroughly analyze the full text to find ALL links and repositories that regex patterns might have missed:\n   \n   **GitHub Repositories:**\n   - Full URLs: github.com/user/repo, https://github.com/\n   - Partial mentions: \"user/repo\", \"github.com/user/repo\", \"user-name/repo-name\"\n   - Repository references: \"the repository at user/repo\", \"available on GitHub as user/repo\"\n   - Code hosting platforms: GitLab, Bitbucket, SourceForge, etc.\n   \n   **External Links & Data Sources:**\n   - Data repositories: Zenodo, Figshare, Dryad, Harvard Dataverse, ICPSR\n   - Software tools: CRAN, PyPI, Bioconductor, npm, Maven Central\n   - Documentation: ReadTheDocs, Wiki pages, API documentation\n   - Supplementary materials: OSF, GitHub releases, project websites\n   - Research platforms: Kaggle, UCI ML Repository, OpenML\n   - Version control: GitLab, Bitbucket, Gitea, Codeberg\n   \n   **Code References:**\n   - Algorithm implementations mentioned in text\n   - Software packages and libraries\n   - Code snippets in supplementary materials\n   - Scripts and tools referenced\n\n3. **EXTRACT RICH CONTEXT**: For each discovered item, provide:\n   - Exact mention text from the paper\n   - Surrounding context (2-3 sentences)\n   - Confidence level based on clarity of reference\n   - Type/category of the link/repository\n\nFormat your response as JSON:\n{{\n  \"validation\": {{\n    \"github_repos\": [{{\"url\": \"<url>\", \"valid\": true/false, \"reason\": \"<reason>\"}}],\n    \"external_links\": [{{\"url\": \"<url>\", \"valid\": true/false, \"reason\": \"<reason>\"}}]\n  }},\n  \"additional_discoveries\": {{\n    \"github_repos\": [{{\"url\": \"<reconstructed_url>\", \"mention\": \"<original_text>\", \"context\": \"<surrounding_text>\", \"confidence\": <0.0-1.0>}}],\n    \"external_links\": [{{\"url\": \"<url>\", \"mention\": \"<original_text>\", \"context\": \"<surrounding_text>\", \"type\": \"<type>\", \"confidence\": <0.0-1.0>}}]\n  }}\n}}\n\nIMPORTANT: Be thorough and systematic. Look for any mention of code, software, data, or links, even if they appear in footnotes, references, or supplementary material sections. Prioritize finding actual usable links and repositories over general mentions.\n"
+    },
+    {
+      "agent": "CodeExtractionAgent",
+      "prompt_name": "link_analysis",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/code_extraction_agent.py",
+      "lines": "328-363",
+      "sha256": "cf93646fab679dd76ee13793c5bac7d32f91307f46d82c954991ca368364110e",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are an expert at analyzing external links in research papers. Your task is to categorize links and assess their relevance to the research.\n\nLINKS TO ANALYZE:\n{links}\n\nPAPER CONTEXT:\n{paper_context}\n\nLINK CATEGORIES:\n- github: GitHub repositories or code\n- data_repository: Data repositories (Zenodo, Figshare, etc.)\n- documentation: Documentation, tutorials, guides\n- external_tool: Software tools, libraries, APIs\n- academic_resource: Papers, journals, academic databases\n- other: Other types of resources\n\nFor each link, provide:\n1. Category from the list above\n2. Relevance score from 0-10 (10 = highly relevant, 0 = not relevant)\n3. Brief description of what the link provides\n4. Title if available from context\n\nFormat your response as JSON array:\n[\n  {{\n    \"url\": \"<url>\",\n    \"category\": \"<category>\",\n    \"relevance_score\": <0-10>,\n    \"description\": \"<brief description>\",\n    \"title\": \"<title if available>\"\n  }}\n]"
+    },
+    {
+      "agent": "CodeAnalysisLLM",
+      "prompt_name": "comprehensive_code_analysis",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/services/code_analysis_llm.py",
+      "lines": "131-192",
+      "sha256": "cecd5f07cb256f4b5aa3161b45eb6d9d7313c46a62ad9ca32d173655d1098ff8",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are an expert code analyst specializing in academic research publications. Analyze the following code snippets and provide detailed categorization.\n\nPUBLICATION CONTEXT:\n{publication_context}\n\nCODE SNIPPETS TO ANALYZE:\n{code_snippets}\n\nFor each code snippet, provide a comprehensive analysis including:\n\n1. **Programming Language**: Identify the programming language with confidence level (0.0-1.0)\n2. **Purpose**: Categorize the code purpose from these options:\n   - data_analysis: Code for analyzing, processing, or transforming data\n   - visualization: Code for creating plots, charts, or visual representations\n   - preprocessing: Code for cleaning, filtering, or preparing data\n   - modeling: Code for building, training, or evaluating models (ML/statistical)\n   - configuration: Configuration files, settings, or setup code\n   - example: Example or tutorial code demonstrating concepts\n   - utility: Helper functions, utilities, or general-purpose code\n   - testing: Test cases, validation, or debugging code\n   - other: Code that doesn't fit other categories\n\n3. **Implementation Type**: Classify as:\n   - actual_implementation: Real, working implementation code\n   - example_code: Simplified examples or demonstrations\n   - pseudocode: High-level algorithmic descriptions\n   - configuration: Configuration files or settings\n   - command_line: Command-line instructions or shell commands\n   - unknown: Cannot determine the type\n\n4. **Relevance Score**: Rate relevance to the research (0-10, where 10 = highly relevant)\n5. **Description**: Brief description of what the code does\n6. **Key Features**: List main programming concepts/techniques used\n7. **Libraries/Dependencies**: Identify any libraries or frameworks mentioned\n8. **Complexity Level**: Assess as low, medium, or high complexity\n\nFor each classification, provide a confidence score (0.0-1.0) indicating your certainty.\n\nFormat your response as a JSON array:\n[\n  {\n    \"snippet_id\": <id>,\n    \"language\": \"<programming_language>\",\n    \"language_confidence\": <0.0-1.0>,\n    \"purpose\": \"<purpose_category>\",\n    \"purpose_confidence\": <0.0-1.0>,\n    \"implementation_type\": \"<implementation_type>\",\n    \"implementation_confidence\": <0.0-1.0>,\n    \"relevance_score\": <0-10>,\n    \"relevance_confidence\": <0.0-1.0>,\n    \"description\": \"<brief description>\",\n    \"key_features\": [\"<feature1>\", \"<feature2>\"],\n    \"libraries_used\": [\"<lib1>\", \"<lib2>\"],\n    \"complexity_level\": \"<low|medium|high>\"\n  }\n]\n\nBe thorough but concise. Focus on accuracy and provide realistic confidence scores."
+    },
+    {
+      "agent": "CodeAnalysisLLM",
+      "prompt_name": "language_identification",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/services/code_analysis_llm.py",
+      "lines": "195-227",
+      "sha256": "90716ec5ee1273759a7d379ddc95f95ce3f12b9f5a51036f446dc15cea0f6c29",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are a programming language expert. Analyze the following code snippet and identify the programming language with high precision.\n\nCODE SNIPPET:\n{code_snippet}\n\nCONTEXT:\n{context}\n\nConsider:\n- Syntax patterns and keywords\n- Import/include statements\n- Function/method definitions\n- Variable declarations\n- Comments style\n- File extensions or language hints from context\n\nProvide:\n1. Most likely programming language\n2. Confidence level (0.0-1.0)\n3. Alternative possibilities if confidence < 0.9\n4. Key indicators that led to this identification\n\nFormat as JSON:\n{\n  \"primary_language\": \"<language>\",\n  \"confidence\": <0.0-1.0>,\n  \"alternatives\": [{\"language\": \"<lang>\", \"probability\": <0.0-1.0>}],\n  \"indicators\": [\"<indicator1>\", \"<indicator2>\"]\n}"
+    },
+    {
+      "agent": "GitHubRepositoryVerificationAgent",
+      "prompt_name": "repo_alignment_analysis",
+      "source_file": "pub-analysis-agent/src/pub_analysis_agent/agents/github_repo_verification_agent.py",
+      "lines": "113-168",
+      "sha256": "6cfe80d4f0e1bd73c768ad9f2450b019ece5ce2841bd4f5ba9cd7a9c13e41c25",
+      "model": "gpt-oss:120b",
+      "temperature": 0.7,
+      "max_tokens": 4000,
+      "prompt_text": "You are an expert auditor validating whether a GitHub repository matches a research publication.\n\nPUBLICATION CONTEXT (truncated):\n{publication_context}\n\nREPOSITORY INFO:\n- url: {repo_url}\n- owner: {owner}\n- name: {repository}\n- language: {language}\n- stars: {stars}\n\nFILE EXCERPTS (path and first lines; multiple files):\n{file_excerpts}\n\nTask: Assess how well the repository's content aligns with the publication's described methods, data, and objectives.\nConsider dataset names, methods, pipelines, experiments, evaluation, and reproducibility indicators.\n\nSPECIFIC ANALYSIS REQUIREMENTS:\n1. DATA SANITIZATION/FILTERING: Analyze if the code performs any data cleaning, filtering, preprocessing, or sanitization steps on datasets. Look for:\n   - Data validation, cleaning, or preprocessing functions\n   - Missing value handling, outlier removal, data normalization\n   - Data quality checks, filtering conditions, or data transformation steps\n   - Evidence of data preparation pipelines\n\n2. DATASET JOINS/INTEGRATION: If multiple datasets are used, analyze evidence of data integration:\n   - JOIN operations, merge functions, or data combination logic\n   - Key matching, foreign key relationships, or linking strategies\n   - Evidence of combining data from different sources or tables\n   - Data alignment, synchronization, or cross-referencing between datasets\n\nIMPORTANT: For both data sanitization and dataset joins, if you find evidence, extract the actual code snippets (functions, methods, or code blocks) that implement these features. Include the code in the respective fields below.\n\nRespond strictly as JSON object with fields:\n{{\n  \"alignment_score\": <0-10 number>,\n  \"key_signals\": [\"<short bullet>\", ...],\n  \"notes\": \"<concise rationale>\",\n  \"code_description\": \"<brief description of what the analyzed code does, its main functionality and purpose>\",\n  \"data_sanitization\": \"<description of any data cleaning, filtering, or preprocessing found in the code, or 'None detected' if not found>\",\n  \"dataset_joins\": \"<description of any evidence of dataset joins, merges, or data integration, or 'None detected' if not found>\",\n  \"data_sanitization_code\": \"<actual code snippets showing data sanitization implementation, or empty string if none found>\",\n  \"dataset_joins_code\": \"<actual code snippets showing dataset joins implementation, or empty string if none found>\"\n}}"
+    }
+  ],
+  "query_templates": [
+    {
+      "name": "dimensions_dsl_search",
+      "source_file": "dd-metadata-extraction/src/use_cases/process_datasets/dimensions.py",
+      "lines": "85-93",
+      "sha256": "353489fc5965b4b5b0f5e86f4b5fe500bbabf0346676a677f7f679c301dd4b49",
+      "template_text": "search publications\n              in full_data for \"({aliases_query})\"\n              where year >= {start_year} and \n                    year <= {end_year} and\n                    type in [\"article\", \"chapter\", \"proceeding\", \"monograph\", \"preprint\"] and\n                    research_org_countries = \"US\"\n              return publications[basics + journal_lists + concepts_scores + doi + issn + isbn + linkout + dimensions_url + times_cited + abstract + category_for]",
+      "parameters": {
+        "aliases": "OR-joined quoted dataset names and aliases",
+        "flag_terms": "AND-joined quoted contextual terms",
+        "not_in_dataset": "NOT-joined quoted exclusion terms",
+        "start_year": "int (e.g. 2015)",
+        "end_year": "int (e.g. 2025)",
+        "type_filter": "[\"article\", \"chapter\", \"proceeding\", \"monograph\", \"preprint\"]",
+        "affiliation_filter": "US"
+      }
+    },
+    {
+      "name": "openalex_search",
+      "source_file": "dd-metadata-extraction/src/use_cases/process_datasets/openalex.py",
+      "lines": "64-70",
+      "sha256": "64853b0e0b8d0f021636b57051b048d012cca3d6e24795640b9fc0f232ce8a91",
+      "template_text": "query = Works().filter(\n            publication_year=f\"{start_year}-{end_year}\",\n            type='article',\n            default={\"search\": aliases_query},\n            language=\"en\",\n            authorships={\"countries\": \"us\"},\n        )",
+      "parameters": {
+        "aliases_query": "OR-joined quoted dataset names (punctuation stripped)",
+        "flag_terms": "AND-joined quoted contextual terms",
+        "start_year": "int",
+        "end_year": "int",
+        "type": "article",
+        "language": "en",
+        "country_filter": "us"
+      }
+    }
+  ],
+  "model_config": {
+    "default_model": "gpt-oss:120b",
+    "provider": "ollama",
+    "global_temperature": 0.1,
+    "agent_temperature": 0.7,
+    "top_p": 0.9,
+    "request_timeout_seconds": 60,
+    "max_retries": 3,
+    "retry_delay_seconds": 1.0,
+    "per_agent_max_tokens": {
+      "DatasetValidationAgent": 4000,
+      "DatasetDiscoveryAgent": 40000,
+      "DatasetJoinAnalysisAgent_detection": 5000,
+      "DatasetJoinAnalysisAgent_methodology": 4000,
+      "DatasetJoinAnalysisAgent_challenges": 4000,
+      "TriageAgent": 4000,
+      "CodeExtractionAgent_discovery": 3000,
+      "CodeExtractionAgent_link_analysis": 4000,
+      "CodeAnalysisLLM": 4000,
+      "GitHubRepositoryVerificationAgent": 4000
+    },
+    "per_agent_temperature": {
+      "all_agents": 0.7,
+      "note": "All agents override global temperature (0.1) with 0.7 in their config"
+    }
+  }
+}

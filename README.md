@@ -145,6 +145,8 @@ See [`code/data-extraction/README.md`](code/data-extraction/README.md) for detai
 
 An AI-powered pipeline for analyzing full-text scientific publications to extract structured information about dataset usage.
 
+- **[Prompt Versioning](code/llm-analysis/PROMPT_VERSIONING.md)** — Documents all 11 LLM prompt templates and 2 query templates with SHA-256 hashes, model configuration, threshold parameters, and end-to-end workflow mapping. See also [`prompt_versions.json`](code/llm-analysis/prompt_versions.json) for the machine-readable prompt inventory.
+
 **Workflow Steps:**
 1. **TriageAgent** - Classifies if the publication is a data analysis paper
 2. **DatasetValidationAgent** - Validates known datasets mentioned in the text
