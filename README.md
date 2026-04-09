@@ -1,5 +1,7 @@
 # Food Security Usage Data Descriptors
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19478418.svg)](https://doi.org/10.5281/zenodo.19478418)
+
 This repository contains data files and code supporting the article:
 
 **"Usage data descriptors as metadata: the case of food security and the National Data Platform (2015-2025)"**
@@ -224,6 +226,8 @@ Each record documents an instance where multiple datasets are integrated within 
 If using this data or code, please cite:
 
 > Chenarides, L., Ladislau, R., Parashar, M., Hook, D., Porter, S., & Lane, J. (2026). Usage data descriptors as metadata: the case of food security and the National Data Platform (2015-2025). *Nature Scientific Data*.
+
+> Chenarides, L., Ladislau, R., Parashar, M., Hook, D., Porter, S., & Lane, J. Food Security Usage Data Descriptors. *Zenodo*. https://doi.org/10.5281/zenodo.19478418 (2026).
 
 ## License
 
