@@ -1,0 +1,52 @@
+{
+  "title": "Food Security Usage Data Descriptors",
+  "description": "Data files and code supporting the article: 'Usage data descriptors as metadata: the case of food security and the National Data Platform (2015-2025)' published in Nature Scientific Data. The repository contains structured data-usage descriptors linking datasets to publications, citations, authors, institutions, and journals for food security research. It includes three primary CSV files (USDA publication-dataset pairs, additional discovered dataset pairs, and dataset joins), five supporting files (summary tables, data dyads, seed dataset list, additional dataset list, and a data dictionary), dataset-centric JSON-LD descriptors using schema.org vocabulary, and the full source code for the data extraction service and LLM-powered publication analysis pipeline.",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Chenarides, Lauren",
+      "affiliation": "Arizona State University"
+    },
+    {
+      "name": "Ladislau, Rafael",
+      "affiliation": "Renaissance Computing Institute (RENCI), University of North Carolina at Chapel Hill"
+    },
+    {
+      "name": "Parashar, Manish",
+      "affiliation": "University of Utah"
+    },
+    {
+      "name": "Hook, Daniel",
+      "affiliation": "Digital Science"
+    },
+    {
+      "name": "Porter, Simon",
+      "affiliation": "Digital Science"
+    },
+    {
+      "name": "Lane, Julia",
+      "affiliation": "New York University"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "data-usage descriptors",
+    "food security",
+    "dataset discovery",
+    "scientific data reuse",
+    "National Data Platform",
+    "metadata",
+    "LLM validation",
+    "Dimensions database"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/national-data-platform/food-security-usage-descriptors",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "publication_date": "2026-04-09",
+  "access_right": "open"
+}
