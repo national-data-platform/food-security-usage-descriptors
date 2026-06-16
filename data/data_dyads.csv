@@ -1,47 +1,43 @@
 dataset_id,dataset_name,alias,group_name
-32bc1d58-3287-4484-b1e7-8683fcca8ebd,"Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey","Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey","Agricultural and Food Security Data"
-32bc1d58-3287-4484-b1e7-8683fcca8ebd,"Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey","Tenure, ownership, and transition of agricultural land","Agricultural and Food Security Data"
-361359a1-bef3-4379-b1ad-b93032f8fc11,"Household Food Security Survey Module (HFSSM)","Household Food Security Survey Module (HFSSM)","Agricultural and Food Security Data"
-361359a1-bef3-4379-b1ad-b93032f8fc11,"Household Food Security Survey Module (HFSSM)","Household Food Security Survey Module","Agricultural and Food Security Data"
-d7f39af9-347a-48c7-bf48-65f79328c668,"Quarterly Food-at-Home Price Database (QFAHPD)","Quarterly Food-at-Home Price Database (QFAHPD)","Agricultural and Food Security Data"
-d7f39af9-347a-48c7-bf48-65f79328c668,"Quarterly Food-at-Home Price Database (QFAHPD)","Qfahpd","Agricultural and Food Security Data"
-d7f39af9-347a-48c7-bf48-65f79328c668,"Quarterly Food-at-Home Price Database (QFAHPD)","Quarterly Food At Home Price Database","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","NASS Census of Agriculture","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","NASS Census of Agriculture","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","Census of Agriculture","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","USDA Census of Agriculture","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","Agricultural Census","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","USDA Census","Agricultural and Food Security Data"
-6a1f754f-bb09-42ff-a485-9c00e9ebe27d,"NASS Census of Agriculture","AG Census","Agricultural and Food Security Data"
-9c8159cd-47f9-49f6-966e-1f996b977d63,"Food Acquisition and Purchase Survey (FoodAPS)","Food Acquisition and Purchase Survey (FoodAPS)","Agricultural and Food Security Data"
-9c8159cd-47f9-49f6-966e-1f996b977d63,"Food Acquisition and Purchase Survey (FoodAPS)","food acquisition and purchase survey","Agricultural and Food Security Data"
-9c8159cd-47f9-49f6-966e-1f996b977d63,"Food Acquisition and Purchase Survey (FoodAPS)","FoodAPS","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Agricultural Resource Management Survey (ARMS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Agricultural Resource Management Survey (ARMS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","ARMS Farm Financial and Crop Production Practices","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Agricultural Resource Management Survey","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Agricultural Resources Management Survey","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Farm Financial and Crop Production Practices (ERS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Farm Income and Financial Forecast (ERS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Farm Household Income and Characteristics (ERS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Farm Income and Wealth Statistics (ERS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Farm Production Expenditures (NASS)","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Agricultural Resource Management Study","Agricultural and Food Security Data"
-2b53abaf-8d39-4a2c-ac04-980a106e3f59,"Agricultural Resource Management Survey (ARMS)","Agricultural Resources Management Study","Agricultural and Food Security Data"
-0067f96d-1746-4f43-a880-1fdcf41d846b,"Local Food Marketing Practices Survey","Local Food Marketing Practices Survey","Agricultural and Food Security Data"
-0067f96d-1746-4f43-a880-1fdcf41d846b,"Local Food Marketing Practices Survey","local food marketing practices survey","Agricultural and Food Security Data"
-0067f96d-1746-4f43-a880-1fdcf41d846b,"Local Food Marketing Practices Survey","LFMPS","Agricultural and Food Security Data"
-8b4643af-1ecf-4745-93ba-7de3b62f0537,"Food Access Research Atlas (FARA)","Food Access Research Atlas (FARA)","Agricultural and Food Security Data"
-8b4643af-1ecf-4745-93ba-7de3b62f0537,"Food Access Research Atlas (FARA)","Food Access Research Atlas","Agricultural and Food Security Data"
-08eb979a-3db4-43ba-b12a-518254e2cba9,"Current Population Survey Food Security Supplement (CPS-FSS)","Current Population Survey Food Security Supplement (CPS-FSS)","Agricultural and Food Security Data"
-08eb979a-3db4-43ba-b12a-518254e2cba9,"Current Population Survey Food Security Supplement (CPS-FSS)","Current Population Survey Food Security Supplement","Agricultural and Food Security Data"
-08eb979a-3db4-43ba-b12a-518254e2cba9,"Current Population Survey Food Security Supplement (CPS-FSS)","Cps-fss","Agricultural and Food Security Data"
-73881bd0-9cc5-4fce-af16-93844d9e3d52,"Farm to School Census","Farm to School Census","Agricultural and Food Security Data"
-73881bd0-9cc5-4fce-af16-93844d9e3d52,"Farm to School Census","Farm to School Census","Agricultural and Food Security Data"
-7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan","Information Resources, Inc. (IRI) InfoScan","Agricultural and Food Security Data"
-7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan","Information Resources, Inc. (IRI) InfoScan","Agricultural and Food Security Data"
-7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan","Iri Infoscan","Agricultural and Food Security Data"
-3a646c8a-eab3-4951-80ac-831ba3a7b1a9,"Rural-Urban Continuum Codes (RUCC)","Rural-Urban Continuum Codes (RUCC)","Agricultural and Food Security Data"
-3a646c8a-eab3-4951-80ac-831ba3a7b1a9,"Rural-Urban Continuum Codes (RUCC)","RUCC","Agricultural and Food Security Data"
-3a646c8a-eab3-4951-80ac-831ba3a7b1a9,"Rural-Urban Continuum Codes (RUCC)","Rural-Urban Continuum Codes","Agricultural and Food Security Data"
-3a646c8a-eab3-4951-80ac-831ba3a7b1a9,"Rural-Urban Continuum Codes (RUCC)","www.ers.usda.gov/data-products/rural-urban-continuum-codes","Agricultural and Food Security Data"
+6a1f754f-bb09-42ff-a485-9c00e9ebe27d,NASS Census of Agriculture,NASS Census of Agriculture,Agricultural and Food Security Data
+6a1f754f-bb09-42ff-a485-9c00e9ebe27d,NASS Census of Agriculture,Census of Agriculture,Agricultural and Food Security Data
+6a1f754f-bb09-42ff-a485-9c00e9ebe27d,NASS Census of Agriculture,USDA Census of Agriculture,Agricultural and Food Security Data
+6a1f754f-bb09-42ff-a485-9c00e9ebe27d,NASS Census of Agriculture,Agricultural Census,Agricultural and Food Security Data
+6a1f754f-bb09-42ff-a485-9c00e9ebe27d,NASS Census of Agriculture,USDA Census,Agricultural and Food Security Data
+6a1f754f-bb09-42ff-a485-9c00e9ebe27d,NASS Census of Agriculture,AG Census,Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Agricultural Resource Management Survey (ARMS),Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),ARMS Farm Financial and Crop Production Practices,Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Agricultural Resource Management Survey,Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Agricultural Resources Management Survey,Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Farm Financial and Crop Production Practices (ERS),Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Farm Income and Financial Forecast (ERS),Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Farm Household Income and Characteristics (ERS),Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Farm Income and Wealth Statistics (ERS),Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Farm Production Expenditures (NASS),Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Agricultural Resource Management Study,Agricultural and Food Security Data
+2b53abaf-8d39-4a2c-ac04-980a106e3f59,Agricultural Resource Management Survey (ARMS),Agricultural Resources Management Study,Agricultural and Food Security Data
+8b4643af-1ecf-4745-93ba-7de3b62f0537,Food Access Research Atlas (FARA),Food Access Research Atlas (FARA),Agricultural and Food Security Data
+8b4643af-1ecf-4745-93ba-7de3b62f0537,Food Access Research Atlas (FARA),Food Access Research Atlas,Agricultural and Food Security Data
+9c8159cd-47f9-49f6-966e-1f996b977d63,Food Acquisition and Purchase Survey (FoodAPS),Food Acquisition and Purchase Survey (FoodAPS),Agricultural and Food Security Data
+9c8159cd-47f9-49f6-966e-1f996b977d63,Food Acquisition and Purchase Survey (FoodAPS),food acquisition and purchase survey,Agricultural and Food Security Data
+9c8159cd-47f9-49f6-966e-1f996b977d63,Food Acquisition and Purchase Survey (FoodAPS),FoodAPS,Agricultural and Food Security Data
+361359a1-bef3-4379-b1ad-b93032f8fc11,Household Food Security Survey Module (HFSSM),Household Food Security Survey Module (HFSSM),Agricultural and Food Security Data
+361359a1-bef3-4379-b1ad-b93032f8fc11,Household Food Security Survey Module (HFSSM),Household Food Security Survey Module,Agricultural and Food Security Data
+08eb979a-3db4-43ba-b12a-518254e2cba9,Current Population Survey Food Security Supplement (CPS-FSS),Current Population Survey Food Security Supplement (CPS-FSS),Agricultural and Food Security Data
+08eb979a-3db4-43ba-b12a-518254e2cba9,Current Population Survey Food Security Supplement (CPS-FSS),Current Population Survey Food Security Supplement,Agricultural and Food Security Data
+08eb979a-3db4-43ba-b12a-518254e2cba9,Current Population Survey Food Security Supplement (CPS-FSS),Cps-fss,Agricultural and Food Security Data
+73881bd0-9cc5-4fce-af16-93844d9e3d52,Farm to School Census,Farm to School Census,Agricultural and Food Security Data
+7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan","Information Resources, Inc. (IRI) InfoScan",Agricultural and Food Security Data
+7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan",Iri Infoscan,Agricultural and Food Security Data
+7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan",Circana,Agricultural and Food Security Data
+7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan",Circana IRI InfoScan,Agricultural and Food Security Data
+7ba0229d-e906-4a6f-b0ac-a63290f5ee4a,"Information Resources, Inc. (IRI) InfoScan",Circana (formerly IRI) Infoscan,Agricultural and Food Security Data
+0067f96d-1746-4f43-a880-1fdcf41d846b,Local Food Marketing Practices Survey,Local Food Marketing Practices Survey,Agricultural and Food Security Data
+0067f96d-1746-4f43-a880-1fdcf41d846b,Local Food Marketing Practices Survey,local food marketing practices survey,Agricultural and Food Security Data
+0067f96d-1746-4f43-a880-1fdcf41d846b,Local Food Marketing Practices Survey,LFMPS,Agricultural and Food Security Data
+32bc1d58-3287-4484-b1e7-8683fcca8ebd,"Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey","Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey",Agricultural and Food Security Data
+32bc1d58-3287-4484-b1e7-8683fcca8ebd,"Tenure, Ownership, and Transition of Agricultural Land (TOTAL) Survey","Tenure, ownership, and transition of agricultural land",Agricultural and Food Security Data
+3a646c8a-eab3-4951-80ac-831ba3a7b1a9,Rural-Urban Continuum Codes (RUCC),Rural-Urban Continuum Codes (RUCC),Agricultural and Food Security Data
+3a646c8a-eab3-4951-80ac-831ba3a7b1a9,Rural-Urban Continuum Codes (RUCC),RUCC,Agricultural and Food Security Data
+3a646c8a-eab3-4951-80ac-831ba3a7b1a9,Rural-Urban Continuum Codes (RUCC),Rural-Urban Continuum Codes,Agricultural and Food Security Data
+3a646c8a-eab3-4951-80ac-831ba3a7b1a9,Rural-Urban Continuum Codes (RUCC),www.ers.usda.gov/data-products/rural-urban-continuum-codes,Agricultural and Food Security Data

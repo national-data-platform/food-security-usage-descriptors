@@ -4,16 +4,30 @@ fileA,publication_title,String,Full title of the publication
 fileA,publication_doi,String,Digital Object Identifier (DOI) for the publication
 fileA,validated_dataset_id,String,Internal identifier for the validated dataset entity
 fileA,validated_dataset_name,String,Canonical name of the dataset referenced in the publication
-fileA,confidence_score_mention,Float,"Confidence score for dataset mentioned within the publication (0-10 scale)"
-fileA,confidence_score_use,Float,"Confidence score that the dataset was used in the study's analysis rather than only mentioned (0-10 scale)"
-fileA,validation_reasoning,String,Short rationale summarizing how the dataset was validated
-fileC,publication_id,String,Unique identifier assigned to each publication within the Dimensions corpus
-fileC,publication_title,String,Full title of the publication
-fileC,publication_doi,String,Digital Object Identifier (DOI) for the publication
-fileC,join_dataset1,String,Name of the first dataset in the join
-fileC,join_dataset2,String,Name of the second dataset in the join
-fileC,join_join_type,String,"General category of data integration (e.g., integration, linkage, merge)"
-fileC,join_confidence_score,Float,Model-generated confidence score (0-10 scale) for correct identification of a dataset join
-fileC,join_methodology,String,"Description of the procedure used to integrate the datasets, as described in the publication"
-fileC,join_join_keys,Array,"List of key variables used to link datasets (e.g., tract_geoid, firm_id, year)"
-fileC,join_context,String,Narrative summary of how the dataset join contributes to the study's objectives
+fileA,is_mentioned,Boolean,Whether the dataset's name or a recognized alias appears explicitly in the publication text (true/false)
+fileA,is_used,Boolean,Whether the dataset was substantively used in the study's analysis rather than only mentioned (true/false)
+fileA,validation_reasoning,String,Short rationale summarizing the LLM's mention/use classification
+fileB,publication_id,String,Unique identifier assigned to each publication within the Dimensions corpus
+fileB,publication_title,String,Full title of the publication
+fileB,publication_doi,String,Digital Object Identifier (DOI) for the publication
+fileB,new_name,String,Canonicalized name of the newly discovered (additional) dataset
+fileB,new_is_mentioned,Boolean,Whether the additional dataset's name or alias appears explicitly in the publication text (true/false)
+fileB,new_is_used,Boolean,Whether the additional dataset was substantively used in the study's analysis (true/false)
+fileB,new_description,String,Short description of the dataset as inferred from the publication context
+fileB,new_source,String,Organization or agency responsible for producing the dataset
+fileB,new_domain,String,"Thematic or disciplinary domain of the newly identified dataset (e.g., labor statistics, public health)"
+summary_by_dataset_year,dataset_name,String,Canonical name of the named (seed) dataset
+summary_by_dataset_year,publication_year,Integer,Publication year (2015-2025)
+summary_by_dataset_year,publication_count,Integer,"Number of unique publications (DOIs) referencing the dataset in that year, within the food-security concept-filtered corpus"
+data_dyads,dataset_id,String,Internal identifier for the dataset entity
+data_dyads,dataset_name,String,Canonical name of the dataset
+data_dyads,alias,String,"A search term (official title, acronym, or variant) mapped to the dataset for string search"
+data_dyads,group_name,String,Dataset group the dataset belongs to
+usda_seed_datasets,dataset_id,String,Internal identifier for the dataset entity
+usda_seed_datasets,dataset_name,String,Canonical name of the researcher-named (seed) dataset
+usda_seed_datasets,group_name,String,Dataset group (Agricultural and Food Security Data)
+usda_seed_datasets,aliases,String,Semicolon-separated list of search aliases for the dataset
+additional_discovered_datasets,dataset_id,String,Internal identifier for the dataset entity
+additional_discovered_datasets,dataset_name,String,Canonical name of the additional (discovered) dataset
+additional_discovered_datasets,group_name,String,Dataset group (USDA)
+additional_discovered_datasets,aliases,String,Semicolon-separated list of search aliases for the dataset
